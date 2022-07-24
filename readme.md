@@ -13,6 +13,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 语言圣经中文版](#rust-语言圣经中文版)
     - [Rust 程序设计语言中文版](#rust-程序设计语言中文版)
     - [通过例子学 Rust 中文版](#通过例子学-rust-中文版)
+    - [Rust 秘典中文版](#rust-秘典中文版)
+    - [Rust 参考手册 中文版](#rust-参考手册-中文版)
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
   - [Article](#article)
   - [Framework](#framework)
@@ -126,6 +128,8 @@ TODO:
 
 ### 通过例子学 Rust 中文版
 
+![stars](https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/rust-by-example-cn)
+
 > [Rust](https://www.rust-lang.org/) 是一门注重安全（safety）、速度（speed）和并发（concurrency）的现代系统编程语言。Rust 通过内存安全来实现以上目标，但不使用垃圾回收机制（garbage collection, GC）。
 >
 > 《通过例子学 Rust》（Rust By Example, RBE）内容由一系列可运行的实例组成，通过这些例子阐明了各种 Rust 的概念和基本库。想获取这些例子外的更多内容，不要忘了[安装 Rust 到本地](https://www.rust-lang.org/tools/install)并查阅[官方标准库文档](https://rustwiki.org/zh-CN/std/)。另外为了满足您的好奇心，您还可以[查阅本网站的源代码](https://github.com/rust-lang-cn/rust-by-example-cn)。
@@ -133,6 +137,32 @@ TODO:
 在线文档：[简介 - 通过例子学 Rust 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/rust-by-example/)
 
 代码仓库：[rust-lang-cn/rust-by-example-cn: Rust By Example 中文版(包含在线代码编辑器) (github.com)](https://github.com/rust-lang-cn/rust-by-example-cn)
+
+### Rust 秘典中文版
+
+![stars](https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/nomicon-zh-Hans)
+
+> Rust 秘典挖掘了你在编写不安全 Rust 程序时需要了解的所有可怕的细节。
+>
+> 如果你希望在编写 Rust 程序的过程中获得长久而快乐的职业生涯，你应该现在回头，忘记你曾经看过这本书。 它没有必要。 然而，如果你打算编写不安全代码——或者只是想深入了解语言的内涵——这本书包含了很多有用的信息。
+
+在线文档：[介绍 - Rust 秘典（死灵书） (purewhite.io)](https://nomicon.purewhite.io/intro.html)
+
+代码仓库：[rust-lang-cn/nomicon-zh-Hans: Rust 死灵书简体中文翻译 (github.com)](https://github.com/rust-lang-cn/nomicon-zh-Hans)
+
+### Rust 参考手册 中文版
+
+![stars](https://img.shields.io/github/stars/rust-lang-cn/reference-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/reference-cn)
+
+> 本书是 Rust 编程语言的主要参考资料。它提供了三种材料:
+>
+> - 非正式地描述每个语言结构及其使用的章节。
+> - 非正式描述内存模型、并发模型、运行时服务、链接模型和调试设施的章节。
+> - 附录章节提供了影响设计的语言的原理和参考。
+
+在线文档：[简介 - Rust 参考手册 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/reference/)
+
+代码仓库：[rust-lang-cn/reference-cn: Rust 参考手册——Chinese translation of The Rust Reference (github.com)](https://github.com/rust-lang-cn/reference-cn)
 
 ### Rust 标准库手册中文版
 

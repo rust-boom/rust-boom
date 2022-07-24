@@ -46,6 +46,12 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [Rocket](#rocket)
       - [Actix Web](#actix-web)
       - [warp](#warp)
+    - [序列化](#序列化)
+      - [A-JSON](#a-json)
+      - [json-rust](#json-rust)
+      - [pikkr](#pikkr)
+      - [Serde JSON](#serde-json)
+      - [quick-xml](#quick-xml)
     - [数据库](#数据库)
       - [SeaORM](#seaorm)
       - [rbatis](#rbatis)
@@ -57,10 +63,10 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [几何计算](#几何计算)
       - [geo](#geo)
     - [图片处理](#图片处理)
-      - [image](#image)
+      - [image-rs](#image-rs)
     - [系统相关](#系统相关)
       - [screenshots](#screenshots)
-  - [Software](#software)
+  - [Applications](#applications)
     - [GUI](#gui-1)
       - [Lapce](#lapce)
       - [Neovide](#neovide)
@@ -71,6 +77,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [bore](#bore)
       - [cloc-rs](#cloc-rs)
       - [cargo-edit](#cargo-edit)
+    - [Database](#database)
+      - [cnosdb](#cnosdb)
   - [Community](#community)
   - [Incident](#incident)
   - [Note](#note)
@@ -402,6 +410,51 @@ TODO:
 
 代码仓库：[seanmonstar/warp: A super-easy, composable, web server framework for warp speeds. (github.com)](https://github.com/seanmonstar/warp)
 
+### 序列化
+
+#### A-JSON
+
+![stars](https://img.shields.io/github/stars/importcjj/rust-ajson?style=flat) ![GitHub](https://img.shields.io/github/license/importcjj/rust-ajson)
+
+> gjson 的 Rust 移植，通过 dotpath 语法获取 JSON 值。原名为：rust-ajson
+
+代码仓库：[importcjj/rust-ajson: Rust port of gjson，get JSON value by dotpath syntax (github.com)](https://github.com/importcjj/rust-ajson)
+
+#### json-rust
+
+![stars](https://img.shields.io/github/stars/maciejhirsz/json-rust?style=flat) ![GitHub](https://img.shields.io/github/license/maciejhirsz/json-rust)
+
+> 轻松解析和序列化 JSON。
+
+代码仓库：[maciejhirsz/json-rust: JSON implementation in Rust (github.com)](https://github.com/maciejhirsz/json-rust)
+
+#### pikkr
+
+![stars](https://img.shields.io/github/stars/pikkr/pikkr?style=flat) ![GitHub](https://img.shields.io/github/license/pikkr/pikkr)
+
+> JSON 解析器直接获取值而不在 Rust 中执行标记化。
+
+代码仓库：[pikkr/pikkr: JSON parser which picks up values directly without performing tokenization in Rust (github.com)](https://github.com/pikkr/pikkr)
+
+#### Serde JSON
+
+![stars](https://img.shields.io/github/stars/serde-rs/json?style=flat) ![GitHub](https://img.shields.io/github/license/serde-rs/json)
+
+> Serde 是一个用于高效且通用地序列化和反序列化 Rust 数据结构的框架。
+
+代码仓库：[serde-rs/json: Strongly typed JSON library for Rust (github.com)](https://github.com/serde-rs/json)
+
+#### quick-xml
+
+![stars](https://img.shields.io/github/stars/tafia/quick-xml?style=flat) ![GitHub](https://img.shields.io/github/license/tafia/quick-xml)
+
+> 高性能 xml pull reader/writer。
+> 几乎是零拷贝（尽可能使用 Cow）
+> 易于分配内存（API 提供了一种重用缓冲区的方法）
+> 支持各种编码（具有编码功能）、命名空间解析、特殊字符。
+
+代码仓库：[tafia/quick-xml: Rust high performance xml reader and writer (github.com)](https://github.com/tafia/quick-xml)
+
 ### 数据库
 
 #### SeaORM
@@ -500,7 +553,7 @@ TODO:
 
 ### 图片处理
 
-#### image
+#### image-rs
 
 ![stars](https://img.shields.io/github/stars/image-rs/image?style=flat) ![GitHub](https://img.shields.io/github/license/image-rs/image)
 
@@ -519,7 +572,7 @@ TODO:
 
 代码仓库：[nashaofu/screenshots-rs: A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland). (github.com)](https://github.com/nashaofu/screenshots-rs)
 
-## Software
+## Applications
 
 > 用 Rust 编写的一些实用的应用软件。
 
@@ -632,6 +685,16 @@ TODO:
 > - [`cargo set-version`](https://github.com/killercup/cargo-edit#cargo-set-version)
 
 代码仓库：[killercup/cargo-edit: A utility for managing cargo dependencies from the command line. (github.com)](https://github.com/killercup/cargo-edit)
+
+### Database
+
+#### cnosdb
+
+![stars](https://img.shields.io/github/stars/cnosdb/cnosdb?style=flat) ![GitHub](https://img.shields.io/github/license/cnosdb/cnosdb)
+
+> 一个具有高性能、高压缩率和高实用性的开源分布式时间序列数据库。
+
+仓库地址：[cnosdb/README_CN.md at main · cnosdb/cnosdb (github.com)](https://github.com/cnosdb/cnosdb/blob/main/README_CN.md)
 
 ## Community
 

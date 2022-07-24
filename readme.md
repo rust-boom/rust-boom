@@ -1,12 +1,12 @@
 ![img](https://rustacean.net/more-crabby-things/rustdocs.png)
 
-
-
 # Rust Boom 💥
 
-Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些Rust开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
+Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
 
+## TOC
 
+[TOC]
 
 ## Blasting
 
@@ -14,28 +14,25 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 TODO:
 
-
-
 ## Book
 
 > Rust 的书。
 
-### Rust语言圣经中文版
-[![studyrut](https://camo.githubusercontent.com/7049c4a69eba95ba90bbfd186df2ad1e28f53dbeccc35491294aae31bde3266e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52757374436e2545372541342542452545352538432542412d6f72616e6765)[![Stars Count](https://camo.githubusercontent.com/40b1d0c88156f4dc36ef35a7dd900f8e4f16be505fbefcf049ea36df7de83707/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f73756e666163652f727573742d636f757273653f7374796c653d666c6174)](https://github.com/sunface/rust-course/stargazers) [![img](https://camo.githubusercontent.com/90e66c956a5a293f7e01b0a58687c5bb32b72b6cdd00bbde30ab8081039e5664/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722d636c6f7365642d7261772f73756e666163652f727573742d636f757273652e7376673f7374796c653d666c6174)](https://github.com/sunface/rust-course/issues) [![Binder](https://camo.githubusercontent.com/581c077bdbc6ca6899c86d0acc6145ae85e9d80e6f805a1071793dbe48917982/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667)](https://mybinder.org/v2/gh/ines/spacy-course/master)
+### Rust 语言圣经中文版
+
+![studyrut](https://camo.githubusercontent.com/7049c4a69eba95ba90bbfd186df2ad1e28f53dbeccc35491294aae31bde3266e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52757374436e2545372541342542452545352538432542412d6f72616e6765) [![Stars Count](https://camo.githubusercontent.com/40b1d0c88156f4dc36ef35a7dd900f8e4f16be505fbefcf049ea36df7de83707/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f73756e666163652f727573742d636f757273653f7374796c653d666c6174)](https://github.com/sunface/rust-course/stargazers) [![img](https://camo.githubusercontent.com/90e66c956a5a293f7e01b0a58687c5bb32b72b6cdd00bbde30ab8081039e5664/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722d636c6f7365642d7261772f73756e666163652f727573742d636f757273652e7376673f7374796c653d666c6174)](https://github.com/sunface/rust-course/issues) [![Binder](https://camo.githubusercontent.com/581c077bdbc6ca6899c86d0acc6145ae85e9d80e6f805a1071793dbe48917982/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667)](https://mybinder.org/v2/gh/ines/spacy-course/master)
 
 > ![img](https://github.com/sunface/rust-course/blob/main/assets/banner.jpg?raw=true)
 >
 > Rust 语言真的好：连续七年成为全世界最受欢迎的语言、没有 GC 也无需手动内存管理、性能比肩 C++/C 还能直接调用它们的代码、安全性极高 - 总有公司说使用 Rust 后以前的大部分 bug 都将自动消失、全世界最好的包管理工具 Cargo 等等。但...
 
-在线文档：[Rust 语言圣经 - Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
+在线文档：[Rust 语言圣经 - Rust 语言圣经(Rust Course)](https://course.rs/about-book.html)
 
-文档仓库：[sunface/rust-course: “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍 (github.com)](https://github.com/sunface/rust-course)
-
-
+文档仓库：[sunface/rust-course: “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有 JS 程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍 (github.com)](https://github.com/sunface/rust-course)
 
 ### Rust 程序设计语言中文版
 
-> Rust 程序设计语言的本质实际在于 **赋能**（*empowerment*）：无论你现在编写的是何种代码，Rust 能让你在更为广泛的编程领域走得更远，写出自信。（这一点并不显而易见）
+> Rust 程序设计语言的本质实际在于 **赋能**（_empowerment_）：无论你现在编写的是何种代码，Rust 能让你在更为广泛的编程领域走得更远，写出自信。（这一点并不显而易见）
 >
 > 举例来说，那些“系统层面”的工作涉及内存管理、数据表示和并发等底层细节。从传统角度来看，这是一个神秘的编程领域，只为浸润多年的极少数人所触及，也只有他们能避开那些臭名昭著的陷阱。即使谨慎的实践者，亦唯恐代码出现漏洞、崩溃或损坏。
 >
@@ -51,8 +48,6 @@ TODO:
 
 在线文档：[Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言)
 
-
-
 ### 通过例子学 Rust 中文版
 
 > [Rust](https://www.rust-lang.org/) 是一门注重安全（safety）、速度（speed）和并发（concurrency）的现代系统编程语言。Rust 通过内存安全来实现以上目标，但不使用垃圾回收机制（garbage collection, GC）。
@@ -63,8 +58,6 @@ TODO:
 
 代码仓库：[rust-lang-cn/rust-by-example-cn: Rust By Example 中文版(包含在线代码编辑器) (github.com)](https://github.com/rust-lang-cn/rust-by-example-cn)
 
-
-
 ### Rust 标准库手册中文版
 
 > Rust 标准库是可移植 Rust 软件的基础，这是一组针对 [更广泛的 Rust 生态系统](https://crates.io/) 的最小且经过实战测试的共享抽象。 它提供了核心类型，例如 [`Vec`](https://rustwiki.org/zh-CN/std/vec/struct.Vec.html) 和 [`Option`](https://rustwiki.org/zh-CN/std/option/enum.Option.html)，库定义的对 [语言原语](https://rustwiki.org/zh-CN/std/#primitives) 的操作，[标准库宏](https://rustwiki.org/zh-CN/std/#macros)，[I/O](https://rustwiki.org/zh-CN/std/io/index.html) 和 [多线程](https://rustwiki.org/zh-CN/std/thread/index.html)，以及许多 [其他](https://rustwiki.org/zh-CN/std/#what-is-in-the-standard-library-documentation) 东西。
@@ -73,16 +66,12 @@ TODO:
 
 在线文档：[std - Rust (rustwiki.org)](https://rustwiki.org/zh-CN/std/)
 
-
-
 ## Article
 
 > 收集一些 Rust 比较好的文章内容。
 
-- [rust语言基础学习: rust所有权之Move和Copy语义 - 架构小白|青蛙小白|关注程序开发、互联网技术、云原生 (frognew.com)](https://blog.frognew.com/2020/07/rust-ownership-move-and-copy.html)
+- [rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白|青蛙小白|关注程序开发、互联网技术、云原生 (frognew.com)](https://blog.frognew.com/2020/07/rust-ownership-move-and-copy.html)
 - [Top 23 Rust GUI Projects (Jul 2022) (libhunt.com)](https://www.libhunt.com/l/rust/topic/gui)
-
-
 
 ## Framework
 
@@ -94,10 +83,9 @@ TODO:
 
 ![stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat) ![GitHub](https://img.shields.io/github/license/tauri-apps/tauri)
 
-> Tauri是一个为所有主要桌面平台构建微小、速度极快的二进制文件的框架。开发人员可以集成任何编译为HTML、JS和CSS的前端框架，以构建其用户界面。应用程序的后端是一个Rust的二进制文件，前端可以与之交互。
+> Tauri 是一个为所有主要桌面平台构建微小、速度极快的二进制文件的框架。开发人员可以集成任何编译为 HTML、JS 和 CSS 的前端框架，以构建其用户界面。应用程序的后端是一个 Rust 的二进制文件，前端可以与之交互。
 >
-> Tauri应用程序中的用户界面目前将tao用作macOS和Windows上的窗口处理库，并通过Tauri团队孵化和维护WRY在Linux上使用gtk，该团队利用macOS上的WebKit、Windows上的WebView2和Linux上的WebKitGTK，为系统webview（以及菜单和任务栏等其他好东西）创建了统一的界面。
->
+> Tauri 应用程序中的用户界面目前将 tao 用作 macOS 和 Windows 上的窗口处理库，并通过 Tauri 团队孵化和维护 WRY 在 Linux 上使用 gtk，该团队利用 macOS 上的 WebKit、Windows 上的 WebView2 和 Linux 上的 WebKitGTK，为系统 webview（以及菜单和任务栏等其他好东西）创建了统一的界面。
 
 代码仓库：[tauri-apps/tauri: Build smaller, faster, and more secure desktop applications with a web frontend. (github.com)](https://github.com/tauri-apps/tauri)
 
@@ -107,9 +95,9 @@ TODO:
 
 ![stars](https://img.shields.io/github/stars/emilk/egui?style=flat) ![GitHub](https://img.shields.io/github/license/emilk/egui)
 
-> egui 是一个简单、快速、高度可移植的 Rust 即时模式 GUI 库。egui 可运行于 Web, 原生（*Native*） 甚至 [你喜欢的的游戏引擎](https://github.com/Re-Ch-Love/egui-doc-cn/blob/main/README_zh-hans.md#integrations) （即将到来）。
+> egui 是一个简单、快速、高度可移植的 Rust 即时模式 GUI 库。egui 可运行于 Web, 原生（_Native_） 甚至 [你喜欢的的游戏引擎](https://github.com/Re-Ch-Love/egui-doc-cn/blob/main/README_zh-hans.md#integrations) （即将到来）。
 >
-> egui 旨在成为最易用的 Rust GUI 库，用最简单的方式创建Web应用程序。
+> egui 旨在成为最易用的 Rust GUI 库，用最简单的方式创建 Web 应用程序。
 >
 > egui 可以在任何可以绘制纹理三角形（textured triangles）的地方使用，这意味着你可以轻松地地将它集成到你选择的游戏引擎中。
 
@@ -132,7 +120,7 @@ TODO:
 
 ![stars](https://img.shields.io/github/stars/iced-rs/iced?style=flat) ![GitHub](https://img.shields.io/github/license/iced-rs/iced)
 
-> Rust 的跨平台 GUI 库，专注于简单性和类型安全。灵感来自Elm。
+> Rust 的跨平台 GUI 库，专注于简单性和类型安全。灵感来自 Elm。
 
 代码仓库：[iced-rs/iced: A cross-platform GUI library for Rust, inspired by Elm (github.com)](https://github.com/iced-rs/iced)
 
@@ -147,8 +135,6 @@ TODO:
 
 代码仓库：[linebender/druid: A data-first Rust-native UI design toolkit. (github.com)](https://github.com/linebender/druid)
 
-
-
 ### TUI
 
 #### tui-rs
@@ -161,33 +147,27 @@ TODO:
 
 代码仓库：[fdehau/tui-rs: Build terminal user interfaces and dashboards using Rust (github.com)](https://github.com/fdehau/tui-rs)
 
-
-
 ### 游戏开发
 
 #### Bevy
 
 ![stars](https://img.shields.io/github/stars/bevyengine/bevy?style=flat)[![Crates.io](https://camo.githubusercontent.com/fe403c1f013640f6a78617b79155ed3df66042f74918ef4305d7154b7c4d424b/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f626576792e737667)](https://crates.io/crates/bevy) [![MIT/Apache 2.0](https://camo.githubusercontent.com/a927c5826a9c362ad9778573df3f91dafa35a99f15db09e407c8edb1e1424280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542532464170616368652d626c75652e737667)](https://github.com/bevyengine/bevy/blob/main/LICENSE) [![Crates.io](https://camo.githubusercontent.com/c394677215ba5d5b4291703a798a74f3211789e83e6fcffce11c1ef4150f3c19/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f642f626576792e737667)](https://crates.io/crates/bevy) [![Rust](https://github.com/bevyengine/bevy/workflows/CI/badge.svg)](https://github.com/bevyengine/bevy/actions) [![iOS cron CI](https://github.com/bevyengine/bevy/workflows/iOS%20cron%20CI/badge.svg)](https://github.com/bevyengine/bevy/workflows/iOS cron CI/badge.svg) [![Discord](https://camo.githubusercontent.com/af9f050b14de7da58365e64b51287b05f65a2124f152778e3ad5d18b4258fe57/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3639313035323433313532353637353034382e7376673f6c6162656c3d266c6f676f3d646973636f7264266c6f676f436f6c6f723d66666666666626636f6c6f723d373338394438266c6162656c436f6c6f723d364137454332)](https://discord.gg/bevy)
 
-> Bevy是Rust内置的令人耳目一新的简单数据驱动游戏引擎。它永远是免费和开源的！
+> Bevy 是 Rust 内置的令人耳目一新的简单数据驱动游戏引擎。它永远是免费和开源的！
 
 代码仓库：[bevyengine/bevy: A refreshingly simple data-driven game engine built in Rust (github.com)](https://github.com/bevyengine/bevy)
-
-
 
 ### 异步运行时
 
 #### Tokio
 
- ![stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat) ![GitHub](https://img.shields.io/github/license/rustdesk/rustdesk)
+![stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat) ![GitHub](https://img.shields.io/github/license/rustdesk/rustdesk)
 
 > Tokio 是 Rust 编程语言的异步运行时。它提供了编写网络应用程序所需的构建块。它提供了针对广泛系统的灵活性，从具有数十个内核的大型服务器到小型嵌入式设备。
 
 代码仓库：[tokio-rs/tokio: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (github.com)](https://github.com/tokio-rs/tokio)
 
 在线网站：[Tokio - An asynchronous Rust runtime](https://tokio.rs/)
-
-
 
 ### 前端相关
 
@@ -223,7 +203,7 @@ TODO:
 
 ![stars](https://img.shields.io/github/stars/parcel-bundler/parcel?style=flat) ![GitHub](https://img.shields.io/github/license/parcel-bundler/parcel)
 
-> Parcel是用于web的零配置构建工具。它将优秀的开箱即用的开发经验与可扩展的体系结构结合在一起，可以将您的项目从刚开始的阶段转变为大规模的生产应用程序。
+> Parcel 是用于 web 的零配置构建工具。它将优秀的开箱即用的开发经验与可扩展的体系结构结合在一起，可以将您的项目从刚开始的阶段转变为大规模的生产应用程序。
 
 代码仓库：[parcel-bundler/parcel: The zero configuration build tool for the web. 📦🚀 (github.com)](https://github.com/parcel-bundler/parcel)
 
@@ -249,23 +229,21 @@ TODO:
 
 代码仓库：[napi-rs/napi-rs: A framework for building compiled Node.js add-ons in Rust via Node-API (github.com)](https://github.com/napi-rs/napi-rs)
 
-
-
 ### WebAssembly
 
 #### wasmtime
 
 ![stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=flat) ![GitHub](https://img.shields.io/github/license/bytecodealliance/wasmtime)
 
-> WebAssembly的运行时
+> WebAssembly 的运行时
 
 代码仓库：[bytecodealliance/wasmtime: A standalone runtime for WebAssembly (github.com)](https://github.com/bytecodealliance/wasmtime)
 
 #### wasmer
 
- ![stars](https://img.shields.io/github/stars/wasmerio/wasmer?style=flat) ![GitHub](https://img.shields.io/github/license/wasmerio/wasmer)
+![stars](https://img.shields.io/github/stars/wasmerio/wasmer?style=flat) ![GitHub](https://img.shields.io/github/license/wasmerio/wasmer)
 
-> WebAssembly又一个运行时
+> WebAssembly 又一个运行时
 
 代码仓库：[wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten (github.com)](https://github.com/wasmerio/wasmer)
 
@@ -273,7 +251,7 @@ TODO:
 
 ![stars](https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=flat) ![GitHub](https://img.shields.io/github/license/WasmEdge/WasmEdge)
 
-> WebAssembly又又一个运行时
+> WebAssembly 又又一个运行时
 >
 > WasmEdge 是一个轻量级、高性能和可扩展的 WebAssembly 运行时，适用于云原生、边缘和去中心化应用程序。它为无服务器应用程序、嵌入式功能、微服务、智能合约和物联网设备提供支持。
 
@@ -283,13 +261,11 @@ TODO:
 
 ![stars](https://img.shields.io/github/stars/WebAssembly/WASI?style=flat) [![DOI](https://camo.githubusercontent.com/968b57157bc1ae57a965f38fa2fd266cc458f510dc81413e4482d8c8484bf054/68747470733a2f2f7a656e6f646f2e6f72672f62616467652f444f492f31302e353238312f7a656e6f646f2e343332333434372e737667)](https://doi.org/10.5281/zenodo.4323447)
 
-> 为WebAssembly提供内部调用接口的库
+> 为 WebAssembly 提供内部调用接口的库
 >
 > WASI 不是一个单一的标准系统接口，而是标准化 API 的模块化集合。不需要实现任何 API 即可具有兼容的运行时。相反，主机环境可以选择哪些 API 对其用例有意义。
 
 代码仓库：[WebAssembly/WASI: WebAssembly System Interface (github.com)](https://github.com/WebAssembly/WASI)
-
-
 
 ### 网络
 
@@ -297,12 +273,10 @@ TODO:
 
 ![stars](https://img.shields.io/github/stars/libp2p/rust-libp2p?style=flat) ![GitHub](https://img.shields.io/github/license/libp2p/rust-libp2p)
 
-> 构建p2p网络的包
+> 构建 p2p 网络的包
 > 运行您的网络应用程序，不受运行时和地址服务的影响，与它们的位置无关。
 
 代码仓库：[libp2p/rust-libp2p: The Rust Implementation of the libp2p networking stack. (github.com)](https://github.com/libp2p/rust-libp2p)
-
-
 
 ### 服务端
 
@@ -360,8 +334,6 @@ TODO:
 
 代码仓库：[seanmonstar/warp: A super-easy, composable, web server framework for warp speeds. (github.com)](https://github.com/seanmonstar/warp)
 
-
-
 ### 数据库
 
 #### SeaORM
@@ -384,9 +356,9 @@ TODO:
 
 > 受 Mybatis 和 MybatisPlus 启发，用 Rust 编写的高性能、安全、动态 SQL（编译时）ORM 框架。
 >
-> - \- 编译时动态sql（mybatis动态sql标签）、全异步(Future)、生产实践([abs_admin](https://github.com/rbatis/abs_admin))、
-> - \- 内存安全，协程安全，事务安全(防忘提交)，百分百safe代码
-> - \- 多种插件，分页/逻辑删除/sql拦截器/CRUD/Wrapper/PySQL/HtmlSQL
+> - \- 编译时动态 sql（mybatis 动态 sql 标签）、全异步(Future)、生产实践([abs_admin](https://github.com/rbatis/abs_admin))、
+> - \- 内存安全，协程安全，事务安全(防忘提交)，百分百 safe 代码
+> - \- 多种插件，分页/逻辑删除/sql 拦截器/CRUD/Wrapper/PySQL/HtmlSQL
 >
 > 支持数据库：
 >
@@ -424,13 +396,11 @@ TODO:
 
 #### redis-rs
 
-  ![stars](https://img.shields.io/github/stars/redis-rs/redis-rs?style=flat)![GitHub](https://img.shields.io/github/license/redis-rs/redis-rs)
+![stars](https://img.shields.io/github/stars/redis-rs/redis-rs?style=flat)![GitHub](https://img.shields.io/github/license/redis-rs/redis-rs)
 
 > Redis-rs 是 Rust 的高级 redis 库。它通过非常灵活但低级的 API 提供对所有 Redis 功能的便捷访问。它使用可自定义的类型转换特征，因此任何操作都可以返回您期望的类型的结果。这带来了非常愉快的开发体验。
 
 代码仓库：[redis-rs/redis-rs: Redis library for rust (github.com)](https://github.com/redis-rs/redis-rs)
-
-
 
 ### 单元测试
 
@@ -438,11 +408,9 @@ TODO:
 
 ![stars](https://img.shields.io/github/stars/asomers/mockall?style=flat) ![GitHub](https://img.shields.io/github/license/asomers/mockall)
 
-> 适用于Rust的强大模拟对象库。
+> 适用于 Rust 的强大模拟对象库。
 
 代码仓库：[asomers/mockall: A powerful mock object library for Rust (github.com)](https://github.com/asomers/mockall)
-
-
 
 ### 几何计算
 
@@ -458,11 +426,9 @@ TODO:
 > - 交叉口检查
 > - 仿射变换，例如旋转和平移。
 >
-> ⚠️：如果需要计算距离所有的坐标使用f64，这是小编踩过的坑.
+> ⚠️：如果需要计算距离所有的坐标使用 f64，这是小编踩过的坑.
 
 代码仓库：[georust/geo: Geospatial primitives and algorithms for Rust (github.com)](https://github.com/georust/geo)
-
-
 
 ### 图片处理
 
@@ -475,8 +441,6 @@ TODO:
 
 代码仓库：[image-rs/image: Encoding and decoding images in Rust (github.com)](https://github.com/image-rs/image)
 
-
-
 ### 系统相关
 
 #### screenshots
@@ -486,8 +450,6 @@ TODO:
 > 适用于 MacOS、Windows、Linux(X11、wayland) 的跨平台截图库。
 
 代码仓库：[nashaofu/screenshots-rs: A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland). (github.com)](https://github.com/nashaofu/screenshots-rs)
-
-
 
 ## Software
 
@@ -499,11 +461,11 @@ TODO:
 
 [![img](https://github.com/lapce/lapce/actions/workflows/ci.yml/badge.svg) ](https://github.com/lapce/lapce/actions/workflows/ci.yml)[![img](https://camo.githubusercontent.com/f4b65e11e9240c0224ac350bc93a84300c0049071ee0fea60e45a00afda9f40e/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3934363835383736313431333332383934363f6c6f676f3d646973636f7264) ](https://discord.gg/n8tGJ6Rn6D)[![img](https://camo.githubusercontent.com/1d50a7d67f2889e6cfd13dff89a4ef5242a986ec1b4a497be75a5c3675db95be/68747470733a2f2f696d672e736869656c64732e696f2f6d61747269782f6c617063652d656469746f723a6d61747269782e6f72673f636f6c6f723d74757271756f697365266c6f676f3d4d6174726978) ](https://matrix.to/#/#lapce-editor:matrix.org)[![Lapce Docs](https://camo.githubusercontent.com/a5442559b3a0b6a569e7834d6d55dee097e45609104462b82c96aa5bb5f94bf9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d446f6373266d6573736167653d646f63732e6c617063652e64657626636f6c6f723d626c7565)](https://docs.lapce.dev/)
 
-> Lapce是用纯Rust编写的，用户界面是Druid（也是用Rust编写）。它是用Xi-Editor的Rope Science设计的，使得计算速度快如闪电，并利用OpenGL进行渲染。关于Lapce功能的更多信息可以在主网站上找到，用户文档可以在GitBook上找到。
+> Lapce 是用纯 Rust 编写的，用户界面是 Druid（也是用 Rust 编写）。它是用 Xi-Editor 的 Rope Science 设计的，使得计算速度快如闪电，并利用 OpenGL 进行渲染。关于 Lapce 功能的更多信息可以在主网站上找到，用户文档可以在 GitBook 上找到。
 >
 > ![image-20220723211542645](readme.assets/image-20220723211542645.png)
 
-一个有点像是VSCode的编辑器。
+一个有点像是 VSCode 的编辑器。
 
 代码仓库：[lapce/lapce: Lightning-fast and Powerful Code Editor written in Rust (github.com)](https://github.com/lapce/lapce)
 
@@ -511,7 +473,7 @@ TODO:
 
 [![Discord](https://camo.githubusercontent.com/8c289bc2e543bede952e249c23fb8e5a641878a4921bd5cf93a535ec78d4e4c6/68747470733a2f2f62616467656e2e6e65742f62616467652f69636f6e2f646973636f72643f69636f6e3d646973636f7264266c6162656c)](https://discord.gg/SjFpZdQys6) [![Chat on Matrix](https://camo.githubusercontent.com/49267a500b35c3df117c7227b1d812e62c1460715894622a385e2477b103d28f/68747470733a2f2f6d61747269782e746f2f696d672f6d61747269782d62616467652e737667)](https://matrix.to/#/#neovide_community:gitter.im) [![Discussions](https://camo.githubusercontent.com/e406a82ccda7bcf2a0fcef447975af40b3eeaa28255fd2a5dac02c3f0def5e86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d44697363757373696f6e732d677265656e3f6c6f676f3d676974687562)](https://github.com/neovide/neovide/discussions)
 
-> 这是Neovim（一个经过积极重构和更新的Vim编辑器）的简单图形用户界面。在可能的情况下，有一些图形改进，但在功能上，它应该像终端用户界面一样。
+> 这是 Neovim（一个经过积极重构和更新的 Vim 编辑器）的简单图形用户界面。在可能的情况下，有一些图形改进，但在功能上，它应该像终端用户界面一样。
 >
 > [![Basic Screen Cap](https://github.com/neovide/neovide/raw/main/assets/BasicScreenCap.png)](https://github.com/neovide/neovide/blob/main/assets/BasicScreenCap.png)
 
@@ -527,21 +489,17 @@ TODO:
 
 仓库链接：[rustdesk/rustdesk：为每个人提供开源虚拟/远程桌面基础架构！开源的 TeamViewer 替代方案。显示和控制您的 PC 和安卓设备。 (github.com)](https://github.com/rustdesk/rustdesk)
 
-
-
 ### TUI
 
 #### GitUI
 
- ![stars](https://img.shields.io/github/stars/extrawurst/gitui?style=flat) ![GitHub](https://img.shields.io/github/license/extrawurst/gitui)
+![stars](https://img.shields.io/github/stars/extrawurst/gitui?style=flat) ![GitHub](https://img.shields.io/github/license/extrawurst/gitui)
 
-> GitUI为您提供了git GUI的舒适性，但就在您的终端上.
+> GitUI 为您提供了 git GUI 的舒适性，但就在您的终端上.
 >
 > [![img](https://github.com/extrawurst/gitui/raw/master/demo.gif)](https://github.com/extrawurst/gitui/blob/master/demo.gif)
 
 代码仓库：[extrawurst/gitui: Blazing 💥 fast terminal-ui for git written in rust 🦀 (github.com)](https://github.com/extrawurst/gitui)
-
-
 
 ### CLI
 
@@ -607,17 +565,13 @@ TODO:
 
 代码仓库：[killercup/cargo-edit: A utility for managing cargo dependencies from the command line. (github.com)](https://github.com/killercup/cargo-edit)
 
-
-
 ## Community
 
 > Rust 相关的社区。
 
-- [Rust语言中文社区-首页 (rustcc.cn)](https://rustcc.cn/)
+- [Rust 语言中文社区-首页 (rustcc.cn)](https://rustcc.cn/)
 - [Rust 技术论坛 | Rust 语言技术论坛 - 优质的 Rust 开发者学习社区 (learnku.com)](https://learnku.com/rust)
 - [The Rust Programming Language Forum (rust-lang.org)](https://users.rust-lang.org/)
-
-
 
 ## Incident
 
@@ -625,21 +579,17 @@ TODO:
 
 - 2022-07-03 [Linux 内核将引入 Rust，Linus：以防此事搞砸了我又发脾气，先给大家道个歉-51CTO.COM](https://os.51cto.com/article/713004.html)
 
-
-
-
-
 ## Note
 
 封面图来自：[Rustacean.net: Home of Ferris the Crab](https://rustacean.net/)
 
 徽章来自：[Shields.io: Quality metadata badges for open source projects](https://shields.io/category/license)
 
-如果你有自己用 Rust 开发的软件或者推荐的资源都可以提交 PR，在这里感谢所有为Rust生态贡献的开发者，因为只有越来越丰富的生态才能吸引更多的人来学习使用 Rust。
+如果你有自己用 Rust 开发的软件或者推荐的资源都可以提交 PR，在这里感谢所有为 Rust 生态贡献的开发者，因为只有越来越丰富的生态才能吸引更多的人来学习使用 Rust。
 
-最后希望Rust越来越牛X。
+最后希望 Rust 越来越牛 X。
 
-如果文档有用请帮帮忙点一下star，收集整理不易。
+如果文档有用请帮帮忙点一下 star，收集整理不易。
 
 ## License
 

@@ -13,8 +13,12 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 语言圣经中文版](#rust-语言圣经中文版)
     - [Rust 程序设计语言中文版](#rust-程序设计语言中文版)
     - [通过例子学 Rust 中文版](#通过例子学-rust-中文版)
+    - [RustPrimer](#rustprimer)
     - [Rust 秘典中文版](#rust-秘典中文版)
     - [Rust 参考手册 中文版](#rust-参考手册-中文版)
+    - [Rust Cookbook 中文版](#rust-cookbook-中文版)
+    - [Rusty Book( 锈书 )](#rusty-book-锈书-)
+    - [Rust 版本指南](#rust-版本指南)
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
   - [Article](#article)
   - [Framework](#framework)
@@ -98,7 +102,7 @@ TODO:
 
 ### Rust 语言圣经中文版
 
-![studyrut](https://camo.githubusercontent.com/7049c4a69eba95ba90bbfd186df2ad1e28f53dbeccc35491294aae31bde3266e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52757374436e2545372541342542452545352538432542412d6f72616e6765) [![Stars Count](https://camo.githubusercontent.com/40b1d0c88156f4dc36ef35a7dd900f8e4f16be505fbefcf049ea36df7de83707/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f73756e666163652f727573742d636f757273653f7374796c653d666c6174)](https://github.com/sunface/rust-course/stargazers) [![img](https://camo.githubusercontent.com/90e66c956a5a293f7e01b0a58687c5bb32b72b6cdd00bbde30ab8081039e5664/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722d636c6f7365642d7261772f73756e666163652f727573742d636f757273652e7376673f7374796c653d666c6174)](https://github.com/sunface/rust-course/issues) [![Binder](https://camo.githubusercontent.com/581c077bdbc6ca6899c86d0acc6145ae85e9d80e6f805a1071793dbe48917982/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667)](https://mybinder.org/v2/gh/ines/spacy-course/master)
+![stars](https://img.shields.io/github/stars/sunface/rust-course?style=flat) ![GitHub](https://img.shields.io/github/license/sunface/rust-course)
 
 > ![img](https://github.com/sunface/rust-course/blob/main/assets/banner.jpg?raw=true)
 >
@@ -136,7 +140,17 @@ TODO:
 
 在线文档：[简介 - 通过例子学 Rust 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/rust-by-example/)
 
-代码仓库：[rust-lang-cn/rust-by-example-cn: Rust By Example 中文版(包含在线代码编辑器) (github.com)](https://github.com/rust-lang-cn/rust-by-example-cn)
+文档仓库：[rust-lang-cn/rust-by-example-cn: Rust By Example 中文版(包含在线代码编辑器) (github.com)](https://github.com/rust-lang-cn/rust-by-example-cn)
+
+### RustPrimer
+
+![stars](https://img.shields.io/github/stars/rustcc/RustPrimer?style=flat) ![GitHub](https://img.shields.io/github/license/rustcc/RustPrimer)
+
+> 给初学者的 Rust 中文教程。
+
+在线文档：[Introduction · RustPrimer (gitbooks.io)](https://rustcc.gitbooks.io/rustprimer/content/)
+
+文档仓库：[rustcc/RustPrimer: The Rust primer for beginners. We need native English speaker help us modify the translation. (github.com)](https://github.com/rustcc/RustPrimer)
 
 ### Rust 秘典中文版
 
@@ -148,7 +162,7 @@ TODO:
 
 在线文档：[介绍 - Rust 秘典（死灵书） (purewhite.io)](https://nomicon.purewhite.io/intro.html)
 
-代码仓库：[rust-lang-cn/nomicon-zh-Hans: Rust 死灵书简体中文翻译 (github.com)](https://github.com/rust-lang-cn/nomicon-zh-Hans)
+文档仓库：[rust-lang-cn/nomicon-zh-Hans: Rust 死灵书简体中文翻译 (github.com)](https://github.com/rust-lang-cn/nomicon-zh-Hans)
 
 ### Rust 参考手册 中文版
 
@@ -162,7 +176,45 @@ TODO:
 
 在线文档：[简介 - Rust 参考手册 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/reference/)
 
-代码仓库：[rust-lang-cn/reference-cn: Rust 参考手册——Chinese translation of The Rust Reference (github.com)](https://github.com/rust-lang-cn/reference-cn)
+文档仓库：[rust-lang-cn/reference-cn: Rust 参考手册——Chinese translation of The Rust Reference (github.com)](https://github.com/rust-lang-cn/reference-cn)
+
+### Rust Cookbook 中文版
+
+![stars](https://img.shields.io/github/stars/rust-lang-cn/rust-cookbook-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/rust-cookbook-cn)
+
+> 《Rust Cookbook 中文版》是 Rust 程序设计语言（[Rust 官方教程简体中文版](https://rustwiki.org/zh-CN/book)）的简要实例示例集合：展示了在 Rust 生态系统中，使用各类 crate 来完成常见编程任务的良好实践。
+
+在线文档：[总览 - Rust Cookbook 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/rust-cookbook/)
+
+文档仓库：[rust-lang-cn/rust-cookbook-cn: Rust Cookbook 中文版——Chinese translation of The Rust Cookbook (github.com)](https://github.com/rust-lang-cn/rust-cookbook-cn)
+
+### Rusty Book( 锈书 )
+
+![stars](https://img.shields.io/github/stars/rustlang-cn/rusty-book?style=flat) ![GitHub](https://img.shields.io/github/license/rustlang-cn/rusty-book)
+
+> 在 Rust 元宇宙，夸奖别人的最高境界就是 `rusty`: 今天你"锈"了吗? 你的 Rust 代码好锈啊！而本书，就是精选了各种开源库和代码片段，帮助大家打造优"锈"的 Rust 项目。
+>
+> 总之，如果有以下需求，那看锈书就对了：
+>
+> - 想要知道现在优秀的、关注度高的 Rust 项目有哪些
+> - 发现一些好玩、有趣、酷炫的开源库
+> - 需要寻找某个类型的库，例如，一个 HTTP 客户端或 ProtoBuffer 编码库，要求是好用、更新活跃、高质量
+> - 想要寻找常用操作的代码片段，用于熟悉 Rust 或者直接复制粘贴到自己的项目中，例如文件操作、数据库操作、HTTP 请求、排序算法、正则等
+
+在线文档：[Rusty Book - Rusty Book(锈书)](https://rusty.rs/about.html)
+
+文档仓库：[rustlang-cn/rusty-book: A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！ (github.com)](https://github.com/rustlang-cn/rusty-book)
+
+### Rust 版本指南
+
+![stars](https://img.shields.io/github/stars/rust-lang/edition-guide?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/edition-guide)
+
+> 这个文档有中文版，但是我更建议看英文版，中文版更新不是很及时。
+> 这本书解释了“版本”的概念，即 Rust 开发的主要新时代。你可以在线阅读这本书。
+
+在线文档：[Introduction - The Edition Guide (rustwiki.org)](https://rustwiki.org/en/edition-guide/)
+
+文档仓库：[rust-lang/edition-guide: A guide to changes between various editions of Rust (github.com)](https://github.com/rust-lang/edition-guide)
 
 ### Rust 标准库手册中文版
 

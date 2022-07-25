@@ -70,6 +70,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [geo](#geo)
     - [图片处理](#图片处理)
       - [image-rs](#image-rs)
+    - [自动化](#自动化)
+      - [headless_chrome](#headless_chrome)
     - [系统相关](#系统相关)
       - [screenshots](#screenshots)
   - [Applications](#applications)
@@ -644,6 +646,28 @@ TODO:
 > 提供的所有图像处理函数都对实现 GenericImageView 和 GenericImage 特征并返回 ImageBuffer 的类型进行操作。
 
 代码仓库：[image-rs/image: Encoding and decoding images in Rust (github.com)](https://github.com/image-rs/image)
+
+### 自动化
+
+#### headless_chrome
+
+![stars](https://img.shields.io/github/stars/atroche/rust-headless-chrome?style=flat) ![GitHub](https://img.shields.io/github/license/atroche/rust-headless-chrome)
+
+> 一个无头浏览器。
+>
+> 通过 DevTools 协议控制无头 Chrome 或 Chromium 的高级 API。它是 Puppeteer 的 Rust 等价物，一个由 Chrome DevTools 团队维护的 Node 库。
+> 它不是 100% 与 Puppeteer 兼容的功能，但这里足以满足大多数浏览器测试/网络爬虫用例，并且有几个“高级”功能，例如：
+>
+> - 网络请求拦截
+> - JavaScript 覆盖率监控
+> - 打开隐身窗口
+> - 截取元素或整个页面的屏幕截图
+> - 将页面保存为 PDF
+> - 'headful' 浏览
+> - 自动下载适用于 Linux/Mac/Windows 的“已知良好”Chromium 二进制文件
+> - 扩展预加载
+
+代码仓库：[atroche/rust-headless-chrome: A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team. (github.com)](https://github.com/atroche/rust-headless-chrome)
 
 ### 系统相关
 

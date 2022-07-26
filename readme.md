@@ -18,6 +18,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 参考手册 中文版](#rust-参考手册-中文版)
     - [Rust Cookbook 中文版](#rust-cookbook-中文版)
     - [Rusty Book( 锈书 )](#rusty-book-锈书-)
+    - [Rust 语言实战](#rust-语言实战)
     - [Rust 版本指南](#rust-版本指南)
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
   - [Article](#article)
@@ -206,6 +207,16 @@ TODO:
 在线文档：[Rusty Book - Rusty Book(锈书)](https://rusty.rs/about.html)
 
 文档仓库：[rustlang-cn/rusty-book: A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！ (github.com)](https://github.com/rustlang-cn/rusty-book)
+
+### Rust 语言实战
+
+![stars](https://img.shields.io/github/stars/sunface/rust-by-practice?style=flat) ![GitHub](https://img.shields.io/github/license/sunface/rust-by-practice)
+
+> _Rust 语言实战_ 的目标是通过大量的实战练习帮助大家更好的学习和上手使用 Rust 语言。书中的练习题非常易于使用：你所需的就是在线完成练习，并让它通过编译。
+
+在线文档：[关于 pracitce.rs - Rust By Practice( Rust 练习实践 )](https://zh.practice.rs/why-exercise.html)
+
+文档仓库：[sunface/rust-by-practice: Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (github.com)](https://github.com/sunface/rust-by-practice)
 
 ### Rust 版本指南
 

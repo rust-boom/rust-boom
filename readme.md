@@ -22,7 +22,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 语言实战](#rust-语言实战)
     - [Rust 版本指南](#rust-版本指南)
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
-    - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀rust文档翻译仓库)
+    - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
   - [Article](#article)
   - [Framework](#framework)
     - [GUI](#gui)
@@ -55,6 +55,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [Rocket](#rocket)
       - [Actix Web](#actix-web)
       - [warp](#warp)
+      - [poem](#poem)
     - [序列化](#序列化)
       - [A-JSON](#a-json)
       - [json-rust](#json-rust)
@@ -525,6 +526,14 @@ TODO:
 > - Gzip、Deflate 和 Brotli 压缩
 
 代码仓库：[seanmonstar/warp: A super-easy, composable, web server framework for warp speeds. (github.com)](https://github.com/seanmonstar/warp)
+
+#### poem
+
+![stars](https://img.shields.io/github/stars/poem-web/poem?style=flat) ![GitHub](https://img.shields.io/github/license/poem-web/poem)
+
+> 一个功能齐全且易于使用的 Web 框架，采用 Rust 编程语言。
+
+代码仓库：[poem-web/poem: A full-featured and easy-to-use web framework with the Rust programming language. (github.com)](https://github.com/poem-web/poem)
 
 ### 序列化
 

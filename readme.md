@@ -18,9 +18,11 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 参考手册 中文版](#rust-参考手册-中文版)
     - [Rust Cookbook 中文版](#rust-cookbook-中文版)
     - [Rusty Book( 锈书 )](#rusty-book-锈书-)
+    - [Rust 异步编程指南](#rust-异步编程指南)
     - [Rust 语言实战](#rust-语言实战)
     - [Rust 版本指南](#rust-版本指南)
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
+    - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀rust文档翻译仓库)
   - [Article](#article)
   - [Framework](#framework)
     - [GUI](#gui)
@@ -208,6 +210,14 @@ TODO:
 
 文档仓库：[rustlang-cn/rusty-book: A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！ (github.com)](https://github.com/rustlang-cn/rusty-book)
 
+### Rust 异步编程指南
+
+![stars](https://img.shields.io/github/stars/rustlang-cn/async-book?style=flat) ![GitHub](https://img.shields.io/github/license/rustlang-cn/async-book)
+
+> 该书是中文 Rust 教程 <<Rust 语言圣经>> 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序。
+
+文档仓库：[rustlang-cn/async-book: 该书是中文 Rust 教程 <> 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序 (github.com)](https://github.com/rustlang-cn/async-book)
+
 ### Rust 语言实战
 
 ![stars](https://img.shields.io/github/stars/sunface/rust-by-practice?style=flat) ![GitHub](https://img.shields.io/github/license/sunface/rust-by-practice)
@@ -236,6 +246,14 @@ TODO:
 > 默认情况下，`std` 可用于所有 Rust crates。因此，可以通过 [`use`](https://rustwiki.org/zh-CN/book/ch07-02-defining-modules-to-control-scope-and-privacy.html) 语句使用路径 `std` 来访问标准库，就像在 [`use std::env`](https://rustwiki.org/zh-CN/std/env/index.html) 中一样。
 
 在线文档：[std - Rust (rustwiki.org)](https://rustwiki.org/zh-CN/std/)
+
+### Rustt 一个优秀 Rust 文档翻译仓库
+
+![stars](https://img.shields.io/github/stars/rustlang-cn/Rustt?style=flat) ![GitHub](https://img.shields.io/github/license/rustlang-cn/Rustt)
+
+> Rustt (读音 / rʌsˈti /) 是 RustCn 翻译计划的英文缩写，负责将国外优秀的技术文章、学习教程、新闻资讯翻译成中文。
+
+文档仓库：[rustlang-cn/Rustt: 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。 (github.com)](https://github.com/rustlang-cn/Rustt)
 
 ## Article
 
@@ -340,6 +358,8 @@ TODO:
 代码仓库：[tokio-rs/tokio: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (github.com)](https://github.com/tokio-rs/tokio)
 
 在线网站：[Tokio - An asynchronous Rust runtime](https://tokio.rs/)
+
+中文文档：[Rustt/Books/Tokio-Tutorial at main · rustlang-cn/Rustt (github.com)](https://github.com/rustlang-cn/Rustt/tree/main/Books/Tokio-Tutorial)
 
 ### 前端相关
 

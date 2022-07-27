@@ -323,7 +323,7 @@ TODO:
 
 #### Bevy
 
-![stars](https://img.shields.io/github/stars/bevyengine/bevy?style=flat)[![Crates.io](https://camo.githubusercontent.com/fe403c1f013640f6a78617b79155ed3df66042f74918ef4305d7154b7c4d424b/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f626576792e737667)](https://crates.io/crates/bevy) [![MIT/Apache 2.0](https://camo.githubusercontent.com/a927c5826a9c362ad9778573df3f91dafa35a99f15db09e407c8edb1e1424280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542532464170616368652d626c75652e737667)](https://github.com/bevyengine/bevy/blob/main/LICENSE) [![Crates.io](https://camo.githubusercontent.com/c394677215ba5d5b4291703a798a74f3211789e83e6fcffce11c1ef4150f3c19/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f642f626576792e737667)](https://crates.io/crates/bevy) [![Rust](https://github.com/bevyengine/bevy/workflows/CI/badge.svg)](https://github.com/bevyengine/bevy/actions) [![iOS cron CI](https://github.com/bevyengine/bevy/workflows/iOS%20cron%20CI/badge.svg)](https://github.com/bevyengine/bevy/workflows/iOS cron CI/badge.svg) [![Discord](https://camo.githubusercontent.com/af9f050b14de7da58365e64b51287b05f65a2124f152778e3ad5d18b4258fe57/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3639313035323433313532353637353034382e7376673f6c6162656c3d266c6f676f3d646973636f7264266c6f676f436f6c6f723d66666666666626636f6c6f723d373338394438266c6162656c436f6c6f723d364137454332)](https://discord.gg/bevy)
+![stars](https://img.shields.io/github/stars/bevyengine/bevy?style=flat) ![GitHub](https://img.shields.io/github/license/bevyengine/bevy)
 
 > Bevy 是 Rust 内置的令人耳目一新的简单数据驱动游戏引擎。它永远是免费和开源的！
 
@@ -333,7 +333,7 @@ TODO:
 
 #### Tokio
 
-![stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat) ![GitHub](https://img.shields.io/github/license/rustdesk/rustdesk)
+![stars](https://img.shields.io/github/stars/tokio-rs/tokio?style=flat) ![GitHub](https://img.shields.io/github/license/tokio-rs/tokio)
 
 > Tokio 是 Rust 编程语言的异步运行时。它提供了编写网络应用程序所需的构建块。它提供了针对广泛系统的灵活性，从具有数十个内核的大型服务器到小型嵌入式设备。
 
@@ -345,7 +345,7 @@ TODO:
 
 #### Yew
 
-![stars](https://img.shields.io/github/stars/yewstack/yew?style=flat) ![GitHub](https://img.shields.io/github/license/yewstack/yew)[![Crate Info](https://camo.githubusercontent.com/bb4512e464e4162a4e1385091559d7563c121536fafd8da99c1110c82a12f542/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f7965772e737667)](https://crates.io/crates/yew) [![API Docs](https://camo.githubusercontent.com/b065a13fdf007e7d99827379a25f389f9adf212c297d7d0a18b42262e98483a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732e72732d7965772d677265656e)](https://docs.rs/yew/) [![Discord Chat](https://camo.githubusercontent.com/e79a58c0e24459631aae93cb2e79efcad8ad866ed3f33b1ca4b3666a1447045e/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f373031303638333432373630353730393333)](https://discord.gg/VQck8X4) [![img](https://camo.githubusercontent.com/25affe7c13808f6d5a2afdc2618d6b8ca487575f6109da5ff956f47d8b73f548/68747470733a2f2f6769746c6f63616c697a652e636f6d2f7265706f2f373035322f77686f6c655f70726f6a6563742f62616467652e737667) ](https://gitlocalize.com/repo/7052/whole_project?utm_source=badge)[![Rustc Version 1.56.1+](https://camo.githubusercontent.com/4013cf1aa9b8a8a4d55e308d1d2c898319b29e304215b23d348c47eaf019bff9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72757374632d312e35362532422d6c69676874677265792e737667)](https://blog.rust-lang.org/2020/12/31/Rust-1.56.1.html)
+![stars](https://img.shields.io/github/stars/jetli/awesome-yew?style=flat) ![GitHub](https://img.shields.io/github/license/jetli/awesome-yew)
 
 > **Yew** 是一个设计先进的 [Rust](https://www.rust-lang.org/) 框架，目的是使用 [WebAssembly](https://webassembly.org/) 来创建多线程的前端 web 应用。
 

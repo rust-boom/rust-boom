@@ -22,6 +22,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 语言实战](#rust-语言实战)
     - [Rust 算法题解](#rust-算法题解)
     - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
+    - [Rust RFC (提案书)](#rust-rfc-提案书)
     - [Rust 版本指南](#rust-版本指南)
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
     - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
@@ -251,7 +252,17 @@ TODO:
 
 在线文档：[Rust 宏小册 中文版 - 《Rust 宏小册 中文版》 - 书栈网 · BookStack](https://www.bookstack.cn/read/DaseinPhaos-tlborm-chinese/README.md)
 
-在线仓库：[DaseinPhaos/tlborm-chinese: Rust 宏小册, the Chinese translation of tlborm. (github.com)](https://github.com/DaseinPhaos/tlborm-chinese)
+文档仓库：[DaseinPhaos/tlborm-chinese: Rust 宏小册, the Chinese translation of tlborm. (github.com)](https://github.com/DaseinPhaos/tlborm-chinese)
+
+### Rust RFC (提案书)
+
+![stars](https://img.shields.io/github/stars/rust-lang/rfcs?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/rfcs)
+
+> “RFC”（征求意见）过程旨在为 Rust 的更改（例如新功能）提供一致且受控的路径，以便所有利益相关者都可以对项目的方向充满信心。
+
+在线文档：[Introduction - The Rust RFC Book (rust-lang.github.io)](https://rust-lang.github.io/rfcs/introduction.html)
+
+文档仓库：[rust-lang/rfcs: RFCs for changes to Rust (github.com)](https://github.com/rust-lang/rfcs)
 
 ### Rust 版本指南
 

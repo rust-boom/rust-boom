@@ -20,6 +20,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rusty Book( 锈书 )](#rusty-book-锈书-)
     - [Rust 异步编程指南](#rust-异步编程指南)
     - [Rust 语言实战](#rust-语言实战)
+    - [Rust 算法题解](#rust-算法题解)
+    - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
     - [Rust 版本指南](#rust-版本指南)
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
     - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
@@ -229,6 +231,28 @@ TODO:
 
 文档仓库：[sunface/rust-by-practice: Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (github.com)](https://github.com/sunface/rust-by-practice)
 
+### Rust 算法题解
+
+![stars](https://img.shields.io/github/stars/rustlang-cn/rust-algos?style=flat) ![GitHub](https://img.shields.io/github/license/rustlang-cn/rust-algos)
+
+> Rust 作为一门现代化的系统编程语言，拥有与 C/C++ 类似的性能，同时又能做非常底层的性能优化，因此非常适合写算法和 leetcode。
+>
+> `algos` 涵盖了各种常用算法和数据结构的代码实现，以及 leetcode 题解，同时对于相关算法还提供了中文文档和注释，可以帮助大家更好、更快的学习。
+
+在线文档：[Rust 算法教程 - Rust 算法教程 The Algos (algorithms)](https://algos.rs/)
+
+文档仓库：[rustlang-cn/rust-algos: <>，用 Rust 语言实现常见的算法和数据结构，以及 leetcode 题解，algos = algorithms，written with ❤️ by course.rs team (github.com)](https://github.com/rustlang-cn/rust-algos)
+
+### Rust 宏小册(tlborm)
+
+![stars](https://img.shields.io/github/stars/DaseinPhaos/tlborm-chinese?style=flat) ![GitHub](https://img.shields.io/github/license/DaseinPhaos/tlborm-chinese)
+
+> 本书试图提炼出一份 Rust 社区对 Rust 宏知识的集锦。
+
+在线文档：[Rust 宏小册 中文版 - 《Rust 宏小册 中文版》 - 书栈网 · BookStack](https://www.bookstack.cn/read/DaseinPhaos-tlborm-chinese/README.md)
+
+在线仓库：[DaseinPhaos/tlborm-chinese: Rust 宏小册, the Chinese translation of tlborm. (github.com)](https://github.com/DaseinPhaos/tlborm-chinese)
+
 ### Rust 版本指南
 
 ![stars](https://img.shields.io/github/stars/rust-lang/edition-guide?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/edition-guide)
@@ -258,11 +282,12 @@ TODO:
 
 ## Article
 
-> 收集一些 Rust 比较好的文章内容。
+> 收集一些 Rust 比较好的文章以及一些刊报。
 
 - [rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白|青蛙小白|关注程序开发、互联网技术、云原生 (frognew.com)](https://blog.frognew.com/2020/07/rust-ownership-move-and-copy.html)
 - [Top 23 Rust GUI Projects (Jul 2022) (libhunt.com)](https://www.libhunt.com/l/rust/topic/gui)
 - [你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/282113351/answer/2483371362)
+- [rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)](https://github.com/rustlang-cn/rust-weekly)
 
 ## Framework
 

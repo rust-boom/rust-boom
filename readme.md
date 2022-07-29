@@ -61,6 +61,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [Actix Web](#actix-web)
       - [warp](#warp)
       - [poem](#poem)
+      - [axum](#axum)
+      - [Salvo](#salvo)
     - [序列化](#序列化)
       - [A-JSON](#a-json)
       - [json-rust](#json-rust)
@@ -590,6 +592,22 @@ TODO:
 > 一个功能齐全且易于使用的 Web 框架，采用 Rust 编程语言。
 
 代码仓库：[poem-web/poem: A full-featured and easy-to-use web framework with the Rust programming language. (github.com)](https://github.com/poem-web/poem)
+
+#### axum
+
+![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat) ![GitHub](https://img.shields.io/github/license/tokio-rs/axum)
+
+> axum 是一个专注于人体工程学和模块化的 Web 应用程序框架。
+
+代码仓库：[tokio-rs/axum: Ergonomic and modular web framework built with Tokio, Tower, and Hyper (github.com)](https://github.com/tokio-rs/axum)
+
+#### Salvo
+
+![stars](https://img.shields.io/github/stars/salvo-rs/salvo?style=flat) ![GitHub](https://img.shields.io/github/license/salvo-rs/salvo)
+
+> Salvo 是一个极其简单且功能强大的 Rust Web 后端框架. 仅仅需要基础 Rust 知识即可开发后端服务.
+
+代码仓库：[salvo-rs/salvo: Salvo is a powerful and simplest web server framework in Rust world (github.com)](https://github.com/salvo-rs/salvo)
 
 ### 序列化
 

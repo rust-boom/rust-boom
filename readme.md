@@ -22,7 +22,9 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 语言实战](#rust-语言实战)
     - [Rust 算法题解](#rust-算法题解)
     - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
-    - [Rust RFC (提案书)](#rust-rfc-提案书)
+    - [嵌入式 Rust 编程](#嵌入式-rust-编程)
+    - [Rust RFC Book (提案书)](#rust-rfc-book-提案书)
+    - [Rust Unstable Book (不稳定特性书)](#rust-unstable-book-不稳定特性书)
     - [Rust 版本指南](#rust-版本指南)
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
     - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
@@ -254,7 +256,17 @@ TODO:
 
 文档仓库：[DaseinPhaos/tlborm-chinese: Rust 宏小册, the Chinese translation of tlborm. (github.com)](https://github.com/DaseinPhaos/tlborm-chinese)
 
-### Rust RFC (提案书)
+### 嵌入式 Rust 编程
+
+![stars](https://img.shields.io/github/stars/nkbai/book?style=flat) ![GitHub](https://img.shields.io/github/license/nkbai/book)
+
+> 有关如何使用 Rust 编程语言为裸机（微控制器）设备开发固件的文档
+
+在线文档：[简介 - The Embedded Rust Book (stevenbai.top)](https://stevenbai.top/rustbook/book/)
+
+文档仓库：[nkbai/book: rust 嵌入式编程书籍的翻译，原书地址 https://rust-embedded.github.io/book/](https://github.com/nkbai/book)
+
+### Rust RFC Book (提案书)
 
 ![stars](https://img.shields.io/github/stars/rust-lang/rfcs?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/rfcs)
 
@@ -263,6 +275,14 @@ TODO:
 在线文档：[Introduction - The Rust RFC Book (rust-lang.github.io)](https://rust-lang.github.io/rfcs/introduction.html)
 
 文档仓库：[rust-lang/rfcs: RFCs for changes to Rust (github.com)](https://github.com/rust-lang/rfcs)
+
+### Rust Unstable Book (不稳定特性书)
+
+> 这是一本记录 rust 不稳定特性的一本书。
+
+在线文档：[The Unstable Book - The Rust Unstable Book (rust-lang.org)](https://doc.rust-lang.org/nightly/unstable-book/index.html)
+
+文档仓库：[rust/src/doc/unstable-book at master · rust-lang/rust (github.com)](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book)
 
 ### Rust 版本指南
 

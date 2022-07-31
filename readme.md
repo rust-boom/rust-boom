@@ -111,7 +111,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 > 我自己写的一些关于 Rust 特殊问题的处理和解决方案。
 
-TODO:
+- [一篇文章让你彻底理解 Rust 的 Move、Copy、Clone](docs/move_copy_clone.md)
 
 ## Book
 

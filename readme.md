@@ -1,6 +1,6 @@
-![Logo](https://rustacean.net/more-crabby-things/rustdocs.png#pic_center)
+<p><img src="https://rustacean.net/more-crabby-things/rustdocs.png" align="middle" /></p>
 
-![最后更新](https://img.shields.io/github/last-commit/WumaCoder/rust-boom?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4&style=for-the-badge)
+<p><img src="https://img.shields.io/github/last-commit/WumaCoder/rust-boom?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4&style=for-the-badge" align="middle" /></p>
 
 # Rust Boom 💥
 

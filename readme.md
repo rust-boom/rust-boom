@@ -338,6 +338,11 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 > 收集一些 Rust 比较好的文章以及一些刊报。
 
+- [浅析rust的内存管理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/365766807)
+- [Rust: Lifetime 解惑， 生命周期还在 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384151733)
+- [Rust中的String,&str和str都是什么？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384496181)
+- [类型的大小 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21820917)
+- [如何深入浅出地理解Rust中的Pin和Unpin? - 知乎 (zhihu.com)](https://www.zhihu.com/question/512654366/answer/2319171118)
 - [rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白|青蛙小白|关注程序开发、互联网技术、云原生 (frognew.com)](https://blog.frognew.com/2020/07/rust-ownership-move-and-copy.html)
 - [Top 23 Rust GUI Projects (Jul 2022) (libhunt.com)](https://www.libhunt.com/l/rust/topic/gui)
 - [你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/282113351/answer/2483371362)

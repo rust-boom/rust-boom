@@ -85,6 +85,10 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [geo](#geo)
     - [图片处理](#图片处理)
       - [image-rs](#image-rs)
+    - [音频处理](#音频处理)
+      - [Symphonia](#symphonia)
+    - [视频处理](#视频处理)
+      - [ffmpeg-sys-next](#ffmpeg-sys-next)
     - [自动化](#自动化)
       - [headless_chrome](#headless_chrome)
     - [系统相关](#系统相关)
@@ -338,11 +342,11 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 > 收集一些 Rust 比较好的文章以及一些刊报。
 
-- [浅析rust的内存管理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/365766807)
+- [浅析 rust 的内存管理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/365766807)
 - [Rust: Lifetime 解惑， 生命周期还在 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384151733)
-- [Rust中的String,&str和str都是什么？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384496181)
+- [Rust 中的 String,&str 和 str 都是什么？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384496181)
 - [类型的大小 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21820917)
-- [如何深入浅出地理解Rust中的Pin和Unpin? - 知乎 (zhihu.com)](https://www.zhihu.com/question/512654366/answer/2319171118)
+- [如何深入浅出地理解 Rust 中的 Pin 和 Unpin? - 知乎 (zhihu.com)](https://www.zhihu.com/question/512654366/answer/2319171118)
 - [rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白|青蛙小白|关注程序开发、互联网技术、云原生 (frognew.com)](https://blog.frognew.com/2020/07/rust-ownership-move-and-copy.html)
 - [Top 23 Rust GUI Projects (Jul 2022) (libhunt.com)](https://www.libhunt.com/l/rust/topic/gui)
 - [你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/282113351/answer/2483371362)
@@ -786,6 +790,42 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > 提供的所有图像处理函数都对实现 GenericImageView 和 GenericImage 特征并返回 ImageBuffer 的类型进行操作。
 
 代码仓库：[image-rs/image: Encoding and decoding images in Rust (github.com)](https://github.com/image-rs/image)
+
+### 音频处理
+
+#### Symphonia
+
+![stars](https://img.shields.io/github/stars/pdeljanov/Symphonia?style=flat) ![GitHub](https://img.shields.io/github/license/pdeljanov/Symphonia)
+
+> Symphonia 是一个纯 Rust 音频解码和媒体解复用库，支持 AAC、ALAC、FLAC、MKV、MP3、MP4、OGG、Vorbis、WAV 和 WebM。
+>
+> 功能介绍
+>
+> - 解码支持最流行的音频编解码器，支持无间隙播放
+> - 解码最常见的媒体容器格式
+> - 读取大多数元数据和标签格式
+> - 自动检测格式和解码器
+> - 有效处理音频数据的基本音频原语
+> - 100%安全的 Rust
+> - 最小的依赖性
+> - 速度快，性能不打折扣!
+>
+> 此外，计划的功能包括
+>
+> - 提供一个 C 语言的 API，以便与其他语言集成
+> - 为网络使用提供 WASM API
+
+代码仓库：[pdeljanov/Symphonia: Pure Rust multimedia format demuxing, tag reading, and audio decoding library (github.com)](https://github.com/pdeljanov/Symphonia)
+
+### 视频处理
+
+#### ffmpeg-sys-next
+
+![stars](https://img.shields.io/github/stars/zmwangx/rust-ffmpeg-sys?style=flat) ![GitHub](https://img.shields.io/github/license/zmwangx/rust-ffmpeg-sys)
+
+> Rust 的一个视频处理库，绑定自 ffmpeng。
+
+代码仓库：[zmwangx/rust-ffmpeg-sys: FFmpeg bindings for Rust. (github.com)](https://github.com/zmwangx/rust-ffmpeg-sys)
 
 ### 自动化
 

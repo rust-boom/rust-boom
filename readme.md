@@ -24,6 +24,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 异步编程指南](#rust-异步编程指南)
     - [Rust 语言实战](#rust-语言实战)
     - [Rust 算法题解](#rust-算法题解)
+    - [Rust 设计模式](#rust-设计模式)
     - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
     - [嵌入式 Rust 编程](#嵌入式-rust-编程)
     - [Rust RFC Book (提案书)](#rust-rfc-book-提案书)
@@ -259,6 +260,20 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 在线文档：[Rust 算法教程 - Rust 算法教程 The Algos (algorithms)](https://algos.rs/)
 
 文档仓库：[rustlang-cn/rust-algos: <>，用 Rust 语言实现常见的算法和数据结构，以及 leetcode 题解，algos = algorithms，written with ❤️ by course.rs team (github.com)](https://github.com/rustlang-cn/rust-algos)
+
+### Rust 设计模式 中文版
+
+![stars](https://img.shields.io/github/stars/chuxiuhong/chuxiuhong-rust-patterns-zh?style=flat) ![GitHub](https://img.shields.io/github/license/chuxiuhong/chuxiuhong-rust-patterns-zh)
+
+> 有很多问题有相同的形式。 因为 Rust 不是面向对象的语言，所以设计模式与其他面向对象语言的设计模式也有所不同。 虽然细节上有所不同，但他们还是有很多相同之处：
+>
+> - [设计模式](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/patterns/index.html) 是编写软件过程中解决常见问题的方法。
+> - [反模式](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/anti_patterns/index.html) 是解决常见问题的方法。 然而设计模式带给我们好处，反模式却带来更多的问题。
+> - [习惯用法](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/idioms/index.html) 是编码的指导方针。它是社区的共同规范。除非你有明确的理由， 否则就遵守它。
+
+在线文档：[引言 - Rust 设计模式 (chuxiuhong.com)](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/)
+
+文档仓库：[chuxiuhong/chuxiuhong-rust-patterns-zh: Rust 设计模式中文翻译 (github.com)](https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh)
 
 ### Rust 宏小册(tlborm)
 

@@ -351,6 +351,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 - [Top 23 Rust GUI Projects (Jul 2022) (libhunt.com)](https://www.libhunt.com/l/rust/topic/gui)
 - [你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/282113351/answer/2483371362)
 - [rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)](https://github.com/rustlang-cn/rust-weekly)
+- [【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)](https://rustcc.cn/article?id=2b1703cc-36f9-4dfc-a70a-09dd67a207ab)
 
 ## Framework
 
@@ -1007,7 +1008,9 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 最后希望 Rust 越来越牛 X。
 
-如果文档有用请帮帮忙点一下 star，收集整理不易。
+如果文档有用请帮帮忙点一下 star，收集整理不易，也可以关注我们公众号【Rust 编程指南】获取实时推送的文章。
+
+<img src="readme.assets/rust%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.jpeg" alt="rust编程指南" style="zoom:50%;" />
 
 ## License
 

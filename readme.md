@@ -24,7 +24,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 异步编程指南](#rust-异步编程指南)
     - [Rust 语言实战](#rust-语言实战)
     - [Rust 算法题解](#rust-算法题解)
-    - [Rust 设计模式](#rust-设计模式)
+    - [Rust 设计模式 中文版](#rust-设计模式-中文版)
     - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
     - [嵌入式 Rust 编程](#嵌入式-rust-编程)
     - [Rust RFC Book (提案书)](#rust-rfc-book-提案书)
@@ -74,6 +74,12 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [pikkr](#pikkr)
       - [Serde JSON](#serde-json)
       - [quick-xml](#quick-xml)
+    - [编码库](#编码库)
+      - [base64](#base64)
+      - [hmac](#hmac)
+      - [jwt](#jwt)
+      - [josekit](#josekit)
+      - [sha](#sha)
     - [数据库](#数据库)
       - [SeaORM](#seaorm)
       - [rbatis](#rbatis)
@@ -699,6 +705,50 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > 支持各种编码（具有编码功能）、命名空间解析、特殊字符。
 
 代码仓库：[tafia/quick-xml: Rust high performance xml reader and writer (github.com)](https://github.com/tafia/quick-xml)
+
+### 编码库
+
+#### base64
+
+![stars](https://img.shields.io/github/stars/marshallpierce/rust-base64?style=flat) ![GitHub](https://img.shields.io/github/license/marshallpierce/rust-base64)
+
+> 故名思义就是 base64 的编码库。
+
+代码仓库：[marshallpierce/rust-base64: base64, in rust (github.com)](https://github.com/marshallpierce/rust-base64)
+
+#### hmac
+
+![stars](https://img.shields.io/github/stars/RustCrypto/MACs?style=flat) ![GitHub](https://img.shields.io/github/license/RustCrypto/MACs)
+
+> 用纯 Rust 编写的消息认证代码算法
+
+代码仓库：[RustCrypto/MACs: Message authentication code algorithms written in pure Rust (github.com)](https://github.com/RustCrypto/MACs)
+
+#### jwt
+
+![stars](https://img.shields.io/github/stars/mikkyang/rust-jwt?style=flat) ![GitHub](https://img.shields.io/github/license/mikkyang/rust-jwt)
+
+> JSON Web 令牌库。
+
+代码仓库：[mikkyang/rust-jwt: JSON Web Token library for Rust (github.com)](https://github.com/mikkyang/rust-jwt)
+
+#### josekit
+
+![stars](https://img.shields.io/github/stars/hidekatsu-izuno/josekit-rs?style=flat) ![GitHub](https://img.shields.io/github/license/hidekatsu-izuno/josekit-rs)
+
+> 和上面的库差不多，功能更强大。
+>
+> JOSE（Javascript 对象签名和加密：JWT、JWS、JWE、JWA、JWK）库，基于 Rust 的 OpenSSL。
+
+代码仓库：[hidekatsu-izuno/josekit-rs: JOSE (Javascript Object Signing and Encryption) library for Rust (based on OpenSSL). (github.com)](https://github.com/hidekatsu-izuno/josekit-rs)
+
+#### sha
+
+![stars](https://img.shields.io/github/stars/andydude/rust-sha?style=flat) ![GitHub](https://img.shields.io/github/license/rustdesk/rustdesk)
+
+> Rust 安全哈希算法 (SHA) 内在库。
+
+代码仓库：[andydude/rust-sha: Rust Cryptography Intrinsics (github.com)](https://github.com/andydude/rust-sha/)
 
 ### 数据库
 

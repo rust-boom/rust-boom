@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, Rust Boom!");
+    rust_boom::hello()
 }

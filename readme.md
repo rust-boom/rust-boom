@@ -25,6 +25,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust 语言实战](#rust-语言实战)
     - [Rust 算法题解](#rust-算法题解)
     - [Rust 设计模式 中文版](#rust-设计模式-中文版)
+    - [Rust API 编写指南 中文版](#rust-api-编写指南-中文版)
     - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
     - [嵌入式 Rust 编程](#嵌入式-rust-编程)
     - [Rust RFC Book (提案书)](#rust-rfc-book-提案书)
@@ -280,6 +281,16 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 在线文档：[引言 - Rust 设计模式 (chuxiuhong.com)](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/)
 
 文档仓库：[chuxiuhong/chuxiuhong-rust-patterns-zh: Rust 设计模式中文翻译 (github.com)](https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh)
+
+### Rust API 编写指南 中文版
+
+![stars](https://img.shields.io/github/stars/zjp-CN/api-guidelines?style=flat) ![GitHub](https://img.shields.io/github/license/zjp-CN/api-guidelines)
+
+> 这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+
+在线文档：[关于本书 - Rust API Guidelines（Rust API 编写指南） (zjp-cn.github.io)](https://zjp-cn.github.io/api-guidelines/)
+
+文档仓库：[zjp-CN/api-guidelines: Rust API Guidelines 中文翻译版 (github.com)](https://github.com/zjp-CN/api-guidelines)
 
 ### Rust 宏小册(tlborm)
 

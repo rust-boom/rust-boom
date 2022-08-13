@@ -42,6 +42,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [fltk-rs](#fltk-rs)
       - [iced](#iced)
       - [druid](#druid)
+      - [Dioxus](#dioxus)
     - [TUI](#tui)
       - [tui-rs](#tui-rs)
     - [游戏开发](#游戏开发)
@@ -446,6 +447,24 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > 有关一些关键概念的概述，请参阅（正在进行的工作）Druid 书。
 
 代码仓库：[linebender/druid: A data-first Rust-native UI design toolkit. (github.com)](https://github.com/linebender/druid)
+
+#### Dioxus
+
+![stars](https://img.shields.io/github/stars/DioxusLabs/dioxus?style=flat) ![GitHub](https://img.shields.io/github/license/DioxusLabs/dioxus)
+
+> Dioxus 是一个可移植、高性能的框架，用于在 Rust 中构建跨平台的用户界面。
+>
+> Dioxus 可用于制作 网页程序、桌面应用、静态站点、移动端应用。
+>
+> Dioxus 为不同的平台都提供了很好的开发文档。
+>
+> 如果你会使用 React ，那 Dioxus 对你来说会很简单。
+>
+> 并且他还有 tui 的渲染器[DioxusLabs/rink: Build reactive terminal user interfaces using Rust and Dioxus. (github.com)](https://github.com/dioxusLabs/rink)
+
+代码仓库：[DioxusLabs/dioxus: Friendly React-like GUI library for desktop, web, mobile, and more. (github.com)](https://github.com/DioxusLabs/dioxus)
+
+中文文档：[dioxus/ZH_CN.md at master · DioxusLabs/dioxus (github.com)](https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md)
 
 ### TUI
 

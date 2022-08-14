@@ -104,6 +104,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [screenshots](#screenshots)
   - [Applications](#applications)
     - [GUI](#gui-1)
+      - [AppFlowy](#appflowy)
       - [Lapce](#lapce)
       - [Neovide](#neovide)
       - [Rustdesk](#rustdesk)
@@ -961,9 +962,19 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 ### GUI
 
+#### AppFlowy
+
+![stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat) ![GitHub](https://img.shields.io/github/license/AppFlowy-IO/AppFlowy)
+
+> ⭐️ Notion 的开源替代品 ⭐️
+>
+> ![The Open Source Alternative To Notion.](https://user-images.githubusercontent.com/12026239/174754661-682980e4-e386-4685-bb6f-2da357390b61.png)
+
+代码仓库：[AppFlowy-IO/AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (github.com)](https://github.com/AppFlowy-IO/AppFlowy)
+
 #### Lapce
 
-[![img](https://github.com/lapce/lapce/actions/workflows/ci.yml/badge.svg) ](https://github.com/lapce/lapce/actions/workflows/ci.yml)[![img](https://camo.githubusercontent.com/f4b65e11e9240c0224ac350bc93a84300c0049071ee0fea60e45a00afda9f40e/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3934363835383736313431333332383934363f6c6f676f3d646973636f7264) ](https://discord.gg/n8tGJ6Rn6D)[![img](https://camo.githubusercontent.com/1d50a7d67f2889e6cfd13dff89a4ef5242a986ec1b4a497be75a5c3675db95be/68747470733a2f2f696d672e736869656c64732e696f2f6d61747269782f6c617063652d656469746f723a6d61747269782e6f72673f636f6c6f723d74757271756f697365266c6f676f3d4d6174726978) ](https://matrix.to/#/#lapce-editor:matrix.org)[![Lapce Docs](https://camo.githubusercontent.com/a5442559b3a0b6a569e7834d6d55dee097e45609104462b82c96aa5bb5f94bf9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d446f6373266d6573736167653d646f63732e6c617063652e64657626636f6c6f723d626c7565)](https://docs.lapce.dev/)
+![stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub](https://img.shields.io/github/license/lapce/lapce)
 
 > Lapce 是用纯 Rust 编写的，用户界面是 Druid（也是用 Rust 编写）。它是用 Xi-Editor 的 Rope Science 设计的，使得计算速度快如闪电，并利用 OpenGL 进行渲染。关于 Lapce 功能的更多信息可以在主网站上找到，用户文档可以在 GitBook 上找到。
 >

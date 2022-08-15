@@ -63,6 +63,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [WASI](#wasi)
     - [网络](#网络)
       - [libp2p](#libp2p)
+      - [rathole](#rathole)
+      - [Crust](#crust)
     - [服务端](#服务端)
       - [Rocket](#rocket)
       - [Actix Web](#actix-web)
@@ -76,6 +78,10 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [pikkr](#pikkr)
       - [Serde JSON](#serde-json)
       - [quick-xml](#quick-xml)
+    - [日期处理](#日期处理)
+      - [time](#time)
+      - [chrono](#chrono)
+      - [httpdate](#httpdate)
     - [编码库](#编码库)
       - [base64](#base64)
       - [hmac](#hmac)
@@ -612,6 +618,26 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 代码仓库：[libp2p/rust-libp2p: The Rust Implementation of the libp2p networking stack. (github.com)](https://github.com/libp2p/rust-libp2p)
 
+#### rathole
+
+![stars](https://img.shields.io/github/stars/rapiz1/rathole?style=flat) ![GitHub](https://img.shields.io/github/license/rapiz1/rathole)
+
+> 安全、稳定、高性能的内网穿透工具，用 Rust 语言编写
+>
+> rathole，类似于 [frp](https://github.com/fatedier/frp) 和 [ngrok](https://github.com/inconshreveable/ngrok)，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。
+
+代码仓库：[rapiz1/rathole: A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (github.com)](https://github.com/rapiz1/rathole)
+
+中文文档：[rathole/README-zh.md at main · rapiz1/rathole (github.com)](https://github.com/rapiz1/rathole/blob/main/README-zh.md)
+
+#### Crust
+
+![stars](https://img.shields.io/github/stars/maidsafe-archive/crust?style=flat) ![GitHub](https://img.shields.io/github/license/maidsafe-archive/crust)
+
+> Rust 中具有 NAT 遍历的可靠 p2p 网络连接。任何无服务器、去中心化项目最需要的库之一。
+
+代码仓库：[maidsafe-archive/crust: Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects (github.com)](https://github.com/maidsafe-archive/crust)
+
 ### 服务端
 
 #### Rocket
@@ -736,6 +762,32 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > 支持各种编码（具有编码功能）、命名空间解析、特殊字符。
 
 代码仓库：[tafia/quick-xml: Rust high performance xml reader and writer (github.com)](https://github.com/tafia/quick-xml)
+
+### 日期处理
+
+#### time
+
+![stars](https://img.shields.io/github/stars/time-rs/time?style=flat) ![GitHub](https://img.shields.io/github/license/time-rs/time)
+
+> 日期和时间库。与标准库完全互操作。大部分与#![no_std] 兼容。
+
+代码仓库：[time-rs/time: Simple time handling in Rust (github.com)](https://github.com/time-rs/time)
+
+#### chrono
+
+![stars](https://img.shields.io/github/stars/chronotope/chrono?style=flat) ![GitHub](https://img.shields.io/github/license/chronotope/chrono)
+
+> 它的目标是成为一个功能完整的时间库的超集。
+
+代码仓库：[chronotope/chrono: Date and time library for Rust (github.com)](https://github.com/chronotope/chrono)
+
+#### httpdate
+
+![stars](https://img.shields.io/github/stars/pyfisch/httpdate?style=flat) ![GitHub](https://img.shields.io/github/license/pyfisch/httpdate)
+
+> HTTP 的日期和时间工具。
+
+代码仓库：[pyfisch/httpdate: HTTP date parsing and formatting (github.com)](https://github.com/pyfisch/httpdate)
 
 ### 编码库
 

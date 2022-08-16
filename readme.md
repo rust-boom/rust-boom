@@ -104,6 +104,13 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [Symphonia](#symphonia)
     - [视频处理](#视频处理)
       - [ffmpeg-sys-next](#ffmpeg-sys-next)
+    - [文档处理](#文档处理)
+      - [lopdf](#lopdf)
+      - [pdf-rs](#pdf-rs)
+      - [calamine](#calamine)
+      - [docx-rs](#docx-rs)
+    - [AST](#ast)
+      - [pandoc_ast](#pandoc_ast)
     - [自动化](#自动化)
       - [headless_chrome](#headless_chrome)
     - [系统相关](#系统相关)
@@ -975,6 +982,50 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > Rust 的一个视频处理库，绑定自 ffmpeng。
 
 代码仓库：[zmwangx/rust-ffmpeg-sys: FFmpeg bindings for Rust. (github.com)](https://github.com/zmwangx/rust-ffmpeg-sys)
+
+### 文档处理
+
+#### lopdf
+
+![stars](https://img.shields.io/github/stars/J-F-Liu/lopdf?style=flat) ![GitHub](https://img.shields.io/github/license/J-F-Liu/lopdf)
+
+> 用于 PDF 文档操作的 Rust 库。
+
+代码仓库：[J-F-Liu/lopdf: A Rust library for PDF document manipulation. (github.com)](https://github.com/J-F-Liu/lopdf)
+
+#### pdf-rs
+
+![stars](https://img.shields.io/github/stars/pdf-rs/pdf?style=flat) ![GitHub](https://img.shields.io/github/license/pdf-rs/pdf)
+
+> 用于读取、操作和编写 PDF 文件的 Rust 库。
+
+代码仓库：[pdf-rs/pdf: Rust library to read, manipulate and write PDF files. (github.com)](https://github.com/pdf-rs/pdf)
+
+#### calamine
+
+![stars](https://img.shields.io/github/stars/tafia/calamine?style=flat) ![GitHub](https://img.shields.io/github/license/tafia/calamine)
+
+> Rust 编写的 Excel/OpenDocument 电子表格文件阅读器/反序列化器。
+
+代码仓库：[tafia/calamine: A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets (github.com)](https://github.com/tafia/calamine)
+
+#### docx-rs
+
+![stars](https://img.shields.io/github/stars/bokuweb/docx-rs?style=flat) ![GitHub](https://img.shields.io/github/license/bokuweb/docx-rs)
+
+> 一个带有 Rust/WebAssembly 的.docx 文件编写器。
+
+代码仓库：[bokuweb/docx-rs: A .docx file writer with Rust/WebAssembly. (github.com)](https://github.com/bokuweb/docx-rs)
+
+### AST
+
+#### pandoc_ast
+
+![stars](https://img.shields.io/github/stars/oli-obk/pandoc-ast?style=flat) ![GitHub](https://img.shields.io/github/license/oli-obk/pandoc-ast)
+
+> 反序列化和序列化 markdown ast 以编写 pandoc 过滤器
+
+代码仓库：[oli-obk/pandoc-ast (github.com)](https://github.com/oli-obk/pandoc-ast)
 
 ### 自动化
 

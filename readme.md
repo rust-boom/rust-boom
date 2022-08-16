@@ -35,6 +35,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
   - [Video](#video)
   - [Article](#article)
+  - [IDE](#ide)
+    - [VSCode（首推）](#vscode首推)
   - [Framework](#framework)
     - [GUI](#gui)
       - [Tarui](#tarui)
@@ -389,6 +391,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 > 收集一些 Rust 比较好的文章以及一些刊报。
 
+- [安装 Rust - Rust 程序设计语言 (rust-lang.org)](https://www.rust-lang.org/zh-CN/tools/install)
 - [浅析 rust 的内存管理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/365766807)
 - [Rust: Lifetime 解惑， 生命周期还在 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384151733)
 - [Rust 中的 String,&str 和 str 都是什么？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384496181)
@@ -399,6 +402,21 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 - [你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/282113351/answer/2483371362)
 - [rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)](https://github.com/rustlang-cn/rust-weekly)
 - [【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)](https://rustcc.cn/article?id=2b1703cc-36f9-4dfc-a70a-09dd67a207ab)
+
+## IDE
+
+> 推荐一些小编用过的编辑器
+
+### VSCode（首推）
+
+> 目前开发 Rust 最好的编辑器，需要安装插件。
+
+**插件推荐**
+
+- [rust-analyzer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- [Better TOML - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
+- [Cargo - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=panicbit.cargo)
+- [crates - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
 
 ## Framework
 

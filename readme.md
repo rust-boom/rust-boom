@@ -47,6 +47,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [Dioxus](#dioxus)
     - [TUI](#tui)
       - [tui-rs](#tui-rs)
+    - [CLI](#cli)
+      - [commander](#commander)
     - [游戏开发](#游戏开发)
       - [Bevy](#bevy)
     - [异步运行时](#异步运行时)
@@ -80,6 +82,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [pikkr](#pikkr)
       - [Serde JSON](#serde-json)
       - [quick-xml](#quick-xml)
+    - [配置解析](#配置解析)
+      - [config-rs](#config-rs)
     - [日期处理](#日期处理)
       - [time](#time)
       - [chrono](#chrono)
@@ -117,6 +121,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [headless_chrome](#headless_chrome)
     - [系统相关](#系统相关)
       - [screenshots](#screenshots)
+      - [execute](#execute)
   - [Applications](#applications)
     - [GUI](#gui-1)
       - [AppFlowy](#appflowy)
@@ -125,12 +130,16 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [Rustdesk](#rustdesk)
     - [TUI](#tui-1)
       - [GitUI](#gitui)
-    - [CLI](#cli)
+    - [CLI](#cli-1)
       - [bore](#bore)
       - [cloc-rs](#cloc-rs)
       - [cargo-edit](#cargo-edit)
-    - [Database](#database)
+    - [数据库](#数据库-1)
       - [cnosdb](#cnosdb)
+    - [操作系统](#操作系统)
+      - [Bottlerocket OS](#bottlerocket-os)
+    - [编译器](#编译器)
+      - [Starlight](#starlight)
   - [Community](#community)
   - [Incident](#incident)
   - [Note](#note)
@@ -510,6 +519,16 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 代码仓库：[fdehau/tui-rs: Build terminal user interfaces and dashboards using Rust (github.com)](https://github.com/fdehau/tui-rs)
 
+### CLI
+
+#### commander
+
+![stars](https://img.shields.io/github/stars/tickbh/Commander?style=flat) ![GitHub](https://img.shields.io/github/license/tickbh/Commander)
+
+> Rust 命令行工具的完整解决方案。
+
+代码仓库：[tickbh/Commander: Provide Rust Commander Convert From Env (github.com)](https://github.com/tickbh/Commander)
+
 ### 游戏开发
 
 #### Bevy
@@ -787,6 +806,16 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > 支持各种编码（具有编码功能）、命名空间解析、特殊字符。
 
 代码仓库：[tafia/quick-xml: Rust high performance xml reader and writer (github.com)](https://github.com/tafia/quick-xml)
+
+### 配置解析
+
+#### config-rs
+
+![stars](https://img.shields.io/github/stars/mehcode/config-rs?style=flat) ![GitHub](https://img.shields.io/github/license/mehcode/config-rs)
+
+> Rust 应用程序的分层配置系统。
+
+代码仓库：[mehcode/config-rs: ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). (github.com)](https://github.com/mehcode/config-rs)
 
 ### 日期处理
 
@@ -1077,6 +1106,14 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 代码仓库：[nashaofu/screenshots-rs: A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland). (github.com)](https://github.com/nashaofu/screenshots-rs)
 
+#### execute
+
+![stars](https://img.shields.io/github/stars/magiclen/execute?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/execute)
+
+> 这个库用于扩展 Command，以便更容易地执行程序。
+
+代码仓库：[magiclen/execute: A library for extending `Command` in order to execute programs more easily. (github.com)](https://github.com/magiclen/execute)
+
 ## Applications
 
 > 用 Rust 编写的一些实用的应用软件。
@@ -1201,7 +1238,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 代码仓库：[killercup/cargo-edit: A utility for managing cargo dependencies from the command line. (github.com)](https://github.com/killercup/cargo-edit)
 
-### Database
+### 数据库
 
 #### cnosdb
 
@@ -1210,6 +1247,26 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > 一个具有高性能、高压缩率和高实用性的开源分布式时间序列数据库。
 
 仓库地址：[cnosdb/README_CN.md at main · cnosdb/cnosdb (github.com)](https://github.com/cnosdb/cnosdb/blob/main/README_CN.md)
+
+### 操作系统
+
+#### Bottlerocket OS
+
+![stars](https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=flat) ![GitHub](https://img.shields.io/github/license/bottlerocket-os/bottlerocket)
+
+> 一个为托管容器而设计的操作系统
+
+代码仓库：[bottlerocket-os/bottlerocket: An operating system designed for hosting containers (github.com)](https://github.com/bottlerocket-os/bottlerocket)
+
+### 编译器
+
+#### Starlight
+
+![stars](https://img.shields.io/github/stars/Starlight-JS/starlight?style=flat) ![GitHub](https://img.shields.io/github/license/Starlight-JS/starlight)
+
+> Rust 中的 JS 引擎
+
+代码仓库：[Starlight-JS/starlight: JS engine in Rust (github.com)](https://github.com/Starlight-JS/starlight)
 
 ## Community
 

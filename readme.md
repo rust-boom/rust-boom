@@ -142,6 +142,9 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [Bottlerocket OS](#bottlerocket-os)
     - [编译器](#编译器)
       - [Starlight](#starlight)
+    - [搜索引擎](#搜索引擎)
+      - [MeiliSearch](#meilisearch)
+      - [sonic](#sonic)
   - [Community](#community)
   - [Incident](#incident)
   - [Note](#note)
@@ -1290,6 +1293,30 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > Rust 中的 JS 引擎
 
 代码仓库：[Starlight-JS/starlight: JS engine in Rust (github.com)](https://github.com/Starlight-JS/starlight)
+
+### 搜索引擎
+
+#### MeiliSearch
+
+![stars](https://img.shields.io/github/stars/meilisearch/MeiliSearch?style=flat) ![GitHub](https://img.shields.io/github/license/meilisearch/MeiliSearch)
+
+> ⚡ 一个闪电般快速的搜索引擎，可轻松融入您的应用、网站和工作流程.
+>
+> 一个即时搜索引擎，知乎上说好像处理大规模数据不太快，具体需要自己试试。
+
+文档仓库：[Quick start | Meilisearch Documentation v0.28](https://docs.meilisearch.com/learn/getting_started/quick_start.html)
+
+代码仓库：[meilisearch/meilisearch: A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. (github.com)](https://github.com/meilisearch/MeiliSearch)
+
+#### sonic
+
+![stars](https://img.shields.io/github/stars/valeriansaliou/sonic?style=flat) ![GitHub](https://img.shields.io/github/license/valeriansaliou/sonic)
+
+> Sonic 是一个快速、轻量级和无模式的搜索后端。它引入搜索文本和标识符元组，然后可以在微秒的时间内查询这些文本和标识符元组。
+>
+> 据说是比 Elasticsearch 快。
+
+代码仓库：[valeriansaliou/sonic：🦔 快速，轻量级和无模式的搜索后端。Elasticsearch 的替代方案，运行在几 MB 的 RAM 上。 (github.com)](https://github.com/valeriansaliou/sonic)
 
 ## Community
 

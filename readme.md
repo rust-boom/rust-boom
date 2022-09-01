@@ -32,6 +32,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rust Unstable Book (不稳定特性书)](#rust-unstable-book-不稳定特性书)
     - [Rust 版本指南](#rust-版本指南)
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
+    - [inside-rust-std-library (标准库手册帮助文档)](#inside-rust-std-library-标准库手册帮助文档)
+    - [Cargo 中文文档](#cargo-中文文档)
     - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
   - [Video](#video)
   - [Article](#article)
@@ -375,6 +377,25 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > 默认情况下，`std` 可用于所有 Rust crates。因此，可以通过 [`use`](https://rustwiki.org/zh-CN/book/ch07-02-defining-modules-to-control-scope-and-privacy.html) 语句使用路径 `std` 来访问标准库，就像在 [`use std::env`](https://rustwiki.org/zh-CN/std/env/index.html) 中一样。
 
 在线文档：[std - Rust (rustwiki.org)](https://rustwiki.org/zh-CN/std/)
+
+### inside-rust-std-library (标准库手册帮助文档)
+
+![stars](https://img.shields.io/github/stars/Warrenren/inside-rust-std-library?style=flat) ![GitHub](https://img.shields.io/github/license/Warrenren/inside-rust-std-library)
+
+> 本书主要对 RUST 的标准库代码进行分析。
+> 本书尽可能给读者找出一条标准库代码的阅读脉络。同时，分析不仅仅针对代码的功能，也针对代码背后的需求及若干代码设计的思路。
+
+文档仓库：[Warrenren/inside-rust-std-library: 本书主要对 RUST 的标准库代码进行分析，并试图给出 RUST 标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code. (github.com)](https://github.com/Warrenren/inside-rust-std-library)
+
+### Cargo 中文文档
+
+![stars](https://img.shields.io/github/stars/rust-lang-cn/cargo-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/cargo-cn)
+
+> 本目录包含 Cargo 的文档，包含两部分，一是使用 [mdbook](https://github.com/rust-lang/mdBook) 构建的[《Cargo 手册》](https://doc.rust-lang.org/cargo/)，二是使用 [mdman](https://github.com/rust-lang/cargo/tree/master/crates/mdman/) 构建的帮助手册（man 手册）。
+
+在线文档：[简介 - Cargo 手册 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/cargo/)
+
+文档仓库：[rust-lang-cn/cargo-cn: Cargo 手册——Chinese translation of The Cargo Documentation (github.com)](https://github.com/rust-lang-cn/cargo-cn)
 
 ### Rustt 一个优秀 Rust 文档翻译仓库
 

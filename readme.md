@@ -121,6 +121,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [pandoc_ast](#pandoc_ast)
     - [自动化](#自动化)
       - [headless_chrome](#headless_chrome)
+      - [enigo](#enigo)
     - [系统相关](#系统相关)
       - [screenshots](#screenshots)
       - [execute](#execute)
@@ -1121,6 +1122,14 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > - 扩展预加载
 
 代码仓库：[atroche/rust-headless-chrome: A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team. (github.com)](https://github.com/atroche/rust-headless-chrome)
+
+#### enigo
+
+![stars](https://img.shields.io/github/stars/enigo-rs/enigo?style=flat) ![GitHub](https://img.shields.io/github/license/enigo-rs/enigo)
+
+> Rust 中的跨平台输入模拟。
+
+代码仓库：[enigo-rs/enigo: Cross platform input simulation in Rust (github.com)](https://github.com/enigo-rs/enigo)
 
 ### 系统相关
 

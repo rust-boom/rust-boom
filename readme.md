@@ -40,8 +40,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
   - [DevTools](#devtools)
     - [IDE](#ide)
       - [VSCode（首推）](#vscode首推)
-    - [Cargo 工具](#cargo-工具)
+    - [Cargo 命令](#cargo-命令)
       - [cargo-edit](#cargo-edit)
+      - [cargo-watch](#cargo-watch)
   - [Framework](#framework)
     - [GUI](#gui)
       - [Tarui](#tarui)
@@ -120,6 +121,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [pdf-rs](#pdf-rs)
       - [calamine](#calamine)
       - [docx-rs](#docx-rs)
+      - [Polars](#polars)
     - [AST](#ast)
       - [pandoc_ast](#pandoc_ast)
     - [自动化](#自动化)
@@ -133,6 +135,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [AppFlowy](#appflowy)
       - [Lapce](#lapce)
       - [Neovide](#neovide)
+      - [Helix](#helix)
     - [远程控制](#远程控制)
       - [Rustdesk](#rustdesk)
     - [Git 工具](#git-工具)
@@ -1115,6 +1118,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[bokuweb/docx-rs: A .docx file writer with Rust/WebAssembly. (github.com)](https://github.com/bokuweb/docx-rs)
 
+#### Polars
+
+![stars](https://img.shields.io/github/stars/pola-rs/polars?style=flat) ![GitHub](https://img.shields.io/github/license/pola-rs/polars)
+
+> Polars 是使用 Apache Arrow Columnar Format 作为内存模型在 Rust 中实现的速度极快的 DataFrames 库。
+>
+> 应该是一个可以读取 csv 查询处理的库。
+
+代码仓库：[pola-rs/polars: Fast multi-threaded DataFrame library in Rust | Python | Node.js (github.com)](https://github.com/pola-rs/polars)
+
 ### AST
 
 #### pandoc_ast
@@ -1210,6 +1223,17 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > [![Basic Screen Cap](https://github.com/neovide/neovide/raw/main/assets/BasicScreenCap.png)](https://github.com/neovide/neovide/blob/main/assets/BasicScreenCap.png)
 
 仓库链接：[neovide/neovide: No Nonsense Neovim Client in Rust (github.com)](https://github.com/neovide/neovide)
+
+#### Helix
+
+![stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat) ![GitHub](https://img.shields.io/github/license/helix-editor/helix)
+
+> 一个受 kakoune/neovim 启发的编辑器，用 Rust 编写。
+> 编辑模型在很大程度上是基于 kakoune；在开发过程中，我发现自己同意 kakoune 的大部分设计决定。
+>
+> ![Screenshot](https://github.com/helix-editor/helix/raw/master/screenshot.png)
+
+代码仓库：[helix-editor/helix: A post-modern modal text editor. (github.com)](https://github.com/helix-editor/helix)
 
 ### 远程控制
 

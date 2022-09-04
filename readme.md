@@ -460,20 +460,23 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 - [Cargo - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=panicbit.cargo)
 - [crates - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
 
-### Cargo 工具
+### Cargo 命令
 
 #### cargo-edit
 
 ![stars](https://img.shields.io/github/stars/killercup/cargo-edit?style=flat) ![GitHub](https://img.shields.io/github/license/killercup/cargo-edit)
 
 > 该工具扩展了 Cargo，允许您通过从命令行修改 Cargo.toml 文件来添加、删除和升级依赖项。
-> 当前可用的子命令：
->
-> - [`cargo rm`](https://github.com/killercup/cargo-edit#cargo-rm)
-> - [`cargo upgrade`](https://github.com/killercup/cargo-edit#cargo-upgrade)
-> - [`cargo set-version`](https://github.com/killercup/cargo-edit#cargo-set-version)
 
 代码仓库：[killercup/cargo-edit: A utility for managing cargo dependencies from the command line. (github.com)](https://github.com/killercup/cargo-edit)
+
+#### cargo-watch
+
+![stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub](https://img.shields.io/github/license/watchexec/cargo-watch)
+
+> Cargo Watch 是一个监视基于 Cargo 的项目并在文件更改时运行命令的工具。它专注于 Rust 开发体验，旨在足够灵活以适应大多数人，而不会变得复杂使用。
+
+代码仓库：[watchexec/cargo-watch: Watches over your Cargo project's source. (github.com)](https://github.com/watchexec/cargo-watch)
 
 ## Framework
 

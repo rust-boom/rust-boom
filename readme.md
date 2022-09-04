@@ -5,7 +5,7 @@
 
 # Rust Boom 💥
 
-Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
+Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
 
 ## TOC
 
@@ -37,8 +37,11 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
     - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
   - [Video](#video)
   - [Article](#article)
-  - [IDE](#ide)
-    - [VSCode（首推）](#vscode首推)
+  - [DevTools](#devtools)
+    - [IDE](#ide)
+      - [VSCode（首推）](#vscode首推)
+    - [Cargo 工具](#cargo-工具)
+      - [cargo-edit](#cargo-edit)
   - [Framework](#framework)
     - [GUI](#gui)
       - [Tarui](#tarui)
@@ -126,17 +129,18 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
       - [screenshots](#screenshots)
       - [execute](#execute)
   - [Applications](#applications)
-    - [GUI](#gui-1)
+    - [文本编辑器](#文本编辑器)
       - [AppFlowy](#appflowy)
       - [Lapce](#lapce)
       - [Neovide](#neovide)
+    - [远程控制](#远程控制)
       - [Rustdesk](#rustdesk)
-    - [TUI](#tui-1)
+    - [Git 工具](#git-工具)
       - [GitUI](#gitui)
-    - [CLI](#cli-1)
+    - [内网穿透](#内网穿透)
       - [bore](#bore)
+    - [代码分析](#代码分析)
       - [cloc-rs](#cloc-rs)
-      - [cargo-edit](#cargo-edit)
     - [数据库](#数据库-1)
       - [cnosdb](#cnosdb)
     - [操作系统](#操作系统)
@@ -439,11 +443,13 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 - [【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)](https://rustcc.cn/article?id=2b1703cc-36f9-4dfc-a70a-09dd67a207ab)
 - [用 Rust 写一个容器|Writing a container in Rust | Blog of Litchi Pi](https://litchipi.github.io/series/container_in_rust)
 
-## IDE
+## DevTools
 
-> 推荐一些小编用过的编辑器
+> 推荐一些小编用过开发工具
 
-### VSCode（首推）
+### IDE
+
+#### VSCode（首推）
 
 > 目前开发 Rust 最好的编辑器，需要安装插件。
 
@@ -453,6 +459,21 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 - [Better TOML - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 - [Cargo - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=panicbit.cargo)
 - [crates - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
+
+### Cargo 工具
+
+#### cargo-edit
+
+![stars](https://img.shields.io/github/stars/killercup/cargo-edit?style=flat) ![GitHub](https://img.shields.io/github/license/killercup/cargo-edit)
+
+> 该工具扩展了 Cargo，允许您通过从命令行修改 Cargo.toml 文件来添加、删除和升级依赖项。
+> 当前可用的子命令：
+>
+> - [`cargo rm`](https://github.com/killercup/cargo-edit#cargo-rm)
+> - [`cargo upgrade`](https://github.com/killercup/cargo-edit#cargo-upgrade)
+> - [`cargo set-version`](https://github.com/killercup/cargo-edit#cargo-set-version)
+
+代码仓库：[killercup/cargo-edit: A utility for managing cargo dependencies from the command line. (github.com)](https://github.com/killercup/cargo-edit)
 
 ## Framework
 
@@ -1153,7 +1174,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 > 用 Rust 编写的一些实用的应用软件。
 
-### GUI
+### 文本编辑器
 
 #### AppFlowy
 
@@ -1187,6 +1208,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 仓库链接：[neovide/neovide: No Nonsense Neovim Client in Rust (github.com)](https://github.com/neovide/neovide)
 
+### 远程控制
+
 #### Rustdesk
 
 ![stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat) ![GitHub](https://img.shields.io/github/license/rustdesk/rustdesk)
@@ -1197,7 +1220,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 仓库链接：[rustdesk/rustdesk：为每个人提供开源虚拟/远程桌面基础架构！开源的 TeamViewer 替代方案。显示和控制您的 PC 和安卓设备。 (github.com)](https://github.com/rustdesk/rustdesk)
 
-### TUI
+### Git 工具
 
 #### GitUI
 
@@ -1209,7 +1232,7 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 
 代码仓库：[extrawurst/gitui: Blazing 💥 fast terminal-ui for git written in rust 🦀 (github.com)](https://github.com/extrawurst/gitui)
 
-### CLI
+### 内网穿透
 
 #### bore
 
@@ -1220,6 +1243,8 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > [![Video demo](https://camo.githubusercontent.com/895c0a44b8f14a929f4efbeda90eeb4149610a901f85ef03f50a3cbfacabbb76/68747470733a2f2f692e696d6775722e636f6d2f76446547736d782e676966)](https://camo.githubusercontent.com/895c0a44b8f14a929f4efbeda90eeb4149610a901f85ef03f50a3cbfacabbb76/68747470733a2f2f692e696d6775722e636f6d2f76446547736d782e676966)
 
 代码仓库：[ekzhang/bore: 🕳 bore is a simple CLI tool for making tunnels to localhost (github.com)](https://github.com/ekzhang/bore)
+
+### 代码分析
 
 #### cloc-rs
 
@@ -1259,19 +1284,6 @@ Rust Boom 是一个我在学习使用 Rust 的时候，对 Rust 的一些难点�
 > ```
 
 代码仓库：[ltoddy/cloc-rs: Count, or compute differences of, lines of source code and comments fastly. (github.com)](https://github.com/ltoddy/cloc-rs)
-
-#### cargo-edit
-
-![stars](https://img.shields.io/github/stars/killercup/cargo-edit?style=flat) ![GitHub](https://img.shields.io/github/license/killercup/cargo-edit)
-
-> 该工具扩展了 Cargo，允许您通过从命令行修改 Cargo.toml 文件来添加、删除和升级依赖项。
-> 当前可用的子命令：
->
-> - [`cargo rm`](https://github.com/killercup/cargo-edit#cargo-rm)
-> - [`cargo upgrade`](https://github.com/killercup/cargo-edit#cargo-upgrade)
-> - [`cargo set-version`](https://github.com/killercup/cargo-edit#cargo-set-version)
-
-代码仓库：[killercup/cargo-edit: A utility for managing cargo dependencies from the command line. (github.com)](https://github.com/killercup/cargo-edit)
 
 ### 数据库
 

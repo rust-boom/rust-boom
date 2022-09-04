@@ -1220,7 +1220,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 这是 Neovim（一个经过积极重构和更新的 Vim 编辑器）的简单图形用户界面。在可能的情况下，有一些图形改进，但在功能上，它应该像终端用户界面一样。
 >
-> [![Basic Screen Cap](https://github.com/neovide/neovide/raw/main/assets/BasicScreenCap.png)](https://github.com/neovide/neovide/blob/main/assets/BasicScreenCap.png)
+> ![Screenshot of Neovide](https://github.com/neovide/neovide/raw/main/website/docs/assets/BasicScreenCap.png)
 
 仓库链接：[neovide/neovide: No Nonsense Neovim Client in Rust (github.com)](https://github.com/neovide/neovide)
 

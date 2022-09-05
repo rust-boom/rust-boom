@@ -130,6 +130,11 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [系统相关](#系统相关)
       - [screenshots](#screenshots)
       - [execute](#execute)
+    - [机器学习](#机器学习)
+      - [neuronika](#neuronika)
+    - [语言绑定 (FFI)](#语言绑定-ffi)
+      - [cbindgen](#cbindgen)
+      - [PyO3](#pyo3)
   - [Applications](#applications)
     - [文本编辑器](#文本编辑器)
       - [AppFlowy](#appflowy)
@@ -153,6 +158,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [搜索引擎](#搜索引擎)
       - [MeiliSearch](#meilisearch)
       - [sonic](#sonic)
+    - [系统工具](#系统工具)
+      - [RustScan](#rustscan)
   - [Community](#community)
   - [Incident](#incident)
   - [Note](#note)
@@ -1186,6 +1193,34 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[magiclen/execute: A library for extending `Command` in order to execute programs more easily. (github.com)](https://github.com/magiclen/execute)
 
+### 机器学习
+
+#### neuronika
+
+![stars](https://img.shields.io/github/stars/neuronika/neuronika?style=flat) ![GitHub](https://img.shields.io/github/license/neuronika/neuronika)
+
+> 纯 Rust 中的张量和动态神经网络。
+
+代码仓库：[neuronika/neuronika: Tensors and dynamic neural networks in pure Rust. (github.com)](https://github.com/neuronika/neuronika)
+
+### 语言绑定 (FFI)
+
+#### cbindgen
+
+![stars](https://img.shields.io/github/stars/eqrion/cbindgen?style=flat) ![GitHub](https://img.shields.io/github/license/reqrion/cbindgen)
+
+> 从 Rust 代码生成 C 绑定的项目。
+
+代码仓库：[eqrion/cbindgen: A project for generating C bindings from Rust code (github.com)](https://github.com/eqrion/cbindgen)
+
+#### PyO3
+
+![stars](https://img.shields.io/github/stars/PyO3/PyO3?style=flat) ![GitHub](https://img.shields.io/github/license/PyO3/PyO3)
+
+> Python 的 Rust 绑定，包括用于创建本机 Python 扩展模块的工具。还支持从 Rust 二进制文件运行 Python 代码并与之交互。
+
+代码仓库：[PyO3/pyo3: Rust bindings for the Python interpreter (github.com)](https://github.com/PyO3/PyO3)
+
 ## Applications
 
 > 用 Rust 编写的一些实用的应用软件。
@@ -1365,6 +1400,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 据说是比 Elasticsearch 快。
 
 代码仓库：[valeriansaliou/sonic：🦔 快速，轻量级和无模式的搜索后端。Elasticsearch 的替代方案，运行在几 MB 的 RAM 上。 (github.com)](https://github.com/valeriansaliou/sonic)
+
+### 系统工具
+
+#### RustScan
+
+![stars](https://img.shields.io/github/stars/RustScan/RustScan?style=flat) ![GitHub](https://img.shields.io/github/license/RustScan/RustScan)
+
+> 现代端口扫描程序。**快速查找端口（最快 3 秒）。**
+
+代码仓库：[RustScan/Rustscan：🤖 现代端口扫描仪 🤖 (github.com)](https://github.com/RustScan/RustScan)
 
 ## Community
 

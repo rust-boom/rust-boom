@@ -45,7 +45,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [cargo-watch](#cargo-watch)
   - [Framework](#framework)
     - [GUI](#gui)
-      - [Tarui](#tarui)
+      - [Tauri](#tauri)
       - [egui](#egui)
       - [fltk-rs](#fltk-rs)
       - [iced](#iced)
@@ -495,7 +495,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ### GUI
 
-#### Tarui
+#### Tauri
 
 ![stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat) ![GitHub](https://img.shields.io/github/license/tauri-apps/tauri)
 

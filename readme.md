@@ -1432,6 +1432,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 徽章来自：[Shields.io: Quality metadata badges for open source projects](https://shields.io/category/license)
 
+该组织的其他仓库均为 fork 的资源备份仓库，以防止主仓库出现意外，后面可能会使用 Github Action 进行定期拉取更新。
+
 如果你有自己用 Rust 开发的软件或者推荐的资源都可以提交 PR，在这里感谢所有为 Rust 生态贡献的开发者，因为只有越来越丰富的生态才能吸引更多的人来学习使用 Rust。
 
 最后希望 Rust 越来越牛 X。

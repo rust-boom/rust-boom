@@ -127,6 +127,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [自动化](#自动化)
       - [headless_chrome](#headless_chrome)
       - [enigo](#enigo)
+      - [InputBot](#inputbot)
     - [系统相关](#系统相关)
       - [screenshots](#screenshots)
       - [execute](#execute)
@@ -533,6 +534,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 代码仓库：[fltk-rs/fltk-rs: Rust bindings for the FLTK GUI library. (github.com)](https://github.com/fltk-rs/fltk-rs)
 
 在线文档：[Home - fltk book (fltk-rs.github.io)](https://fltk-rs.github.io/fltk-book/)
+
+中文文档：[Flatigers/fltk-book-zh: An mdbook for fltk-rs, translated into Chinese.中文翻译版 fltk-rs 的一本书 (github.com)](https://github.com/Flatigers/fltk-book-zh)
 
 #### iced
 
@@ -1177,6 +1180,15 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Rust 中的跨平台输入模拟。
 
 代码仓库：[enigo-rs/enigo: Cross platform input simulation in Rust (github.com)](https://github.com/enigo-rs/enigo)
+
+#### InputBot
+
+![stars](https://img.shields.io/github/stars/obv-mikhail/InputBot?style=flat) ![GitHub](https://img.shields.io/github/license/obv-mikhail/InputBot)
+
+> 用于模拟键盘/鼠标输入事件和注册全局输入设备事件处理程序的跨平台（Windows 和 Linux）库。
+> 允许编写将长动作序列折叠成单个按键的自动化程序。
+
+代码仓库：[obv-mikhail/InputBot: A Rust library for creating global hotkeys, and emulating inputs. (github.com)](https://github.com/obv-mikhail/InputBot)
 
 ### 系统相关
 

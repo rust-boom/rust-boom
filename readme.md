@@ -160,6 +160,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [sonic](#sonic)
     - [系统工具](#系统工具)
       - [RustScan](#rustscan)
+    - [视频工具](#视频工具)
+      - [biliup-rs](#biliup-rs)
   - [Community](#community)
   - [Incident](#incident)
   - [Note](#note)
@@ -1411,6 +1413,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 现代端口扫描程序。**快速查找端口（最快 3 秒）。**
 
 代码仓库：[RustScan/Rustscan：🤖 现代端口扫描仪 🤖 (github.com)](https://github.com/RustScan/RustScan)
+
+### 视频工具
+
+#### biliup-rs
+
+![stars](https://img.shields.io/github/stars/ForgQi/biliup-rs?style=flat) ![GitHub](https://img.shields.io/github/license/ForgQi/biliup-rs)
+
+> 命令行投稿(B 站)和视频下载工具，提供多种登录方式，支持多 p、上海腾讯云内网上传免流+大幅提速。
+
+代码仓库：[ForgQi/biliup-rs: 命令行投稿(B 站)和视频下载工具，提供多种登录方式，支持多 p、上海腾讯云内网上传免流+大幅提速。 (github.com)](https://github.com/ForgQi/biliup-rs)
 
 ## Community
 

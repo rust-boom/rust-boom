@@ -51,6 +51,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [iced](#iced)
       - [druid](#druid)
       - [Dioxus](#dioxus)
+      - [Vizia](#vizia)
     - [TUI](#tui)
       - [tui-rs](#tui-rs)
     - [CLI](#cli)
@@ -573,6 +574,23 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 代码仓库：[DioxusLabs/dioxus: Friendly React-like GUI library for desktop, web, mobile, and more. (github.com)](https://github.com/DioxusLabs/dioxus)
 
 中文文档：[dioxus/ZH_CN.md at master · DioxusLabs/dioxus (github.com)](https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md)
+
+#### Vizia
+
+![stars](https://img.shields.io/github/stars/vizia/vizia?style=flat) ![GitHub](https://img.shields.io/github/license/vizia/vizia)
+
+> Vizia 是 Rust 编程语言的声明式 GUI 框架。
+>
+> - 多平台（Windows, Linux, MacOS, Web）
+> - 声明性的 API
+> - 反应式事件驱动的数据系统
+> - 灵活的布局引擎，由 morphorm 驱动
+> - GPU 渲染，由 femtovg 提供支持
+> - 具有热重载功能的 CSS 样式设计
+> - 动画
+> - 音频插件 GUI 开发
+
+代码仓库：[vizia/vizia: A declarative GUI library written in Rust (github.com)](https://github.com/vizia/vizia)
 
 ### TUI
 

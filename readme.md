@@ -141,6 +141,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Speedy2D](#speedy2d)
       - [wgpu](#wgpu)
       - [glium](#glium)
+    - [日志库](#日志库)
+      - [vector](#vector)
   - [Applications](#applications)
     - [文本编辑器](#文本编辑器)
       - [AppFlowy](#appflowy)
@@ -1283,6 +1285,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Rust 语言的安全 OpenGL 包装器。
 
 代码仓库：[glium/glium: Safe OpenGL wrapper for the Rust language. (github.com)](https://github.com/glium/glium)
+
+### 日志库
+
+#### vector
+
+![stars](https://img.shields.io/github/stars/vectordotdev/vector?style=flat) ![GitHub](https://img.shields.io/github/license/vectordotdev/vector)
+
+> 高性能可观察性数据管道。
+
+代码仓库：[vectordotdev/vector: A high-performance observability data pipeline. (github.com)](https://github.com/vectordotdev/vector)
 
 ## Applications
 

@@ -137,6 +137,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [语言绑定 (FFI)](#语言绑定-ffi)
       - [cbindgen](#cbindgen)
       - [PyO3](#pyo3)
+    - [图形渲染](#图形渲染)
+      - [Speedy2D](#speedy2d)
+      - [wgpu](#wgpu)
+      - [glium](#glium)
   - [Applications](#applications)
     - [文本编辑器](#文本编辑器)
       - [AppFlowy](#appflowy)
@@ -1253,6 +1257,32 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Python 的 Rust 绑定，包括用于创建本机 Python 扩展模块的工具。还支持从 Rust 二进制文件运行 Python 代码并与之交互。
 
 代码仓库：[PyO3/pyo3: Rust bindings for the Python interpreter (github.com)](https://github.com/PyO3/PyO3)
+
+### 图形渲染
+
+#### Speedy2D
+
+![stars](https://img.shields.io/github/stars/QuantumBadger/Speedy2D?style=flat) ![GitHub](https://img.shields.io/github/license/QuantumBadger/Speedy2D)
+
+> 图形、图像和文本的硬件加速绘图，具有易于使用的 API。
+
+代码仓库：[QuantumBadger/Speedy2D: Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API. (github.com)](https://github.com/QuantumBadger/Speedy2D)
+
+#### wgpu
+
+![stars](https://img.shields.io/github/stars/gfx-rs/wgpu?style=flat) ![GitHub](https://img.shields.io/github/license/gfx-rs/wgpu)
+
+> Rust 中安全且可移植的 GPU 抽象，实现了 WebGPU API。
+
+代码仓库：[gfx-rs/wgpu: Safe and portable GPU abstraction in Rust, implementing WebGPU API. (github.com)](https://github.com/gfx-rs/wgpu)
+
+#### glium
+
+![stars](https://img.shields.io/github/stars/glium/glium?style=flat) ![GitHub](https://img.shields.io/github/license/glium/glium)
+
+> Rust 语言的安全 OpenGL 包装器。
+
+代码仓库：[glium/glium: Safe OpenGL wrapper for the Rust language. (github.com)](https://github.com/glium/glium)
 
 ## Applications
 

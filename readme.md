@@ -143,6 +143,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [glium](#glium)
     - [日志库](#日志库)
       - [vector](#vector)
+    - [RPC 库](#rpc-库)
+      - [Dubbo-rust](#dubbo-rust)
+      - [volo](#volo)
   - [Applications](#applications)
     - [文本编辑器](#文本编辑器)
       - [AppFlowy](#appflowy)
@@ -1295,6 +1298,26 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 高性能可观察性数据管道。
 
 代码仓库：[vectordotdev/vector: A high-performance observability data pipeline. (github.com)](https://github.com/vectordotdev/vector)
+
+### RPC 库
+
+#### Dubbo-rust
+
+![stars](https://img.shields.io/github/stars/apache/dubbo-rust?style=flat) ![GitHub](https://img.shields.io/github/license/apache/dubbo-rust)
+
+> Apache Dubbo-rust, Dubbo RPC 框架的 Rust 实现。
+
+代码仓库：[dubbo-rust/README_CN.md at main · apache/dubbo-rust (github.com)](https://github.com/apache/dubbo-rust)
+
+中文文档：[dubbo-rust/README_CN.md at main · apache/dubbo-rust (github.com)](https://github.com/apache/dubbo-rust/blob/main/README_CN.md)
+
+#### volo
+
+![stars](https://img.shields.io/github/stars/cloudwego/volo?style=flat) ![GitHub](https://img.shields.io/github/license/cloudwego/volo)
+
+> Volo 是一个轻量级、高性能、可扩展性强、易用性好的 Rust RPC 框架，使用了 Rust 最新的 GAT 和 TAIT 特性。
+
+代码仓库：[cloudwego/volo: A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices. (github.com)](https://github.com/cloudwego/volo)
 
 ## Applications
 

@@ -107,6 +107,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [MongoDB Rust Driver](#mongodb-rust-driver)
       - [wither](#wither)
       - [redis-rs](#redis-rs)
+      - [r2d2](#r2d2)
     - [单元测试](#单元测试)
       - [mockall](#mockall)
     - [几何计算](#几何计算)
@@ -1048,6 +1049,14 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Redis-rs 是 Rust 的高级 redis 库。它通过非常灵活但低级的 API 提供对所有 Redis 功能的便捷访问。它使用可自定义的类型转换特征，因此任何操作都可以返回您期望的类型的结果。这带来了非常愉快的开发体验。
 
 代码仓库：[redis-rs/redis-rs: Redis library for rust (github.com)](https://github.com/redis-rs/redis-rs)
+
+#### r2d2
+
+![stars](https://img.shields.io/github/stars/sfackler/r2d2?style=flat) ![GitHub](https://img.shields.io/github/license/sfackler/r2d2)
+
+> Rust 的通用连接池。
+
+代码仓库：[sfackler/r2d2: A generic connection pool for Rust (github.com)](https://github.com/sfackler/r2d2)
 
 ### 单元测试
 

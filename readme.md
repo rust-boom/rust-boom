@@ -191,6 +191,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 - [一篇文章让你彻底理解 Rust 的 Move、Copy、Clone](docs/s1_move_copy_clone/readme.md)
 - [一文让你了解在 Rust 中实现方法重载模式](docs/s2_overload/readme.md)
+- [一文让你在 Rust 中实现多态](docs/s3_dyn_trait/readme.md)
 
 ## Book
 

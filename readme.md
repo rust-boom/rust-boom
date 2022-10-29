@@ -58,6 +58,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [commander](#commander)
     - [游戏开发](#游戏开发)
       - [Bevy](#bevy)
+      - [tetra](#tetra)
+      - [amethyst](#amethyst)
     - [异步运行时](#异步运行时)
       - [Tokio](#tokio)
     - [前端相关](#前端相关)
@@ -142,11 +144,15 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Speedy2D](#speedy2d)
       - [wgpu](#wgpu)
       - [glium](#glium)
+      - [vulkano](#vulkano)
+      - [nannou](#nannou)
     - [日志库](#日志库)
       - [vector](#vector)
     - [RPC 库](#rpc-库)
       - [Dubbo-rust](#dubbo-rust)
       - [volo](#volo)
+    - [SDL](#sdl)
+      - [Rust-SDL2](#rust-sdl2)
   - [Applications](#applications)
     - [文本编辑器](#文本编辑器)
       - [AppFlowy](#appflowy)
@@ -633,6 +639,22 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Bevy 是 Rust 内置的令人耳目一新的简单数据驱动游戏引擎。它永远是免费和开源的！
 
 代码仓库：[bevyengine/bevy: A refreshingly simple data-driven game engine built in Rust (github.com)](https://github.com/bevyengine/bevy)
+
+#### tetra
+
+![stars](https://img.shields.io/github/stars/17cupsofcoffee/tetra?style=flat) ![GitHub](https://img.shields.io/github/license/17cupsofcoffee/tetra)
+
+> Tetra 是一个用 Rust 编写的简单 2D 游戏框架。它使用 SDL2 进行事件处理，使用 OpenGL 3.2+ 进行渲染。
+
+代码仓库：[17cupsofcoffee/tetra: 🎮 A simple 2D game framework written in Rust (github.com)](https://github.com/17cupsofcoffee/tetra)
+
+#### amethyst
+
+![stars](https://img.shields.io/github/stars/amethyst/amethyst?style=flat) ![GitHub](https://img.shields.io/github/license/amethyst/amethyst)
+
+> [该仓库已经不在维护，这里是原因](https://amethyst.rs/posts/amethyst--starting-fresh)
+
+代码仓库：[amethyst/amethyst: Data-oriented and data-driven game engine written in Rust (github.com)](https://github.com/amethyst/amethyst)
 
 ### 异步运行时
 
@@ -1298,6 +1320,29 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[glium/glium: Safe OpenGL wrapper for the Rust language. (github.com)](https://github.com/glium/glium)
 
+#### vulkano
+
+![stars](https://img.shields.io/github/stars/vulkano-rs/vulkano?style=flat) ![GitHub](https://img.shields.io/github/license/vulkano-rs/vulkano)
+
+> Vulkan 由 OpenGL 所在的行业组织开发，于 2016 年首次发布，当前版本为 1.1。如果 OpenGL 是 GPU Javascript，那 Vulkan 就是 GPU C。*更*底层级，*更*更广泛的用途，和（潜在的）比 OpenGL *更*容易编写快速代码。当然，多数时候这也可能不是你想*直接地*使用的东西，因为它真的非常具体且冗长。它不是一个图形 API，而是一个与 GPU 对话的接口；而实际的图形 API 是您使用 Vulkan，来创建的。
+>
+> [2019Rust 图形库之路(译) —— ggez 作者 (llever.com)](https://llever.com/2020/02/24/2019rust图形库之路译-ggez-作者/)
+
+代码仓库：[vulkano-rs/vulkano：围绕 Vulkan API 的安全且丰富的 Rust 包装器 (github.com)](https://github.com/vulkano-rs/vulkano)
+
+#### nannou
+
+![stars](https://img.shields.io/github/stars/nannou-org/nannou?style=flat) ![GitHub](https://img.shields.io/github/license/nannou-org/nannou)
+
+> Rust 的开源创意编码工具包。
+> nannou 是一组代码，旨在使艺术家能够轻松地用简单、快速、可靠、可移植的代码表达自己。无论是进行 12 个月的安装还是 5 分钟的草图，该框架旨在让艺术家轻松访问他们需要的工具。
+>
+> 简单说他不是一个库是一个堆库的集合，包括图形渲染、声音播放等等。
+
+代码仓库：[nannou-org/nannou: A Creative Coding Framework for Rust. (github.com)](https://github.com/nannou-org/nannou)
+
+官方网站：[首页 |南诺 (nannou.cc)](https://nannou.cc/)
+
 ### 日志库
 
 #### vector
@@ -1327,6 +1372,18 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Volo 是一个轻量级、高性能、可扩展性强、易用性好的 Rust RPC 框架，使用了 Rust 最新的 GAT 和 TAIT 特性。
 
 代码仓库：[cloudwego/volo: A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices. (github.com)](https://github.com/cloudwego/volo)
+
+### SDL
+
+> [SDL（开放源代码的跨平台多媒体开发库）\_百度百科 (baidu.com)](https://baike.baidu.com/item/SDL/224181)
+
+#### Rust-SDL2
+
+![stars](https://img.shields.io/github/stars/Rust-SDL2/rust-sdl2?style=flat) ![GitHub](https://img.shields.io/github/license/Rust-SDL2/rust-sdl2)
+
+> Rust 中 SDL2 的绑定。
+
+代码仓库：[Rust-SDL2/rust-sdl2: SDL2 bindings for Rust (github.com)](https://github.com/Rust-SDL2/rust-sdl2)
 
 ## Applications
 

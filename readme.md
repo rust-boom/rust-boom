@@ -127,6 +127,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [docx-rs](#docx-rs)
       - [Polars](#polars)
     - [AST](#ast)
+      - [antlr-rust](#antlr-rust)
       - [pandoc_ast](#pandoc_ast)
     - [自动化](#自动化)
       - [headless_chrome](#headless_chrome)
@@ -1201,6 +1202,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 代码仓库：[pola-rs/polars: Fast multi-threaded DataFrame library in Rust | Python | Node.js (github.com)](https://github.com/pola-rs/polars)
 
 ### AST
+
+#### antlr-rust
+
+![stars](https://img.shields.io/github/stars/rrevenantt/antlr4rust?style=flat) ![GitHub](https://img.shields.io/github/license/rrevenantt/antlr4rust)
+
+> Rust 编程语言的 Antlr4 运行时。
+>
+> [Antlr4](https://github.com/antlr/antlr4) 是一个强大的语言分析器可以把目前绝大多数的语言解析成 ast 结构。你也可以用这个来创造自己的语言。
+
+代码仓库：[rrevenantt/antlr4rust: ANTLR4 parser generator runtime for Rust programming laguage (github.com)](https://github.com/rrevenantt/antlr4rust)
 
 #### pandoc_ast
 

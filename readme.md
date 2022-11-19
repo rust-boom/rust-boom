@@ -28,6 +28,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [Rust API 编写指南 中文版](#rust-api-编写指南-中文版)
     - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
     - [嵌入式 Rust 编程](#嵌入式-rust-编程)
+    - [TheAlgorithms(Rust 算法例子)](#thealgorithmsrust-算法例子)
     - [Rust RFC Book (提案书)](#rust-rfc-book-提案书)
     - [Rust Unstable Book (不稳定特性书)](#rust-unstable-book-不稳定特性书)
     - [Rust 版本指南](#rust-版本指南)
@@ -381,6 +382,14 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 在线文档：[简介 - The Embedded Rust Book (stevenbai.top)](https://stevenbai.top/rustbook/book/)
 
 文档仓库：[nkbai/book: rust 嵌入式编程书籍的翻译，原书地址 https://rust-embedded.github.io/book/](https://github.com/nkbai/book)
+
+### TheAlgorithms(Rust 算法例子)
+
+![stars](https://img.shields.io/github/stars/TheAlgorithms/Rust?style=flat) ![GitHub](https://img.shields.io/github/license/TheAlgorithms/Rust)
+
+> 所有算法在 Rust 中实现
+
+文档仓库：[TheAlgorithms/Rust: All Algorithms implemented in Rust (github.com)](https://github.com/TheAlgorithms/Rust)
 
 ### Rust RFC Book (提案书)
 

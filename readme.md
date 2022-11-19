@@ -147,6 +147,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [glium](#glium)
       - [vulkano](#vulkano)
       - [nannou](#nannou)
+      - [raqote](#raqote)
     - [日志库](#日志库)
       - [vector](#vector)
     - [RPC 库](#rpc-库)
@@ -1355,6 +1356,14 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 代码仓库：[nannou-org/nannou: A Creative Coding Framework for Rust. (github.com)](https://github.com/nannou-org/nannou)
 
 官方网站：[首页 |南诺 (nannou.cc)](https://nannou.cc/)
+
+#### raqote
+
+![stars](https://img.shields.io/github/stars/jrmuizel/raqote?style=flat) ![GitHub](https://img.shields.io/github/license/jrmuizel/raqote)
+
+> 一个纯 Rust 的 2D 图形库。
+
+代码仓库：[jrmuizel/raqote: Rust 2D graphics library (github.com)](https://github.com/jrmuizel/raqote)
 
 ### 日志库
 

@@ -16,6 +16,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [Rust 语言圣经中文版](#rust-语言圣经中文版)
     - [Rust 程序设计语言中文版](#rust-程序设计语言中文版)
     - [通过例子学 Rust 中文版](#通过例子学-rust-中文版)
+    - [谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)](#谷歌开源的-rust-教程-comprehensive-rust-)
     - [RustPrimer](#rustprimer)
     - [Rust 秘典中文版](#rust-秘典中文版)
     - [Rust 参考手册 中文版](#rust-参考手册-中文版)
@@ -129,9 +130,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Polars](#polars)
     - [AST](#ast)
       - [antlr-rust](#antlr-rust)
-      - [pandoc_ast](#pandoc_ast)
+      - [pandoc\_ast](#pandoc_ast)
     - [自动化](#自动化)
-      - [headless_chrome](#headless_chrome)
+      - [headless\_chrome](#headless_chrome)
       - [enigo](#enigo)
       - [InputBot](#inputbot)
     - [系统相关](#系统相关)
@@ -243,6 +244,14 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 在线文档：[简介 - 通过例子学 Rust 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/rust-by-example/)
 
 文档仓库：[rust-lang-cn/rust-by-example-cn: Rust By Example 中文版(包含在线代码编辑器) (github.com)](https://github.com/rust-lang-cn/rust-by-example-cn)
+
+### 谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)
+
+> 这个资源库有 Comprehensive Rust 的源代码，这是由 Android 团队开发的为期四天的 Rust 课程。该课程涵盖了 Rust 的所有方面，从基本语法到泛型和错误处理。它还包括最后一天的 Android 特定内容。
+
+在线文档：[Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀 (google.github.io)](https://google.github.io/comprehensive-rust/)
+
+文档仓库：[google/comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (github.com)](https://github.com/google/comprehensive-rust)
 
 ### RustPrimer
 

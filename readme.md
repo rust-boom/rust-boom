@@ -157,6 +157,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [volo](#volo)
     - [SDL](#sdl)
       - [Rust-SDL2](#rust-sdl2)
+    - [辅助工具库](#辅助工具库)
+      - [educe](#educe)
   - [Applications](#applications)
     - [文本编辑器](#文本编辑器)
       - [AppFlowy](#appflowy)
@@ -1433,7 +1435,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ![stars](https://img.shields.io/github/stars/magiclen/educe?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/educe)
 
-> 这个crate提供了程序宏，帮助您快速实现Rust内置特性。
+> 这个 crate 提供了程序宏，帮助您快速实现 Rust 内置特性。
 >
 > 说人话就是，一个对 Debug、Default、Hash、Clone、Copy 系统自带宏的扩展补充，挺好用。
 

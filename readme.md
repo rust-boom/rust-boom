@@ -1427,6 +1427,18 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[Rust-SDL2/rust-sdl2: SDL2 bindings for Rust (github.com)](https://github.com/Rust-SDL2/rust-sdl2)
 
+### 辅助工具库
+
+#### educe
+
+![stars](https://img.shields.io/github/stars/magiclen/educe?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/educe)
+
+> 这个crate提供了程序宏，帮助您快速实现Rust内置特性。
+>
+> 说人话就是，一个对 Debug、Default、Hash、Clone、Copy 系统自带宏的扩展补充，挺好用。
+
+代码仓库：[magiclen/educe: This crate provides procedural macros to help you implement Rust-built-in traits quickly. (github.com)](https://github.com/magiclen/educe)
+
 ## Applications
 
 > 用 Rust 编写的一些实用的应用软件。

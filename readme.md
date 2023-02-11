@@ -25,6 +25,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [Rust 异步编程指南](#rust-异步编程指南)
     - [Rust 语言实战](#rust-语言实战)
     - [Rust 算法题解](#rust-算法题解)
+    - [Rust 算法书（RustBook）](#rust-算法书rustbook)
     - [Rust 设计模式 中文版](#rust-设计模式-中文版)
     - [Rust API 编写指南 中文版](#rust-api-编写指南-中文版)
     - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
@@ -130,9 +131,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Polars](#polars)
     - [AST](#ast)
       - [antlr-rust](#antlr-rust)
-      - [pandoc_ast](#pandoc_ast)
+      - [pandoc\_ast](#pandoc_ast)
     - [自动化](#自动化)
-      - [headless_chrome](#headless_chrome)
+      - [headless\_chrome](#headless_chrome)
       - [enigo](#enigo)
       - [InputBot](#inputbot)
     - [系统相关](#系统相关)
@@ -351,6 +352,26 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 在线文档：[Rust 算法教程 - Rust 算法教程 The Algos (algorithms)](https://algos.rs/)
 
 文档仓库：[rustlang-cn/rust-algos: <>，用 Rust 语言实现常见的算法和数据结构，以及 leetcode 题解，algos = algorithms，written with ❤️ by course.rs team (github.com)](https://github.com/rustlang-cn/rust-algos)
+
+### Rust 算法书（RustBook）
+
+![stars](https://img.shields.io/github/stars/QMHTMY/RustBook?style=flat) ![GitHub](https://img.shields.io/github/license/QMHTMY/RustBook)
+
+> 一本 [Rust](https://www.rust-lang.org/) 书籍，有简体和繁体版（英文版和日文版正在撰写中）。内容包括算法分析，基本数据结构和算法，外加一些实战。共有九章，其目录如下。
+>
+> - 第一章：计算机科学
+>   - 计算机科学
+>   - Rust 回顾及学习资源
+> - 第二章：算法分析
+>   - 性能分析：大 O 分析法
+> - 第三章：基本数据结构
+>   - 栈、队列、双端队列、链表、Vec
+>
+> ...
+
+在线文档：https://www.sejda.com/share/f71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD
+
+文档仓库：[QMHTMY/RustBook: A book about Rust Data Structures and Algorithms. (github.com)](https://github.com/QMHTMY/RustBook)
 
 ### Rust 设计模式 中文版
 

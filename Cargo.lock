@@ -179,6 +179,10 @@ name = "s3_dyn_trait"
 version = "0.0.0"
 
 [[package]]
+name = "s4_ownership"
+version = "0.0.0"
+
+[[package]]
 name = "unicode-segmentation"
 version = "1.9.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"

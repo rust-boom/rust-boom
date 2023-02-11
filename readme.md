@@ -349,7 +349,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > `algos` 涵盖了各种常用算法和数据结构的代码实现，以及 leetcode 题解，同时对于相关算法还提供了中文文档和注释，可以帮助大家更好、更快的学习。
 
-在线文档：[Rust 算法教程 - Rust 算法教程 The Algos (algorithms)](https://algos.rs/)
+在线文档：[Rust 算法题解 - 《Rust 算法题解 / Rust 算法教程》 - 书栈网 · BookStack](https://www.bookstack.cn/read/rustlang-cn-rust-algos/README.md)
 
 文档仓库：[rustlang-cn/rust-algos: <>，用 Rust 语言实现常见的算法和数据结构，以及 leetcode 题解，algos = algorithms，written with ❤️ by course.rs team (github.com)](https://github.com/rustlang-cn/rust-algos)
 

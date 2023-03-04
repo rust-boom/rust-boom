@@ -12,6 +12,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 - [Rust Boom 💥](#rust-boom-)
   - [TOC](#toc)
   - [Blasting](#blasting)
+  - [Article](#article)
+  - [Video](#video)
   - [Book](#book)
     - [Rust 语言圣经中文版](#rust-语言圣经中文版)
     - [Rust 程序设计语言中文版](#rust-程序设计语言中文版)
@@ -38,8 +40,6 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [inside-rust-std-library (标准库手册帮助文档)](#inside-rust-std-library-标准库手册帮助文档)
     - [Cargo 中文文档](#cargo-中文文档)
     - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
-  - [Video](#video)
-  - [Article](#article)
   - [DevTools](#devtools)
     - [IDE](#ide)
       - [VSCode（首推）](#vscode首推)
@@ -199,6 +199,40 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 - [一篇文章让你彻底理解 Rust 的 Move、Copy、Clone](docs/s1_move_copy_clone/readme.md)
 - [一文让你了解在 Rust 中实现方法重载模式](docs/s2_overload/readme.md)
 - [一文让你在 Rust 中实现多态](docs/s3_dyn_trait/readme.md)
+
+## Article
+
+> 收集一些 Rust 比较好的文章以及一些刊报。
+
+- [安装 Rust - Rust 程序设计语言 (rust-lang.org)](https://www.rust-lang.org/zh-CN/tools/install)
+- [浅析 rust 的内存管理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/365766807)
+- [Rust: Lifetime 解惑， 生命周期还在 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384151733)
+- [Rust 中的 String,&str 和 str 都是什么？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384496181)
+- [类型的大小 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21820917)
+- [如何深入浅出地理解 Rust 中的 Pin 和 Unpin? - 知乎 (zhihu.com)](https://www.zhihu.com/question/512654366/answer/2319171118)
+- [rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白|青蛙小白|关注程序开发、互联网技术、云原生 (frognew.com)](https://blog.frognew.com/2020/07/rust-ownership-move-and-copy.html)
+- [Top 23 Rust GUI Projects (Jul 2022) (libhunt.com)](https://www.libhunt.com/l/rust/topic/gui)
+- [你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/282113351/answer/2483371362)
+- [rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)](https://github.com/rustlang-cn/rust-weekly)
+- [【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)](https://rustcc.cn/article?id=2b1703cc-36f9-4dfc-a70a-09dd67a207ab)
+- [用 Rust 写一个容器|Writing a container in Rust | Blog of Litchi Pi](https://litchipi.github.io/series/container_in_rust)
+- [yunwei37/blockchain-rust: blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin) (github.com)](https://github.com/yunwei37/blockchain-rust)
+- [Rust 笔记 一文讲透 Rust 中的 PartialEq 和 Eq (qq.com)](https://mp.weixin.qq.com/s/hdW2QjAExPs1cE9rV1tn4Q)
+- [Rust 代码执行解析的可视化过程，初学者可以通过这个更深入的了解 Rust 的所有权等特性)](https://cognitive-engineering-lab.github.io/aquascope/)
+- [用 Rust 实现一个 GUI 框架](https://samsartor.com/guis-1/)
+
+## Video
+
+> 该模块收集一些 Rust 相关的教程视频，视频主要来源 B 站和知乎。
+
+- [Rust 编程语言入门教程（Rust 语言/Rust 权威指南配套）【已完结】](https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+- [Rust Async 异步编程（完结）](https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+- [Rust Async 异步编程 简易教程](https://www.bilibili.com/video/BV16r4y187P4?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+- [Rust Web 全栈开发教程【完结】](https://www.bilibili.com/video/BV1RP4y1G7KF?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+- [使用 Async Rust 构建简单的 P2P 节点【完结】](https://www.bilibili.com/video/BV13a41197F1?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+- [从零开始创建一个 WebAssembly 游戏](https://www.bilibili.com/video/BV19a41127Dq?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+- [Rust 面试题](https://www.bilibili.com/video/BV1m94y1U7eZ?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+- [可视化 Rust 各数据结构的内存布局(必看)](https://www.bilibili.com/video/BV1KT4y167f1?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
 
 ## Book
 
@@ -488,40 +522,6 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Rustt (读音 / rʌsˈti /) 是 RustCn 翻译计划的英文缩写，负责将国外优秀的技术文章、学习教程、新闻资讯翻译成中文。
 
 文档仓库：[rustlang-cn/Rustt: 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。 (github.com)](https://github.com/rustlang-cn/Rustt)
-
-## Video
-
-> 该模块收集一些 Rust 相关的教程视频，视频主要来源 B 站和知乎。
-
-- [Rust 编程语言入门教程（Rust 语言/Rust 权威指南配套）【已完结】](https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
-- [Rust Async 异步编程（完结）](https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
-- [Rust Async 异步编程 简易教程](https://www.bilibili.com/video/BV16r4y187P4?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
-- [Rust Web 全栈开发教程【完结】](https://www.bilibili.com/video/BV1RP4y1G7KF?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
-- [使用 Async Rust 构建简单的 P2P 节点【完结】](https://www.bilibili.com/video/BV13a41197F1?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
-- [从零开始创建一个 WebAssembly 游戏](https://www.bilibili.com/video/BV19a41127Dq?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
-- [Rust 面试题](https://www.bilibili.com/video/BV1m94y1U7eZ?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
-- [可视化 Rust 各数据结构的内存布局(必看)](https://www.bilibili.com/video/BV1KT4y167f1?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
-
-## Article
-
-> 收集一些 Rust 比较好的文章以及一些刊报。
-
-- [安装 Rust - Rust 程序设计语言 (rust-lang.org)](https://www.rust-lang.org/zh-CN/tools/install)
-- [浅析 rust 的内存管理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/365766807)
-- [Rust: Lifetime 解惑， 生命周期还在 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384151733)
-- [Rust 中的 String,&str 和 str 都是什么？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384496181)
-- [类型的大小 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21820917)
-- [如何深入浅出地理解 Rust 中的 Pin 和 Unpin? - 知乎 (zhihu.com)](https://www.zhihu.com/question/512654366/answer/2319171118)
-- [rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白|青蛙小白|关注程序开发、互联网技术、云原生 (frognew.com)](https://blog.frognew.com/2020/07/rust-ownership-move-and-copy.html)
-- [Top 23 Rust GUI Projects (Jul 2022) (libhunt.com)](https://www.libhunt.com/l/rust/topic/gui)
-- [你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/282113351/answer/2483371362)
-- [rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)](https://github.com/rustlang-cn/rust-weekly)
-- [【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)](https://rustcc.cn/article?id=2b1703cc-36f9-4dfc-a70a-09dd67a207ab)
-- [用 Rust 写一个容器|Writing a container in Rust | Blog of Litchi Pi](https://litchipi.github.io/series/container_in_rust)
-- [yunwei37/blockchain-rust: blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin) (github.com)](https://github.com/yunwei37/blockchain-rust)
-- [Rust 笔记 一文讲透 Rust 中的 PartialEq 和 Eq (qq.com)](https://mp.weixin.qq.com/s/hdW2QjAExPs1cE9rV1tn4Q)
-- [Rust 代码执行解析的可视化过程，初学者可以通过这个更深入的了解 Rust 的所有权等特性)](https://cognitive-engineering-lab.github.io/aquascope/)
-- [用 Rust 实现一个 GUI 框架](https://samsartor.com/guis-1/)
 
 ## DevTools
 

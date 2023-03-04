@@ -131,9 +131,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Polars](#polars)
     - [AST](#ast)
       - [antlr-rust](#antlr-rust)
-      - [pandoc\_ast](#pandoc_ast)
+      - [pandoc_ast](#pandoc_ast)
     - [自动化](#自动化)
-      - [headless\_chrome](#headless_chrome)
+      - [headless_chrome](#headless_chrome)
       - [enigo](#enigo)
       - [InputBot](#inputbot)
     - [系统相关](#系统相关)
@@ -519,6 +519,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 - [【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)](https://rustcc.cn/article?id=2b1703cc-36f9-4dfc-a70a-09dd67a207ab)
 - [用 Rust 写一个容器|Writing a container in Rust | Blog of Litchi Pi](https://litchipi.github.io/series/container_in_rust)
 - [yunwei37/blockchain-rust: blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin) (github.com)](https://github.com/yunwei37/blockchain-rust)
+- [Rust 笔记 一文讲透 Rust 中的 PartialEq 和 Eq (qq.com)](https://mp.weixin.qq.com/s/hdW2QjAExPs1cE9rV1tn4Q)
+- [Rust 代码执行解析的可视化过程，初学者可以通过这个更深入的了解 Rust 的所有权等特性)](https://cognitive-engineering-lab.github.io/aquascope/)
+- [用 Rust 实现一个 GUI 框架](https://samsartor.com/guis-1/)
 
 ## DevTools
 
@@ -633,6 +636,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 如果你会使用 React ，那 Dioxus 对你来说会很简单。
 >
 > 并且他还有 tui 的渲染器[DioxusLabs/rink: Build reactive terminal user interfaces using Rust and Dioxus. (github.com)](https://github.com/dioxusLabs/rink)
+>
+> 相关文章：
+>
+> - [一个优雅的 Rust GUI 库 (dioxuslabs.com)](https://dioxuslabs.com/blog/release-030/)
 
 代码仓库：[DioxusLabs/dioxus: Friendly React-like GUI library for desktop, web, mobile, and more. (github.com)](https://github.com/DioxusLabs/dioxus)
 

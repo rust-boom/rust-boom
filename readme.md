@@ -106,6 +106,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [jwt](#jwt)
       - [josekit](#josekit)
       - [sha](#sha)
+      - [utf8mb3](#utf8mb3)
     - [数据库](#数据库)
       - [SeaORM](#seaorm)
       - [rbatis](#rbatis)
@@ -1057,6 +1058,14 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Rust 安全哈希算法 (SHA) 内在库。
 
 代码仓库：[andydude/rust-sha: Rust Cryptography Intrinsics (github.com)](https://github.com/andydude/rust-sha/)
+
+#### utf8mb3
+
+![stars](https://img.shields.io/github/stars/WumaCoder/utf8mb3?style=flat) ![GitHub](https://img.shields.io/github/license/WumaCoder/utf8mb3)
+
+> 将所有 4 字节字符（如表情符号）编码为 3 字节字符，并且支持 wasm。
+
+代码仓库：[WumaCoder/utf8mb3: Let mysql's utf8 encoding store four-byte characters such as emoji(让 mysql 的 utf8 编码存储表情符号这类的四字节字符). (github.com)](https://github.com/WumaCoder/utf8mb3)
 
 ### 数据库
 

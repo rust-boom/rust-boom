@@ -186,6 +186,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [sonic](#sonic)
     - [系统工具](#系统工具)
       - [RustScan](#rustscan)
+      - [sniffnet](#sniffnet)
     - [视频工具](#视频工具)
       - [biliup-rs](#biliup-rs)
   - [Community](#community)
@@ -1667,6 +1668,14 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 现代端口扫描程序。**快速查找端口（最快 3 秒）。**
 
 代码仓库：[RustScan/Rustscan：🤖 现代端口扫描仪 🤖 (github.com)](https://github.com/RustScan/RustScan)
+
+#### sniffnet
+
+![stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=flat) ![GitHub](https://img.shields.io/github/license/GyulyVGC/sniffnet)
+
+> 舒适地监控你的网络流量的应用程序。
+
+代码仓库：[GyulyVGC/sniffnet: Application to comfortably monitor your network traffic (github.com)](https://github.com/GyulyVGC/sniffnet)
 
 ### 视频工具
 

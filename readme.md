@@ -92,8 +92,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [A-JSON](#a-json)
       - [json-rust](#json-rust)
       - [pikkr](#pikkr)
-      - [Serde JSON](#serde-json)
+      - [Serde](#serde)
       - [quick-xml](#quick-xml)
+      - [musli](#musli)
     - [配置解析](#配置解析)
       - [config-rs](#config-rs)
     - [日期处理](#日期处理)
@@ -132,9 +133,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Polars](#polars)
     - [AST](#ast)
       - [antlr-rust](#antlr-rust)
-      - [pandoc_ast](#pandoc_ast)
+      - [pandoc\_ast](#pandoc_ast)
     - [自动化](#自动化)
-      - [headless_chrome](#headless_chrome)
+      - [headless\_chrome](#headless_chrome)
       - [enigo](#enigo)
       - [InputBot](#inputbot)
     - [系统相关](#系统相关)
@@ -222,6 +223,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 - [Rust 笔记 一文讲透 Rust 中的 PartialEq 和 Eq (qq.com)](https://mp.weixin.qq.com/s/hdW2QjAExPs1cE9rV1tn4Q)
 - [Rust 代码执行解析的可视化过程，初学者可以通过这个更深入的了解 Rust 的所有权等特性)](https://cognitive-engineering-lab.github.io/aquascope/)
 - [用 Rust 实现一个 GUI 框架](https://samsartor.com/guis-1/)
+- [运行 1 万个并发任务需要多少内存？ (pkolaczk.github.io)](https://pkolaczk.github.io/memory-consumption-of-async/)
 
 ## Video
 
@@ -961,7 +963,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[pikkr/pikkr: JSON parser which picks up values directly without performing tokenization in Rust (github.com)](https://github.com/pikkr/pikkr)
 
-#### Serde JSON
+#### Serde
 
 ![stars](https://img.shields.io/github/stars/serde-rs/json?style=flat) ![GitHub](https://img.shields.io/github/license/serde-rs/json)
 
@@ -979,6 +981,20 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 支持各种编码（具有编码功能）、命名空间解析、特殊字符。
 
 代码仓库：[tafia/quick-xml: Rust high performance xml reader and writer (github.com)](https://github.com/tafia/quick-xml)
+
+#### musli
+
+![stars](https://img.shields.io/github/stars/udoprog/musli?style=flat) ![GitHub](https://img.shields.io/github/license/udoprog/musli)
+
+> Müsli 是一个灵活的通用二进制序列化框架.
+>
+> 性能卓越，毫不妥协.
+>
+> Müsli 是一个灵活、快速且通用的二进制序列化框架，用于 锈，与serde.rs一脉相承。
+>
+> 它提供了一组格式，每种[格式](https://github.com/udoprog/musli#formats)都有其自己的良好文档 一组功能和权衡。每个面向字节的序列化方法 （包括 [`musli-json`](https://docs.rs/musli-json)）在有或没有 .`#[no_std]``alloc`
+
+代码仓库：[udoprog/musli：Müsli是一个灵活且通用的二进制序列化框架 (github.com)](https://github.com/udoprog/musli)
 
 ### 配置解析
 

@@ -55,6 +55,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [druid](#druid)
       - [Dioxus](#dioxus)
       - [Vizia](#vizia)
+      - [slint](#slint)
     - [TUI](#tui)
       - [tui-rs](#tui-rs)
     - [CLI](#cli)
@@ -133,9 +134,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Polars](#polars)
     - [AST](#ast)
       - [antlr-rust](#antlr-rust)
-      - [pandoc\_ast](#pandoc_ast)
+      - [pandoc_ast](#pandoc_ast)
     - [自动化](#自动化)
-      - [headless\_chrome](#headless_chrome)
+      - [headless_chrome](#headless_chrome)
       - [enigo](#enigo)
       - [InputBot](#inputbot)
     - [系统相关](#系统相关)
@@ -666,6 +667,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[vizia/vizia: A declarative GUI library written in Rust (github.com)](https://github.com/vizia/vizia)
 
+#### slint
+
+![stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat) ![GitHub](https://img.shields.io/github/license/slint-ui/slint)
+
+> Slint 是一个为任何显示设备有效开发流体图形用户界面的工具箱：嵌入式设备和桌面应用程序。我们支持多种编程语言，如 Rust、C++和 JavaScript。
+
+代码仓库：[slint-ui/slint: Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript. (github.com)](https://github.com/slint-ui/slint)
+
+官方网站：[Slint - 快速简便的 UI 工具包 (slint-ui.com)](https://slint-ui.com/)
+
 ### TUI
 
 #### tui-rs
@@ -990,11 +1001,11 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 性能卓越，毫不妥协.
 >
-> Müsli 是一个灵活、快速且通用的二进制序列化框架，用于 锈，与serde.rs一脉相承。
+> Müsli 是一个灵活、快速且通用的二进制序列化框架，用于 锈，与 serde.rs 一脉相承。
 >
-> 它提供了一组格式，每种[格式](https://github.com/udoprog/musli#formats)都有其自己的良好文档 一组功能和权衡。每个面向字节的序列化方法 （包括 [`musli-json`](https://docs.rs/musli-json)）在有或没有 .`#[no_std]``alloc`
+> 它提供了一组格式，每种[格式](https://github.com/udoprog/musli#formats)都有其自己的良好文档 一组功能和权衡。每个面向字节的序列化方法 （包括 [`musli-json`](https://docs.rs/musli-json)）在有或没有 .` #[no_std]``alloc `
 
-代码仓库：[udoprog/musli：Müsli是一个灵活且通用的二进制序列化框架 (github.com)](https://github.com/udoprog/musli)
+代码仓库：[udoprog/musli：Müsli 是一个灵活且通用的二进制序列化框架 (github.com)](https://github.com/udoprog/musli)
 
 ### 配置解析
 

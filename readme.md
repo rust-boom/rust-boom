@@ -73,6 +73,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Parcel](#parcel)
       - [Rome](#rome)
       - [napi-rs](#napi-rs)
+      - [Lightning CSS](#lightning-css)
     - [WebAssembly](#webassembly)
       - [wasmtime](#wasmtime)
       - [wasmer](#wasmer)
@@ -799,6 +800,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[napi-rs/napi-rs: A framework for building compiled Node.js add-ons in Rust via Node-API (github.com)](https://github.com/napi-rs/napi-rs)
 
+#### Lightning CSS
+
+![stars](https://img.shields.io/github/stars/parcel-bundler/lightningcss?style=flat) ![GitHub](https://img.shields.io/github/license/parcel-bundler/lightningcss)
+
+> 用 Rust 编写的极快 CSS 解析器、转换器和精简器。可与 Parcel 一起使用，也可作为独立库或 CLI 使用，或通过插件与任何其他工具一起使用。
+
+![performance and build size charts](https://user-images.githubusercontent.com/19409/189022599-28246659-f94a-46a4-9de0-b6d17adb0e22.png#gh-light-mode-only)
+
+代码仓库：[parcel-bundler/lightningcss: An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. (github.com)](https://github.com/parcel-bundler/lightningcss)
+
 ### WebAssembly
 
 #### wasmtime
@@ -903,6 +914,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 在稳定的 Rust 1.57+ 上运行
 
 代码仓库：[actix/actix-web: Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (github.com)](https://github.com/actix/actix-web)
+
+中文文档：[介绍 - actix-web 中文文档 - Rust-Web 开发指南 (gitcode.host)](https://mirrors.gitcode.host/zzy/actix-web-zh-cn/intro.html)
 
 #### warp
 

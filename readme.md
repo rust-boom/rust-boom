@@ -207,7 +207,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ## Article
 
-> 收集一些 Rust 比较好的文章以及一些刊报。
+> 收集一些 Rust 比较好的文章以及一些刊报，非常值得一看。
 
 - [安装 Rust - Rust 程序设计语言 (rust-lang.org)](https://www.rust-lang.org/zh-CN/tools/install)
 - [浅析 rust 的内存管理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/365766807)
@@ -226,6 +226,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 - [Rust 代码执行解析的可视化过程，初学者可以通过这个更深入的了解 Rust 的所有权等特性)](https://cognitive-engineering-lab.github.io/aquascope/)
 - [用 Rust 实现一个 GUI 框架](https://samsartor.com/guis-1/)
 - [运行 1 万个并发任务需要多少内存？ (pkolaczk.github.io)](https://pkolaczk.github.io/memory-consumption-of-async/)
+- [Rust 探索系统本原 | 网络 - Rust 精选 (rustmagazine.github.io)](https://rustmagazine.github.io/rust_magazine_2021/chapter_4/rust-to-system-essence-network.html)
 
 ## Video
 

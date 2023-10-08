@@ -39,6 +39,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [Rust 标准库手册中文版](#rust-标准库手册中文版)
     - [inside-rust-std-library (标准库手册帮助文档)](#inside-rust-std-library-标准库手册帮助文档)
     - [Cargo 中文文档](#cargo-中文文档)
+    - [Rust 版 Vulkan 教程（图形）](#rust-版-vulkan-教程图形)
     - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
   - [DevTools](#devtools)
     - [IDE](#ide)
@@ -97,6 +98,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Serde](#serde)
       - [quick-xml](#quick-xml)
       - [musli](#musli)
+    - [消息队列](#消息队列)
     - [配置解析](#配置解析)
       - [config-rs](#config-rs)
     - [日期处理](#日期处理)
@@ -521,6 +523,18 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 在线文档：[简介 - Cargo 手册 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/cargo/)
 
 文档仓库：[rust-lang-cn/cargo-cn: Cargo 手册——Chinese translation of The Cargo Documentation (github.com)](https://github.com/rust-lang-cn/cargo-cn)
+
+### Rust 版 Vulkan 教程（图形）
+
+![stars](https://img.shields.io/github/stars/chuigda/Vulkan-Tutorial-Rust-CN?style=flat) ![GitHub](https://img.shields.io/github/license/chuigda/Vulkan-Tutorial-Rust-CN)
+
+> Rust 版 Vulkan 教程的中文翻译，基于 vulkanalia.
+>
+> 本教程会教授一些 Vulkan 图形与计算 API 的基础知识。Vulkan 是一个由 Khronos 组织 （因 OpenGL 而为人所知）提出的新 API，针对现代显卡的特性提供了更好的抽象。新的接口可以让你更好地描述你的应用程序要做什么，从而带来相比于 OpenGL 和 Direct3D 之类的现有的图形 API 更好的性能和更少的意外驱动程序行为。Vulkan 的设计思想与 Direct3D 12 和 Metal 相似，但 Vulkan 在跨平台方面具有优势，可以让你同时开发 Windows，Linux 和 Android 应用程序（并借由 MoltenVK 开发 iOS 与 MacOS 应用程序）。
+
+文档仓库：[chuigda/Vulkan-Tutorial-Rust-CN: Rust 版 Vulkan 教程的中文翻译，基于 vulkanalia (github.com)](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia)
+
+在线文档：[介绍 - Vulkan 教程（Rust） (7dg.tech)](https://vk.7dg.tech/)
 
 ### Rustt 一个优秀 Rust 文档翻译仓库
 
@@ -1020,6 +1034,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 它提供了一组格式，每种[格式](https://github.com/udoprog/musli#formats)都有其自己的良好文档 一组功能和权衡。每个面向字节的序列化方法 （包括 [`musli-json`](https://docs.rs/musli-json)）在有或没有 .` #[no_std]``alloc `
 
 代码仓库：[udoprog/musli：Müsli 是一个灵活且通用的二进制序列化框架 (github.com)](https://github.com/udoprog/musli)
+
+### 消息队列
 
 ### 配置解析
 

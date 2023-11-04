@@ -22,6 +22,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [📌 Rust 语言备忘清单 (简体中文)](#-rust-语言备忘清单-简体中文)
     - [通过例子学 Rust 中文版](#通过例子学-rust-中文版)
     - [谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)](#谷歌开源的-rust-教程-comprehensive-rust-)
+    - [📌 Rust 语言之旅](#-rust-语言之旅)
     - [RustPrimer](#rustprimer)
     - [Rust 秘典中文版](#rust-秘典中文版)
     - [Rust 参考手册 中文版](#rust-参考手册-中文版)
@@ -313,6 +314,12 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 在线文档：[Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀 (google.github.io)](https://google.github.io/comprehensive-rust/)
 
 文档仓库：[google/comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (github.com)](https://github.com/google/comprehensive-rust)
+
+### 📌 Rust 语言之旅
+
+> 本教程旨在循序渐进地介绍 Rust 编程语言的特性，并且可以在线交互的写 Rust 代码。
+
+在线文档：[Rust 语言之旅 - Let's go on an adventure! (tourofrust.com)](https://tourofrust.com/00_zh-cn.html)
 
 ### RustPrimer
 

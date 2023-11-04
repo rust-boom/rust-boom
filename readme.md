@@ -7,6 +7,8 @@
 
 Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
 
+> 📌 这个符号表示最近新添加的内容
+
 ## TOC
 
 - [Rust Boom 💥](#rust-boom-)
@@ -17,6 +19,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
   - [Book](#book)
     - [Rust 语言圣经中文版](#rust-语言圣经中文版)
     - [Rust 程序设计语言中文版](#rust-程序设计语言中文版)
+    - [📌 Rust 语言备忘清单 (简体中文)](#-rust-语言备忘清单-简体中文)
     - [通过例子学 Rust 中文版](#通过例子学-rust-中文版)
     - [谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)](#谷歌开源的-rust-教程-comprehensive-rust-)
     - [RustPrimer](#rustprimer)
@@ -137,9 +140,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Polars](#polars)
     - [AST](#ast)
       - [antlr-rust](#antlr-rust)
-      - [pandoc_ast](#pandoc_ast)
+      - [pandoc\_ast](#pandoc_ast)
     - [自动化](#自动化)
-      - [headless_chrome](#headless_chrome)
+      - [headless\_chrome](#headless_chrome)
       - [enigo](#enigo)
       - [InputBot](#inputbot)
     - [系统相关](#系统相关)
@@ -278,6 +281,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 在线文档：[Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言)
 
 配套视频：[Rust 编程语言入门教程（Rust 语言/Rust 权威指南配套）【已完结】](https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+
+### 📌 Rust 语言备忘清单 (简体中文)
+
+![stars](https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=flat) ![GitHub](https://img.shields.io/github/license/ralfbiedert/cheats.rs)
+
+> 使用案例, 按优先顺序排列: **\*识别和查找指南** 用于代码中遇到的构造, **\*发现** 你可能不懂的语言部分, **\*了解 Rust** 如果你有编程经验.
+
+在线文档：[Rust 语言备忘清单 (kingfree.moe)](https://cheats.rs.kingfree.moe/)
+
+文档仓库：[kingfree/cheats.rs: Rust 语言备忘清单 (简体中文) (github.com)](https://github.com/kingfree/cheats.rs/)
 
 ### 通过例子学 Rust 中文版
 

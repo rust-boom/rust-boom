@@ -729,6 +729,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 #### 📌 ratatui
 
+![stars](https://img.shields.io/github/stars/ratatui-org/ratatui?style=flat) ![GitHub](https://img.shields.io/github/license/ratatui-org/ratatui)
+
 > Ratatui 是一个用 rust 制作终端用户界面的板块。它是一个轻量级库，提供了一系列小工具和实用程序，用于构建复杂的 rust TUI。Ratatui 于 2023 年从 Tui-rs crate 分支出来，以便继续开发。
 >
 > ![DEMO](https://raw.githubusercontent.com/ratatui-org/ratatui/images/examples/demo2.gif)

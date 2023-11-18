@@ -59,7 +59,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [egui](#egui)
       - [fltk-rs](#fltk-rs)
       - [iced](#iced)
-      - [druid](#druid)
+      - [⛔️ druid](#️-druid)
       - [Dioxus](#dioxus)
       - [Vizia](#vizia)
       - [slint](#slint)
@@ -656,7 +656,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[iced-rs/iced: A cross-platform GUI library for Rust, inspired by Elm (github.com)](https://github.com/iced-rs/iced)
 
-#### druid
+#### ⛔️ druid
 
 ![stars](https://img.shields.io/github/stars/linebender/druid?style=flat) ![GitHub](https://img.shields.io/github/license/linebender/druid)
 

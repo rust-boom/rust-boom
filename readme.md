@@ -7,7 +7,9 @@
 
 Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
 
-> 📌 这个符号表示最近新添加的内容
+> 📌 表示最近新添加的内容
+>
+> ⛔️ 表示停止更新
 
 ## TOC
 
@@ -62,7 +64,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Vizia](#vizia)
       - [slint](#slint)
     - [TUI](#tui)
-      - [tui-rs](#tui-rs)
+      - [📌 ratatui](#-ratatui)
+      - [⛔️ tui-rs](#️-tui-rs)
     - [CLI](#cli)
       - [commander](#commander)
     - [游戏开发](#游戏开发)
@@ -141,9 +144,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Polars](#polars)
     - [AST](#ast)
       - [antlr-rust](#antlr-rust)
-      - [pandoc\_ast](#pandoc_ast)
+      - [pandoc_ast](#pandoc_ast)
     - [自动化](#自动化)
-      - [headless\_chrome](#headless_chrome)
+      - [headless_chrome](#headless_chrome)
       - [enigo](#enigo)
       - [InputBot](#inputbot)
     - [系统相关](#系统相关)
@@ -715,13 +718,21 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ### TUI
 
-#### tui-rs
+#### 📌 ratatui
+
+> Ratatui 是一个用 rust 制作终端用户界面的板块。它是一个轻量级库，提供了一系列小工具和实用程序，用于构建复杂的 rust TUI。Ratatui 于 2023 年从 Tui-rs crate 分支出来，以便继续开发。
+>
+> ![DEMO](https://raw.githubusercontent.com/ratatui-org/ratatui/images/examples/demo2.gif)
+
+代码仓库：[ratatui-org/ratatui: Rust library that's all about cooking up terminal user interfaces (TUIs) (github.com)](https://github.com/ratatui-org/ratatui)
+
+在线文档：[Introduction to Ratatui - Ratatui Book](https://ratatui.rs/)
+
+#### ⛔️ tui-rs
 
 ![stars](https://img.shields.io/github/stars/fdehau/tui-rs?style=flat) ![GitHub](https://img.shields.io/github/license/fdehau/tui-rs)
 
 > tui-rs 是一个 Rust 库，用于构建丰富的终端用户界面和仪表板。它深受 Javascript 库 blessed-contrib 和 Go 库 termui 的启发。
->
-> [![Demo cast under Linux Termite with Inconsolata font 12pt](https://github.com/fdehau/tui-rs/raw/master/assets/demo.gif)](https://github.com/fdehau/tui-rs/blob/master/assets/demo.gif)
 
 代码仓库：[fdehau/tui-rs: Build terminal user interfaces and dashboards using Rust (github.com)](https://github.com/fdehau/tui-rs)
 

@@ -59,6 +59,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [egui](#egui)
       - [fltk-rs](#fltk-rs)
       - [iced](#iced)
+      - [📌 xilem](#-xilem)
       - [⛔️ druid](#️-druid)
       - [Dioxus](#dioxus)
       - [Vizia](#vizia)
@@ -655,6 +656,14 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Rust 的跨平台 GUI 库，专注于简单性和类型安全。灵感来自 Elm。
 
 代码仓库：[iced-rs/iced: A cross-platform GUI library for Rust, inspired by Elm (github.com)](https://github.com/iced-rs/iced)
+
+#### 📌 xilem
+
+![stars](https://img.shields.io/github/stars/linebender/xilem?style=flat) ![GitHub](https://img.shields.io/github/license/linebender/xilem)
+
+> 此软件仓库包含一个实验性架构，通过玩具用户界面实现。在高层次上，它结合了 Flutter、SwiftUI 和 Elm 的理念。与所有这些架构一样，它使用轻量级视图对象，通过对它们进行差异化处理，从而为保留的 UI 提供最少的更新。与 SwiftUI 一样，它也是强类型的。
+
+代码仓库：[linebender/xilem: An experimental Rust native UI framework (github.com)](https://github.com/linebender/xilem)
 
 #### ⛔️ druid
 

@@ -21,10 +21,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
   - [Book](#book)
     - [Rust 语言圣经中文版](#rust-语言圣经中文版)
     - [Rust 程序设计语言中文版](#rust-程序设计语言中文版)
-    - [📌 Rust 语言备忘清单 (简体中文)](#-rust-语言备忘清单-简体中文)
+    - [Rust 语言备忘清单 (简体中文)](#rust-语言备忘清单-简体中文)
     - [通过例子学 Rust 中文版](#通过例子学-rust-中文版)
     - [谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)](#谷歌开源的-rust-教程-comprehensive-rust-)
-    - [📌 Rust 语言之旅](#-rust-语言之旅)
+    - [Rust 语言之旅](#rust-语言之旅)
     - [RustPrimer](#rustprimer)
     - [Rust 秘典中文版](#rust-秘典中文版)
     - [Rust 参考手册 中文版](#rust-参考手册-中文版)
@@ -59,13 +59,13 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [egui](#egui)
       - [fltk-rs](#fltk-rs)
       - [iced](#iced)
-      - [📌 xilem](#-xilem)
+      - [xilem](#xilem)
       - [⛔️ druid](#️-druid)
       - [Dioxus](#dioxus)
       - [Vizia](#vizia)
       - [slint](#slint)
     - [TUI](#tui)
-      - [📌 ratatui](#-ratatui)
+      - [ratatui](#ratatui)
       - [⛔️ tui-rs](#️-tui-rs)
     - [CLI](#cli)
       - [commander](#commander)
@@ -180,6 +180,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Lapce](#lapce)
       - [Neovide](#neovide)
       - [Helix](#helix)
+    - [终端](#终端)
+      - [📌 Wezterm](#-wezterm)
     - [远程控制](#远程控制)
       - [Rustdesk](#rustdesk)
     - [Git 工具](#git-工具)
@@ -287,13 +289,11 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 配套视频：[Rust 编程语言入门教程（Rust 语言/Rust 权威指南配套）【已完结】](https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
 
-### 📌 Rust 语言备忘清单 (简体中文)
+### Rust 语言备忘清单 (简体中文)
 
 ![stars](https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=flat) ![GitHub](https://img.shields.io/github/license/ralfbiedert/cheats.rs)
 
 > 使用案例, 按优先顺序排列: **\*识别和查找指南** 用于代码中遇到的构造, **\*发现** 你可能不懂的语言部分, **\*了解 Rust** 如果你有编程经验.
-
-在线文档：[Rust 语言备忘清单 (kingfree.moe)](https://cheats.rs.kingfree.moe/)
 
 文档仓库：[kingfree/cheats.rs: Rust 语言备忘清单 (简体中文) (github.com)](https://github.com/kingfree/cheats.rs/)
 
@@ -319,7 +319,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 文档仓库：[google/comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (github.com)](https://github.com/google/comprehensive-rust)
 
-### 📌 Rust 语言之旅
+### Rust 语言之旅
 
 > 本教程旨在循序渐进地介绍 Rust 编程语言的特性，并且可以在线交互的写 Rust 代码。
 
@@ -657,7 +657,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[iced-rs/iced: A cross-platform GUI library for Rust, inspired by Elm (github.com)](https://github.com/iced-rs/iced)
 
-#### 📌 xilem
+#### xilem
 
 ![stars](https://img.shields.io/github/stars/linebender/xilem?style=flat) ![GitHub](https://img.shields.io/github/license/linebender/xilem)
 
@@ -727,7 +727,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ### TUI
 
-#### 📌 ratatui
+#### ratatui
 
 ![stars](https://img.shields.io/github/stars/ratatui-org/ratatui?style=flat) ![GitHub](https://img.shields.io/github/license/ratatui-org/ratatui)
 
@@ -1626,6 +1626,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > ![Screenshot](https://github.com/helix-editor/helix/raw/master/screenshot.png)
 
 代码仓库：[helix-editor/helix: A post-modern modal text editor. (github.com)](https://github.com/helix-editor/helix)
+
+### 终端
+
+#### 📌 Wezterm
+
+![stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub](https://img.shields.io/github/license/wez/wezterm)
+
+> GPU 加速交叉平台模拟器和终端器.
+
+代码仓库：[wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (github.com)](https://github.com/wez/wezterm)
 
 ### 远程控制
 

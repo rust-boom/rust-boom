@@ -175,7 +175,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [辅助工具库](#辅助工具库)
       - [educe](#educe)
   - [Applications](#applications)
-    - [文本编辑器](#文本编辑器)
+    - [编辑器](#编辑器)
+    - [📌 Zed](#-zed)
       - [AppFlowy](#appflowy)
       - [Lapce](#lapce)
       - [Neovide](#neovide)
@@ -1582,7 +1583,19 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 用 Rust 编写的一些实用的应用软件。
 
-### 文本编辑器
+### 编辑器
+
+### 📌 Zed
+
+![stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub](https://img.shields.io/github/license/zed-industries/zed)
+
+> 以思维的速度编写代码 - Zed 是一款高性能、多人协作的代码编辑器，由 Atom 和 Tree-sitter 的创作者开发。
+>
+> 仓主试用，非常不错，值得一试。
+
+官方网站：https://zed.dev/
+
+代码仓库：[zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (github.com)](https://github.com/zed-industries/zed)
 
 #### AppFlowy
 
@@ -1614,7 +1627,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ![Screenshot of Neovide](https://github.com/neovide/neovide/raw/main/website/docs/assets/BasicScreenCap.png)
 
-仓库链接：[neovide/neovide: No Nonsense Neovim Client in Rust (github.com)](https://github.com/neovide/neovide)
+代码仓库：[neovide/neovide: No Nonsense Neovim Client in Rust (github.com)](https://github.com/neovide/neovide)
 
 #### Helix
 

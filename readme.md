@@ -1585,7 +1585,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ### 编辑器
 
-### 📌 Zed
+#### 📌 Zed
 
 ![stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub](https://img.shields.io/github/license/zed-industries/zed)
 

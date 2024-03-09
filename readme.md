@@ -36,6 +36,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [Rust 算法书（RustBook）](#rust-算法书rustbook)
     - [Rust 设计模式 中文版](#rust-设计模式-中文版)
     - [Rust API 编写指南 中文版](#rust-api-编写指南-中文版)
+    - [📌 Rust 性能手册（The Rust Performance Book）](#-rust-性能手册the-rust-performance-book)
     - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
     - [嵌入式 Rust 编程](#嵌入式-rust-编程)
     - [TheAlgorithms(Rust 算法例子)](#thealgorithmsrust-算法例子)
@@ -466,6 +467,18 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 在线文档：[关于本书 - Rust API Guidelines（Rust API 编写指南） (zjp-cn.github.io)](https://zjp-cn.github.io/api-guidelines/)
 
 文档仓库：[zjp-CN/api-guidelines: Rust API Guidelines 中文翻译版 (github.com)](https://github.com/zjp-CN/api-guidelines)
+
+### 📌 Rust 性能手册（The Rust Performance Book）
+
+![stars](https://img.shields.io/github/stars/Blues-star/perf-book-zh?style=flat) ![GitHub](https://img.shields.io/github/license/Blues-star/perf-book-zh)
+
+> 本书包含了许多可以提高Rust程序的性能-速度和内存使用率的技术，其中[编译时间](https://blues-star.github.io/perf-book-zh/compile-times_zh.html)部分也包含了一些可以提高Rust程序编译时间的技术。编译时间]部分也包含了一些可以改善Rust程序编译时间的技术。本书的一些技术只需要改变构建配置，但许多技术需要改变代码。
+>
+> 一些技术完全是 Rust 特有的，而一些涉及的思想可以应用于其他编程语言编写的程序（通常需要进行修改）。[General Tips](https://blues-star.github.io/perf-book-zh/general-tips_zh.html) 部分还包括适用于任何编程语言的一些一般原则。尽管如此，这本书主要关注 Rust 程序的性能，不能替代一本关于分析和优化的通用指南。
+
+在线文档：[简介 - The Rust Performance Book (blues-star.github.io)](https://blues-star.github.io/perf-book-zh/introduction_zh.html)
+
+文档仓库：[Blues-star/perf-book-zh: The Rust Performance Book (github.com)](https://github.com/Blues-star/perf-book-zh/)
 
 ### Rust 宏小册(tlborm)
 

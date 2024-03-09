@@ -145,9 +145,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Polars](#polars)
     - [AST](#ast)
       - [antlr-rust](#antlr-rust)
-      - [pandoc_ast](#pandoc_ast)
+      - [pandoc\_ast](#pandoc_ast)
     - [自动化](#自动化)
-      - [headless_chrome](#headless_chrome)
+      - [headless\_chrome](#headless_chrome)
       - [enigo](#enigo)
       - [InputBot](#inputbot)
     - [系统相关](#系统相关)
@@ -176,13 +176,13 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [educe](#educe)
   - [Applications](#applications)
     - [编辑器](#编辑器)
-    - [📌 Zed](#-zed)
+      - [📌 Zed](#-zed)
       - [AppFlowy](#appflowy)
       - [Lapce](#lapce)
       - [Neovide](#neovide)
       - [Helix](#helix)
     - [终端](#终端)
-      - [📌 Wezterm](#-wezterm)
+      - [Wezterm](#wezterm)
     - [远程控制](#远程控制)
       - [Rustdesk](#rustdesk)
     - [Git 工具](#git-工具)
@@ -205,6 +205,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [sniffnet](#sniffnet)
     - [视频工具](#视频工具)
       - [biliup-rs](#biliup-rs)
+    - [翻译工具](#翻译工具)
+      - [📌 Tran](#-tran)
   - [Community](#community)
   - [Incident](#incident)
   - [Note](#note)
@@ -1642,7 +1644,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ### 终端
 
-#### 📌 Wezterm
+#### Wezterm
 
 ![stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub](https://img.shields.io/github/license/wez/wezterm)
 
@@ -1808,6 +1810,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 命令行投稿(B 站)和视频下载工具，提供多种登录方式，支持多 p、上海腾讯云内网上传免流+大幅提速。
 
 代码仓库：[ForgQi/biliup-rs: 命令行投稿(B 站)和视频下载工具，提供多种登录方式，支持多 p、上海腾讯云内网上传免流+大幅提速。 (github.com)](https://github.com/ForgQi/biliup-rs)
+
+### 翻译工具
+
+#### 📌 Tran
+
+![stars](https://img.shields.io/github/stars/Borber/Tran?style=flat) ![GitHub](https://img.shields.io/github/license/Borber/Tran)
+
+> 一个用 rust 开发的翻译软件。
+
+代码仓库：[Borber/Tran: 简洁, 快速, 划词翻译 (github.com)](https://github.com/Borber/Tran)
 
 ## Community
 

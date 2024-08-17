@@ -1703,8 +1703,6 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 ![stars](https://img.shields.io/github/stars/ekzhang/bore?style=flat) ![GitHub](https://img.shields.io/github/license/ekzhang/bore)
 
 > Rust 中的一个现代、简单的 TCP 隧道，它将本地端口暴露给远程服务器，绕过标准 NAT 连接防火墙。这就是它所做的一切：不多也不少。
->
-> [![Video demo](https://camo.githubusercontent.com/895c0a44b8f14a929f4efbeda90eeb4149610a901f85ef03f50a3cbfacabbb76/68747470733a2f2f692e696d6775722e636f6d2f76446547736d782e676966)](https://camo.githubusercontent.com/895c0a44b8f14a929f4efbeda90eeb4149610a901f85ef03f50a3cbfacabbb76/68747470733a2f2f692e696d6775722e636f6d2f76446547736d782e676966)
 
 代码仓库：[ekzhang/bore: 🕳 bore is a simple CLI tool for making tunnels to localhost (github.com)](https://github.com/ekzhang/bore)
 

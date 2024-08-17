@@ -36,7 +36,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [Rust 算法书（RustBook）](#rust-算法书rustbook)
     - [Rust 设计模式 中文版](#rust-设计模式-中文版)
     - [Rust API 编写指南 中文版](#rust-api-编写指南-中文版)
-    - [📌 Rust 性能手册（The Rust Performance Book）](#-rust-性能手册the-rust-performance-book)
+    - [Rust 性能手册（The Rust Performance Book）](#rust-性能手册the-rust-performance-book)
     - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
     - [嵌入式 Rust 编程](#嵌入式-rust-编程)
     - [TheAlgorithms(Rust 算法例子)](#thealgorithmsrust-算法例子)
@@ -174,9 +174,11 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
       - [Rust-SDL2](#rust-sdl2)
     - [辅助工具库](#辅助工具库)
       - [educe](#educe)
+    - [区块链](#区块链)
+    - [📌 Solana](#-solana)
   - [Applications](#applications)
     - [编辑器](#编辑器)
-      - [📌 Zed](#-zed)
+      - [Zed](#zed)
       - [AppFlowy](#appflowy)
       - [Lapce](#lapce)
       - [Neovide](#neovide)
@@ -206,7 +208,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [视频工具](#视频工具)
       - [biliup-rs](#biliup-rs)
     - [翻译工具](#翻译工具)
-      - [📌 Tran](#-tran)
+      - [Tran](#tran)
   - [Community](#community)
   - [Incident](#incident)
   - [Note](#note)
@@ -467,7 +469,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 文档仓库：[zjp-CN/api-guidelines: Rust API Guidelines 中文翻译版 (github.com)](https://github.com/zjp-CN/api-guidelines)
 
-### 📌 Rust 性能手册（The Rust Performance Book）
+### Rust 性能手册（The Rust Performance Book）
 
 ![stars](https://img.shields.io/github/stars/Blues-star/perf-book-zh?style=flat) ![GitHub](https://img.shields.io/github/license/Blues-star/perf-book-zh)
 
@@ -1585,13 +1587,28 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 代码仓库：[magiclen/educe: This crate provides procedural macros to help you implement Rust-built-in traits quickly. (github.com)](https://github.com/magiclen/educe)
 
+### 区块链
+
+### 📌 Solana
+
+![stars](https://img.shields.io/github/stars/solana-labs/solana?style=flat) ![GitHub](https://img.shields.io/github/license/solana-labs/solana)
+
+> Solana 的高吞吐量、低延迟和低交易费用使其非常适合需要快速处理和大规模交易的应用场景，如 DeFi、NFT 市场和高性能游戏。它的开发工具和支持也使得开发者能够高效地构建复杂的去中心化应用程序。
+
+|          |                                             |
+| -------- | ------------------------------------------- |
+| 代码仓库 | https://github.com/solana-labs/solana       |
+| 官方网站 | https://solanalabs.com/                     |
+| 中文教程 | https://www.solana-cn.com/                  |
+| 视频教程 | https://www.bilibili.com/video/BV1NJ4m187og |
+
 ## Applications
 
 > 用 Rust 编写的一些实用的应用软件。
 
 ### 编辑器
 
-#### 📌 Zed
+#### Zed
 
 ![stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub](https://img.shields.io/github/license/zed-industries/zed)
 
@@ -1817,7 +1834,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ### 翻译工具
 
-#### 📌 Tran
+#### Tran
 
 ![stars](https://img.shields.io/github/stars/Borber/Tran?style=flat) ![GitHub](https://img.shields.io/github/license/Borber/Tran)
 

@@ -860,7 +860,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 #### napi-rs
 
-![stars](https://img.shields.io/github/stars/napi-rs/napi-rs?style=flat) [![img](https://camo.githubusercontent.com/12926a0d167dddc752b4a243bdfe42510ec152c409e0adb5c5a0358d69b2f955/68747470733a2f2f646f63732e72732f6e6170692f62616467652e737667)](https://docs.rs/crate/napi) [![img](https://camo.githubusercontent.com/50f427da9d2e4aefd0501af3a6463800ae9c07ecf76495ae40048f1b76d267f0/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f6e6170692e737667)](https://crates.io/crates/napi) [![img](https://camo.githubusercontent.com/19bbf2a0c1204f71ecf1ed7ff797200fe2129e276fb18c33e8e3b24c85f460eb/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f406e6170692d72732f636c692e737667)](https://www.npmjs.com/package/@napi-rs/cli)
+![stars](https://img.shields.io/github/stars/napi-rs/napi-rs?style=flat) ![GitHub](https://img.shields.io/github/license/napi-rs/napi-rs)
 
 > 用于在 Rust 中构建已编译的 Node.js 附加组件的最小库。
 

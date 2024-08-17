@@ -8,7 +8,4 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = [
-  "docs/*",
-  "play/*",
-]
+members = ["docs/*", "scripts/*", "play/*", "scripts/check"]

@@ -175,7 +175,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [辅助工具库](#辅助工具库)
       - [educe](#educe)
     - [区块链](#区块链)
-    - [📌 Solana](#-solana)
+      - [📌 Solana](#-solana)
   - [Applications](#applications)
     - [编辑器](#编辑器)
       - [Zed](#zed)
@@ -1791,7 +1791,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ### 区块链
 
-### 📌 Solana
+#### 📌 Solana
 
 ![stars](https://img.shields.io/github/stars/solana-labs/solana?style=flat) ![GitHub](https://img.shields.io/github/license/solana-labs/solana)
 

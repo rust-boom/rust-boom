@@ -270,9 +270,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > Rust 语言真的好：连续七年成为全世界最受欢迎的语言、没有 GC 也无需手动内存管理、性能比肩 C++/C 还能直接调用它们的代码、安全性极高 - 总有公司说使用 Rust 后以前的大部分 bug 都将自动消失、全世界最好的包管理工具 Cargo 等等。但...
 
-在线文档：[Rust 语言圣经 - Rust 语言圣经(Rust Course)](https://course.rs/about-book.html)
-
-文档仓库：[sunface/rust-course: “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有 JS 程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍 (github.com)](https://github.com/sunface/rust-course)
+| 导航     | 链接                                                                             |
+| :------- | :------------------------------------------------------------------------------- |
+| 在线文档 | [https://course.rs/about-book.html](https://course.rs/about-book.html)           |
+| 文档仓库 | [https://github.com/sunface/rust-course](https://github.com/sunface/rust-course) |
 
 ### Rust 程序设计语言中文版
 
@@ -290,9 +291,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > —— Nicholas Matsakis 和 Aaron Turon
 
-在线文档：[Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言)
-
-配套视频：[Rust 编程语言入门教程（Rust 语言/Rust 权威指南配套）【已完结】](https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+| 导航     | 链接                                                                                                                                                                                                                         |
+| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言](https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言)                                                                                                           |
+| 配套视频 | [https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d](https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d) |
 
 ### Rust 语言备忘清单 (简体中文)
 
@@ -300,7 +302,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 使用案例, 按优先顺序排列: **\*识别和查找指南** 用于代码中遇到的构造, **\*发现** 你可能不懂的语言部分, **\*了解 Rust** 如果你有编程经验.
 
-文档仓库：[kingfree/cheats.rs: Rust 语言备忘清单 (简体中文) (github.com)](https://github.com/kingfree/cheats.rs/)
+| 导航     | 链接                                                                             |
+| :------- | :------------------------------------------------------------------------------- |
+| 文档仓库 | [https://github.com/kingfree/cheats.rs/](https://github.com/kingfree/cheats.rs/) |
 
 ### 通过例子学 Rust 中文版
 
@@ -310,9 +314,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 《通过例子学 Rust》（Rust By Example, RBE）内容由一系列可运行的实例组成，通过这些例子阐明了各种 Rust 的概念和基本库。想获取这些例子外的更多内容，不要忘了[安装 Rust 到本地](https://www.rust-lang.org/tools/install)并查阅[官方标准库文档](https://rustwiki.org/zh-CN/std/)。另外为了满足您的好奇心，您还可以[查阅本网站的源代码](https://github.com/rust-lang-cn/rust-by-example-cn)。
 
-在线文档：[简介 - 通过例子学 Rust 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/rust-by-example/)
-
-文档仓库：[rust-lang-cn/rust-by-example-cn: Rust By Example 中文版(包含在线代码编辑器) (github.com)](https://github.com/rust-lang-cn/rust-by-example-cn)
+| 导航     | 链接                                                                                                     |
+| :------- | :------------------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://rustwiki.org/zh-CN/rust-by-example/](https://rustwiki.org/zh-CN/rust-by-example/)               |
+| 文档仓库 | [https://github.com/rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) |
 
 ### 谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)
 
@@ -320,15 +325,18 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 这个资源库有 Comprehensive Rust 的源代码，这是由 Android 团队开发的为期四天的 Rust 课程。该课程涵盖了 Rust 的所有方面，从基本语法到泛型和错误处理。它还包括最后一天的 Android 特定内容。
 
-在线文档：[Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀 (google.github.io)](https://google.github.io/comprehensive-rust/)
-
-文档仓库：[google/comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (github.com)](https://github.com/google/comprehensive-rust)
+| 导航     | 链接                                                                                         |
+| :------- | :------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://google.github.io/comprehensive-rust/](https://google.github.io/comprehensive-rust/) |
+| 文档仓库 | [https://github.com/google/comprehensive-rust](https://github.com/google/comprehensive-rust) |
 
 ### Rust 语言之旅
 
 > 本教程旨在循序渐进地介绍 Rust 编程语言的特性，并且可以在线交互的写 Rust 代码。
 
-在线文档：[Rust 语言之旅 - Let's go on an adventure! (tourofrust.com)](https://tourofrust.com/00_zh-cn.html)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 在线文档 | [https://tourofrust.com/00_zh-cn.html](https://tourofrust.com/00_zh-cn.html) |
 
 ### RustPrimer
 
@@ -336,9 +344,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 给初学者的 Rust 中文教程。
 
-在线文档：[Introduction · RustPrimer (gitbooks.io)](https://rustcc.gitbooks.io/rustprimer/content/)
-
-文档仓库：[rustcc/RustPrimer: The Rust primer for beginners. We need native English speaker help us modify the translation. (github.com)](https://github.com/rustcc/RustPrimer)
+| 导航     | 链接                                                                                             |
+| :------- | :----------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://rustcc.gitbooks.io/rustprimer/content/](https://rustcc.gitbooks.io/rustprimer/content/) |
+| 文档仓库 | [https://github.com/rustcc/RustPrimer](https://github.com/rustcc/RustPrimer)                     |
 
 ### Rust 秘典中文版
 
@@ -348,9 +357,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 如果你希望在编写 Rust 程序的过程中获得长久而快乐的职业生涯，你应该现在回头，忘记你曾经看过这本书。 它没有必要。 然而，如果你打算编写不安全代码——或者只是想深入了解语言的内涵——这本书包含了很多有用的信息。
 
-在线文档：[介绍 - Rust 秘典（死灵书） (purewhite.io)](https://nomicon.purewhite.io/intro.html)
-
-文档仓库：[rust-lang-cn/nomicon-zh-Hans: Rust 死灵书简体中文翻译 (github.com)](https://github.com/rust-lang-cn/nomicon-zh-Hans)
+| 导航     | 链接                                                                                               |
+| :------- | :------------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://nomicon.purewhite.io/intro.html](https://nomicon.purewhite.io/intro.html)                 |
+| 文档仓库 | [https://github.com/rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) |
 
 ### Rust 参考手册 中文版
 
@@ -362,9 +372,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 非正式描述内存模型、并发模型、运行时服务、链接模型和调试设施的章节。
 > - 附录章节提供了影响设计的语言的原理和参考。
 
-在线文档：[简介 - Rust 参考手册 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/reference/)
-
-文档仓库：[rust-lang-cn/reference-cn: Rust 参考手册——Chinese translation of The Rust Reference (github.com)](https://github.com/rust-lang-cn/reference-cn)
+| 导航     | 链接                                                                                         |
+| :------- | :------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://rustwiki.org/zh-CN/reference/](https://rustwiki.org/zh-CN/reference/)               |
+| 文档仓库 | [https://github.com/rust-lang-cn/reference-cn](https://github.com/rust-lang-cn/reference-cn) |
 
 ### Rust Cookbook 中文版
 
@@ -372,9 +383,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 《Rust Cookbook 中文版》是 Rust 程序设计语言（[Rust 官方教程简体中文版](https://rustwiki.org/zh-CN/book)）的简要实例示例集合：展示了在 Rust 生态系统中，使用各类 crate 来完成常见编程任务的良好实践。
 
-在线文档：[总览 - Rust Cookbook 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/rust-cookbook/)
-
-文档仓库：[rust-lang-cn/rust-cookbook-cn: Rust Cookbook 中文版——Chinese translation of The Rust Cookbook (github.com)](https://github.com/rust-lang-cn/rust-cookbook-cn)
+| 导航     | 链接                                                                                                 |
+| :------- | :--------------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://rustwiki.org/zh-CN/rust-cookbook/](https://rustwiki.org/zh-CN/rust-cookbook/)               |
+| 文档仓库 | [https://github.com/rust-lang-cn/rust-cookbook-cn](https://github.com/rust-lang-cn/rust-cookbook-cn) |
 
 ### Rusty Book( 锈书 )
 
@@ -389,9 +401,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 需要寻找某个类型的库，例如，一个 HTTP 客户端或 ProtoBuffer 编码库，要求是好用、更新活跃、高质量
 > - 想要寻找常用操作的代码片段，用于熟悉 Rust 或者直接复制粘贴到自己的项目中，例如文件操作、数据库操作、HTTP 请求、排序算法、正则等
 
-在线文档：[Rusty Book - Rusty Book(锈书)](https://rusty.rs/about.html)
-
-文档仓库：[rustlang-cn/rusty-book: A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！ (github.com)](https://github.com/rustlang-cn/rusty-book)
+| 导航     | 链接                                                                                   |
+| :------- | :------------------------------------------------------------------------------------- |
+| 在线文档 | [https://rusty.rs/about.html](https://rusty.rs/about.html)                             |
+| 文档仓库 | [https://github.com/rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) |
 
 ### Rust 异步编程指南
 
@@ -399,9 +412,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 该书是中文 Rust 教程 <<Rust 语言圣经>> 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序。
 
-文档仓库：[rustlang-cn/async-book: 该书是中文 Rust 教程 <> 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序 (github.com)](https://github.com/rustlang-cn/async-book)
-
-配套视频：[Rust Async 异步编程（完结）](https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d)
+| 导航     | 链接                                                                                                                                                                                                                         |
+| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 文档仓库 | [https://github.com/rustlang-cn/async-book](https://github.com/rustlang-cn/async-book)                                                                                                                                       |
+| 配套视频 | [https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d](https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d) |
 
 ### Rust 语言实战
 
@@ -409,9 +423,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > _Rust 语言实战_ 的目标是通过大量的实战练习帮助大家更好的学习和上手使用 Rust 语言。书中的练习题非常易于使用：你所需的就是在线完成练习，并让它通过编译。
 
-在线文档：[关于 pracitce.rs - Rust By Practice( Rust 练习实践 )](https://zh.practice.rs/why-exercise.html)
-
-文档仓库：[sunface/rust-by-practice: Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (github.com)](https://github.com/sunface/rust-by-practice)
+| 导航     | 链接                                                                                       |
+| :------- | :----------------------------------------------------------------------------------------- |
+| 在线文档 | [https://zh.practice.rs/why-exercise.html](https://zh.practice.rs/why-exercise.html)       |
+| 文档仓库 | [https://github.com/sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) |
 
 ### Rust 算法题解
 
@@ -421,9 +436,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > `algos` 涵盖了各种常用算法和数据结构的代码实现，以及 leetcode 题解，同时对于相关算法还提供了中文文档和注释，可以帮助大家更好、更快的学习。
 
-在线文档：[Rust 算法题解 - 《Rust 算法题解 / Rust 算法教程》 - 书栈网 · BookStack](https://www.bookstack.cn/read/rustlang-cn-rust-algos/README.md)
-
-文档仓库：[rustlang-cn/rust-algos: <>，用 Rust 语言实现常见的算法和数据结构，以及 leetcode 题解，algos = algorithms，written with ❤️ by course.rs team (github.com)](https://github.com/rustlang-cn/rust-algos)
+| 导航     | 链接                                                                                                                             |
+| :------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://www.bookstack.cn/read/rustlang-cn-rust-algos/README.md](https://www.bookstack.cn/read/rustlang-cn-rust-algos/README.md) |
+| 文档仓库 | [https://github.com/rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos)                                           |
 
 ### Rust 算法书（RustBook）
 
@@ -441,9 +457,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ...
 
-在线文档：https://www.sejda.com/share/f71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD
-
-文档仓库：[QMHTMY/RustBook: A book about Rust Data Structures and Algorithms. (github.com)](https://github.com/QMHTMY/RustBook)
+| 导航     | 链接                                                                                                                                                                                                                                                           |
+| :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 文档仓库 | [https://github.com/QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)                                                                                                                                                                                       |
+| 在线文档 | [https://www.sejda.com/share/f71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD](https://www.sejda.com/share/f71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD) |
 
 ### Rust 设计模式 中文版
 
@@ -455,9 +472,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - [反模式](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/anti_patterns/index.html) 是解决常见问题的方法。 然而设计模式带给我们好处，反模式却带来更多的问题。
 > - [习惯用法](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/idioms/index.html) 是编码的指导方针。它是社区的共同规范。除非你有明确的理由， 否则就遵守它。
 
-在线文档：[引言 - Rust 设计模式 (chuxiuhong.com)](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/)
-
-文档仓库：[chuxiuhong/chuxiuhong-rust-patterns-zh: Rust 设计模式中文翻译 (github.com)](https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh)
+| 导航     | 链接                                                                                                                   |
+| :------- | :--------------------------------------------------------------------------------------------------------------------- |
+| 在线文档 | [http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/)               |
+| 文档仓库 | [https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh](https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh) |
 
 ### Rust API 编写指南 中文版
 
@@ -465,9 +483,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-在线文档：[关于本书 - Rust API Guidelines（Rust API 编写指南） (zjp-cn.github.io)](https://zjp-cn.github.io/api-guidelines/)
-
-文档仓库：[zjp-CN/api-guidelines: Rust API Guidelines 中文翻译版 (github.com)](https://github.com/zjp-CN/api-guidelines)
+| 导航     | 链接                                                                                 |
+| :------- | :----------------------------------------------------------------------------------- |
+| 在线文档 | [https://zjp-cn.github.io/api-guidelines/](https://zjp-cn.github.io/api-guidelines/) |
+| 文档仓库 | [https://github.com/zjp-CN/api-guidelines](https://github.com/zjp-CN/api-guidelines) |
 
 ### Rust 性能手册（The Rust Performance Book）
 
@@ -477,9 +496,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 一些技术完全是 Rust 特有的，而一些涉及的思想可以应用于其他编程语言编写的程序（通常需要进行修改）。[General Tips](https://blues-star.github.io/perf-book-zh/general-tips_zh.html) 部分还包括适用于任何编程语言的一些一般原则。尽管如此，这本书主要关注 Rust 程序的性能，不能替代一本关于分析和优化的通用指南。
 
-在线文档：[简介 - The Rust Performance Book (blues-star.github.io)](https://blues-star.github.io/perf-book-zh/introduction_zh.html)
-
-文档仓库：[Blues-star/perf-book-zh: The Rust Performance Book (github.com)](https://github.com/Blues-star/perf-book-zh/)
+| 导航     | 链接                                                                                                                             |
+| :------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://blues-star.github.io/perf-book-zh/introduction_zh.html](https://blues-star.github.io/perf-book-zh/introduction_zh.html) |
+| 文档仓库 | [https://github.com/Blues-star/perf-book-zh/](https://github.com/Blues-star/perf-book-zh/)                                       |
 
 ### Rust 宏小册(tlborm)
 
@@ -487,9 +507,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 本书试图提炼出一份 Rust 社区对 Rust 宏知识的集锦。
 
-在线文档：[Rust 宏小册 中文版 - 《Rust 宏小册 中文版》 - 书栈网 · BookStack](https://www.bookstack.cn/read/DaseinPhaos-tlborm-chinese/README.md)
-
-文档仓库：[DaseinPhaos/tlborm-chinese: Rust 宏小册, the Chinese translation of tlborm. (github.com)](https://github.com/DaseinPhaos/tlborm-chinese)
+| 导航     | 链接                                                                                                                                     |
+| :------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://www.bookstack.cn/read/DaseinPhaos-tlborm-chinese/README.md](https://www.bookstack.cn/read/DaseinPhaos-tlborm-chinese/README.md) |
+| 文档仓库 | [https://github.com/DaseinPhaos/tlborm-chinese](https://github.com/DaseinPhaos/tlborm-chinese)                                           |
 
 ### 嵌入式 Rust 编程
 
@@ -497,9 +518,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 有关如何使用 Rust 编程语言为裸机（微控制器）设备开发固件的文档
 
-在线文档：[简介 - The Embedded Rust Book (stevenbai.top)](https://stevenbai.top/rustbook/book/)
-
-文档仓库：[nkbai/book: rust 嵌入式编程书籍的翻译，原书地址 https://rust-embedded.github.io/book/](https://github.com/nkbai/book)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 在线文档 | [https://stevenbai.top/rustbook/book/](https://stevenbai.top/rustbook/book/) |
+| 文档仓库 | [https://github.com/nkbai/book](https://github.com/nkbai/book)               |
 
 ### TheAlgorithms(Rust 算法例子)
 
@@ -507,7 +529,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 所有算法在 Rust 中实现
 
-文档仓库：[TheAlgorithms/Rust: All Algorithms implemented in Rust (github.com)](https://github.com/TheAlgorithms/Rust)
+| 导航     | 链接                                                                           |
+| :------- | :----------------------------------------------------------------------------- |
+| 文档仓库 | [https://github.com/TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) |
 
 ### Rust RFC Book (提案书)
 
@@ -515,17 +539,19 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > “RFC”（征求意见）过程旨在为 Rust 的更改（例如新功能）提供一致且受控的路径，以便所有利益相关者都可以对项目的方向充满信心。
 
-在线文档：[Introduction - The Rust RFC Book (rust-lang.github.io)](https://rust-lang.github.io/rfcs/introduction.html)
-
-文档仓库：[rust-lang/rfcs: RFCs for changes to Rust (github.com)](https://github.com/rust-lang/rfcs)
+| 导航     | 链接                                                                                                     |
+| :------- | :------------------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://rust-lang.github.io/rfcs/introduction.html](https://rust-lang.github.io/rfcs/introduction.html) |
+| 文档仓库 | [https://github.com/rust-lang/rfcs](https://github.com/rust-lang/rfcs)                                   |
 
 ### Rust Unstable Book (不稳定特性书)
 
 > 这是一本记录 rust 不稳定特性的一本书。
 
-在线文档：[The Unstable Book - The Rust Unstable Book (rust-lang.org)](https://doc.rust-lang.org/nightly/unstable-book/index.html)
-
-文档仓库：[rust/src/doc/unstable-book at master · rust-lang/rust (github.com)](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book)
+| 导航     | 链接                                                                                                                                       |
+| :------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| 在线文档 | [https://doc.rust-lang.org/nightly/unstable-book/index.html](https://doc.rust-lang.org/nightly/unstable-book/index.html)                   |
+| 文档仓库 | [https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book) |
 
 ### Rust 版本指南
 
@@ -534,9 +560,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 这个文档有中文版，但是我更建议看英文版，中文版更新不是很及时。
 > 这本书解释了“版本”的概念，即 Rust 开发的主要新时代。你可以在线阅读这本书。
 
-在线文档：[Introduction - The Edition Guide (rustwiki.org)](https://rustwiki.org/en/edition-guide/)
-
-文档仓库：[rust-lang/edition-guide: A guide to changes between various editions of Rust (github.com)](https://github.com/rust-lang/edition-guide)
+| 导航     | 链接                                                                                     |
+| :------- | :--------------------------------------------------------------------------------------- |
+| 在线文档 | [https://rustwiki.org/en/edition-guide/](https://rustwiki.org/en/edition-guide/)         |
+| 文档仓库 | [https://github.com/rust-lang/edition-guide](https://github.com/rust-lang/edition-guide) |
 
 ### Rust 标准库手册中文版
 
@@ -544,7 +571,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 默认情况下，`std` 可用于所有 Rust crates。因此，可以通过 [`use`](https://rustwiki.org/zh-CN/book/ch07-02-defining-modules-to-control-scope-and-privacy.html) 语句使用路径 `std` 来访问标准库，就像在 [`use std::env`](https://rustwiki.org/zh-CN/std/env/index.html) 中一样。
 
-在线文档：[std - Rust (rustwiki.org)](https://rustwiki.org/zh-CN/std/)
+| 导航     | 链接                                                               |
+| :------- | :----------------------------------------------------------------- |
+| 在线文档 | [https://rustwiki.org/zh-CN/std/](https://rustwiki.org/zh-CN/std/) |
 
 ### inside-rust-std-library (标准库手册帮助文档)
 
@@ -553,7 +582,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 本书主要对 RUST 的标准库代码进行分析。
 > 本书尽可能给读者找出一条标准库代码的阅读脉络。同时，分析不仅仅针对代码的功能，也针对代码背后的需求及若干代码设计的思路。
 
-文档仓库：[Warrenren/inside-rust-std-library: 本书主要对 RUST 的标准库代码进行分析，并试图给出 RUST 标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code. (github.com)](https://github.com/Warrenren/inside-rust-std-library)
+| 导航     | 链接                                                                                                         |
+| :------- | :----------------------------------------------------------------------------------------------------------- |
+| 文档仓库 | [https://github.com/Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) |
 
 ### Cargo 中文文档
 
@@ -561,9 +592,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 本目录包含 Cargo 的文档，包含两部分，一是使用 [mdbook](https://github.com/rust-lang/mdBook) 构建的[《Cargo 手册》](https://doc.rust-lang.org/cargo/)，二是使用 [mdman](https://github.com/rust-lang/cargo/tree/master/crates/mdman/) 构建的帮助手册（man 手册）。
 
-在线文档：[简介 - Cargo 手册 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/cargo/)
-
-文档仓库：[rust-lang-cn/cargo-cn: Cargo 手册——Chinese translation of The Cargo Documentation (github.com)](https://github.com/rust-lang-cn/cargo-cn)
+| 导航     | 链接                                                                                 |
+| :------- | :----------------------------------------------------------------------------------- |
+| 在线文档 | [https://rustwiki.org/zh-CN/cargo/](https://rustwiki.org/zh-CN/cargo/)               |
+| 文档仓库 | [https://github.com/rust-lang-cn/cargo-cn](https://github.com/rust-lang-cn/cargo-cn) |
 
 ### Rust 版 Vulkan 教程（图形）
 
@@ -573,9 +605,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 本教程会教授一些 Vulkan 图形与计算 API 的基础知识。Vulkan 是一个由 Khronos 组织 （因 OpenGL 而为人所知）提出的新 API，针对现代显卡的特性提供了更好的抽象。新的接口可以让你更好地描述你的应用程序要做什么，从而带来相比于 OpenGL 和 Direct3D 之类的现有的图形 API 更好的性能和更少的意外驱动程序行为。Vulkan 的设计思想与 Direct3D 12 和 Metal 相似，但 Vulkan 在跨平台方面具有优势，可以让你同时开发 Windows，Linux 和 Android 应用程序（并借由 MoltenVK 开发 iOS 与 MacOS 应用程序）。
 
-文档仓库：[chuigda/Vulkan-Tutorial-Rust-CN: Rust 版 Vulkan 教程的中文翻译，基于 vulkanalia (github.com)](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia)
-
-在线文档：[介绍 - Vulkan 教程（Rust） (7dg.tech)](https://vk.7dg.tech/)
+| 导航     | 链接                                                                                                                                                                                                                                     |
+| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 文档仓库 | [https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia) |
+| 在线文档 | [https://vk.7dg.tech/](https://vk.7dg.tech/)                                                                                                                                                                                             |
 
 ## DevTools
 
@@ -603,7 +636,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 该工具扩展了 Cargo，允许您通过从命令行修改 Cargo.toml 文件来添加、删除和升级依赖项。
 
-代码仓库：[killercup/cargo-edit: A utility for managing cargo dependencies from the command line. (github.com)](https://github.com/killercup/cargo-edit)
+| 导航     | 链接                                                                               |
+| :------- | :--------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/killercup/cargo-edit](https://github.com/killercup/cargo-edit) |
 
 #### cargo-watch
 
@@ -611,7 +646,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Cargo Watch 是一个监视基于 Cargo 的项目并在文件更改时运行命令的工具。它专注于 Rust 开发体验，旨在足够灵活以适应大多数人，而不会变得复杂使用。
 
-代码仓库：[watchexec/cargo-watch: Watches over your Cargo project's source. (github.com)](https://github.com/watchexec/cargo-watch)
+| 导航     | 链接                                                                                 |
+| :------- | :----------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) |
 
 ## Framework
 
@@ -627,9 +664,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > Tauri 应用程序中的用户界面目前将 tao 用作 macOS 和 Windows 上的窗口处理库，并通过 Tauri 团队孵化和维护 WRY 在 Linux 上使用 gtk，该团队利用 macOS 上的 WebKit、Windows 上的 WebView2 和 Linux 上的 WebKitGTK，为系统 webview（以及菜单和任务栏等其他好东西）创建了统一的界面。
 
-代码仓库：[tauri-apps/tauri: Build smaller, faster, and more secure desktop applications with a web frontend. (github.com)](https://github.com/tauri-apps/tauri)
-
-在线网站：[Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://tauri.app/zh/)https://tauri.studio/
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri) |
+| 在线网站 | [https://tauri.app/zh/](https://tauri.app/zh/)                             |
 
 #### egui
 
@@ -641,9 +679,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > egui 可以在任何可以绘制纹理三角形（textured triangles）的地方使用，这意味着你可以轻松地地将它集成到你选择的游戏引擎中。
 
-代码仓库：[emilk/egui: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (github.com)](https://github.com/emilk/egui)
-
-中文文档：[egui-doc-cn/README_zh-hans.md at main · Re-Ch-Love/egui-doc-cn (github.com)](https://github.com/Re-Ch-Love/egui-doc-cn/blob/main/README_zh-hans.md)
+| 导航     | 链接                                                                                                                                           |
+| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/emilk/egui](https://github.com/emilk/egui)                                                                                 |
+| 中文文档 | [https://github.com/Re-Ch-Love/egui-doc-cn/blob/main/README_zh-hans.md](https://github.com/Re-Ch-Love/egui-doc-cn/blob/main/README_zh-hans.md) |
 
 #### fltk-rs
 
@@ -652,11 +691,11 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > FLTK 图形用户界面库的 Rust 绑定。
 > fltk crate 是一个跨平台的轻量级 gui 库，可以静态链接以生成小型、自包含和快速的 gui 应用程序。
 
-代码仓库：[fltk-rs/fltk-rs: Rust bindings for the FLTK GUI library. (github.com)](https://github.com/fltk-rs/fltk-rs)
-
-在线文档：[Home - fltk book (fltk-rs.github.io)](https://fltk-rs.github.io/fltk-book/)
-
-中文文档：[Flatigers/fltk-book-zh: An mdbook for fltk-rs, translated into Chinese.中文翻译版 fltk-rs 的一本书 (github.com)](https://github.com/Flatigers/fltk-book-zh)
+| 导航     | 链接                                                                                   |
+| :------- | :------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs)               |
+| 在线文档 | [https://fltk-rs.github.io/fltk-book/](https://fltk-rs.github.io/fltk-book/)           |
+| 中文文档 | [https://github.com/Flatigers/fltk-book-zh](https://github.com/Flatigers/fltk-book-zh) |
 
 #### iced
 
@@ -664,7 +703,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 的跨平台 GUI 库，专注于简单性和类型安全。灵感来自 Elm。
 
-代码仓库：[iced-rs/iced: A cross-platform GUI library for Rust, inspired by Elm (github.com)](https://github.com/iced-rs/iced)
+| 导航     | 链接                                                               |
+| :------- | :----------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/iced-rs/iced](https://github.com/iced-rs/iced) |
 
 #### xilem
 
@@ -672,7 +713,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 此软件仓库包含一个实验性架构，通过玩具用户界面实现。在高层次上，它结合了 Flutter、SwiftUI 和 Elm 的理念。与所有这些架构一样，它使用轻量级视图对象，通过对它们进行差异化处理，从而为保留的 UI 提供最少的更新。与 SwiftUI 一样，它也是强类型的。
 
-代码仓库：[linebender/xilem: An experimental Rust native UI framework (github.com)](https://github.com/linebender/xilem)
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/linebender/xilem](https://github.com/linebender/xilem) |
 
 #### ⛔️ druid
 
@@ -683,7 +726,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 我们一直在 crates.io 上定期发布 Druid，但它正在积极开发中，它的 API 可能会改变。所有更改都记录在更改日志中。
 > 有关一些关键概念的概述，请参阅（正在进行的工作）Druid 书。
 
-代码仓库：[linebender/druid: A data-first Rust-native UI design toolkit. (github.com)](https://github.com/linebender/druid)
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/linebender/druid](https://github.com/linebender/druid) |
 
 #### Dioxus
 
@@ -703,9 +748,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > - [一个优雅的 Rust GUI 库 (dioxuslabs.com)](https://dioxuslabs.com/blog/release-030/)
 
-代码仓库：[DioxusLabs/dioxus: Friendly React-like GUI library for desktop, web, mobile, and more. (github.com)](https://github.com/DioxusLabs/dioxus)
-
-中文文档：[dioxus/ZH_CN.md at master · DioxusLabs/dioxus (github.com)](https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md)
+| 导航     | 链接                                                                                                                                             |
+| :------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)                                                                     |
+| 中文文档 | [https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md](https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md) |
 
 #### Vizia
 
@@ -722,7 +768,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 动画
 > - 音频插件 GUI 开发
 
-代码仓库：[vizia/vizia: A declarative GUI library written in Rust (github.com)](https://github.com/vizia/vizia)
+| 导航     | 链接                                                             |
+| :------- | :--------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/vizia/vizia](https://github.com/vizia/vizia) |
 
 #### slint
 
@@ -730,9 +778,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Slint 是一个为任何显示设备有效开发流体图形用户界面的工具箱：嵌入式设备和桌面应用程序。我们支持多种编程语言，如 Rust、C++和 JavaScript。
 
-代码仓库：[slint-ui/slint: Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript. (github.com)](https://github.com/slint-ui/slint)
-
-官方网站：[Slint - 快速简便的 UI 工具包 (slint-ui.com)](https://slint-ui.com/)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/slint-ui/slint](https://github.com/slint-ui/slint) |
+| 官方网站 | [https://slint-ui.com/](https://slint-ui.com/)                         |
 
 ### TUI
 
@@ -744,9 +793,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ![DEMO](https://raw.githubusercontent.com/ratatui-org/ratatui/images/examples/demo2.gif)
 
-代码仓库：[ratatui-org/ratatui: Rust library that's all about cooking up terminal user interfaces (TUIs) (github.com)](https://github.com/ratatui-org/ratatui)
-
-在线文档：[Introduction to Ratatui - Ratatui Book](https://ratatui.rs/)
+| 导航     | 链接                                                                             |
+| :------- | :------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) |
+| 在线文档 | [https://ratatui.rs/](https://ratatui.rs/)                                       |
 
 #### ⛔️ tui-rs
 
@@ -754,7 +804,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > tui-rs 是一个 Rust 库，用于构建丰富的终端用户界面和仪表板。它深受 Javascript 库 blessed-contrib 和 Go 库 termui 的启发。
 
-代码仓库：[fdehau/tui-rs: Build terminal user interfaces and dashboards using Rust (github.com)](https://github.com/fdehau/tui-rs)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/fdehau/tui-rs](https://github.com/fdehau/tui-rs) |
 
 ### CLI
 
@@ -764,7 +816,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 命令行工具的完整解决方案。
 
-代码仓库：[tickbh/Commander: Provide Rust Commander Convert From Env (github.com)](https://github.com/tickbh/Commander)
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/tickbh/Commander](https://github.com/tickbh/Commander) |
 
 ### 游戏开发
 
@@ -774,7 +828,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Bevy 是 Rust 内置的令人耳目一新的简单数据驱动游戏引擎。它永远是免费和开源的！
 
-代码仓库：[bevyengine/bevy: A refreshingly simple data-driven game engine built in Rust (github.com)](https://github.com/bevyengine/bevy)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/bevyengine/bevy](https://github.com/bevyengine/bevy) |
 
 #### tetra
 
@@ -782,7 +838,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Tetra 是一个用 Rust 编写的简单 2D 游戏框架。它使用 SDL2 进行事件处理，使用 OpenGL 3.2+ 进行渲染。
 
-代码仓库：[17cupsofcoffee/tetra: 🎮 A simple 2D game framework written in Rust (github.com)](https://github.com/17cupsofcoffee/tetra)
+| 导航     | 链接                                                                               |
+| :------- | :--------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) |
 
 #### amethyst
 
@@ -790,7 +848,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > [该仓库已经不在维护，这里是原因](https://amethyst.rs/posts/amethyst--starting-fresh)
 
-代码仓库：[amethyst/amethyst: Data-oriented and data-driven game engine written in Rust (github.com)](https://github.com/amethyst/amethyst)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/amethyst/amethyst](https://github.com/amethyst/amethyst) |
 
 ### 异步运行时
 
@@ -800,11 +860,11 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Tokio 是 Rust 编程语言的异步运行时。它提供了编写网络应用程序所需的构建块。它提供了针对广泛系统的灵活性，从具有数十个内核的大型服务器到小型嵌入式设备。
 
-代码仓库：[tokio-rs/tokio: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (github.com)](https://github.com/tokio-rs/tokio)
-
-在线网站：[Tokio - An asynchronous Rust runtime](https://tokio.rs/)
-
-中文文档：[Rustt/Books/Tokio-Tutorial at main · rustlang-cn/Rustt (github.com)](https://github.com/rustlang-cn/Rustt/tree/main/Books/Tokio-Tutorial)
+| 导航     | 链接                                                                                                                                       |
+| :------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/tokio-rs/tokio](https://github.com/tokio-rs/tokio)                                                                     |
+| 在线网站 | [https://tokio.rs/](https://tokio.rs/)                                                                                                     |
+| 中文文档 | [https://github.com/rustlang-cn/Rustt/tree/main/Books/Tokio-Tutorial](https://github.com/rustlang-cn/Rustt/tree/main/Books/Tokio-Tutorial) |
 
 ### 前端相关
 
@@ -814,9 +874,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > **Yew** 是一个设计先进的 [Rust](https://www.rust-lang.org/) 框架，目的是使用 [WebAssembly](https://webassembly.org/) 来创建多线程的前端 web 应用。
 
-代码仓库：[yewstack/yew: Rust / Wasm framework for building client web apps (github.com)](https://github.com/yewstack/yew)
-
-资源仓库：[jetli/awesome-yew: 😎 A curated list of awesome things related to Yew / WebAssembly. (github.com)](https://github.com/jetli/awesome-yew)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/yewstack/yew](https://github.com/yewstack/yew)           |
+| 资源仓库 | [https://github.com/jetli/awesome-yew](https://github.com/jetli/awesome-yew) |
 
 #### Deno
 
@@ -824,7 +885,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，它使用 V8 并内置于 Rust。
 
-代码仓库：[denoland/deno: A modern runtime for JavaScript and TypeScript. (github.com)](https://github.com/denoland/deno)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/denoland/deno](https://github.com/denoland/deno) |
 
 #### SWC
 
@@ -834,7 +897,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > SWC（代表 Speedy Web Compiler）是一个用 Rust 编写的超快速 TypeScript / JavaScript 编译器。它同时是 Rust 和 JavaScript 的库。如果您使用 Rust 的 SWC，请参阅 rustdoc，对于大多数用户，您使用该库的入口点将是解析器。
 
-代码仓库：[swc-project/swc: Rust-based platform for the Web (github.com)](https://github.com/swc-project/swc)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/swc-project/swc](https://github.com/swc-project/swc) |
 
 #### Parcel
 
@@ -842,7 +907,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Parcel 是用于 web 的零配置构建工具。它将优秀的开箱即用的开发经验与可扩展的体系结构结合在一起，可以将您的项目从刚开始的阶段转变为大规模的生产应用程序。
 
-代码仓库：[parcel-bundler/parcel: The zero configuration build tool for the web. 📦🚀 (github.com)](https://github.com/parcel-bundler/parcel)
+| 导航     | 链接                                                                                 |
+| :------- | :----------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) |
 
 #### Rome
 
@@ -856,7 +923,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Rome 拥有一流的 IDE 支持，具有复杂的解析器，可以完全保真地表示源文本和一流的错误恢复。
 > Rome 是麻省理工学院根据贡献者契约行为准则获得许可和管理的。
 
-代码仓库：[rome/tools: The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS. (github.com)](https://github.com/rome/tools)
+| 导航     | 链接                                                           |
+| :------- | :------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/rome/tools](https://github.com/rome/tools) |
 
 #### napi-rs
 
@@ -864,7 +933,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 用于在 Rust 中构建已编译的 Node.js 附加组件的最小库。
 
-代码仓库：[napi-rs/napi-rs: A framework for building compiled Node.js add-ons in Rust via Node-API (github.com)](https://github.com/napi-rs/napi-rs)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) |
 
 #### Lightning CSS
 
@@ -874,7 +945,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ![performance and build size charts](https://user-images.githubusercontent.com/19409/189022599-28246659-f94a-46a4-9de0-b6d17adb0e22.png#gh-light-mode-only)
 
-代码仓库：[parcel-bundler/lightningcss: An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. (github.com)](https://github.com/parcel-bundler/lightningcss)
+| 导航     | 链接                                                                                             |
+| :------- | :----------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) |
 
 ### WebAssembly
 
@@ -884,7 +957,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > WebAssembly 的运行时
 
-代码仓库：[bytecodealliance/wasmtime: A standalone runtime for WebAssembly (github.com)](https://github.com/bytecodealliance/wasmtime)
+| 导航     | 链接                                                                                         |
+| :------- | :------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) |
 
 #### wasmer
 
@@ -892,7 +967,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > WebAssembly 又一个运行时
 
-代码仓库：[wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten (github.com)](https://github.com/wasmerio/wasmer)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/wasmerio/wasmer](https://github.com/wasmerio/wasmer) |
 
 #### WasmEdge
 
@@ -902,7 +979,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > WasmEdge 是一个轻量级、高性能和可扩展的 WebAssembly 运行时，适用于云原生、边缘和去中心化应用程序。它为无服务器应用程序、嵌入式功能、微服务、智能合约和物联网设备提供支持。
 
-代码仓库：[WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (github.com)](https://github.com/WasmEdge/WasmEdge)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) |
 
 #### WASI
 
@@ -912,7 +991,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > WASI 不是一个单一的标准系统接口，而是标准化 API 的模块化集合。不需要实现任何 API 即可具有兼容的运行时。相反，主机环境可以选择哪些 API 对其用例有意义。
 
-代码仓库：[WebAssembly/WASI: WebAssembly System Interface (github.com)](https://github.com/WebAssembly/WASI)
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/WebAssembly/WASI](https://github.com/WebAssembly/WASI) |
 
 ### 网络
 
@@ -923,7 +1004,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 构建 p2p 网络的包
 > 运行您的网络应用程序，不受运行时和地址服务的影响，与它们的位置无关。
 
-代码仓库：[libp2p/rust-libp2p: The Rust Implementation of the libp2p networking stack. (github.com)](https://github.com/libp2p/rust-libp2p)
+| 导航     | 链接                                                                           |
+| :------- | :----------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) |
 
 #### rathole
 
@@ -933,9 +1016,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > rathole，类似于 [frp](https://github.com/fatedier/frp) 和 [ngrok](https://github.com/inconshreveable/ngrok)，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。
 
-代码仓库：[rapiz1/rathole: A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (github.com)](https://github.com/rapiz1/rathole)
-
-中文文档：[rathole/README-zh.md at main · rapiz1/rathole (github.com)](https://github.com/rapiz1/rathole/blob/main/README-zh.md)
+| 导航     | 链接                                                                                                                 |
+| :------- | :------------------------------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/rapiz1/rathole](https://github.com/rapiz1/rathole)                                               |
+| 中文文档 | [https://github.com/rapiz1/rathole/blob/main/README-zh.md](https://github.com/rapiz1/rathole/blob/main/README-zh.md) |
 
 #### Crust
 
@@ -943,7 +1027,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中具有 NAT 遍历的可靠 p2p 网络连接。任何无服务器、去中心化项目最需要的库之一。
 
-代码仓库：[maidsafe-archive/crust: Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects (github.com)](https://github.com/maidsafe-archive/crust)
+| 导航     | 链接                                                                                   |
+| :------- | :------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/maidsafe-archive/crust](https://github.com/maidsafe-archive/crust) |
 
 ### 服务端
 
@@ -957,7 +1043,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 与 Actix Web 不同的是，该框架运行在 Rust 语言的“实验”版本)上。
 
-代码仓库：[SergioBenitez/Rocket: A web framework for Rust. (github.com)](https://github.com/SergioBenitez/Rocket)
+| 导航     | 链接                                                                               |
+| :------- | :--------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) |
 
 #### Actix Web
 
@@ -979,9 +1067,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 与 awc HTTP 客户端集成
 > - 在稳定的 Rust 1.57+ 上运行
 
-代码仓库：[actix/actix-web: Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (github.com)](https://github.com/actix/actix-web)
-
-中文文档：[介绍 - actix-web 中文文档 - Rust-Web 开发指南 (gitcode.host)](https://mirrors.gitcode.host/zzy/actix-web-zh-cn/intro.html)
+| 导航     | 链接                                                                                                                       |
+| :------- | :------------------------------------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/actix/actix-web](https://github.com/actix/actix-web)                                                   |
+| 中文文档 | [https://mirrors.gitcode.host/zzy/actix-web-zh-cn/intro.html](https://mirrors.gitcode.host/zzy/actix-web-zh-cn/intro.html) |
 
 #### warp
 
@@ -1001,7 +1090,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 访问记录
 > - Gzip、Deflate 和 Brotli 压缩
 
-代码仓库：[seanmonstar/warp: A super-easy, composable, web server framework for warp speeds. (github.com)](https://github.com/seanmonstar/warp)
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/seanmonstar/warp](https://github.com/seanmonstar/warp) |
 
 #### poem
 
@@ -1009,7 +1100,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个功能齐全且易于使用的 Web 框架，采用 Rust 编程语言。
 
-代码仓库：[poem-web/poem: A full-featured and easy-to-use web framework with the Rust programming language. (github.com)](https://github.com/poem-web/poem)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/poem-web/poem](https://github.com/poem-web/poem) |
 
 #### axum
 
@@ -1017,7 +1110,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > axum 是一个专注于人体工程学和模块化的 Web 应用程序框架。
 
-代码仓库：[tokio-rs/axum: Ergonomic and modular web framework built with Tokio, Tower, and Hyper (github.com)](https://github.com/tokio-rs/axum)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/tokio-rs/axum](https://github.com/tokio-rs/axum) |
 
 #### Salvo
 
@@ -1025,7 +1120,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Salvo 是一个极其简单且功能强大的 Rust Web 后端框架. 仅仅需要基础 Rust 知识即可开发后端服务.
 
-代码仓库：[salvo-rs/salvo: Salvo is a powerful and simplest web server framework in Rust world (github.com)](https://github.com/salvo-rs/salvo)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/salvo-rs/salvo](https://github.com/salvo-rs/salvo) |
 
 ### 序列化
 
@@ -1035,7 +1132,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > gjson 的 Rust 移植，通过 dotpath 语法获取 JSON 值。原名为：rust-ajson
 
-代码仓库：[importcjj/rust-ajson: Rust port of gjson，get JSON value by dotpath syntax (github.com)](https://github.com/importcjj/rust-ajson)
+| 导航     | 链接                                                                               |
+| :------- | :--------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/importcjj/rust-ajson](https://github.com/importcjj/rust-ajson) |
 
 #### json-rust
 
@@ -1043,7 +1142,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 轻松解析和序列化 JSON。
 
-代码仓库：[maciejhirsz/json-rust: JSON implementation in Rust (github.com)](https://github.com/maciejhirsz/json-rust)
+| 导航     | 链接                                                                                 |
+| :------- | :----------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/maciejhirsz/json-rust](https://github.com/maciejhirsz/json-rust) |
 
 #### pikkr
 
@@ -1051,7 +1152,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > JSON 解析器直接获取值而不在 Rust 中执行标记化。
 
-代码仓库：[pikkr/pikkr: JSON parser which picks up values directly without performing tokenization in Rust (github.com)](https://github.com/pikkr/pikkr)
+| 导航     | 链接                                                             |
+| :------- | :--------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/pikkr/pikkr](https://github.com/pikkr/pikkr) |
 
 #### Serde
 
@@ -1059,7 +1162,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Serde 是一个用于高效且通用地序列化和反序列化 Rust 数据结构的框架。
 
-代码仓库：[serde-rs/json: Strongly typed JSON library for Rust (github.com)](https://github.com/serde-rs/json)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/serde-rs/json](https://github.com/serde-rs/json) |
 
 #### quick-xml
 
@@ -1070,7 +1175,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 易于分配内存（API 提供了一种重用缓冲区的方法）
 > 支持各种编码（具有编码功能）、命名空间解析、特殊字符。
 
-代码仓库：[tafia/quick-xml: Rust high performance xml reader and writer (github.com)](https://github.com/tafia/quick-xml)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/tafia/quick-xml](https://github.com/tafia/quick-xml) |
 
 #### musli
 
@@ -1084,7 +1191,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 它提供了一组格式，每种[格式](https://github.com/udoprog/musli#formats)都有其自己的良好文档 一组功能和权衡。每个面向字节的序列化方法 （包括 [`musli-json`](https://docs.rs/musli-json)）在有或没有 .` #[no_std]``alloc `
 
-代码仓库：[udoprog/musli：Müsli 是一个灵活且通用的二进制序列化框架 (github.com)](https://github.com/udoprog/musli)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/udoprog/musli](https://github.com/udoprog/musli) |
 
 ### 消息队列
 
@@ -1096,7 +1205,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 应用程序的分层配置系统。
 
-代码仓库：[mehcode/config-rs: ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). (github.com)](https://github.com/mehcode/config-rs)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/mehcode/config-rs](https://github.com/mehcode/config-rs) |
 
 ### 日期处理
 
@@ -1106,7 +1217,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 日期和时间库。与标准库完全互操作。大部分与#![no_std] 兼容。
 
-代码仓库：[time-rs/time: Simple time handling in Rust (github.com)](https://github.com/time-rs/time)
+| 导航     | 链接                                                               |
+| :------- | :----------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/time-rs/time](https://github.com/time-rs/time) |
 
 #### chrono
 
@@ -1114,7 +1227,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 它的目标是成为一个功能完整的时间库的超集。
 
-代码仓库：[chronotope/chrono: Date and time library for Rust (github.com)](https://github.com/chronotope/chrono)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/chronotope/chrono](https://github.com/chronotope/chrono) |
 
 #### httpdate
 
@@ -1122,7 +1237,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > HTTP 的日期和时间工具。
 
-代码仓库：[pyfisch/httpdate: HTTP date parsing and formatting (github.com)](https://github.com/pyfisch/httpdate)
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/pyfisch/httpdate](https://github.com/pyfisch/httpdate) |
 
 ### 编码库
 
@@ -1132,7 +1249,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 故名思义就是 base64 的编码库。
 
-代码仓库：[marshallpierce/rust-base64: base64, in rust (github.com)](https://github.com/marshallpierce/rust-base64)
+| 导航     | 链接                                                                                           |
+| :------- | :--------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) |
 
 #### hmac
 
@@ -1140,7 +1259,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 用纯 Rust 编写的消息认证代码算法
 
-代码仓库：[RustCrypto/MACs: Message authentication code algorithms written in pure Rust (github.com)](https://github.com/RustCrypto/MACs)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/RustCrypto/MACs](https://github.com/RustCrypto/MACs) |
 
 #### jwt
 
@@ -1148,7 +1269,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > JSON Web 令牌库。
 
-代码仓库：[mikkyang/rust-jwt: JSON Web Token library for Rust (github.com)](https://github.com/mikkyang/rust-jwt)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/mikkyang/rust-jwt](https://github.com/mikkyang/rust-jwt) |
 
 #### josekit
 
@@ -1158,7 +1281,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > JOSE（Javascript 对象签名和加密：JWT、JWS、JWE、JWA、JWK）库，基于 Rust 的 OpenSSL。
 
-代码仓库：[hidekatsu-izuno/josekit-rs: JOSE (Javascript Object Signing and Encryption) library for Rust (based on OpenSSL). (github.com)](https://github.com/hidekatsu-izuno/josekit-rs)
+| 导航     | 链接                                                                                           |
+| :------- | :--------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/hidekatsu-izuno/josekit-rs](https://github.com/hidekatsu-izuno/josekit-rs) |
 
 #### sha
 
@@ -1166,7 +1291,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 安全哈希算法 (SHA) 内在库。
 
-代码仓库：[andydude/rust-sha: Rust Cryptography Intrinsics (github.com)](https://github.com/andydude/rust-sha/)
+| 导航     | 链接                                                                           |
+| :------- | :----------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/andydude/rust-sha/](https://github.com/andydude/rust-sha/) |
 
 #### utf8mb3
 
@@ -1174,7 +1301,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 将所有 4 字节字符（如表情符号）编码为 3 字节字符，并且支持 wasm。
 
-代码仓库：[WumaCoder/utf8mb3: Let mysql's utf8 encoding store four-byte characters such as emoji(让 mysql 的 utf8 编码存储表情符号这类的四字节字符). (github.com)](https://github.com/WumaCoder/utf8mb3)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/WumaCoder/utf8mb3](https://github.com/WumaCoder/utf8mb3) |
 
 ### 数据库
 
@@ -1190,7 +1319,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - `sqlx-postgres`- SQLx PostgreSQL
 > - `sqlx-sqlite`- SQLx SQLite
 
-代码仓库：[SeaQL/sea-orm: 🐚 An async & dynamic ORM for Rust (github.com)](https://github.com/SeaQL/sea-orm)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) |
 
 #### rbatis
 
@@ -1214,7 +1345,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > | TiDB(Mysql)           | √      |
 > | CockroachDB(Postgres) | √      |
 
-代码仓库：[rbatis/rbatis: Rust High Performance compile-time ORM(RBSON based) (github.com)](https://github.com/rbatis/rbatis)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/rbatis/rbatis](https://github.com/rbatis/rbatis) |
 
 #### MongoDB Rust Driver
 
@@ -1222,7 +1355,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 此存储库包含官方支持的 MongoDB Rust 驱动程序，这是一个客户端库，可用于与 Rust 应用程序中的 MongoDB 部署进行交互。它使用 bson crate 来支持 BSON。该驱动程序包含一个完全异步的 API，它支持 tokio（默认）或 async-std，具体取决于设置的功能标志。驱动程序还有一个同步 API，可以通过功能标志启用。
 
-代码仓库：[mongodb/mongo-rust-driver: The official MongoDB Rust Driver (github.com)](https://github.com/mongodb/mongo-rust-driver)
+| 导航     | 链接                                                                                         |
+| :------- | :------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) |
 
 #### wither
 
@@ -1234,7 +1369,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > async-std-runtime 激活 async-std 运行时。
 > 由于底层驱动程序的更新，Model trait 以及 Model 派生宏有相当多的重大变化。详细信息可以在更改日志和文档中找到。此外，现在默认情况下一切都是异步的，并且同步接口已从 repo 中完全删除。
 
-代码仓库：[thedodd/wither: An ODM for MongoDB built on the official MongoDB Rust driver. (github.com)](https://github.com/thedodd/wither)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/thedodd/wither](https://github.com/thedodd/wither) |
 
 #### redis-rs
 
@@ -1242,7 +1379,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Redis-rs 是 Rust 的高级 redis 库。它通过非常灵活但低级的 API 提供对所有 Redis 功能的便捷访问。它使用可自定义的类型转换特征，因此任何操作都可以返回您期望的类型的结果。这带来了非常愉快的开发体验。
 
-代码仓库：[redis-rs/redis-rs: Redis library for rust (github.com)](https://github.com/redis-rs/redis-rs)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) |
 
 #### r2d2
 
@@ -1250,7 +1389,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 的通用连接池。
 
-代码仓库：[sfackler/r2d2: A generic connection pool for Rust (github.com)](https://github.com/sfackler/r2d2)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/sfackler/r2d2](https://github.com/sfackler/r2d2) |
 
 ### 单元测试
 
@@ -1260,7 +1401,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 适用于 Rust 的强大模拟对象库。
 
-代码仓库：[asomers/mockall: A powerful mock object library for Rust (github.com)](https://github.com/asomers/mockall)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/asomers/mockall](https://github.com/asomers/mockall) |
 
 ### 几何计算
 
@@ -1278,7 +1421,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ⚠️：如果需要计算距离所有的坐标使用 f64，这是小编踩过的坑.
 
-代码仓库：[georust/geo: Geospatial primitives and algorithms for Rust (github.com)](https://github.com/georust/geo)
+| 导航     | 链接                                                             |
+| :------- | :--------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/georust/geo](https://github.com/georust/geo) |
 
 ### 图片处理
 
@@ -1289,7 +1434,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 这个 crate 提供了基本的图像处理功能和方法来转换各种图像格式。
 > 提供的所有图像处理函数都对实现 GenericImageView 和 GenericImage 特征并返回 ImageBuffer 的类型进行操作。
 
-代码仓库：[image-rs/image: Encoding and decoding images in Rust (github.com)](https://github.com/image-rs/image)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/image-rs/image](https://github.com/image-rs/image) |
 
 ### 音频处理
 
@@ -1315,7 +1462,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 提供一个 C 语言的 API，以便与其他语言集成
 > - 为网络使用提供 WASM API
 
-代码仓库：[pdeljanov/Symphonia: Pure Rust multimedia format demuxing, tag reading, and audio decoding library (github.com)](https://github.com/pdeljanov/Symphonia)
+| 导航     | 链接                                                                             |
+| :------- | :------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) |
 
 ### 视频处理
 
@@ -1325,7 +1474,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 的一个视频处理库，绑定自 ffmpeng。
 
-代码仓库：[zmwangx/rust-ffmpeg-sys: FFmpeg bindings for Rust. (github.com)](https://github.com/zmwangx/rust-ffmpeg-sys)
+| 导航     | 链接                                                                                     |
+| :------- | :--------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys) |
 
 ### 文档处理
 
@@ -1335,7 +1486,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 用于 PDF 文档操作的 Rust 库。
 
-代码仓库：[J-F-Liu/lopdf: A Rust library for PDF document manipulation. (github.com)](https://github.com/J-F-Liu/lopdf)
+| 导航     | 链接                                                                 |
+| :------- | :------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) |
 
 #### pdf-rs
 
@@ -1343,7 +1496,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 用于读取、操作和编写 PDF 文件的 Rust 库。
 
-代码仓库：[pdf-rs/pdf: Rust library to read, manipulate and write PDF files. (github.com)](https://github.com/pdf-rs/pdf)
+| 导航     | 链接                                                           |
+| :------- | :------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/pdf-rs/pdf](https://github.com/pdf-rs/pdf) |
 
 #### calamine
 
@@ -1351,7 +1506,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 编写的 Excel/OpenDocument 电子表格文件阅读器/反序列化器。
 
-代码仓库：[tafia/calamine: A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets (github.com)](https://github.com/tafia/calamine)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/tafia/calamine](https://github.com/tafia/calamine) |
 
 #### docx-rs
 
@@ -1359,7 +1516,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个带有 Rust/WebAssembly 的.docx 文件编写器。
 
-代码仓库：[bokuweb/docx-rs: A .docx file writer with Rust/WebAssembly. (github.com)](https://github.com/bokuweb/docx-rs)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/bokuweb/docx-rs](https://github.com/bokuweb/docx-rs) |
 
 #### Polars
 
@@ -1369,7 +1528,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 应该是一个可以读取 csv 查询处理的库。
 
-代码仓库：[pola-rs/polars: Fast multi-threaded DataFrame library in Rust | Python | Node.js (github.com)](https://github.com/pola-rs/polars)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/pola-rs/polars](https://github.com/pola-rs/polars) |
 
 ### AST
 
@@ -1381,7 +1542,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > [Antlr4](https://github.com/antlr/antlr4) 是一个强大的语言分析器可以把目前绝大多数的语言解析成 ast 结构。你也可以用这个来创造自己的语言。
 
-代码仓库：[rrevenantt/antlr4rust: ANTLR4 parser generator runtime for Rust programming laguage (github.com)](https://github.com/rrevenantt/antlr4rust)
+| 导航     | 链接                                                                                 |
+| :------- | :----------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/rrevenantt/antlr4rust](https://github.com/rrevenantt/antlr4rust) |
 
 #### pandoc_ast
 
@@ -1389,7 +1552,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 反序列化和序列化 markdown ast 以编写 pandoc 过滤器
 
-代码仓库：[oli-obk/pandoc-ast (github.com)](https://github.com/oli-obk/pandoc-ast)
+| 导航     | 链接                                                                           |
+| :------- | :----------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/oli-obk/pandoc-ast](https://github.com/oli-obk/pandoc-ast) |
 
 ### 自动化
 
@@ -1411,7 +1576,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 自动下载适用于 Linux/Mac/Windows 的“已知良好”Chromium 二进制文件
 > - 扩展预加载
 
-代码仓库：[atroche/rust-headless-chrome: A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team. (github.com)](https://github.com/atroche/rust-headless-chrome)
+| 导航     | 链接                                                                                               |
+| :------- | :------------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/atroche/rust-headless-chrome](https://github.com/atroche/rust-headless-chrome) |
 
 #### enigo
 
@@ -1419,7 +1586,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中的跨平台输入模拟。
 
-代码仓库：[enigo-rs/enigo: Cross platform input simulation in Rust (github.com)](https://github.com/enigo-rs/enigo)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/enigo-rs/enigo](https://github.com/enigo-rs/enigo) |
 
 #### InputBot
 
@@ -1428,7 +1597,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 用于模拟键盘/鼠标输入事件和注册全局输入设备事件处理程序的跨平台（Windows 和 Linux）库。
 > 允许编写将长动作序列折叠成单个按键的自动化程序。
 
-代码仓库：[obv-mikhail/InputBot: A Rust library for creating global hotkeys, and emulating inputs. (github.com)](https://github.com/obv-mikhail/InputBot)
+| 导航     | 链接                                                                               |
+| :------- | :--------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) |
 
 ### 系统相关
 
@@ -1438,7 +1609,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 适用于 MacOS、Windows、Linux(X11、wayland) 的跨平台截图库。
 
-代码仓库：[nashaofu/screenshots-rs: A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland). (github.com)](https://github.com/nashaofu/screenshots-rs)
+| 导航     | 链接                                                                                     |
+| :------- | :--------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/nashaofu/screenshots-rs](https://github.com/nashaofu/screenshots-rs) |
 
 #### execute
 
@@ -1446,7 +1619,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 这个库用于扩展 Command，以便更容易地执行程序。
 
-代码仓库：[magiclen/execute: A library for extending `Command` in order to execute programs more easily. (github.com)](https://github.com/magiclen/execute)
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/magiclen/execute](https://github.com/magiclen/execute) |
 
 ### 机器学习
 
@@ -1456,7 +1631,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 纯 Rust 中的张量和动态神经网络。
 
-代码仓库：[neuronika/neuronika: Tensors and dynamic neural networks in pure Rust. (github.com)](https://github.com/neuronika/neuronika)
+| 导航     | 链接                                                                             |
+| :------- | :------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/neuronika/neuronika](https://github.com/neuronika/neuronika) |
 
 ### 语言绑定 (FFI)
 
@@ -1466,7 +1643,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 从 Rust 代码生成 C 绑定的项目。
 
-代码仓库：[eqrion/cbindgen: A project for generating C bindings from Rust code (github.com)](https://github.com/eqrion/cbindgen)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/eqrion/cbindgen](https://github.com/eqrion/cbindgen) |
 
 #### PyO3
 
@@ -1474,7 +1653,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Python 的 Rust 绑定，包括用于创建本机 Python 扩展模块的工具。还支持从 Rust 二进制文件运行 Python 代码并与之交互。
 
-代码仓库：[PyO3/pyo3: Rust bindings for the Python interpreter (github.com)](https://github.com/PyO3/PyO3)
+| 导航     | 链接                                                         |
+| :------- | :----------------------------------------------------------- |
+| 代码仓库 | [https://github.com/PyO3/PyO3](https://github.com/PyO3/PyO3) |
 
 ### 图形渲染
 
@@ -1484,7 +1665,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 图形、图像和文本的硬件加速绘图，具有易于使用的 API。
 
-代码仓库：[QuantumBadger/Speedy2D: Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API. (github.com)](https://github.com/QuantumBadger/Speedy2D)
+| 导航     | 链接                                                                                   |
+| :------- | :------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/QuantumBadger/Speedy2D](https://github.com/QuantumBadger/Speedy2D) |
 
 #### wgpu
 
@@ -1492,7 +1675,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中安全且可移植的 GPU 抽象，实现了 WebGPU API。
 
-代码仓库：[gfx-rs/wgpu: Safe and portable GPU abstraction in Rust, implementing WebGPU API. (github.com)](https://github.com/gfx-rs/wgpu)
+| 导航     | 链接                                                             |
+| :------- | :--------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) |
 
 #### glium
 
@@ -1500,7 +1685,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 语言的安全 OpenGL 包装器。
 
-代码仓库：[glium/glium: Safe OpenGL wrapper for the Rust language. (github.com)](https://github.com/glium/glium)
+| 导航     | 链接                                                             |
+| :------- | :--------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/glium/glium](https://github.com/glium/glium) |
 
 #### vulkano
 
@@ -1510,7 +1697,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > [2019Rust 图形库之路(译) —— ggez 作者 (llever.com)](https://llever.com/2020/02/24/2019rust图形库之路译-ggez-作者/)
 
-代码仓库：[vulkano-rs/vulkano：围绕 Vulkan API 的安全且丰富的 Rust 包装器 (github.com)](https://github.com/vulkano-rs/vulkano)
+| 导航     | 链接                                                                           |
+| :------- | :----------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) |
 
 #### nannou
 
@@ -1521,9 +1710,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 简单说他不是一个库是一个堆库的集合，包括图形渲染、声音播放等等。
 
-代码仓库：[nannou-org/nannou: A Creative Coding Framework for Rust. (github.com)](https://github.com/nannou-org/nannou)
-
-官方网站：[首页 |南诺 (nannou.cc)](https://nannou.cc/)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/nannou-org/nannou](https://github.com/nannou-org/nannou) |
+| 官方网站 | [https://nannou.cc/](https://nannou.cc/)                                     |
 
 #### raqote
 
@@ -1531,7 +1721,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个纯 Rust 的 2D 图形库。
 
-代码仓库：[jrmuizel/raqote: Rust 2D graphics library (github.com)](https://github.com/jrmuizel/raqote)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/jrmuizel/raqote](https://github.com/jrmuizel/raqote) |
 
 ### 日志库
 
@@ -1541,7 +1733,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 高性能可观察性数据管道。
 
-代码仓库：[vectordotdev/vector: A high-performance observability data pipeline. (github.com)](https://github.com/vectordotdev/vector)
+| 导航     | 链接                                                                             |
+| :------- | :------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/vectordotdev/vector](https://github.com/vectordotdev/vector) |
 
 ### RPC 库
 
@@ -1551,9 +1745,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Apache Dubbo-rust, Dubbo RPC 框架的 Rust 实现。
 
-代码仓库：[dubbo-rust/README_CN.md at main · apache/dubbo-rust (github.com)](https://github.com/apache/dubbo-rust)
-
-中文文档：[dubbo-rust/README_CN.md at main · apache/dubbo-rust (github.com)](https://github.com/apache/dubbo-rust/blob/main/README_CN.md)
+| 导航     | 链接                                                                                                                       |
+| :------- | :------------------------------------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/apache/dubbo-rust](https://github.com/apache/dubbo-rust)                                               |
+| 中文文档 | [https://github.com/apache/dubbo-rust/blob/main/README_CN.md](https://github.com/apache/dubbo-rust/blob/main/README_CN.md) |
 
 #### volo
 
@@ -1561,7 +1756,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Volo 是一个轻量级、高性能、可扩展性强、易用性好的 Rust RPC 框架，使用了 Rust 最新的 GAT 和 TAIT 特性。
 
-代码仓库：[cloudwego/volo: A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices. (github.com)](https://github.com/cloudwego/volo)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/cloudwego/volo](https://github.com/cloudwego/volo) |
 
 ### SDL
 
@@ -1573,7 +1770,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中 SDL2 的绑定。
 
-代码仓库：[Rust-SDL2/rust-sdl2: SDL2 bindings for Rust (github.com)](https://github.com/Rust-SDL2/rust-sdl2)
+| 导航     | 链接                                                                             |
+| :------- | :------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) |
 
 ### 辅助工具库
 
@@ -1585,7 +1784,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 说人话就是，一个对 Debug、Default、Hash、Clone、Copy 系统自带宏的扩展补充，挺好用。
 
-代码仓库：[magiclen/educe: This crate provides procedural macros to help you implement Rust-built-in traits quickly. (github.com)](https://github.com/magiclen/educe)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/magiclen/educe](https://github.com/magiclen/educe) |
 
 ### 区块链
 
@@ -1616,9 +1817,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 仓主试用，非常不错，值得一试。
 
-官方网站：https://zed.dev/
-
-代码仓库：[zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (github.com)](https://github.com/zed-industries/zed)
+| 导航     | 链接                                                                           |
+| :------- | :----------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/zed-industries/zed](https://github.com/zed-industries/zed) |
+| 官方网站 | [https://zed.dev/](https://zed.dev/)                                           |
 
 #### AppFlowy
 
@@ -1628,7 +1830,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ![The Open Source Alternative To Notion.](https://user-images.githubusercontent.com/12026239/174754661-682980e4-e386-4685-bb6f-2da357390b61.png)
 
-代码仓库：[AppFlowy-IO/AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (github.com)](https://github.com/AppFlowy-IO/AppFlowy)
+| 导航     | 链接                                                                               |
+| :------- | :--------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) |
 
 #### Lapce
 
@@ -1640,7 +1844,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 一个有点像是 VSCode 的编辑器。
 
-代码仓库：[lapce/lapce: Lightning-fast and Powerful Code Editor written in Rust (github.com)](https://github.com/lapce/lapce)
+| 导航     | 链接                                                             |
+| :------- | :--------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/lapce/lapce](https://github.com/lapce/lapce) |
 
 #### Neovide
 
@@ -1650,7 +1856,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ![Screenshot of Neovide](https://github.com/neovide/neovide/raw/main/website/docs/assets/BasicScreenCap.png)
 
-代码仓库：[neovide/neovide: No Nonsense Neovim Client in Rust (github.com)](https://github.com/neovide/neovide)
+| 导航     | 链接                                                                     |
+| :------- | :----------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/neovide/neovide](https://github.com/neovide/neovide) |
 
 #### Helix
 
@@ -1661,7 +1869,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ![Screenshot](https://github.com/helix-editor/helix/raw/master/screenshot.png)
 
-代码仓库：[helix-editor/helix: A post-modern modal text editor. (github.com)](https://github.com/helix-editor/helix)
+| 导航     | 链接                                                                           |
+| :------- | :----------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/helix-editor/helix](https://github.com/helix-editor/helix) |
 
 ### 终端
 
@@ -1671,7 +1881,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > GPU 加速交叉平台模拟器和终端器.
 
-代码仓库：[wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (github.com)](https://github.com/wez/wezterm)
+| 导航     | 链接                                                             |
+| :------- | :--------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/wez/wezterm](https://github.com/wez/wezterm) |
 
 ### 远程控制
 
@@ -1683,7 +1895,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > [![image](https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png)](https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png)
 
-仓库链接：[rustdesk/rustdesk：为每个人提供开源虚拟/远程桌面基础架构！开源的 TeamViewer 替代方案。显示和控制您的 PC 和安卓设备。 (github.com)](https://github.com/rustdesk/rustdesk)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 仓库链接 | [https://github.com/rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) |
 
 ### Git 工具
 
@@ -1695,7 +1909,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > [![img](https://github.com/extrawurst/gitui/raw/master/demo.gif)](https://github.com/extrawurst/gitui/blob/master/demo.gif)
 
-代码仓库：[extrawurst/gitui: Blazing 💥 fast terminal-ui for git written in rust 🦀 (github.com)](https://github.com/extrawurst/gitui)
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui) |
 
 ### 内网穿透
 
@@ -1705,7 +1921,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中的一个现代、简单的 TCP 隧道，它将本地端口暴露给远程服务器，绕过标准 NAT 连接防火墙。这就是它所做的一切：不多也不少。
 
-代码仓库：[ekzhang/bore: 🕳 bore is a simple CLI tool for making tunnels to localhost (github.com)](https://github.com/ekzhang/bore)
+| 导航     | 链接                                                               |
+| :------- | :----------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/ekzhang/bore](https://github.com/ekzhang/bore) |
 
 ### 代码分析
 
@@ -1714,39 +1932,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 ![stars](https://img.shields.io/github/stars/ltoddy/cloc-rs?style=flat) ![GitHub](https://img.shields.io/github/license/ltoddy/cloc-rs)
 
 > 快速计算或计算源代码行和注释的差异。
->
-> ```
-> macbox :: github/kubernetes » time cloc .
->      72.5313 secs
-> ┌───────────────────────────────────────────────────────────────────────────────────────┐
-> │ Language                        files        size       blank     comment        code │
-> ├───────────────────────────────────────────────────────────────────────────────────────┤
-> │ Autoconf                          533   515.91 KB         100         992       21399 │
-> │ Bash                              148   420.09 KB        1183         592       10153 │
-> │ C                                 149   149.31 KB         970        1671        3065 │
-> │ C Header                           25     6.94 MB        9975      109175       20975 │
-> │ GNU Style Assembly               2946     8.96 MB       48895       43894      285473 │
-> │ Go                             463514     4.44 GB    13873486    22200757   106047029 │
-> │ Html                               50    950.00 B           0           0          50 │
-> │ Ini                                24     5.70 KB          48           0         240 │
-> │ JSON                            21759  1011.18 MB         100           0    23771190 │
-> │ Lua                                25   419.92 KB         750         100       11875 │
-> │ Markdown                        18270   162.09 MB      530001           0     1794019 │
-> │ Plain Text                       1161     5.50 MB        7186           0      176276 │
-> │ PowerShell                        174     2.92 MB        8947       74817        1149 │
-> │ Protocol Buffer                  4489    51.42 MB      220374      684092      425720 │
-> │ Python                            175   581.23 KB        2975        5500        8750 │
-> │ SVG                               101     1.22 MB         101         101        9532 │
-> │ Shell                            9470    56.70 MB      189547      361195      998808 │
-> │ Toml                              299   342.58 KB        3667        4325        7223 │
-> │ Yaml                            38405   140.98 MB       31308       31043     5317632 │
-> ├───────────────────────────────────────────────────────────────────────────────────────┤
-> │ Sum                            561717     5.86 GB    14929613    23518254   138910558 │
-> └───────────────────────────────────────────────────────────────────────────────────────┘
-> cloc .  23.21s user 153.47s system 239% cpu 1:13.72 total
-> ```
 
-代码仓库：[ltoddy/cloc-rs: Count, or compute differences of, lines of source code and comments fastly. (github.com)](https://github.com/ltoddy/cloc-rs)
+| 导航     | 链接                                                                   |
+| :------- | :--------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/ltoddy/cloc-rs](https://github.com/ltoddy/cloc-rs) |
 
 ### 数据库
 
@@ -1756,7 +1945,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个具有高性能、高压缩率和高实用性的开源分布式时间序列数据库。
 
-仓库地址：[cnosdb/README_CN.md at main · cnosdb/cnosdb (github.com)](https://github.com/cnosdb/cnosdb/blob/main/README_CN.md)
+| 导航     | 链接                                                                                                               |
+| :------- | :----------------------------------------------------------------------------------------------------------------- |
+| 仓库地址 | [https://github.com/cnosdb/cnosdb/blob/main/README_CN.md](https://github.com/cnosdb/cnosdb/blob/main/README_CN.md) |
 
 ### 操作系统
 
@@ -1766,7 +1957,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个为托管容器而设计的操作系统
 
-代码仓库：[bottlerocket-os/bottlerocket: An operating system designed for hosting containers (github.com)](https://github.com/bottlerocket-os/bottlerocket)
+| 导航     | 链接                                                                                               |
+| :------- | :------------------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) |
 
 ### 编译器
 
@@ -1776,7 +1969,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中的 JS 引擎
 
-代码仓库：[Starlight-JS/starlight: JS engine in Rust (github.com)](https://github.com/Starlight-JS/starlight)
+| 导航     | 链接                                                                                   |
+| :------- | :------------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/Starlight-JS/starlight](https://github.com/Starlight-JS/starlight) |
 
 ### 搜索引擎
 
@@ -1788,9 +1983,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 一个即时搜索引擎，知乎上说好像处理大规模数据不太快，具体需要自己试试。
 
-文档仓库：[Quick start | Meilisearch Documentation v0.28](https://docs.meilisearch.com/learn/getting_started/quick_start.html)
-
-代码仓库：[meilisearch/meilisearch: A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. (github.com)](https://github.com/meilisearch/MeiliSearch)
+| 导航     | 链接                                                                                                                                       |
+| :------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| 文档仓库 | [https://docs.meilisearch.com/learn/getting_started/quick_start.html](https://docs.meilisearch.com/learn/getting_started/quick_start.html) |
+| 代码仓库 | [https://github.com/meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch)                                                   |
 
 #### sonic
 
@@ -1800,7 +1996,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 据说是比 Elasticsearch 快。
 
-代码仓库：[valeriansaliou/sonic：🦔 快速，轻量级和无模式的搜索后端。Elasticsearch 的替代方案，运行在几 MB 的 RAM 上。 (github.com)](https://github.com/valeriansaliou/sonic)
+| 导航     | 链接                                                                               |
+| :------- | :--------------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) |
 
 ### 系统工具
 
@@ -1810,7 +2008,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 现代端口扫描程序。**快速查找端口（最快 3 秒）。**
 
-代码仓库：[RustScan/Rustscan：🤖 现代端口扫描仪 🤖 (github.com)](https://github.com/RustScan/RustScan)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan) |
 
 #### sniffnet
 
@@ -1818,7 +2018,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 舒适地监控你的网络流量的应用程序。
 
-代码仓库：[GyulyVGC/sniffnet: Application to comfortably monitor your network traffic (github.com)](https://github.com/GyulyVGC/sniffnet)
+| 导航     | 链接                                                                         |
+| :------- | :--------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) |
 
 ### 视频工具
 
@@ -1828,7 +2030,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 命令行投稿(B 站)和视频下载工具，提供多种登录方式，支持多 p、上海腾讯云内网上传免流+大幅提速。
 
-代码仓库：[ForgQi/biliup-rs: 命令行投稿(B 站)和视频下载工具，提供多种登录方式，支持多 p、上海腾讯云内网上传免流+大幅提速。 (github.com)](https://github.com/ForgQi/biliup-rs)
+| 导航     | 链接                                                                       |
+| :------- | :------------------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) |
 
 ### 翻译工具
 
@@ -1838,7 +2042,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个用 rust 开发的翻译软件。
 
-代码仓库：[Borber/Tran: 简洁, 快速, 划词翻译 (github.com)](https://github.com/Borber/Tran)
+| 导航     | 链接                                                             |
+| :------- | :--------------------------------------------------------------- |
+| 代码仓库 | [https://github.com/Borber/Tran](https://github.com/Borber/Tran) |
 
 ## Community
 
@@ -1856,9 +2062,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ## Note
 
-封面图来自：[Rustacean.net: Home of Ferris the Crab](https://rustacean.net/)
-
-徽章来自：[Shields.io: Quality metadata badges for open source projects](https://shields.io/category/license)
+| 导航       | 链接                                                                       |
+| :--------- | :------------------------------------------------------------------------- |
+| 封面图来自 | [https://rustacean.net/](https://rustacean.net/)                           |
+| 徽章来自   | [https://shields.io/category/license](https://shields.io/category/license) |
 
 该组织的其他仓库均为 fork 的资源备份仓库，以防止主仓库出现意外，后面可能会使用 Github Action 进行定期拉取更新。
 

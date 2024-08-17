@@ -906,7 +906,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 #### WASI
 
-![stars](https://img.shields.io/github/stars/WebAssembly/WASI?style=flat) [![DOI](https://camo.githubusercontent.com/968b57157bc1ae57a965f38fa2fd266cc458f510dc81413e4482d8c8484bf054/68747470733a2f2f7a656e6f646f2e6f72672f62616467652f444f492f31302e353238312f7a656e6f646f2e343332333434372e737667)](https://doi.org/10.5281/zenodo.4323447)
+![stars](https://img.shields.io/github/stars/WebAssembly/WASI?style=flat) ![GitHub](https://img.shields.io/github/license/WebAssembly/WASI)
 
 > 为 WebAssembly 提供内部调用接口的库
 >
@@ -1644,7 +1644,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 #### Neovide
 
-[![Discord](https://camo.githubusercontent.com/8c289bc2e543bede952e249c23fb8e5a641878a4921bd5cf93a535ec78d4e4c6/68747470733a2f2f62616467656e2e6e65742f62616467652f69636f6e2f646973636f72643f69636f6e3d646973636f7264266c6162656c)](https://discord.gg/SjFpZdQys6) [![Chat on Matrix](https://camo.githubusercontent.com/49267a500b35c3df117c7227b1d812e62c1460715894622a385e2477b103d28f/68747470733a2f2f6d61747269782e746f2f696d672f6d61747269782d62616467652e737667)](https://matrix.to/#/#neovide_community:gitter.im) [![Discussions](https://camo.githubusercontent.com/e406a82ccda7bcf2a0fcef447975af40b3eeaa28255fd2a5dac02c3f0def5e86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d44697363757373696f6e732d677265656e3f6c6f676f3d676974687562)](https://github.com/neovide/neovide/discussions)
+![stars](https://img.shields.io/github/stars/neovide/neovide?style=flat) ![GitHub](https://img.shields.io/github/license/neovide/neovide)
 
 > 这是 Neovim（一个经过积极重构和更新的 Vim 编辑器）的简单图形用户界面。在可能的情况下，有一些图形改进，但在功能上，它应该像终端用户界面一样。
 >

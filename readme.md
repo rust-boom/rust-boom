@@ -1595,9 +1595,8 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Solana 的高吞吐量、低延迟和低交易费用使其非常适合需要快速处理和大规模交易的应用场景，如 DeFi、NFT 市场和高性能游戏。它的开发工具和支持也使得开发者能够高效地构建复杂的去中心化应用程序。
 
-|          |                                             |
-| -------- | ------------------------------------------- |
 | 代码仓库 | https://github.com/solana-labs/solana       |
+| -------- | ------------------------------------------- |
 | 官方网站 | https://solanalabs.com/                     |
 | 中文教程 | https://www.solana-cn.com/                  |
 | 视频教程 | https://www.bilibili.com/video/BV1NJ4m187og |

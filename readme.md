@@ -1,5 +1,5 @@
 <div align="center">
-	<p><img src="https://github.com/rust-boom/rust-boom/assets/39021696/3335b2b9-f648-4620-8e37-d693cc4ea96c" /></p>
+	<p><img src="./readme.assets/head.png" /></p>
   <p><img src="https://img.shields.io/github/last-commit/WumaCoder/rust-boom?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4&style=for-the-badge" /></p>
 </div>
 

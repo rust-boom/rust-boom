@@ -47,7 +47,6 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
     - [inside-rust-std-library (标准库手册帮助文档)](#inside-rust-std-library-标准库手册帮助文档)
     - [Cargo 中文文档](#cargo-中文文档)
     - [Rust 版 Vulkan 教程（图形）](#rust-版-vulkan-教程图形)
-    - [Rustt 一个优秀 Rust 文档翻译仓库](#rustt-一个优秀-rust-文档翻译仓库)
   - [DevTools](#devtools)
     - [IDE](#ide)
       - [VSCode（首推）](#vscode首推)
@@ -472,7 +471,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ![stars](https://img.shields.io/github/stars/Blues-star/perf-book-zh?style=flat) ![GitHub](https://img.shields.io/github/license/Blues-star/perf-book-zh)
 
-> 本书包含了许多可以提高Rust程序的性能-速度和内存使用率的技术，其中[编译时间](https://blues-star.github.io/perf-book-zh/compile-times_zh.html)部分也包含了一些可以提高Rust程序编译时间的技术。编译时间]部分也包含了一些可以改善Rust程序编译时间的技术。本书的一些技术只需要改变构建配置，但许多技术需要改变代码。
+> 本书包含了许多可以提高 Rust 程序的性能-速度和内存使用率的技术，其中[编译时间](https://blues-star.github.io/perf-book-zh/compile-times_zh.html)部分也包含了一些可以提高 Rust 程序编译时间的技术。编译时间]部分也包含了一些可以改善 Rust 程序编译时间的技术。本书的一些技术只需要改变构建配置，但许多技术需要改变代码。
 >
 > 一些技术完全是 Rust 特有的，而一些涉及的思想可以应用于其他编程语言编写的程序（通常需要进行修改）。[General Tips](https://blues-star.github.io/perf-book-zh/general-tips_zh.html) 部分还包括适用于任何编程语言的一些一般原则。尽管如此，这本书主要关注 Rust 程序的性能，不能替代一本关于分析和优化的通用指南。
 
@@ -575,14 +574,6 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 文档仓库：[chuigda/Vulkan-Tutorial-Rust-CN: Rust 版 Vulkan 教程的中文翻译，基于 vulkanalia (github.com)](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia)
 
 在线文档：[介绍 - Vulkan 教程（Rust） (7dg.tech)](https://vk.7dg.tech/)
-
-### Rustt 一个优秀 Rust 文档翻译仓库
-
-![stars](https://img.shields.io/github/stars/rustlang-cn/Rustt?style=flat) ![GitHub](https://img.shields.io/github/license/rustlang-cn/Rustt)
-
-> Rustt (读音 / rʌsˈti /) 是 RustCn 翻译计划的英文缩写，负责将国外优秀的技术文章、学习教程、新闻资讯翻译成中文。
-
-文档仓库：[rustlang-cn/Rustt: 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。 (github.com)](https://github.com/rustlang-cn/Rustt)
 
 ## DevTools
 

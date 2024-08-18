@@ -12,6 +12,7 @@ fn main() {
     let mut res = vec!["| 导航 | 徽章 |".to_string(), "| :--- | :--- |".to_string()];
     let mut t = [String::new(), String::new(), String::new(), String::new()];
 
+    let mut last_level = 0;
     for (index, line) in readme.iter() {
         let head = regex::Regex::new(r"^(#*) (.*)$").unwrap();
         if let Some(caps) = head.captures(line) {
@@ -20,13 +21,13 @@ fn main() {
                 let title = caps.get(2).unwrap().as_str();
                 // println!("{} {}", level, title);
                 if level >= 2 {
-                    if level > 2 {
-                        t[level - 1] = title.to_string();
-                    } else {
-                        t[level - 1] = title.to_string();
-                        t[level] = String::new();
-                        t[level + 1] = String::new();
+                    if last_level > level {
+                        for i in level..4 {
+                            t[i] = String::new();
+                        }
                     }
+                    t[level - 1] = title.to_string();
+                    last_level = level;
                     let c = t
                         .iter()
                         .filter(|x| x.len() > 0)

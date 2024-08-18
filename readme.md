@@ -270,10 +270,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > Rust 语言真的好：连续七年成为全世界最受欢迎的语言、没有 GC 也无需手动内存管理、性能比肩 C++/C 还能直接调用它们的代码、安全性极高 - 总有公司说使用 Rust 后以前的大部分 bug 都将自动消失、全世界最好的包管理工具 Cargo 等等。但...
 
-| 导航     | 链接                                                                             |
-| :------- | :------------------------------------------------------------------------------- |
-| 在线文档 | [https://course.rs/about-book.html](https://course.rs/about-book.html)           |
-| 文档仓库 | [https://github.com/sunface/rust-course](https://github.com/sunface/rust-course) |
+| 导航                                                 | 徽章                                                                                                                                                                                                 |
+| :--------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://course.rs/about-book.html)      | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcourse.rs%2Fabout-book.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/course.rs)         |
+| [ 文档仓库 ](https://github.com/sunface/rust-course) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsunface%2Frust-course) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust 程序设计语言中文版
 
@@ -291,10 +291,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > —— Nicholas Matsakis 和 Aaron Turon
 
-| 导航     | 链接                                                                                                                                                                                                                         |
-| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言](https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言)                                                                                                           |
-| 配套视频 | [https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d](https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d) |
+| 导航                                                                                                                       | 徽章                                                                                                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言)                                                      | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkaisery.github.io%2Ftrpl-zh-cn%2F%23rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/kaisery.github.io)                 |
+| [ 配套视频 ](https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1hp4y1k7SV%3Fshare_source%3Dcopy_web%26vd_source%3D48cb37f6a16cf0feaf678d7beba9e00d) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.bilibili.com) |
 
 ### Rust 语言备忘清单 (简体中文)
 
@@ -302,9 +302,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 使用案例, 按优先顺序排列: **\*识别和查找指南** 用于代码中遇到的构造, **\*发现** 你可能不懂的语言部分, **\*了解 Rust** 如果你有编程经验.
 
-| 导航     | 链接                                                                             |
-| :------- | :------------------------------------------------------------------------------- |
-| 文档仓库 | [https://github.com/kingfree/cheats.rs/](https://github.com/kingfree/cheats.rs/) |
+| 导航                                                 | 徽章                                                                                                                                                                                                   |
+| :--------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 文档仓库 ](https://github.com/kingfree/cheats.rs/) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fkingfree%2Fcheats.rs%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 通过例子学 Rust 中文版
 
@@ -314,10 +314,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 《通过例子学 Rust》（Rust By Example, RBE）内容由一系列可运行的实例组成，通过这些例子阐明了各种 Rust 的概念和基本库。想获取这些例子外的更多内容，不要忘了[安装 Rust 到本地](https://www.rust-lang.org/tools/install)并查阅[官方标准库文档](https://rustwiki.org/zh-CN/std/)。另外为了满足您的好奇心，您还可以[查阅本网站的源代码](https://github.com/rust-lang-cn/rust-by-example-cn)。
 
-| 导航     | 链接                                                                                                     |
-| :------- | :------------------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://rustwiki.org/zh-CN/rust-by-example/](https://rustwiki.org/zh-CN/rust-by-example/)               |
-| 文档仓库 | [https://github.com/rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) |
+| 导航                                                             | 徽章                                                                                                                                                                                                             |
+| :--------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://rustwiki.org/zh-CN/rust-by-example/)        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustwiki.org%2Fzh-CN%2Frust-by-example%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustwiki.org)    |
+| [ 文档仓库 ](https://github.com/rust-lang-cn/rust-by-example-cn) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang-cn%2Frust-by-example-cn) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)
 
@@ -325,18 +325,18 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 这个资源库有 Comprehensive Rust 的源代码，这是由 Android 团队开发的为期四天的 Rust 课程。该课程涵盖了 Rust 的所有方面，从基本语法到泛型和错误处理。它还包括最后一天的 Android 特定内容。
 
-| 导航     | 链接                                                                                         |
-| :------- | :------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://google.github.io/comprehensive-rust/](https://google.github.io/comprehensive-rust/) |
-| 文档仓库 | [https://github.com/google/comprehensive-rust](https://github.com/google/comprehensive-rust) |
+| 导航                                                       | 徽章                                                                                                                                                                                                             |
+| :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://google.github.io/comprehensive-rust/) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgoogle.github.io%2Fcomprehensive-rust%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/google.github.io) |
+| [ 文档仓库 ](https://github.com/google/comprehensive-rust) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgoogle%2Fcomprehensive-rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)       |
 
 ### Rust 语言之旅
 
 > 本教程旨在循序渐进地介绍 Rust 编程语言的特性，并且可以在线交互的写 Rust 代码。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 在线文档 | [https://tourofrust.com/00_zh-cn.html](https://tourofrust.com/00_zh-cn.html) |
+| 导航                                               | 徽章                                                                                                                                                                                                 |
+| :------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://tourofrust.com/00_zh-cn.html) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftourofrust.com%2F00_zh-cn.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/tourofrust.com) |
 
 ### RustPrimer
 
@@ -344,10 +344,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 给初学者的 Rust 中文教程。
 
-| 导航     | 链接                                                                                             |
-| :------- | :----------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://rustcc.gitbooks.io/rustprimer/content/](https://rustcc.gitbooks.io/rustprimer/content/) |
-| 文档仓库 | [https://github.com/rustcc/RustPrimer](https://github.com/rustcc/RustPrimer)                     |
+| 导航                                                         | 徽章                                                                                                                                                                                                                   |
+| :----------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://rustcc.gitbooks.io/rustprimer/content/) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustcc.gitbooks.io%2Frustprimer%2Fcontent%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustcc.gitbooks.io) |
+| [ 文档仓库 ](https://github.com/rustcc/RustPrimer)           | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frustcc%2FRustPrimer) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                     |
 
 ### Rust 秘典中文版
 
@@ -357,10 +357,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 如果你希望在编写 Rust 程序的过程中获得长久而快乐的职业生涯，你应该现在回头，忘记你曾经看过这本书。 它没有必要。 然而，如果你打算编写不安全代码——或者只是想深入了解语言的内涵——这本书包含了很多有用的信息。
 
-| 导航     | 链接                                                                                               |
-| :------- | :------------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://nomicon.purewhite.io/intro.html](https://nomicon.purewhite.io/intro.html)                 |
-| 文档仓库 | [https://github.com/rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) |
+| 导航                                                          | 徽章                                                                                                                                                                                                          |
+| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 在线文档 ](https://nomicon.purewhite.io/intro.html)         | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnomicon.purewhite.io%2Fintro.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/nomicon.purewhite.io) |
+| [ 文档仓库 ](https://github.com/rust-lang-cn/nomicon-zh-Hans) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang-cn%2Fnomicon-zh-Hans) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust 参考手册 中文版
 
@@ -372,10 +372,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 非正式描述内存模型、并发模型、运行时服务、链接模型和调试设施的章节。
 > - 附录章节提供了影响设计的语言的原理和参考。
 
-| 导航     | 链接                                                                                         |
-| :------- | :------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://rustwiki.org/zh-CN/reference/](https://rustwiki.org/zh-CN/reference/)               |
-| 文档仓库 | [https://github.com/rust-lang-cn/reference-cn](https://github.com/rust-lang-cn/reference-cn) |
+| 导航                                                       | 徽章                                                                                                                                                                                                       |
+| :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://rustwiki.org/zh-CN/reference/)        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustwiki.org%2Fzh-CN%2Freference%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustwiki.org)    |
+| [ 文档仓库 ](https://github.com/rust-lang-cn/reference-cn) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang-cn%2Freference-cn) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust Cookbook 中文版
 
@@ -383,10 +383,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 《Rust Cookbook 中文版》是 Rust 程序设计语言（[Rust 官方教程简体中文版](https://rustwiki.org/zh-CN/book)）的简要实例示例集合：展示了在 Rust 生态系统中，使用各类 crate 来完成常见编程任务的良好实践。
 
-| 导航     | 链接                                                                                                 |
-| :------- | :--------------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://rustwiki.org/zh-CN/rust-cookbook/](https://rustwiki.org/zh-CN/rust-cookbook/)               |
-| 文档仓库 | [https://github.com/rust-lang-cn/rust-cookbook-cn](https://github.com/rust-lang-cn/rust-cookbook-cn) |
+| 导航                                                           | 徽章                                                                                                                                                                                                           |
+| :------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://rustwiki.org/zh-CN/rust-cookbook/)        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustwiki.org%2Fzh-CN%2Frust-cookbook%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustwiki.org)    |
+| [ 文档仓库 ](https://github.com/rust-lang-cn/rust-cookbook-cn) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang-cn%2Frust-cookbook-cn) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rusty Book( 锈书 )
 
@@ -403,9 +403,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 提示：原来的作者把书删除了，现在是备份。
 
-| 导航     | 链接                                                                               |
-| :------- | :--------------------------------------------------------------------------------- |
-| 文档仓库 | [https://github.com/rust-boom/rusty-book](https://github.com/rust-boom/rusty-book) |
+| 导航                                                  | 徽章                                                                                                                                                                                                  |
+| :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 文档仓库 ](https://github.com/rust-boom/rusty-book) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-boom%2Frusty-book) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust 异步编程指南
 
@@ -413,10 +413,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 该书是中文 Rust 教程 <<Rust 语言圣经>> 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序。
 
-| 导航     | 链接                                                                                                                                                                                                                         |
-| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 文档仓库 | [https://github.com/rustlang-cn/async-book](https://github.com/rustlang-cn/async-book)                                                                                                                                       |
-| 配套视频 | [https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d](https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d) |
+| 导航                                                                                                                       | 徽章                                                                                                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 文档仓库 ](https://github.com/rustlang-cn/async-book)                                                                    | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frustlang-cn%2Fasync-book) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                                                                  |
+| [ 配套视频 ](https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1Ki4y1C7gj%3Fshare_source%3Dcopy_web%26vd_source%3D48cb37f6a16cf0feaf678d7beba9e00d) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.bilibili.com) |
 
 ### Rust 语言实战
 
@@ -424,10 +424,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > _Rust 语言实战_ 的目标是通过大量的实战练习帮助大家更好的学习和上手使用 Rust 语言。书中的练习题非常易于使用：你所需的就是在线完成练习，并让它通过编译。
 
-| 导航     | 链接                                                                                       |
-| :------- | :----------------------------------------------------------------------------------------- |
-| 在线文档 | [https://zh.practice.rs/why-exercise.html](https://zh.practice.rs/why-exercise.html)       |
-| 文档仓库 | [https://github.com/sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) |
+| 导航                                                      | 徽章                                                                                                                                                                                                      |
+| :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://zh.practice.rs/why-exercise.html)    | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fzh.practice.rs%2Fwhy-exercise.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/zh.practice.rs)  |
+| [ 文档仓库 ](https://github.com/sunface/rust-by-practice) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsunface%2Frust-by-practice) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust 算法题解
 
@@ -437,10 +437,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > `algos` 涵盖了各种常用算法和数据结构的代码实现，以及 leetcode 题解，同时对于相关算法还提供了中文文档和注释，可以帮助大家更好、更快的学习。
 
-| 导航     | 链接                                                                                                                             |
-| :------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://www.bookstack.cn/read/rustlang-cn-rust-algos/README.md](https://www.bookstack.cn/read/rustlang-cn-rust-algos/README.md) |
-| 文档仓库 | [https://github.com/rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos)                                           |
+| 导航                                                                         | 徽章                                                                                                                                                                                                                                 |
+| :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://www.bookstack.cn/read/rustlang-cn-rust-algos/README.md) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.bookstack.cn%2Fread%2Frustlang-cn-rust-algos%2FREADME.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.bookstack.cn) |
+| [ 文档仓库 ](https://github.com/rustlang-cn/rust-algos)                      | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frustlang-cn%2Frust-algos) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                              |
 
 ### Rust 算法书（RustBook）
 
@@ -458,10 +458,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ...
 
-| 导航     | 链接                                                                                                                                                                                                                                                           |
-| :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 文档仓库 | [https://github.com/QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)                                                                                                                                                                                       |
-| 在线文档 | [https://www.sejda.com/share/f71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD](https://www.sejda.com/share/f71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD) |
+| 导航                                                                                                                                        | 徽章                                                                                                                                                                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 文档仓库 ](https://github.com/QMHTMY/RustBook)                                                                                            | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FQMHTMY%2FRustBook) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                                                                               |
+| [ 在线文档 ](https://www.sejda.com/share/f71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.sejda.com%2Fshare%2Ff71f6c36a72242649d5dd0b82c1ede74-z6Nih_rxggHzMXaWzNG6gEwmQ9MikrbmfygnukTf4ZjagPIlz-HuNbHsukdGz1xD) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.sejda.com) |
 
 ### Rust 设计模式 中文版
 
@@ -473,10 +473,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - [反模式](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/anti_patterns/index.html) 是解决常见问题的方法。 然而设计模式带给我们好处，反模式却带来更多的问题。
 > - [习惯用法](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/idioms/index.html) 是编码的指导方针。它是社区的共同规范。除非你有明确的理由， 否则就遵守它。
 
-| 导航     | 链接                                                                                                                   |
-| :------- | :--------------------------------------------------------------------------------------------------------------------- |
-| 在线文档 | [http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/)               |
-| 文档仓库 | [https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh](https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh) |
+| 导航                                                                    | 徽章                                                                                                                                                                                                                    |
+| :---------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/)        | ![Website](https://img.shields.io/website?url=http%3A%2F%2Fchuxiuhong.com%2Fchuxiuhong-rust-patterns-zh%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/chuxiuhong.com)    |
+| [ 文档仓库 ](https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fchuxiuhong%2Fchuxiuhong-rust-patterns-zh) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust API 编写指南 中文版
 
@@ -484,10 +484,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-| 导航     | 链接                                                                                 |
-| :------- | :----------------------------------------------------------------------------------- |
-| 在线文档 | [https://zjp-cn.github.io/api-guidelines/](https://zjp-cn.github.io/api-guidelines/) |
-| 文档仓库 | [https://github.com/zjp-CN/api-guidelines](https://github.com/zjp-CN/api-guidelines) |
+| 导航                                                   | 徽章                                                                                                                                                                                                         |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://zjp-cn.github.io/api-guidelines/) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fzjp-cn.github.io%2Fapi-guidelines%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/zjp-cn.github.io) |
+| [ 文档仓库 ](https://github.com/zjp-CN/api-guidelines) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fzjp-CN%2Fapi-guidelines) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)       |
 
 ### Rust 性能手册（The Rust Performance Book）
 
@@ -497,10 +497,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 一些技术完全是 Rust 特有的，而一些涉及的思想可以应用于其他编程语言编写的程序（通常需要进行修改）。[General Tips](https://blues-star.github.io/perf-book-zh/general-tips_zh.html) 部分还包括适用于任何编程语言的一些一般原则。尽管如此，这本书主要关注 Rust 程序的性能，不能替代一本关于分析和优化的通用指南。
 
-| 导航     | 链接                                                                                                                             |
-| :------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://blues-star.github.io/perf-book-zh/introduction_zh.html](https://blues-star.github.io/perf-book-zh/introduction_zh.html) |
-| 文档仓库 | [https://github.com/Blues-star/perf-book-zh/](https://github.com/Blues-star/perf-book-zh/)                                       |
+| 导航                                                                         | 徽章                                                                                                                                                                                                                                   |
+| :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://blues-star.github.io/perf-book-zh/introduction_zh.html) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fblues-star.github.io%2Fperf-book-zh%2Fintroduction_zh.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/blues-star.github.io) |
+| [ 文档仓库 ](https://github.com/Blues-star/perf-book-zh/)                    | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FBlues-star%2Fperf-book-zh%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                            |
 
 ### Rust 宏小册(tlborm)
 
@@ -508,10 +508,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 本书试图提炼出一份 Rust 社区对 Rust 宏知识的集锦。
 
-| 导航     | 链接                                                                                                                                     |
-| :------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://www.bookstack.cn/read/DaseinPhaos-tlborm-chinese/README.md](https://www.bookstack.cn/read/DaseinPhaos-tlborm-chinese/README.md) |
-| 文档仓库 | [https://github.com/DaseinPhaos/tlborm-chinese](https://github.com/DaseinPhaos/tlborm-chinese)                                           |
+| 导航                                                                             | 徽章                                                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://www.bookstack.cn/read/DaseinPhaos-tlborm-chinese/README.md) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.bookstack.cn%2Fread%2FDaseinPhaos-tlborm-chinese%2FREADME.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.bookstack.cn) |
+| [ 文档仓库 ](https://github.com/DaseinPhaos/tlborm-chinese)                      | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDaseinPhaos%2Ftlborm-chinese) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                              |
 
 ### 嵌入式 Rust 编程
 
@@ -519,10 +519,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 有关如何使用 Rust 编程语言为裸机（微控制器）设备开发固件的文档
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 在线文档 | [https://stevenbai.top/rustbook/book/](https://stevenbai.top/rustbook/book/) |
-| 文档仓库 | [https://github.com/nkbai/book](https://github.com/nkbai/book)               |
+| 导航                                               | 徽章                                                                                                                                                                                                    |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 在线文档 ](https://stevenbai.top/rustbook/book/) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fstevenbai.top%2Frustbook%2Fbook%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/stevenbai.top) |
+| [ 文档仓库 ](https://github.com/nkbai/book)        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fnkbai%2Fbook) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)             |
 
 ### TheAlgorithms(Rust 算法例子)
 
@@ -530,9 +530,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 所有算法在 Rust 中实现
 
-| 导航     | 链接                                                                           |
-| :------- | :----------------------------------------------------------------------------- |
-| 文档仓库 | [https://github.com/TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) |
+| 导航                                                | 徽章                                                                                                                                                                                                |
+| :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 文档仓库 ](https://github.com/TheAlgorithms/Rust) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FTheAlgorithms%2FRust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust RFC Book (提案书)
 
@@ -540,19 +540,19 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > “RFC”（征求意见）过程旨在为 Rust 的更改（例如新功能）提供一致且受控的路径，以便所有利益相关者都可以对项目的方向充满信心。
 
-| 导航     | 链接                                                                                                     |
-| :------- | :------------------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://rust-lang.github.io/rfcs/introduction.html](https://rust-lang.github.io/rfcs/introduction.html) |
-| 文档仓库 | [https://github.com/rust-lang/rfcs](https://github.com/rust-lang/rfcs)                                   |
+| 导航                                                             | 徽章                                                                                                                                                                                                                      |
+| :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 在线文档 ](https://rust-lang.github.io/rfcs/introduction.html) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frust-lang.github.io%2Frfcs%2Fintroduction.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rust-lang.github.io) |
+| [ 文档仓库 ](https://github.com/rust-lang/rfcs)                  | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frfcs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                           |
 
 ### Rust Unstable Book (不稳定特性书)
 
 > 这是一本记录 rust 不稳定特性的一本书。
 
-| 导航     | 链接                                                                                                                                       |
-| :------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| 在线文档 | [https://doc.rust-lang.org/nightly/unstable-book/index.html](https://doc.rust-lang.org/nightly/unstable-book/index.html)                   |
-| 文档仓库 | [https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book) |
+| 导航                                                                              | 徽章                                                                                                                                                                                                                                        |
+| :-------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 在线文档 ](https://doc.rust-lang.org/nightly/unstable-book/index.html)          | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdoc.rust-lang.org%2Fnightly%2Funstable-book%2Findex.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/doc.rust-lang.org)           |
+| [ 文档仓库 ](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frust%2Ftree%2Fmaster%2Fsrc%2Fdoc%2Funstable-book) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust 版本指南
 
@@ -561,10 +561,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 这个文档有中文版，但是我更建议看英文版，中文版更新不是很及时。
 > 这本书解释了“版本”的概念，即 Rust 开发的主要新时代。你可以在线阅读这本书。
 
-| 导航     | 链接                                                                                     |
-| :------- | :--------------------------------------------------------------------------------------- |
-| 在线文档 | [https://rustwiki.org/en/edition-guide/](https://rustwiki.org/en/edition-guide/)         |
-| 文档仓库 | [https://github.com/rust-lang/edition-guide](https://github.com/rust-lang/edition-guide) |
+| 导航                                                     | 徽章                                                                                                                                                                                                     |
+| :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://rustwiki.org/en/edition-guide/)     | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustwiki.org%2Fen%2Fedition-guide%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustwiki.org) |
+| [ 文档仓库 ](https://github.com/rust-lang/edition-guide) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang%2Fedition-guide) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust 标准库手册中文版
 
@@ -572,9 +572,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 默认情况下，`std` 可用于所有 Rust crates。因此，可以通过 [`use`](https://rustwiki.org/zh-CN/book/ch07-02-defining-modules-to-control-scope-and-privacy.html) 语句使用路径 `std` 来访问标准库，就像在 [`use std::env`](https://rustwiki.org/zh-CN/std/env/index.html) 中一样。
 
-| 导航     | 链接                                                               |
-| :------- | :----------------------------------------------------------------- |
-| 在线文档 | [https://rustwiki.org/zh-CN/std/](https://rustwiki.org/zh-CN/std/) |
+| 导航                                          | 徽章                                                                                                                                                                                              |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 在线文档 ](https://rustwiki.org/zh-CN/std/) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustwiki.org%2Fzh-CN%2Fstd%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustwiki.org) |
 
 ### inside-rust-std-library (标准库手册帮助文档)
 
@@ -583,9 +583,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 本书主要对 RUST 的标准库代码进行分析。
 > 本书尽可能给读者找出一条标准库代码的阅读脉络。同时，分析不仅仅针对代码的功能，也针对代码背后的需求及若干代码设计的思路。
 
-| 导航     | 链接                                                                                                         |
-| :------- | :----------------------------------------------------------------------------------------------------------- |
-| 文档仓库 | [https://github.com/Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) |
+| 导航                                                               | 徽章                                                                                                                                                                                                               |
+| :----------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 文档仓库 ](https://github.com/Warrenren/inside-rust-std-library) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FWarrenren%2Finside-rust-std-library) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Cargo 中文文档
 
@@ -593,10 +593,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 本目录包含 Cargo 的文档，包含两部分，一是使用 [mdbook](https://github.com/rust-lang/mdBook) 构建的[《Cargo 手册》](https://doc.rust-lang.org/cargo/)，二是使用 [mdman](https://github.com/rust-lang/cargo/tree/master/crates/mdman/) 构建的帮助手册（man 手册）。
 
-| 导航     | 链接                                                                                 |
-| :------- | :----------------------------------------------------------------------------------- |
-| 在线文档 | [https://rustwiki.org/zh-CN/cargo/](https://rustwiki.org/zh-CN/cargo/)               |
-| 文档仓库 | [https://github.com/rust-lang-cn/cargo-cn](https://github.com/rust-lang-cn/cargo-cn) |
+| 导航                                                   | 徽章                                                                                                                                                                                                   |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 在线文档 ](https://rustwiki.org/zh-CN/cargo/)        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustwiki.org%2Fzh-CN%2Fcargo%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustwiki.org)    |
+| [ 文档仓库 ](https://github.com/rust-lang-cn/cargo-cn) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang-cn%2Fcargo-cn) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Rust 版 Vulkan 教程（图形）
 
@@ -606,10 +606,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 本教程会教授一些 Vulkan 图形与计算 API 的基础知识。Vulkan 是一个由 Khronos 组织 （因 OpenGL 而为人所知）提出的新 API，针对现代显卡的特性提供了更好的抽象。新的接口可以让你更好地描述你的应用程序要做什么，从而带来相比于 OpenGL 和 Direct3D 之类的现有的图形 API 更好的性能和更少的意外驱动程序行为。Vulkan 的设计思想与 Direct3D 12 和 Metal 相似，但 Vulkan 在跨平台方面具有优势，可以让你同时开发 Windows，Linux 和 Android 应用程序（并借由 MoltenVK 开发 iOS 与 MacOS 应用程序）。
 
-| 导航     | 链接                                                                                                                                                                                                                                     |
-| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 文档仓库 | [https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia) |
-| 在线文档 | [https://vk.7dg.tech/](https://vk.7dg.tech/)                                                                                                                                                                                             |
+| 导航                                                                                                                             | 徽章                                                                                                                                                                                                                                                                                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 文档仓库 ](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fchuigda%2FVulkan-Tutorial-Rust-CN%3Ftab%3Dreadme-ov-file%23rust-%E7%89%88-vulkan-%E6%95%99%E7%A8%8B%E7%9A%84%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E5%9F%BA%E4%BA%8E-vulkanalia) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 在线文档 ](https://vk.7dg.tech/)                                                                                               | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fvk.7dg.tech%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/vk.7dg.tech)                                                                                                                                                                            |
 
 ## DevTools
 
@@ -637,9 +637,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 该工具扩展了 Cargo，允许您通过从命令行修改 Cargo.toml 文件来添加、删除和升级依赖项。
 
-| 导航     | 链接                                                                               |
-| :------- | :--------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/killercup/cargo-edit](https://github.com/killercup/cargo-edit) |
+| 导航                                                  | 徽章                                                                                                                                                                                                  |
+| :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/killercup/cargo-edit) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fkillercup%2Fcargo-edit) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### cargo-watch
 
@@ -647,9 +647,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Cargo Watch 是一个监视基于 Cargo 的项目并在文件更改时运行命令的工具。它专注于 Rust 开发体验，旨在足够灵活以适应大多数人，而不会变得复杂使用。
 
-| 导航     | 链接                                                                                 |
-| :------- | :----------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) |
+| 导航                                                   | 徽章                                                                                                                                                                                                   |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/watchexec/cargo-watch) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwatchexec%2Fcargo-watch) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ## Framework
 
@@ -665,10 +665,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > Tauri 应用程序中的用户界面目前将 tao 用作 macOS 和 Windows 上的窗口处理库，并通过 Tauri 团队孵化和维护 WRY 在 Linux 上使用 gtk，该团队利用 macOS 上的 WebKit、Windows 上的 WebView2 和 Linux 上的 WebKitGTK，为系统 webview（以及菜单和任务栏等其他好东西）创建了统一的界面。
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri) |
-| 在线网站 | [https://tauri.app/zh/](https://tauri.app/zh/)                             |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/tauri-apps/tauri) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftauri-apps%2Ftauri) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 在线网站 ](https://tauri.app/zh/)               | ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftauri.app%2Fzh%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/tauri.app)                |
 
 #### egui
 
@@ -680,10 +680,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > egui 可以在任何可以绘制纹理三角形（textured triangles）的地方使用，这意味着你可以轻松地地将它集成到你选择的游戏引擎中。
 
-| 导航     | 链接                                                                                                                                           |
-| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/emilk/egui](https://github.com/emilk/egui)                                                                                 |
-| 中文文档 | [https://github.com/Re-Ch-Love/egui-doc-cn/blob/main/README_zh-hans.md](https://github.com/Re-Ch-Love/egui-doc-cn/blob/main/README_zh-hans.md) |
+| 导航                                                                                | 徽章                                                                                                                                                                                                                                      |
+| :---------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/emilk/egui)                                         | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Femilk%2Fegui) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                               |
+| [ 中文文档 ](https://github.com/Re-Ch-Love/egui-doc-cn/blob/main/README_zh-hans.md) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FRe-Ch-Love%2Fegui-doc-cn%2Fblob%2Fmain%2FREADME_zh-hans.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### fltk-rs
 
@@ -692,11 +692,11 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > FLTK 图形用户界面库的 Rust 绑定。
 > fltk crate 是一个跨平台的轻量级 gui 库，可以静态链接以生成小型、自包含和快速的 gui 应用程序。
 
-| 导航     | 链接                                                                                   |
-| :------- | :------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs)               |
-| 在线文档 | [https://fltk-rs.github.io/fltk-book/](https://fltk-rs.github.io/fltk-book/)           |
-| 中文文档 | [https://github.com/Flatigers/fltk-book-zh](https://github.com/Flatigers/fltk-book-zh) |
+| 导航                                                    | 徽章                                                                                                                                                                                                      |
+| :------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/fltk-rs/fltk-rs)        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ffltk-rs%2Ffltk-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)          |
+| [ 在线文档 ](https://fltk-rs.github.io/fltk-book/)      | ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffltk-rs.github.io%2Ffltk-book%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/fltk-rs.github.io) |
+| [ 中文文档 ](https://github.com/Flatigers/fltk-book-zh) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FFlatigers%2Ffltk-book-zh) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)   |
 
 #### iced
 
@@ -704,9 +704,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 的跨平台 GUI 库，专注于简单性和类型安全。灵感来自 Elm。
 
-| 导航     | 链接                                                               |
-| :------- | :----------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/iced-rs/iced](https://github.com/iced-rs/iced) |
+| 导航                                          | 徽章                                                                                                                                                                                          |
+| :-------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/iced-rs/iced) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ficed-rs%2Ficed) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### xilem
 
@@ -714,9 +714,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 此软件仓库包含一个实验性架构，通过玩具用户界面实现。在高层次上，它结合了 Flutter、SwiftUI 和 Elm 的理念。与所有这些架构一样，它使用轻量级视图对象，通过对它们进行差异化处理，从而为保留的 UI 提供最少的更新。与 SwiftUI 一样，它也是强类型的。
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/linebender/xilem](https://github.com/linebender/xilem) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/linebender/xilem) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flinebender%2Fxilem) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### ⛔️ druid
 
@@ -727,9 +727,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 我们一直在 crates.io 上定期发布 Druid，但它正在积极开发中，它的 API 可能会改变。所有更改都记录在更改日志中。
 > 有关一些关键概念的概述，请参阅（正在进行的工作）Druid 书。
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/linebender/druid](https://github.com/linebender/druid) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/linebender/druid) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flinebender%2Fdruid) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Dioxus
 
@@ -749,10 +749,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > - [一个优雅的 Rust GUI 库 (dioxuslabs.com)](https://dioxuslabs.com/blog/release-030/)
 
-| 导航     | 链接                                                                                                                                             |
-| :------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)                                                                     |
-| 中文文档 | [https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md](https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md) |
+| 导航                                                                                 | 徽章                                                                                                                                                                                                                                           |
+| :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/DioxusLabs/dioxus)                                   | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDioxusLabs%2Fdioxus) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                             |
+| [ 中文文档 ](https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDioxusLabs%2Fdioxus%2Fblob%2Fmaster%2Fnotes%2FREADME%2FZH_CN.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Vizia
 
@@ -769,9 +769,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 动画
 > - 音频插件 GUI 开发
 
-| 导航     | 链接                                                             |
-| :------- | :--------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/vizia/vizia](https://github.com/vizia/vizia) |
+| 导航                                         | 徽章                                                                                                                                                                                         |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/vizia/vizia) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fvizia%2Fvizia) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### slint
 
@@ -779,10 +779,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Slint 是一个为任何显示设备有效开发流体图形用户界面的工具箱：嵌入式设备和桌面应用程序。我们支持多种编程语言，如 Rust、C++和 JavaScript。
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/slint-ui/slint](https://github.com/slint-ui/slint) |
-| 官方网站 | [https://slint-ui.com/](https://slint-ui.com/)                         |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/slint-ui/slint) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fslint-ui%2Fslint) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 官方网站 ](https://slint-ui.com/)             | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fslint-ui.com%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/slint-ui.com)             |
 
 ### TUI
 
@@ -794,10 +794,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ![DEMO](https://raw.githubusercontent.com/ratatui-org/ratatui/images/examples/demo2.gif)
 
-| 导航     | 链接                                                                             |
-| :------- | :------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) |
-| 在线文档 | [https://ratatui.rs/](https://ratatui.rs/)                                       |
+| 导航                                                 | 徽章                                                                                                                                                                                                 |
+| :--------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/ratatui-org/ratatui) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fratatui-org%2Fratatui) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 在线文档 ](https://ratatui.rs/)                    | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fratatui.rs%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/ratatui.rs)                      |
 
 #### ⛔️ tui-rs
 
@@ -805,9 +805,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > tui-rs 是一个 Rust 库，用于构建丰富的终端用户界面和仪表板。它深受 Javascript 库 blessed-contrib 和 Go 库 termui 的启发。
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/fdehau/tui-rs](https://github.com/fdehau/tui-rs) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/fdehau/tui-rs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ffdehau%2Ftui-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### CLI
 
@@ -817,9 +817,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 命令行工具的完整解决方案。
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/tickbh/Commander](https://github.com/tickbh/Commander) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/tickbh/Commander) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftickbh%2FCommander) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 游戏开发
 
@@ -829,9 +829,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Bevy 是 Rust 内置的令人耳目一新的简单数据驱动游戏引擎。它永远是免费和开源的！
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/bevyengine/bevy](https://github.com/bevyengine/bevy) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/bevyengine/bevy) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbevyengine%2Fbevy) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### tetra
 
@@ -839,9 +839,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Tetra 是一个用 Rust 编写的简单 2D 游戏框架。它使用 SDL2 进行事件处理，使用 OpenGL 3.2+ 进行渲染。
 
-| 导航     | 链接                                                                               |
-| :------- | :--------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) |
+| 导航                                                  | 徽章                                                                                                                                                                                                  |
+| :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/17cupsofcoffee/tetra) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2F17cupsofcoffee%2Ftetra) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### amethyst
 
@@ -849,9 +849,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > [该仓库已经不在维护，这里是原因](https://amethyst.rs/posts/amethyst--starting-fresh)
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/amethyst/amethyst](https://github.com/amethyst/amethyst) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/amethyst/amethyst) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Famethyst%2Famethyst) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 异步运行时
 
@@ -861,11 +861,11 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Tokio 是 Rust 编程语言的异步运行时。它提供了编写网络应用程序所需的构建块。它提供了针对广泛系统的灵活性，从具有数十个内核的大型服务器到小型嵌入式设备。
 
-| 导航     | 链接                                                                                                                                       |
-| :------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/tokio-rs/tokio](https://github.com/tokio-rs/tokio)                                                                     |
-| 在线网站 | [https://tokio.rs/](https://tokio.rs/)                                                                                                     |
-| 中文文档 | [https://github.com/rustlang-cn/Rustt/tree/main/Books/Tokio-Tutorial](https://github.com/rustlang-cn/Rustt/tree/main/Books/Tokio-Tutorial) |
+| 导航                                                                              | 徽章                                                                                                                                                                                                                                      |
+| :-------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/tokio-rs/tokio)                                   | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftokio-rs%2Ftokio) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                           |
+| [ 在线网站 ](https://tokio.rs/)                                                   | ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftokio.rs%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/tokio.rs)                                                               |
+| [ 中文文档 ](https://github.com/rustlang-cn/Rustt/tree/main/Books/Tokio-Tutorial) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frustlang-cn%2FRustt%2Ftree%2Fmain%2FBooks%2FTokio-Tutorial) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 前端相关
 
@@ -875,10 +875,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > **Yew** 是一个设计先进的 [Rust](https://www.rust-lang.org/) 框架，目的是使用 [WebAssembly](https://webassembly.org/) 来创建多线程的前端 web 应用。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/yewstack/yew](https://github.com/yewstack/yew)           |
-| 资源仓库 | [https://github.com/jetli/awesome-yew](https://github.com/jetli/awesome-yew) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/yewstack/yew)      | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fyewstack%2Fyew) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)      |
+| [ 资源仓库 ](https://github.com/jetli/awesome-yew) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fjetli%2Fawesome-yew) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Deno
 
@@ -886,9 +886,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，它使用 V8 并内置于 Rust。
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/denoland/deno](https://github.com/denoland/deno) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/denoland/deno) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fdenoland%2Fdeno) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### SWC
 
@@ -898,9 +898,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > SWC（代表 Speedy Web Compiler）是一个用 Rust 编写的超快速 TypeScript / JavaScript 编译器。它同时是 Rust 和 JavaScript 的库。如果您使用 Rust 的 SWC，请参阅 rustdoc，对于大多数用户，您使用该库的入口点将是解析器。
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/swc-project/swc](https://github.com/swc-project/swc) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/swc-project/swc) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fswc-project%2Fswc) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Parcel
 
@@ -908,9 +908,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Parcel 是用于 web 的零配置构建工具。它将优秀的开箱即用的开发经验与可扩展的体系结构结合在一起，可以将您的项目从刚开始的阶段转变为大规模的生产应用程序。
 
-| 导航     | 链接                                                                                 |
-| :------- | :----------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) |
+| 导航                                                   | 徽章                                                                                                                                                                                                   |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/parcel-bundler/parcel) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fparcel-bundler%2Fparcel) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Rome
 
@@ -924,9 +924,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > Rome 拥有一流的 IDE 支持，具有复杂的解析器，可以完全保真地表示源文本和一流的错误恢复。
 > Rome 是麻省理工学院根据贡献者契约行为准则获得许可和管理的。
 
-| 导航     | 链接                                                           |
-| :------- | :------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/rome/tools](https://github.com/rome/tools) |
+| 导航                                        | 徽章                                                                                                                                                                                        |
+| :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/rome/tools) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frome%2Ftools) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### napi-rs
 
@@ -934,9 +934,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 用于在 Rust 中构建已编译的 Node.js 附加组件的最小库。
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/napi-rs/napi-rs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fnapi-rs%2Fnapi-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Lightning CSS
 
@@ -946,9 +946,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ![performance and build size charts](https://user-images.githubusercontent.com/19409/189022599-28246659-f94a-46a4-9de0-b6d17adb0e22.png#gh-light-mode-only)
 
-| 导航     | 链接                                                                                             |
-| :------- | :----------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) |
+| 导航                                                         | 徽章                                                                                                                                                                                                         |
+| :----------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/parcel-bundler/lightningcss) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fparcel-bundler%2Flightningcss) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### WebAssembly
 
@@ -958,9 +958,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > WebAssembly 的运行时
 
-| 导航     | 链接                                                                                         |
-| :------- | :------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) |
+| 导航                                                       | 徽章                                                                                                                                                                                                       |
+| :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/bytecodealliance/wasmtime) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbytecodealliance%2Fwasmtime) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### wasmer
 
@@ -968,9 +968,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > WebAssembly 又一个运行时
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/wasmerio/wasmer](https://github.com/wasmerio/wasmer) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/wasmerio/wasmer) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwasmerio%2Fwasmer) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### WasmEdge
 
@@ -980,9 +980,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > WasmEdge 是一个轻量级、高性能和可扩展的 WebAssembly 运行时，适用于云原生、边缘和去中心化应用程序。它为无服务器应用程序、嵌入式功能、微服务、智能合约和物联网设备提供支持。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/WasmEdge/WasmEdge) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FWasmEdge%2FWasmEdge) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### WASI
 
@@ -992,9 +992,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > WASI 不是一个单一的标准系统接口，而是标准化 API 的模块化集合。不需要实现任何 API 即可具有兼容的运行时。相反，主机环境可以选择哪些 API 对其用例有意义。
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/WebAssembly/WASI](https://github.com/WebAssembly/WASI) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/WebAssembly/WASI) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FWebAssembly%2FWASI) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 网络
 
@@ -1005,9 +1005,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 构建 p2p 网络的包
 > 运行您的网络应用程序，不受运行时和地址服务的影响，与它们的位置无关。
 
-| 导航     | 链接                                                                           |
-| :------- | :----------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) |
+| 导航                                                | 徽章                                                                                                                                                                                                |
+| :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/libp2p/rust-libp2p) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flibp2p%2Frust-libp2p) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### rathole
 
@@ -1017,10 +1017,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > rathole，类似于 [frp](https://github.com/fatedier/frp) 和 [ngrok](https://github.com/inconshreveable/ngrok)，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。
 
-| 导航     | 链接                                                                                                                 |
-| :------- | :------------------------------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/rapiz1/rathole](https://github.com/rapiz1/rathole)                                               |
-| 中文文档 | [https://github.com/rapiz1/rathole/blob/main/README-zh.md](https://github.com/rapiz1/rathole/blob/main/README-zh.md) |
+| 导航                                                                   | 徽章                                                                                                                                                                                                                         |
+| :--------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/rapiz1/rathole)                        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frapiz1%2Frathole) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                              |
+| [ 中文文档 ](https://github.com/rapiz1/rathole/blob/main/README-zh.md) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frapiz1%2Frathole%2Fblob%2Fmain%2FREADME-zh.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Crust
 
@@ -1028,9 +1028,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中具有 NAT 遍历的可靠 p2p 网络连接。任何无服务器、去中心化项目最需要的库之一。
 
-| 导航     | 链接                                                                                   |
-| :------- | :------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/maidsafe-archive/crust](https://github.com/maidsafe-archive/crust) |
+| 导航                                                    | 徽章                                                                                                                                                                                                    |
+| :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/maidsafe-archive/crust) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmaidsafe-archive%2Fcrust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 服务端
 
@@ -1044,9 +1044,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 与 Actix Web 不同的是，该框架运行在 Rust 语言的“实验”版本)上。
 
-| 导航     | 链接                                                                               |
-| :------- | :--------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) |
+| 导航                                                  | 徽章                                                                                                                                                                                                  |
+| :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/SergioBenitez/Rocket) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FSergioBenitez%2FRocket) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Actix Web
 
@@ -1068,10 +1068,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 与 awc HTTP 客户端集成
 > - 在稳定的 Rust 1.57+ 上运行
 
-| 导航     | 链接                                                                                                                       |
-| :------- | :------------------------------------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/actix/actix-web](https://github.com/actix/actix-web)                                                   |
-| 中文文档 | [https://mirrors.gitcode.host/zzy/actix-web-zh-cn/intro.html](https://mirrors.gitcode.host/zzy/actix-web-zh-cn/intro.html) |
+| 导航                                                                      | 徽章                                                                                                                                                                                                                                  |
+| :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/actix/actix-web)                          | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Factix%2Factix-web) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                      |
+| [ 中文文档 ](https://mirrors.gitcode.host/zzy/actix-web-zh-cn/intro.html) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmirrors.gitcode.host%2Fzzy%2Factix-web-zh-cn%2Fintro.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/mirrors.gitcode.host) |
 
 #### warp
 
@@ -1091,9 +1091,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 访问记录
 > - Gzip、Deflate 和 Brotli 压缩
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/seanmonstar/warp](https://github.com/seanmonstar/warp) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/seanmonstar/warp) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fseanmonstar%2Fwarp) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### poem
 
@@ -1101,9 +1101,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个功能齐全且易于使用的 Web 框架，采用 Rust 编程语言。
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/poem-web/poem](https://github.com/poem-web/poem) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/poem-web/poem) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpoem-web%2Fpoem) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### axum
 
@@ -1111,9 +1111,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > axum 是一个专注于人体工程学和模块化的 Web 应用程序框架。
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/tokio-rs/axum](https://github.com/tokio-rs/axum) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/tokio-rs/axum) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftokio-rs%2Faxum) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Salvo
 
@@ -1121,9 +1121,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Salvo 是一个极其简单且功能强大的 Rust Web 后端框架. 仅仅需要基础 Rust 知识即可开发后端服务.
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/salvo-rs/salvo](https://github.com/salvo-rs/salvo) |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/salvo-rs/salvo) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsalvo-rs%2Fsalvo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 序列化
 
@@ -1133,9 +1133,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > gjson 的 Rust 移植，通过 dotpath 语法获取 JSON 值。原名为：rust-ajson
 
-| 导航     | 链接                                                                               |
-| :------- | :--------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/importcjj/rust-ajson](https://github.com/importcjj/rust-ajson) |
+| 导航                                                  | 徽章                                                                                                                                                                                                  |
+| :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/importcjj/rust-ajson) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fimportcjj%2Frust-ajson) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### json-rust
 
@@ -1143,9 +1143,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 轻松解析和序列化 JSON。
 
-| 导航     | 链接                                                                                 |
-| :------- | :----------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/maciejhirsz/json-rust](https://github.com/maciejhirsz/json-rust) |
+| 导航                                                   | 徽章                                                                                                                                                                                                   |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/maciejhirsz/json-rust) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmaciejhirsz%2Fjson-rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### pikkr
 
@@ -1153,9 +1153,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > JSON 解析器直接获取值而不在 Rust 中执行标记化。
 
-| 导航     | 链接                                                             |
-| :------- | :--------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/pikkr/pikkr](https://github.com/pikkr/pikkr) |
+| 导航                                         | 徽章                                                                                                                                                                                         |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/pikkr/pikkr) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpikkr%2Fpikkr) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Serde
 
@@ -1163,9 +1163,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Serde 是一个用于高效且通用地序列化和反序列化 Rust 数据结构的框架。
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/serde-rs/json](https://github.com/serde-rs/json) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/serde-rs/json) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fserde-rs%2Fjson) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### quick-xml
 
@@ -1176,9 +1176,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 易于分配内存（API 提供了一种重用缓冲区的方法）
 > 支持各种编码（具有编码功能）、命名空间解析、特殊字符。
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/tafia/quick-xml](https://github.com/tafia/quick-xml) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/tafia/quick-xml) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftafia%2Fquick-xml) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### musli
 
@@ -1192,9 +1192,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 它提供了一组格式，每种[格式](https://github.com/udoprog/musli#formats)都有其自己的良好文档 一组功能和权衡。每个面向字节的序列化方法 （包括 [`musli-json`](https://docs.rs/musli-json)）在有或没有 .` #[no_std]``alloc `
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/udoprog/musli](https://github.com/udoprog/musli) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/udoprog/musli) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fudoprog%2Fmusli) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 消息队列
 
@@ -1206,9 +1206,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 应用程序的分层配置系统。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/mehcode/config-rs](https://github.com/mehcode/config-rs) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/mehcode/config-rs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmehcode%2Fconfig-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 日期处理
 
@@ -1218,9 +1218,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 日期和时间库。与标准库完全互操作。大部分与#![no_std] 兼容。
 
-| 导航     | 链接                                                               |
-| :------- | :----------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/time-rs/time](https://github.com/time-rs/time) |
+| 导航                                          | 徽章                                                                                                                                                                                          |
+| :-------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/time-rs/time) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftime-rs%2Ftime) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### chrono
 
@@ -1228,9 +1228,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 它的目标是成为一个功能完整的时间库的超集。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/chronotope/chrono](https://github.com/chronotope/chrono) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/chronotope/chrono) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fchronotope%2Fchrono) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### httpdate
 
@@ -1238,9 +1238,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > HTTP 的日期和时间工具。
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/pyfisch/httpdate](https://github.com/pyfisch/httpdate) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/pyfisch/httpdate) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpyfisch%2Fhttpdate) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 编码库
 
@@ -1250,9 +1250,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 故名思义就是 base64 的编码库。
 
-| 导航     | 链接                                                                                           |
-| :------- | :--------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) |
+| 导航                                                        | 徽章                                                                                                                                                                                                        |
+| :---------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/marshallpierce/rust-base64) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmarshallpierce%2Frust-base64) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### hmac
 
@@ -1260,9 +1260,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 用纯 Rust 编写的消息认证代码算法
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/RustCrypto/MACs](https://github.com/RustCrypto/MACs) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/RustCrypto/MACs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FRustCrypto%2FMACs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### jwt
 
@@ -1270,9 +1270,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > JSON Web 令牌库。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/mikkyang/rust-jwt](https://github.com/mikkyang/rust-jwt) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/mikkyang/rust-jwt) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmikkyang%2Frust-jwt) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### josekit
 
@@ -1282,9 +1282,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > JOSE（Javascript 对象签名和加密：JWT、JWS、JWE、JWA、JWK）库，基于 Rust 的 OpenSSL。
 
-| 导航     | 链接                                                                                           |
-| :------- | :--------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/hidekatsu-izuno/josekit-rs](https://github.com/hidekatsu-izuno/josekit-rs) |
+| 导航                                                        | 徽章                                                                                                                                                                                                        |
+| :---------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/hidekatsu-izuno/josekit-rs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fhidekatsu-izuno%2Fjosekit-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### sha
 
@@ -1292,9 +1292,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 安全哈希算法 (SHA) 内在库。
 
-| 导航     | 链接                                                                           |
-| :------- | :----------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/andydude/rust-sha/](https://github.com/andydude/rust-sha/) |
+| 导航                                                | 徽章                                                                                                                                                                                                  |
+| :-------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/andydude/rust-sha/) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fandydude%2Frust-sha%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### utf8mb3
 
@@ -1302,9 +1302,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 将所有 4 字节字符（如表情符号）编码为 3 字节字符，并且支持 wasm。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/WumaCoder/utf8mb3](https://github.com/WumaCoder/utf8mb3) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/WumaCoder/utf8mb3) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FWumaCoder%2Futf8mb3) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 数据库
 
@@ -1320,9 +1320,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - `sqlx-postgres`- SQLx PostgreSQL
 > - `sqlx-sqlite`- SQLx SQLite
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/SeaQL/sea-orm) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FSeaQL%2Fsea-orm) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### rbatis
 
@@ -1346,9 +1346,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > | TiDB(Mysql)           | √      |
 > | CockroachDB(Postgres) | √      |
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/rbatis/rbatis](https://github.com/rbatis/rbatis) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/rbatis/rbatis) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frbatis%2Frbatis) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### MongoDB Rust Driver
 
@@ -1356,9 +1356,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 此存储库包含官方支持的 MongoDB Rust 驱动程序，这是一个客户端库，可用于与 Rust 应用程序中的 MongoDB 部署进行交互。它使用 bson crate 来支持 BSON。该驱动程序包含一个完全异步的 API，它支持 tokio（默认）或 async-std，具体取决于设置的功能标志。驱动程序还有一个同步 API，可以通过功能标志启用。
 
-| 导航     | 链接                                                                                         |
-| :------- | :------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) |
+| 导航                                                       | 徽章                                                                                                                                                                                                       |
+| :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/mongodb/mongo-rust-driver) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmongodb%2Fmongo-rust-driver) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### wither
 
@@ -1370,9 +1370,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > async-std-runtime 激活 async-std 运行时。
 > 由于底层驱动程序的更新，Model trait 以及 Model 派生宏有相当多的重大变化。详细信息可以在更改日志和文档中找到。此外，现在默认情况下一切都是异步的，并且同步接口已从 repo 中完全删除。
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/thedodd/wither](https://github.com/thedodd/wither) |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/thedodd/wither) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fthedodd%2Fwither) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### redis-rs
 
@@ -1380,9 +1380,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Redis-rs 是 Rust 的高级 redis 库。它通过非常灵活但低级的 API 提供对所有 Redis 功能的便捷访问。它使用可自定义的类型转换特征，因此任何操作都可以返回您期望的类型的结果。这带来了非常愉快的开发体验。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/redis-rs/redis-rs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fredis-rs%2Fredis-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### r2d2
 
@@ -1390,9 +1390,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 的通用连接池。
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/sfackler/r2d2](https://github.com/sfackler/r2d2) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/sfackler/r2d2) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsfackler%2Fr2d2) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 单元测试
 
@@ -1402,9 +1402,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 适用于 Rust 的强大模拟对象库。
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/asomers/mockall](https://github.com/asomers/mockall) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/asomers/mockall) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fasomers%2Fmockall) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 几何计算
 
@@ -1422,9 +1422,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ⚠️：如果需要计算距离所有的坐标使用 f64，这是小编踩过的坑.
 
-| 导航     | 链接                                                             |
-| :------- | :--------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/georust/geo](https://github.com/georust/geo) |
+| 导航                                         | 徽章                                                                                                                                                                                         |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/georust/geo) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgeorust%2Fgeo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 图片处理
 
@@ -1435,9 +1435,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 这个 crate 提供了基本的图像处理功能和方法来转换各种图像格式。
 > 提供的所有图像处理函数都对实现 GenericImageView 和 GenericImage 特征并返回 ImageBuffer 的类型进行操作。
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/image-rs/image](https://github.com/image-rs/image) |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/image-rs/image) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fimage-rs%2Fimage) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 音频处理
 
@@ -1463,9 +1463,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 提供一个 C 语言的 API，以便与其他语言集成
 > - 为网络使用提供 WASM API
 
-| 导航     | 链接                                                                             |
-| :------- | :------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) |
+| 导航                                                 | 徽章                                                                                                                                                                                                 |
+| :--------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/pdeljanov/Symphonia) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpdeljanov%2FSymphonia) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 视频处理
 
@@ -1475,9 +1475,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 的一个视频处理库，绑定自 ffmpeng。
 
-| 导航     | 链接                                                                                     |
-| :------- | :--------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/zmwangx/rust-ffmpeg-sys](https://github.com/zmwangx/rust-ffmpeg-sys) |
+| 导航                                                     | 徽章                                                                                                                                                                                                     |
+| :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/zmwangx/rust-ffmpeg-sys) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fzmwangx%2Frust-ffmpeg-sys) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 文档处理
 
@@ -1487,9 +1487,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 用于 PDF 文档操作的 Rust 库。
 
-| 导航     | 链接                                                                 |
-| :------- | :------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) |
+| 导航                                           | 徽章                                                                                                                                                                                           |
+| :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/J-F-Liu/lopdf) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJ-F-Liu%2Flopdf) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### pdf-rs
 
@@ -1497,9 +1497,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 用于读取、操作和编写 PDF 文件的 Rust 库。
 
-| 导航     | 链接                                                           |
-| :------- | :------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/pdf-rs/pdf](https://github.com/pdf-rs/pdf) |
+| 导航                                        | 徽章                                                                                                                                                                                        |
+| :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/pdf-rs/pdf) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpdf-rs%2Fpdf) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### calamine
 
@@ -1507,9 +1507,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 编写的 Excel/OpenDocument 电子表格文件阅读器/反序列化器。
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/tafia/calamine](https://github.com/tafia/calamine) |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/tafia/calamine) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Ftafia%2Fcalamine) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### docx-rs
 
@@ -1517,9 +1517,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个带有 Rust/WebAssembly 的.docx 文件编写器。
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/bokuweb/docx-rs](https://github.com/bokuweb/docx-rs) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/bokuweb/docx-rs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbokuweb%2Fdocx-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Polars
 
@@ -1529,9 +1529,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 应该是一个可以读取 csv 查询处理的库。
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/pola-rs/polars](https://github.com/pola-rs/polars) |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/pola-rs/polars) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fpola-rs%2Fpolars) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### AST
 
@@ -1543,9 +1543,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > [Antlr4](https://github.com/antlr/antlr4) 是一个强大的语言分析器可以把目前绝大多数的语言解析成 ast 结构。你也可以用这个来创造自己的语言。
 
-| 导航     | 链接                                                                                 |
-| :------- | :----------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/rrevenantt/antlr4rust](https://github.com/rrevenantt/antlr4rust) |
+| 导航                                                   | 徽章                                                                                                                                                                                                   |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/rrevenantt/antlr4rust) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frrevenantt%2Fantlr4rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### pandoc_ast
 
@@ -1553,9 +1553,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 反序列化和序列化 markdown ast 以编写 pandoc 过滤器
 
-| 导航     | 链接                                                                           |
-| :------- | :----------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/oli-obk/pandoc-ast](https://github.com/oli-obk/pandoc-ast) |
+| 导航                                                | 徽章                                                                                                                                                                                                |
+| :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/oli-obk/pandoc-ast) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Foli-obk%2Fpandoc-ast) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 自动化
 
@@ -1577,9 +1577,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > - 自动下载适用于 Linux/Mac/Windows 的“已知良好”Chromium 二进制文件
 > - 扩展预加载
 
-| 导航     | 链接                                                                                               |
-| :------- | :------------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/atroche/rust-headless-chrome](https://github.com/atroche/rust-headless-chrome) |
+| 导航                                                          | 徽章                                                                                                                                                                                                          |
+| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/atroche/rust-headless-chrome) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fatroche%2Frust-headless-chrome) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### enigo
 
@@ -1587,9 +1587,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中的跨平台输入模拟。
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/enigo-rs/enigo](https://github.com/enigo-rs/enigo) |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/enigo-rs/enigo) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fenigo-rs%2Fenigo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### InputBot
 
@@ -1598,9 +1598,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 > 用于模拟键盘/鼠标输入事件和注册全局输入设备事件处理程序的跨平台（Windows 和 Linux）库。
 > 允许编写将长动作序列折叠成单个按键的自动化程序。
 
-| 导航     | 链接                                                                               |
-| :------- | :--------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) |
+| 导航                                                  | 徽章                                                                                                                                                                                                  |
+| :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/obv-mikhail/InputBot) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fobv-mikhail%2FInputBot) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 系统相关
 
@@ -1610,9 +1610,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 适用于 MacOS、Windows、Linux(X11、wayland) 的跨平台截图库。
 
-| 导航     | 链接                                                                                     |
-| :------- | :--------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/nashaofu/screenshots-rs](https://github.com/nashaofu/screenshots-rs) |
+| 导航                                                     | 徽章                                                                                                                                                                                                     |
+| :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/nashaofu/screenshots-rs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fnashaofu%2Fscreenshots-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### execute
 
@@ -1620,9 +1620,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 这个库用于扩展 Command，以便更容易地执行程序。
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/magiclen/execute](https://github.com/magiclen/execute) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/magiclen/execute) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmagiclen%2Fexecute) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 机器学习
 
@@ -1632,9 +1632,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 纯 Rust 中的张量和动态神经网络。
 
-| 导航     | 链接                                                                             |
-| :------- | :------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/neuronika/neuronika](https://github.com/neuronika/neuronika) |
+| 导航                                                 | 徽章                                                                                                                                                                                                 |
+| :--------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/neuronika/neuronika) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fneuronika%2Fneuronika) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 语言绑定 (FFI)
 
@@ -1644,9 +1644,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 从 Rust 代码生成 C 绑定的项目。
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/eqrion/cbindgen](https://github.com/eqrion/cbindgen) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/eqrion/cbindgen) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Feqrion%2Fcbindgen) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### PyO3
 
@@ -1654,9 +1654,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Python 的 Rust 绑定，包括用于创建本机 Python 扩展模块的工具。还支持从 Rust 二进制文件运行 Python 代码并与之交互。
 
-| 导航     | 链接                                                         |
-| :------- | :----------------------------------------------------------- |
-| 代码仓库 | [https://github.com/PyO3/PyO3](https://github.com/PyO3/PyO3) |
+| 导航                                       | 徽章                                                                                                                                                                                       |
+| :----------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/PyO3/PyO3) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FPyO3%2FPyO3) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 图形渲染
 
@@ -1666,9 +1666,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 图形、图像和文本的硬件加速绘图，具有易于使用的 API。
 
-| 导航     | 链接                                                                                   |
-| :------- | :------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/QuantumBadger/Speedy2D](https://github.com/QuantumBadger/Speedy2D) |
+| 导航                                                    | 徽章                                                                                                                                                                                                    |
+| :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/QuantumBadger/Speedy2D) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FQuantumBadger%2FSpeedy2D) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### wgpu
 
@@ -1676,9 +1676,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中安全且可移植的 GPU 抽象，实现了 WebGPU API。
 
-| 导航     | 链接                                                             |
-| :------- | :--------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) |
+| 导航                                         | 徽章                                                                                                                                                                                         |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/gfx-rs/wgpu) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgfx-rs%2Fwgpu) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### glium
 
@@ -1686,9 +1686,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 语言的安全 OpenGL 包装器。
 
-| 导航     | 链接                                                             |
-| :------- | :--------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/glium/glium](https://github.com/glium/glium) |
+| 导航                                         | 徽章                                                                                                                                                                                         |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/glium/glium) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fglium%2Fglium) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### vulkano
 
@@ -1698,9 +1698,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > [2019Rust 图形库之路(译) —— ggez 作者 (llever.com)](https://llever.com/2020/02/24/2019rust图形库之路译-ggez-作者/)
 
-| 导航     | 链接                                                                           |
-| :------- | :----------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) |
+| 导航                                                | 徽章                                                                                                                                                                                                |
+| :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/vulkano-rs/vulkano) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fvulkano-rs%2Fvulkano) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### nannou
 
@@ -1711,10 +1711,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 简单说他不是一个库是一个堆库的集合，包括图形渲染、声音播放等等。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/nannou-org/nannou](https://github.com/nannou-org/nannou) |
-| 官方网站 | [https://nannou.cc/](https://nannou.cc/)                                     |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/nannou-org/nannou) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fnannou-org%2Fnannou) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 官方网站 ](https://nannou.cc/)                   | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnannou.cc%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/nannou.cc)                      |
 
 #### raqote
 
@@ -1722,9 +1722,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个纯 Rust 的 2D 图形库。
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/jrmuizel/raqote](https://github.com/jrmuizel/raqote) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/jrmuizel/raqote) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fjrmuizel%2Fraqote) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 日志库
 
@@ -1734,9 +1734,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 高性能可观察性数据管道。
 
-| 导航     | 链接                                                                             |
-| :------- | :------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/vectordotdev/vector](https://github.com/vectordotdev/vector) |
+| 导航                                                 | 徽章                                                                                                                                                                                                 |
+| :--------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/vectordotdev/vector) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fvectordotdev%2Fvector) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### RPC 库
 
@@ -1746,10 +1746,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Apache Dubbo-rust, Dubbo RPC 框架的 Rust 实现。
 
-| 导航     | 链接                                                                                                                       |
-| :------- | :------------------------------------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/apache/dubbo-rust](https://github.com/apache/dubbo-rust)                                               |
-| 中文文档 | [https://github.com/apache/dubbo-rust/blob/main/README_CN.md](https://github.com/apache/dubbo-rust/blob/main/README_CN.md) |
+| 导航                                                                      | 徽章                                                                                                                                                                                                                            |
+| :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/apache/dubbo-rust)                        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fapache%2Fdubbo-rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                              |
+| [ 中文文档 ](https://github.com/apache/dubbo-rust/blob/main/README_CN.md) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fapache%2Fdubbo-rust%2Fblob%2Fmain%2FREADME_CN.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### volo
 
@@ -1757,9 +1757,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Volo 是一个轻量级、高性能、可扩展性强、易用性好的 Rust RPC 框架，使用了 Rust 最新的 GAT 和 TAIT 特性。
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/cloudwego/volo](https://github.com/cloudwego/volo) |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/cloudwego/volo) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fcloudwego%2Fvolo) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### SDL
 
@@ -1771,9 +1771,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中 SDL2 的绑定。
 
-| 导航     | 链接                                                                             |
-| :------- | :------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) |
+| 导航                                                 | 徽章                                                                                                                                                                                                 |
+| :--------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/Rust-SDL2/rust-sdl2) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FRust-SDL2%2Frust-sdl2) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 辅助工具库
 
@@ -1785,9 +1785,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 说人话就是，一个对 Debug、Default、Hash、Clone、Copy 系统自带宏的扩展补充，挺好用。
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/magiclen/educe](https://github.com/magiclen/educe) |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/magiclen/educe) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmagiclen%2Feduce) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 区块链
 
@@ -1797,12 +1797,12 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Solana 的高吞吐量、低延迟和低交易费用使其非常适合需要快速处理和大规模交易的应用场景，如 DeFi、NFT 市场和高性能游戏。它的开发工具和支持也使得开发者能够高效地构建复杂的去中心化应用程序。
 
-| 导航     | 链接                                        |
-| :------- | :------------------------------------------ |
-| 代码仓库 | https://github.com/solana-labs/solana       |
-| 官方网站 | https://solanalabs.com/                     |
-| 中文教程 | https://www.solana-cn.com/                  |
-| 视频教程 | https://www.bilibili.com/video/BV1NJ4m187og |
+| 导航                                                      | 徽章                                                                                                                                                                                                            |
+| :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/solana-labs/solana)       | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsolana-labs%2Fsolana) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)             |
+| [ 官方网站 ](https://solanalabs.com/)                     | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsolanalabs.com%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/solanalabs.com)                         |
+| [ 中文教程 ](https://www.solana-cn.com/)                  | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.solana-cn.com%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.solana-cn.com)                   |
+| [ 视频教程 ](https://www.bilibili.com/video/BV1NJ4m187og) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1NJ4m187og) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.bilibili.com) |
 
 ## Applications
 
@@ -1818,10 +1818,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 仓主试用，非常不错，值得一试。
 
-| 导航     | 链接                                                                           |
-| :------- | :----------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/zed-industries/zed](https://github.com/zed-industries/zed) |
-| 官方网站 | [https://zed.dev/](https://zed.dev/)                                           |
+| 导航                                                | 徽章                                                                                                                                                                                                |
+| :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/zed-industries/zed) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fzed-industries%2Fzed) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+| [ 官方网站 ](https://zed.dev/)                      | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fzed.dev%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/zed.dev)                           |
 
 #### AppFlowy
 
@@ -1831,9 +1831,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ![The Open Source Alternative To Notion.](https://user-images.githubusercontent.com/12026239/174754661-682980e4-e386-4685-bb6f-2da357390b61.png)
 
-| 导航     | 链接                                                                               |
-| :------- | :--------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) |
+| 导航                                                  | 徽章                                                                                                                                                                                                  |
+| :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/AppFlowy-IO/AppFlowy) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FAppFlowy-IO%2FAppFlowy) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Lapce
 
@@ -1845,9 +1845,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 一个有点像是 VSCode 的编辑器。
 
-| 导航     | 链接                                                             |
-| :------- | :--------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/lapce/lapce](https://github.com/lapce/lapce) |
+| 导航                                         | 徽章                                                                                                                                                                                         |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/lapce/lapce) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flapce%2Flapce) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Neovide
 
@@ -1857,9 +1857,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ![Screenshot of Neovide](https://github.com/neovide/neovide/raw/main/website/docs/assets/BasicScreenCap.png)
 
-| 导航     | 链接                                                                     |
-| :------- | :----------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/neovide/neovide](https://github.com/neovide/neovide) |
+| 导航                                             | 徽章                                                                                                                                                                                             |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/neovide/neovide) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fneovide%2Fneovide) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### Helix
 
@@ -1870,9 +1870,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ![Screenshot](https://github.com/helix-editor/helix/raw/master/screenshot.png)
 
-| 导航     | 链接                                                                           |
-| :------- | :----------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/helix-editor/helix](https://github.com/helix-editor/helix) |
+| 导航                                                | 徽章                                                                                                                                                                                                |
+| :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/helix-editor/helix) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fhelix-editor%2Fhelix) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 终端
 
@@ -1882,9 +1882,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > GPU 加速交叉平台模拟器和终端器.
 
-| 导航     | 链接                                                             |
-| :------- | :--------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/wez/wezterm](https://github.com/wez/wezterm) |
+| 导航                                         | 徽章                                                                                                                                                                                         |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/wez/wezterm) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fwez%2Fwezterm) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 远程控制
 
@@ -1896,9 +1896,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > [![image](https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png)](https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png)
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 仓库链接 | [https://github.com/rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 仓库链接 ](https://github.com/rustdesk/rustdesk) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frustdesk%2Frustdesk) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### Git 工具
 
@@ -1910,9 +1910,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > [![img](https://github.com/extrawurst/gitui/raw/master/demo.gif)](https://github.com/extrawurst/gitui/blob/master/demo.gif)
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/extrawurst/gitui) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fextrawurst%2Fgitui) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 内网穿透
 
@@ -1922,9 +1922,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中的一个现代、简单的 TCP 隧道，它将本地端口暴露给远程服务器，绕过标准 NAT 连接防火墙。这就是它所做的一切：不多也不少。
 
-| 导航     | 链接                                                               |
-| :------- | :----------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/ekzhang/bore](https://github.com/ekzhang/bore) |
+| 导航                                          | 徽章                                                                                                                                                                                          |
+| :-------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/ekzhang/bore) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fekzhang%2Fbore) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 代码分析
 
@@ -1934,9 +1934,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 快速计算或计算源代码行和注释的差异。
 
-| 导航     | 链接                                                                   |
-| :------- | :--------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/ltoddy/cloc-rs](https://github.com/ltoddy/cloc-rs) |
+| 导航                                            | 徽章                                                                                                                                                                                            |
+| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/ltoddy/cloc-rs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fltoddy%2Fcloc-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 数据库
 
@@ -1946,9 +1946,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个具有高性能、高压缩率和高实用性的开源分布式时间序列数据库。
 
-| 导航     | 链接                                                                                                               |
-| :------- | :----------------------------------------------------------------------------------------------------------------- |
-| 仓库地址 | [https://github.com/cnosdb/cnosdb/blob/main/README_CN.md](https://github.com/cnosdb/cnosdb/blob/main/README_CN.md) |
+| 导航                                                                  | 徽章                                                                                                                                                                                                                        |
+| :-------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 仓库地址 ](https://github.com/cnosdb/cnosdb/blob/main/README_CN.md) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fcnosdb%2Fcnosdb%2Fblob%2Fmain%2FREADME_CN.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 操作系统
 
@@ -1958,9 +1958,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个为托管容器而设计的操作系统
 
-| 导航     | 链接                                                                                               |
-| :------- | :------------------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) |
+| 导航                                                          | 徽章                                                                                                                                                                                                          |
+| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/bottlerocket-os/bottlerocket) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbottlerocket-os%2Fbottlerocket) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 编译器
 
@@ -1970,9 +1970,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > Rust 中的 JS 引擎
 
-| 导航     | 链接                                                                                   |
-| :------- | :------------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/Starlight-JS/starlight](https://github.com/Starlight-JS/starlight) |
+| 导航                                                    | 徽章                                                                                                                                                                                                    |
+| :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/Starlight-JS/starlight) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FStarlight-JS%2Fstarlight) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 搜索引擎
 
@@ -1984,10 +1984,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 一个即时搜索引擎，知乎上说好像处理大规模数据不太快，具体需要自己试试。
 
-| 导航     | 链接                                                                                                                                       |
-| :------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| 文档仓库 | [https://docs.meilisearch.com/learn/getting_started/quick_start.html](https://docs.meilisearch.com/learn/getting_started/quick_start.html) |
-| 代码仓库 | [https://github.com/meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch)                                                   |
+| 导航                                                                              | 徽章                                                                                                                                                                                                                                          |
+| :-------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 文档仓库 ](https://docs.meilisearch.com/learn/getting_started/quick_start.html) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdocs.meilisearch.com%2Flearn%2Fgetting_started%2Fquick_start.html) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/docs.meilisearch.com) |
+| [ 代码仓库 ](https://github.com/meilisearch/MeiliSearch)                          | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmeilisearch%2FMeiliSearch) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                      |
 
 #### sonic
 
@@ -1997,9 +1997,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > 据说是比 Elasticsearch 快。
 
-| 导航     | 链接                                                                               |
-| :------- | :--------------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) |
+| 导航                                                  | 徽章                                                                                                                                                                                                  |
+| :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/valeriansaliou/sonic) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fvaleriansaliou%2Fsonic) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 系统工具
 
@@ -2009,9 +2009,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 现代端口扫描程序。**快速查找端口（最快 3 秒）。**
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/RustScan/RustScan) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FRustScan%2FRustScan) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 #### sniffnet
 
@@ -2019,9 +2019,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 舒适地监控你的网络流量的应用程序。
 
-| 导航     | 链接                                                                         |
-| :------- | :--------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) |
+| 导航                                               | 徽章                                                                                                                                                                                               |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/GyulyVGC/sniffnet) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FGyulyVGC%2Fsniffnet) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 视频工具
 
@@ -2031,9 +2031,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 命令行投稿(B 站)和视频下载工具，提供多种登录方式，支持多 p、上海腾讯云内网上传免流+大幅提速。
 
-| 导航     | 链接                                                                       |
-| :------- | :------------------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 代码仓库 ](https://github.com/ForgQi/biliup-rs) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FForgQi%2Fbiliup-rs) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ### 翻译工具
 
@@ -2043,9 +2043,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 > 一个用 rust 开发的翻译软件。
 
-| 导航     | 链接                                                             |
-| :------- | :--------------------------------------------------------------- |
-| 代码仓库 | [https://github.com/Borber/Tran](https://github.com/Borber/Tran) |
+| 导航                                         | 徽章                                                                                                                                                                                         |
+| :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/Borber/Tran) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FBorber%2FTran) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
 ## Community
 
@@ -2063,10 +2063,10 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ## Note
 
-| 导航       | 链接                                                                       |
-| :--------- | :------------------------------------------------------------------------- |
-| 封面图来自 | [https://rustacean.net/](https://rustacean.net/)                           |
-| 徽章来自   | [https://shields.io/category/license](https://shields.io/category/license) |
+| 导航                                              | 徽章                                                                                                                                                                                              |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [ 封面图来自 ](https://rustacean.net/)            | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustacean.net%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustacean.net)             |
+| [ 徽章来自 ](https://shields.io/category/license) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io%2Fcategory%2Flicense) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/shields.io) |
 
 该组织的其他仓库均为 fork 的资源备份仓库，以防止主仓库出现意外，后面可能会使用 Github Action 进行定期拉取更新。
 

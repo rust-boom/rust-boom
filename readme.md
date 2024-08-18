@@ -11,208 +11,213 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 >
 > ⛔️ 表示停止更新
 
-## TOC
+## Catalogs
 
-- [Rust Boom 💥](#rust-boom-)
-  - [TOC](#toc)
-  - [Blasting](#blasting)
-  - [Article](#article)
-  - [Video](#video)
-  - [Book](#book)
-    - [Rust 语言圣经中文版](#rust-语言圣经中文版)
-    - [Rust 程序设计语言中文版](#rust-程序设计语言中文版)
-    - [Rust 语言备忘清单 (简体中文)](#rust-语言备忘清单-简体中文)
-    - [通过例子学 Rust 中文版](#通过例子学-rust-中文版)
-    - [谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)](#谷歌开源的-rust-教程-comprehensive-rust-)
-    - [Rust 语言之旅](#rust-语言之旅)
-    - [RustPrimer](#rustprimer)
-    - [Rust 秘典中文版](#rust-秘典中文版)
-    - [Rust 参考手册 中文版](#rust-参考手册-中文版)
-    - [Rust Cookbook 中文版](#rust-cookbook-中文版)
-    - [Rusty Book( 锈书 )](#rusty-book-锈书-)
-    - [Rust 异步编程指南](#rust-异步编程指南)
-    - [Rust 语言实战](#rust-语言实战)
-    - [Rust 算法题解](#rust-算法题解)
-    - [Rust 算法书（RustBook）](#rust-算法书rustbook)
-    - [Rust 设计模式 中文版](#rust-设计模式-中文版)
-    - [Rust API 编写指南 中文版](#rust-api-编写指南-中文版)
-    - [Rust 性能手册（The Rust Performance Book）](#rust-性能手册the-rust-performance-book)
-    - [Rust 宏小册(tlborm)](#rust-宏小册tlborm)
-    - [嵌入式 Rust 编程](#嵌入式-rust-编程)
-    - [TheAlgorithms(Rust 算法例子)](#thealgorithmsrust-算法例子)
-    - [Rust RFC Book (提案书)](#rust-rfc-book-提案书)
-    - [Rust Unstable Book (不稳定特性书)](#rust-unstable-book-不稳定特性书)
-    - [Rust 版本指南](#rust-版本指南)
-    - [Rust 标准库手册中文版](#rust-标准库手册中文版)
-    - [inside-rust-std-library (标准库手册帮助文档)](#inside-rust-std-library-标准库手册帮助文档)
-    - [Cargo 中文文档](#cargo-中文文档)
-    - [Rust 版 Vulkan 教程（图形）](#rust-版-vulkan-教程图形)
-  - [DevTools](#devtools)
-    - [IDE](#ide)
-      - [VSCode（首推）](#vscode首推)
-    - [Cargo 命令](#cargo-命令)
-      - [cargo-edit](#cargo-edit)
-      - [cargo-watch](#cargo-watch)
-  - [Framework](#framework)
-    - [GUI](#gui)
-      - [Tauri](#tauri)
-      - [egui](#egui)
-      - [fltk-rs](#fltk-rs)
-      - [iced](#iced)
-      - [xilem](#xilem)
-      - [⛔️ druid](#️-druid)
-      - [Dioxus](#dioxus)
-      - [Vizia](#vizia)
-      - [slint](#slint)
-    - [TUI](#tui)
-      - [ratatui](#ratatui)
-      - [⛔️ tui-rs](#️-tui-rs)
-    - [CLI](#cli)
-      - [commander](#commander)
-    - [游戏开发](#游戏开发)
-      - [Bevy](#bevy)
-      - [tetra](#tetra)
-      - [amethyst](#amethyst)
-    - [异步运行时](#异步运行时)
-      - [Tokio](#tokio)
-    - [前端相关](#前端相关)
-      - [Yew](#yew)
-      - [Deno](#deno)
-      - [SWC](#swc)
-      - [Parcel](#parcel)
-      - [Rome](#rome)
-      - [napi-rs](#napi-rs)
-      - [Lightning CSS](#lightning-css)
-    - [WebAssembly](#webassembly)
-      - [wasmtime](#wasmtime)
-      - [wasmer](#wasmer)
-      - [WasmEdge](#wasmedge)
-      - [WASI](#wasi)
-    - [网络](#网络)
-      - [libp2p](#libp2p)
-      - [rathole](#rathole)
-      - [Crust](#crust)
-    - [服务端](#服务端)
-      - [Rocket](#rocket)
-      - [Actix Web](#actix-web)
-      - [warp](#warp)
-      - [poem](#poem)
-      - [axum](#axum)
-      - [Salvo](#salvo)
-    - [序列化](#序列化)
-      - [A-JSON](#a-json)
-      - [json-rust](#json-rust)
-      - [pikkr](#pikkr)
-      - [Serde](#serde)
-      - [quick-xml](#quick-xml)
-      - [musli](#musli)
-    - [消息队列](#消息队列)
-    - [配置解析](#配置解析)
-      - [config-rs](#config-rs)
-    - [日期处理](#日期处理)
-      - [time](#time)
-      - [chrono](#chrono)
-      - [httpdate](#httpdate)
-    - [编码库](#编码库)
-      - [base64](#base64)
-      - [hmac](#hmac)
-      - [jwt](#jwt)
-      - [josekit](#josekit)
-      - [sha](#sha)
-      - [utf8mb3](#utf8mb3)
-    - [数据库](#数据库)
-      - [SeaORM](#seaorm)
-      - [rbatis](#rbatis)
-      - [MongoDB Rust Driver](#mongodb-rust-driver)
-      - [wither](#wither)
-      - [redis-rs](#redis-rs)
-      - [r2d2](#r2d2)
-    - [单元测试](#单元测试)
-      - [mockall](#mockall)
-    - [几何计算](#几何计算)
-      - [geo](#geo)
-    - [图片处理](#图片处理)
-      - [image-rs](#image-rs)
-    - [音频处理](#音频处理)
-      - [Symphonia](#symphonia)
-    - [视频处理](#视频处理)
-      - [ffmpeg-sys-next](#ffmpeg-sys-next)
-    - [文档处理](#文档处理)
-      - [lopdf](#lopdf)
-      - [pdf-rs](#pdf-rs)
-      - [calamine](#calamine)
-      - [docx-rs](#docx-rs)
-      - [Polars](#polars)
-    - [AST](#ast)
-      - [antlr-rust](#antlr-rust)
-      - [pandoc\_ast](#pandoc_ast)
-    - [自动化](#自动化)
-      - [headless\_chrome](#headless_chrome)
-      - [enigo](#enigo)
-      - [InputBot](#inputbot)
-    - [系统相关](#系统相关)
-      - [screenshots](#screenshots)
-      - [execute](#execute)
-    - [机器学习](#机器学习)
-      - [neuronika](#neuronika)
-    - [语言绑定 (FFI)](#语言绑定-ffi)
-      - [cbindgen](#cbindgen)
-      - [PyO3](#pyo3)
-    - [图形渲染](#图形渲染)
-      - [Speedy2D](#speedy2d)
-      - [wgpu](#wgpu)
-      - [glium](#glium)
-      - [vulkano](#vulkano)
-      - [nannou](#nannou)
-      - [raqote](#raqote)
-    - [日志库](#日志库)
-      - [vector](#vector)
-    - [RPC 库](#rpc-库)
-      - [Dubbo-rust](#dubbo-rust)
-      - [volo](#volo)
-    - [SDL](#sdl)
-      - [Rust-SDL2](#rust-sdl2)
-    - [辅助工具库](#辅助工具库)
-      - [educe](#educe)
-    - [区块链](#区块链)
-      - [📌 Solana](#-solana)
-  - [Applications](#applications)
-    - [编辑器](#编辑器)
-      - [Zed](#zed)
-      - [AppFlowy](#appflowy)
-      - [Lapce](#lapce)
-      - [Neovide](#neovide)
-      - [Helix](#helix)
-    - [终端](#终端)
-      - [Wezterm](#wezterm)
-    - [远程控制](#远程控制)
-      - [Rustdesk](#rustdesk)
-    - [Git 工具](#git-工具)
-      - [GitUI](#gitui)
-    - [内网穿透](#内网穿透)
-      - [bore](#bore)
-    - [代码分析](#代码分析)
-      - [cloc-rs](#cloc-rs)
-    - [数据库](#数据库-1)
-      - [cnosdb](#cnosdb)
-    - [操作系统](#操作系统)
-      - [Bottlerocket OS](#bottlerocket-os)
-    - [编译器](#编译器)
-      - [Starlight](#starlight)
-    - [搜索引擎](#搜索引擎)
-      - [MeiliSearch](#meilisearch)
-      - [sonic](#sonic)
-    - [系统工具](#系统工具)
-      - [RustScan](#rustscan)
-      - [sniffnet](#sniffnet)
-    - [视频工具](#视频工具)
-      - [biliup-rs](#biliup-rs)
-    - [翻译工具](#翻译工具)
-      - [Tran](#tran)
-  - [Community](#community)
-  - [Incident](#incident)
-  - [Note](#note)
-  - [License](#license)
+<!-- Catalogs-Start -->
+
+| 导航                                                                                                            | 徽章                                                                                                                                                                                    |
+| :-------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Catalogs](#catalogs)                                                                                           |                                                                                                                                                                                         |
+| [Blasting](#blasting)                                                                                           |                                                                                                                                                                                         |
+| [Article](#article)                                                                                             |                                                                                                                                                                                         |
+| [Video](#video)                                                                                                 |                                                                                                                                                                                         |
+| [Book](#book)                                                                                                   |                                                                                                                                                                                         |
+| [Book](#book) / [Rust 语言圣经中文版](#rust-语言圣经中文版)                                                     | ![stars](https://img.shields.io/github/stars/sunface/rust-course?style=flat) ![GitHub](https://img.shields.io/github/license/sunface/rust-course)                                       |
+| [Book](#book) / [Rust 程序设计语言中文版](#rust-程序设计语言中文版)                                             |                                                                                                                                                                                         |
+| [Book](#book) / [Rust 语言备忘清单 (简体中文)](<#rust-语言备忘清单-(简体中文)>)                                 | ![stars](https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=flat) ![GitHub](https://img.shields.io/github/license/ralfbiedert/cheats.rs)                                   |
+| [Book](#book) / [通过例子学 Rust 中文版](#通过例子学-rust-中文版)                                               | ![stars](https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/rust-by-example-cn)               |
+| [Book](#book) / [谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)](<#谷歌开源的-rust-教程-(comprehensive-rust-🦀)>) | ![stars](https://img.shields.io/github/stars/google/comprehensive-rust?style=flat) ![GitHub](https://img.shields.io/github/license/google/comprehensive-rust)                           |
+| [Book](#book) / [Rust 语言之旅](#rust-语言之旅)                                                                 |                                                                                                                                                                                         |
+| [Book](#book) / [RustPrimer](#rustprimer)                                                                       | ![stars](https://img.shields.io/github/stars/rustcc/RustPrimer?style=flat) ![GitHub](https://img.shields.io/github/license/rustcc/RustPrimer)                                           |
+| [Book](#book) / [Rust 秘典中文版](#rust-秘典中文版)                                                             | ![stars](https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/nomicon-zh-Hans)                     |
+| [Book](#book) / [Rust 参考手册 中文版](#rust-参考手册-中文版)                                                   | ![stars](https://img.shields.io/github/stars/rust-lang-cn/reference-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/reference-cn)                           |
+| [Book](#book) / [Rust Cookbook 中文版](#rust-cookbook-中文版)                                                   | ![stars](https://img.shields.io/github/stars/rust-lang-cn/rust-cookbook-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/rust-cookbook-cn)                   |
+| [Book](#book) / [Rusty Book( 锈书 )](<#rusty-book(-锈书-)>)                                                     | ![stars](https://img.shields.io/github/stars/rustlang-cn/rusty-book?style=flat) ![GitHub](https://img.shields.io/github/license/rustlang-cn/rusty-book)                                 |
+| [Book](#book) / [Rust 异步编程指南](#rust-异步编程指南)                                                         | ![stars](https://img.shields.io/github/stars/rustlang-cn/async-book?style=flat) ![GitHub](https://img.shields.io/github/license/rustlang-cn/async-book)                                 |
+| [Book](#book) / [Rust 语言实战](#rust-语言实战)                                                                 | ![stars](https://img.shields.io/github/stars/sunface/rust-by-practice?style=flat) ![GitHub](https://img.shields.io/github/license/sunface/rust-by-practice)                             |
+| [Book](#book) / [Rust 算法题解](#rust-算法题解)                                                                 | ![stars](https://img.shields.io/github/stars/rustlang-cn/rust-algos?style=flat) ![GitHub](https://img.shields.io/github/license/rustlang-cn/rust-algos)                                 |
+| [Book](#book) / [Rust 算法书（RustBook）](#rust-算法书（rustbook）)                                             | ![stars](https://img.shields.io/github/stars/QMHTMY/RustBook?style=flat) ![GitHub](https://img.shields.io/github/license/QMHTMY/RustBook)                                               |
+| [Book](#book) / [Rust 设计模式 中文版](#rust-设计模式-中文版)                                                   | ![stars](https://img.shields.io/github/stars/chuxiuhong/chuxiuhong-rust-patterns-zh?style=flat) ![GitHub](https://img.shields.io/github/license/chuxiuhong/chuxiuhong-rust-patterns-zh) |
+| [Book](#book) / [Rust API 编写指南 中文版](#rust-api-编写指南-中文版)                                           | ![stars](https://img.shields.io/github/stars/zjp-CN/api-guidelines?style=flat) ![GitHub](https://img.shields.io/github/license/zjp-CN/api-guidelines)                                   |
+| [Book](#book) / [Rust 性能手册（The Rust Performance Book）](#rust-性能手册（the-rust-performance-book）)       | ![stars](https://img.shields.io/github/stars/Blues-star/perf-book-zh?style=flat) ![GitHub](https://img.shields.io/github/license/Blues-star/perf-book-zh)                               |
+| [Book](#book) / [Rust 宏小册(tlborm)](<#rust-宏小册(tlborm)>)                                                   | ![stars](https://img.shields.io/github/stars/DaseinPhaos/tlborm-chinese?style=flat) ![GitHub](https://img.shields.io/github/license/DaseinPhaos/tlborm-chinese)                         |
+| [Book](#book) / [嵌入式 Rust 编程](#嵌入式-rust-编程)                                                           | ![stars](https://img.shields.io/github/stars/nkbai/book?style=flat) ![GitHub](https://img.shields.io/github/license/nkbai/book)                                                         |
+| [Book](#book) / [TheAlgorithms(Rust 算法例子)](<#thealgorithms(rust-算法例子)>)                                 | ![stars](https://img.shields.io/github/stars/TheAlgorithms/Rust?style=flat) ![GitHub](https://img.shields.io/github/license/TheAlgorithms/Rust)                                         |
+| [Book](#book) / [Rust RFC Book (提案书)](<#rust-rfc-book-(提案书)>)                                             | ![stars](https://img.shields.io/github/stars/rust-lang/rfcs?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/rfcs)                                                 |
+| [Book](#book) / [Rust Unstable Book (不稳定特性书)](<#rust-unstable-book-(不稳定特性书)>)                       |                                                                                                                                                                                         |
+| [Book](#book) / [Rust 版本指南](#rust-版本指南)                                                                 | ![stars](https://img.shields.io/github/stars/rust-lang/edition-guide?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/edition-guide)                               |
+| [Book](#book) / [Rust 标准库手册中文版](#rust-标准库手册中文版)                                                 |                                                                                                                                                                                         |
+| [Book](#book) / [inside-rust-std-library (标准库手册帮助文档)](<#inside-rust-std-library-(标准库手册帮助文档)>) | ![stars](https://img.shields.io/github/stars/Warrenren/inside-rust-std-library?style=flat) ![GitHub](https://img.shields.io/github/license/Warrenren/inside-rust-std-library)           |
+| [Book](#book) / [Cargo 中文文档](#cargo-中文文档)                                                               | ![stars](https://img.shields.io/github/stars/rust-lang-cn/cargo-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/cargo-cn)                                   |
+| [Book](#book) / [Rust 版 Vulkan 教程（图形）](#rust-版-vulkan-教程（图形）)                                     | ![stars](https://img.shields.io/github/stars/chuigda/Vulkan-Tutorial-Rust-CN?style=flat) ![GitHub](https://img.shields.io/github/license/chuigda/Vulkan-Tutorial-Rust-CN)               |
+| [DevTools](#devtools)                                                                                           |                                                                                                                                                                                         |
+| [DevTools](#devtools) / [IDE](#ide)                                                                             |                                                                                                                                                                                         |
+| [DevTools](#devtools) / [IDE](#ide) / [VSCode（首推）](#vscode（首推）)                                         |                                                                                                                                                                                         |
+| [DevTools](#devtools) / [Cargo 命令](#cargo-命令) / [VSCode（首推）](#vscode（首推）)                           |                                                                                                                                                                                         |
+| [DevTools](#devtools) / [Cargo 命令](#cargo-命令) / [cargo-edit](#cargo-edit)                                   | ![stars](https://img.shields.io/github/stars/killercup/cargo-edit?style=flat) ![GitHub](https://img.shields.io/github/license/killercup/cargo-edit)                                     |
+| [DevTools](#devtools) / [Cargo 命令](#cargo-命令) / [cargo-watch](#cargo-watch)                                 | ![stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub](https://img.shields.io/github/license/watchexec/cargo-watch)                                   |
+| [Framework](#framework)                                                                                         |                                                                                                                                                                                         |
+| [Framework](#framework) / [GUI](#gui)                                                                           |                                                                                                                                                                                         |
+| [Framework](#framework) / [GUI](#gui) / [Tauri](#tauri)                                                         | ![stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat) ![GitHub](https://img.shields.io/github/license/tauri-apps/tauri)                                             |
+| [Framework](#framework) / [GUI](#gui) / [egui](#egui)                                                           | ![stars](https://img.shields.io/github/stars/emilk/egui?style=flat) ![GitHub](https://img.shields.io/github/license/emilk/egui)                                                         |
+| [Framework](#framework) / [GUI](#gui) / [fltk-rs](#fltk-rs)                                                     | ![stars](https://img.shields.io/github/stars/fltk-rs/fltk-rs?style=flat) ![GitHub](https://img.shields.io/github/license/fltk-rs/fltk-rs)                                               |
+| [Framework](#framework) / [GUI](#gui) / [iced](#iced)                                                           | ![stars](https://img.shields.io/github/stars/iced-rs/iced?style=flat) ![GitHub](https://img.shields.io/github/license/iced-rs/iced)                                                     |
+| [Framework](#framework) / [GUI](#gui) / [xilem](#xilem)                                                         | ![stars](https://img.shields.io/github/stars/linebender/xilem?style=flat) ![GitHub](https://img.shields.io/github/license/linebender/xilem)                                             |
+| [Framework](#framework) / [GUI](#gui) / [⛔️ druid](#⛔️-druid)                                                 | ![stars](https://img.shields.io/github/stars/linebender/druid?style=flat) ![GitHub](https://img.shields.io/github/license/linebender/druid)                                             |
+| [Framework](#framework) / [GUI](#gui) / [Dioxus](#dioxus)                                                       | ![stars](https://img.shields.io/github/stars/DioxusLabs/dioxus?style=flat) ![GitHub](https://img.shields.io/github/license/DioxusLabs/dioxus)                                           |
+| [Framework](#framework) / [GUI](#gui) / [Vizia](#vizia)                                                         | ![stars](https://img.shields.io/github/stars/vizia/vizia?style=flat) ![GitHub](https://img.shields.io/github/license/vizia/vizia)                                                       |
+| [Framework](#framework) / [GUI](#gui) / [slint](#slint)                                                         | ![stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat) ![GitHub](https://img.shields.io/github/license/slint-ui/slint)                                                 |
+| [Framework](#framework) / [TUI](#tui) / [slint](#slint)                                                         |                                                                                                                                                                                         |
+| [Framework](#framework) / [TUI](#tui) / [ratatui](#ratatui)                                                     | ![stars](https://img.shields.io/github/stars/ratatui-org/ratatui?style=flat) ![GitHub](https://img.shields.io/github/license/ratatui-org/ratatui)                                       |
+| [Framework](#framework) / [TUI](#tui) / [⛔️ tui-rs](#⛔️-tui-rs)                                               | ![stars](https://img.shields.io/github/stars/fdehau/tui-rs?style=flat) ![GitHub](https://img.shields.io/github/license/fdehau/tui-rs)                                                   |
+| [Framework](#framework) / [CLI](#cli) / [⛔️ tui-rs](#⛔️-tui-rs)                                               |                                                                                                                                                                                         |
+| [Framework](#framework) / [CLI](#cli) / [commander](#commander)                                                 | ![stars](https://img.shields.io/github/stars/tickbh/Commander?style=flat) ![GitHub](https://img.shields.io/github/license/tickbh/Commander)                                             |
+| [Framework](#framework) / [游戏开发](#游戏开发) / [commander](#commander)                                       |                                                                                                                                                                                         |
+| [Framework](#framework) / [游戏开发](#游戏开发) / [Bevy](#bevy)                                                 | ![stars](https://img.shields.io/github/stars/bevyengine/bevy?style=flat) ![GitHub](https://img.shields.io/github/license/bevyengine/bevy)                                               |
+| [Framework](#framework) / [游戏开发](#游戏开发) / [tetra](#tetra)                                               | ![stars](https://img.shields.io/github/stars/17cupsofcoffee/tetra?style=flat) ![GitHub](https://img.shields.io/github/license/17cupsofcoffee/tetra)                                     |
+| [Framework](#framework) / [游戏开发](#游戏开发) / [amethyst](#amethyst)                                         | ![stars](https://img.shields.io/github/stars/amethyst/amethyst?style=flat) ![GitHub](https://img.shields.io/github/license/amethyst/amethyst)                                           |
+| [Framework](#framework) / [异步运行时](#异步运行时) / [amethyst](#amethyst)                                     |                                                                                                                                                                                         |
+| [Framework](#framework) / [异步运行时](#异步运行时) / [Tokio](#tokio)                                           | ![stars](https://img.shields.io/github/stars/tokio-rs/tokio?style=flat) ![GitHub](https://img.shields.io/github/license/tokio-rs/tokio)                                                 |
+| [Framework](#framework) / [前端相关](#前端相关) / [Tokio](#tokio)                                               |                                                                                                                                                                                         |
+| [Framework](#framework) / [前端相关](#前端相关) / [Yew](#yew)                                                   | ![stars](https://img.shields.io/github/stars/jetli/awesome-yew?style=flat) ![GitHub](https://img.shields.io/github/license/jetli/awesome-yew)                                           |
+| [Framework](#framework) / [前端相关](#前端相关) / [Deno](#deno)                                                 | ![stars](https://img.shields.io/github/stars/denoland/deno?style=flat) ![GitHub](https://img.shields.io/github/license/denoland/deno)                                                   |
+| [Framework](#framework) / [前端相关](#前端相关) / [SWC](#swc)                                                   | ![stars](https://img.shields.io/github/stars/swc-project/swc?style=flat) ![GitHub](https://img.shields.io/github/license/swc-project/swc)                                               |
+| [Framework](#framework) / [前端相关](#前端相关) / [Parcel](#parcel)                                             | ![stars](https://img.shields.io/github/stars/parcel-bundler/parcel?style=flat) ![GitHub](https://img.shields.io/github/license/parcel-bundler/parcel)                                   |
+| [Framework](#framework) / [前端相关](#前端相关) / [Rome](#rome)                                                 | ![stars](https://img.shields.io/github/stars/rome/tools?style=flat) ![GitHub](https://img.shields.io/github/license/rome/tools)                                                         |
+| [Framework](#framework) / [前端相关](#前端相关) / [napi-rs](#napi-rs)                                           | ![stars](https://img.shields.io/github/stars/napi-rs/napi-rs?style=flat) ![GitHub](https://img.shields.io/github/license/napi-rs/napi-rs)                                               |
+| [Framework](#framework) / [前端相关](#前端相关) / [Lightning CSS](#lightning-css)                               | ![stars](https://img.shields.io/github/stars/parcel-bundler/lightningcss?style=flat) ![GitHub](https://img.shields.io/github/license/parcel-bundler/lightningcss)                       |
+| [Framework](#framework) / [WebAssembly](#webassembly) / [Lightning CSS](#lightning-css)                         |                                                                                                                                                                                         |
+| [Framework](#framework) / [WebAssembly](#webassembly) / [wasmtime](#wasmtime)                                   | ![stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=flat) ![GitHub](https://img.shields.io/github/license/bytecodealliance/wasmtime)                           |
+| [Framework](#framework) / [WebAssembly](#webassembly) / [wasmer](#wasmer)                                       | ![stars](https://img.shields.io/github/stars/wasmerio/wasmer?style=flat) ![GitHub](https://img.shields.io/github/license/wasmerio/wasmer)                                               |
+| [Framework](#framework) / [WebAssembly](#webassembly) / [WasmEdge](#wasmedge)                                   | ![stars](https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=flat) ![GitHub](https://img.shields.io/github/license/WasmEdge/WasmEdge)                                           |
+| [Framework](#framework) / [WebAssembly](#webassembly) / [WASI](#wasi)                                           | ![stars](https://img.shields.io/github/stars/WebAssembly/WASI?style=flat) ![GitHub](https://img.shields.io/github/license/WebAssembly/WASI)                                             |
+| [Framework](#framework) / [网络](#网络) / [WASI](#wasi)                                                         |                                                                                                                                                                                         |
+| [Framework](#framework) / [网络](#网络) / [libp2p](#libp2p)                                                     | ![stars](https://img.shields.io/github/stars/libp2p/rust-libp2p?style=flat) ![GitHub](https://img.shields.io/github/license/libp2p/rust-libp2p)                                         |
+| [Framework](#framework) / [网络](#网络) / [rathole](#rathole)                                                   | ![stars](https://img.shields.io/github/stars/rapiz1/rathole?style=flat) ![GitHub](https://img.shields.io/github/license/rapiz1/rathole)                                                 |
+| [Framework](#framework) / [网络](#网络) / [Crust](#crust)                                                       | ![stars](https://img.shields.io/github/stars/maidsafe-archive/crust?style=flat) ![GitHub](https://img.shields.io/github/license/maidsafe-archive/crust)                                 |
+| [Framework](#framework) / [服务端](#服务端) / [Crust](#crust)                                                   |                                                                                                                                                                                         |
+| [Framework](#framework) / [服务端](#服务端) / [Rocket](#rocket)                                                 | ![stars](https://img.shields.io/github/stars/SergioBenitez/Rocket?style=flat) ![GitHub](https://img.shields.io/github/license/SergioBenitez/Rocket)                                     |
+| [Framework](#framework) / [服务端](#服务端) / [Actix Web](#actix-web)                                           | ![stars](https://img.shields.io/github/stars/actix/actix-web?style=flat) ![GitHub](https://img.shields.io/github/license/actix/actix-web)                                               |
+| [Framework](#framework) / [服务端](#服务端) / [warp](#warp)                                                     | ![stars](https://img.shields.io/github/stars/seanmonstar/warp?style=flat) ![GitHub](https://img.shields.io/github/license/seanmonstar/warp)                                             |
+| [Framework](#framework) / [服务端](#服务端) / [poem](#poem)                                                     | ![stars](https://img.shields.io/github/stars/poem-web/poem?style=flat) ![GitHub](https://img.shields.io/github/license/poem-web/poem)                                                   |
+| [Framework](#framework) / [服务端](#服务端) / [axum](#axum)                                                     | ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat) ![GitHub](https://img.shields.io/github/license/tokio-rs/axum)                                                   |
+| [Framework](#framework) / [服务端](#服务端) / [Salvo](#salvo)                                                   | ![stars](https://img.shields.io/github/stars/salvo-rs/salvo?style=flat) ![GitHub](https://img.shields.io/github/license/salvo-rs/salvo)                                                 |
+| [Framework](#framework) / [序列化](#序列化) / [Salvo](#salvo)                                                   |                                                                                                                                                                                         |
+| [Framework](#framework) / [序列化](#序列化) / [A-JSON](#a-json)                                                 | ![stars](https://img.shields.io/github/stars/importcjj/rust-ajson?style=flat) ![GitHub](https://img.shields.io/github/license/importcjj/rust-ajson)                                     |
+| [Framework](#framework) / [序列化](#序列化) / [json-rust](#json-rust)                                           | ![stars](https://img.shields.io/github/stars/maciejhirsz/json-rust?style=flat) ![GitHub](https://img.shields.io/github/license/maciejhirsz/json-rust)                                   |
+| [Framework](#framework) / [序列化](#序列化) / [pikkr](#pikkr)                                                   | ![stars](https://img.shields.io/github/stars/pikkr/pikkr?style=flat) ![GitHub](https://img.shields.io/github/license/pikkr/pikkr)                                                       |
+| [Framework](#framework) / [序列化](#序列化) / [Serde](#serde)                                                   | ![stars](https://img.shields.io/github/stars/serde-rs/json?style=flat) ![GitHub](https://img.shields.io/github/license/serde-rs/json)                                                   |
+| [Framework](#framework) / [序列化](#序列化) / [quick-xml](#quick-xml)                                           | ![stars](https://img.shields.io/github/stars/tafia/quick-xml?style=flat) ![GitHub](https://img.shields.io/github/license/tafia/quick-xml)                                               |
+| [Framework](#framework) / [序列化](#序列化) / [musli](#musli)                                                   | ![stars](https://img.shields.io/github/stars/udoprog/musli?style=flat) ![GitHub](https://img.shields.io/github/license/udoprog/musli)                                                   |
+| [Framework](#framework) / [消息队列](#消息队列) / [musli](#musli)                                               |                                                                                                                                                                                         |
+| [Framework](#framework) / [配置解析](#配置解析) / [musli](#musli)                                               |                                                                                                                                                                                         |
+| [Framework](#framework) / [配置解析](#配置解析) / [config-rs](#config-rs)                                       | ![stars](https://img.shields.io/github/stars/mehcode/config-rs?style=flat) ![GitHub](https://img.shields.io/github/license/mehcode/config-rs)                                           |
+| [Framework](#framework) / [日期处理](#日期处理) / [config-rs](#config-rs)                                       |                                                                                                                                                                                         |
+| [Framework](#framework) / [日期处理](#日期处理) / [time](#time)                                                 | ![stars](https://img.shields.io/github/stars/time-rs/time?style=flat) ![GitHub](https://img.shields.io/github/license/time-rs/time)                                                     |
+| [Framework](#framework) / [日期处理](#日期处理) / [chrono](#chrono)                                             | ![stars](https://img.shields.io/github/stars/chronotope/chrono?style=flat) ![GitHub](https://img.shields.io/github/license/chronotope/chrono)                                           |
+| [Framework](#framework) / [日期处理](#日期处理) / [httpdate](#httpdate)                                         | ![stars](https://img.shields.io/github/stars/pyfisch/httpdate?style=flat) ![GitHub](https://img.shields.io/github/license/pyfisch/httpdate)                                             |
+| [Framework](#framework) / [编码库](#编码库) / [httpdate](#httpdate)                                             |                                                                                                                                                                                         |
+| [Framework](#framework) / [编码库](#编码库) / [base64](#base64)                                                 | ![stars](https://img.shields.io/github/stars/marshallpierce/rust-base64?style=flat) ![GitHub](https://img.shields.io/github/license/marshallpierce/rust-base64)                         |
+| [Framework](#framework) / [编码库](#编码库) / [hmac](#hmac)                                                     | ![stars](https://img.shields.io/github/stars/RustCrypto/MACs?style=flat) ![GitHub](https://img.shields.io/github/license/RustCrypto/MACs)                                               |
+| [Framework](#framework) / [编码库](#编码库) / [jwt](#jwt)                                                       | ![stars](https://img.shields.io/github/stars/mikkyang/rust-jwt?style=flat) ![GitHub](https://img.shields.io/github/license/mikkyang/rust-jwt)                                           |
+| [Framework](#framework) / [编码库](#编码库) / [josekit](#josekit)                                               | ![stars](https://img.shields.io/github/stars/hidekatsu-izuno/josekit-rs?style=flat) ![GitHub](https://img.shields.io/github/license/hidekatsu-izuno/josekit-rs)                         |
+| [Framework](#framework) / [编码库](#编码库) / [sha](#sha)                                                       | ![stars](https://img.shields.io/github/stars/andydude/rust-sha?style=flat) ![GitHub](https://img.shields.io/github/license/rustdesk/rustdesk)                                           |
+| [Framework](#framework) / [编码库](#编码库) / [utf8mb3](#utf8mb3)                                               | ![stars](https://img.shields.io/github/stars/WumaCoder/utf8mb3?style=flat) ![GitHub](https://img.shields.io/github/license/WumaCoder/utf8mb3)                                           |
+| [Framework](#framework) / [数据库](#数据库) / [utf8mb3](#utf8mb3)                                               |                                                                                                                                                                                         |
+| [Framework](#framework) / [数据库](#数据库) / [SeaORM](#seaorm)                                                 | ![stars](https://img.shields.io/github/stars/SeaQL/sea-orm?style=flat) ![GitHub](https://img.shields.io/github/license/SeaQL/sea-orm)                                                   |
+| [Framework](#framework) / [数据库](#数据库) / [rbatis](#rbatis)                                                 | ![stars](https://img.shields.io/github/stars/rbatis/rbatis?style=flat) ![GitHub](https://img.shields.io/github/license/rbatis/rbatis)                                                   |
+| [Framework](#framework) / [数据库](#数据库) / [MongoDB Rust Driver](#mongodb-rust-driver)                       | ![stars](https://img.shields.io/github/stars/mongodb/mongo-rust-driver?style=flat) ![GitHub](https://img.shields.io/github/license/mongodb/mongo-rust-driver)                           |
+| [Framework](#framework) / [数据库](#数据库) / [wither](#wither)                                                 | ![stars](https://img.shields.io/github/stars/thedodd/wither?style=flat) ![GitHub](https://img.shields.io/github/license/thedodd/wither)                                                 |
+| [Framework](#framework) / [数据库](#数据库) / [redis-rs](#redis-rs)                                             | ![stars](https://img.shields.io/github/stars/redis-rs/redis-rs?style=flat)![GitHub](https://img.shields.io/github/license/redis-rs/redis-rs)                                            |
+| [Framework](#framework) / [数据库](#数据库) / [r2d2](#r2d2)                                                     | ![stars](https://img.shields.io/github/stars/sfackler/r2d2?style=flat) ![GitHub](https://img.shields.io/github/license/sfackler/r2d2)                                                   |
+| [Framework](#framework) / [单元测试](#单元测试) / [r2d2](#r2d2)                                                 |                                                                                                                                                                                         |
+| [Framework](#framework) / [单元测试](#单元测试) / [mockall](#mockall)                                           | ![stars](https://img.shields.io/github/stars/asomers/mockall?style=flat) ![GitHub](https://img.shields.io/github/license/asomers/mockall)                                               |
+| [Framework](#framework) / [几何计算](#几何计算) / [mockall](#mockall)                                           |                                                                                                                                                                                         |
+| [Framework](#framework) / [几何计算](#几何计算) / [geo](#geo)                                                   | ![stars](https://img.shields.io/github/stars/georust/geo?style=flat) ![GitHub](https://img.shields.io/github/license/georust/geo)                                                       |
+| [Framework](#framework) / [图片处理](#图片处理) / [geo](#geo)                                                   |                                                                                                                                                                                         |
+| [Framework](#framework) / [图片处理](#图片处理) / [image-rs](#image-rs)                                         | ![stars](https://img.shields.io/github/stars/image-rs/image?style=flat) ![GitHub](https://img.shields.io/github/license/image-rs/image)                                                 |
+| [Framework](#framework) / [音频处理](#音频处理) / [image-rs](#image-rs)                                         |                                                                                                                                                                                         |
+| [Framework](#framework) / [音频处理](#音频处理) / [Symphonia](#symphonia)                                       | ![stars](https://img.shields.io/github/stars/pdeljanov/Symphonia?style=flat) ![GitHub](https://img.shields.io/github/license/pdeljanov/Symphonia)                                       |
+| [Framework](#framework) / [视频处理](#视频处理) / [Symphonia](#symphonia)                                       |                                                                                                                                                                                         |
+| [Framework](#framework) / [视频处理](#视频处理) / [ffmpeg-sys-next](#ffmpeg-sys-next)                           | ![stars](https://img.shields.io/github/stars/zmwangx/rust-ffmpeg-sys?style=flat) ![GitHub](https://img.shields.io/github/license/zmwangx/rust-ffmpeg-sys)                               |
+| [Framework](#framework) / [文档处理](#文档处理) / [ffmpeg-sys-next](#ffmpeg-sys-next)                           |                                                                                                                                                                                         |
+| [Framework](#framework) / [文档处理](#文档处理) / [lopdf](#lopdf)                                               | ![stars](https://img.shields.io/github/stars/J-F-Liu/lopdf?style=flat) ![GitHub](https://img.shields.io/github/license/J-F-Liu/lopdf)                                                   |
+| [Framework](#framework) / [文档处理](#文档处理) / [pdf-rs](#pdf-rs)                                             | ![stars](https://img.shields.io/github/stars/pdf-rs/pdf?style=flat) ![GitHub](https://img.shields.io/github/license/pdf-rs/pdf)                                                         |
+| [Framework](#framework) / [文档处理](#文档处理) / [calamine](#calamine)                                         | ![stars](https://img.shields.io/github/stars/tafia/calamine?style=flat) ![GitHub](https://img.shields.io/github/license/tafia/calamine)                                                 |
+| [Framework](#framework) / [文档处理](#文档处理) / [docx-rs](#docx-rs)                                           | ![stars](https://img.shields.io/github/stars/bokuweb/docx-rs?style=flat) ![GitHub](https://img.shields.io/github/license/bokuweb/docx-rs)                                               |
+| [Framework](#framework) / [文档处理](#文档处理) / [Polars](#polars)                                             | ![stars](https://img.shields.io/github/stars/pola-rs/polars?style=flat) ![GitHub](https://img.shields.io/github/license/pola-rs/polars)                                                 |
+| [Framework](#framework) / [AST](#ast) / [Polars](#polars)                                                       |                                                                                                                                                                                         |
+| [Framework](#framework) / [AST](#ast) / [antlr-rust](#antlr-rust)                                               | ![stars](https://img.shields.io/github/stars/rrevenantt/antlr4rust?style=flat) ![GitHub](https://img.shields.io/github/license/rrevenantt/antlr4rust)                                   |
+| [Framework](#framework) / [AST](#ast) / [pandoc_ast](#pandoc_ast)                                               | ![stars](https://img.shields.io/github/stars/oli-obk/pandoc-ast?style=flat) ![GitHub](https://img.shields.io/github/license/oli-obk/pandoc-ast)                                         |
+| [Framework](#framework) / [自动化](#自动化) / [pandoc_ast](#pandoc_ast)                                         |                                                                                                                                                                                         |
+| [Framework](#framework) / [自动化](#自动化) / [headless_chrome](#headless_chrome)                               | ![stars](https://img.shields.io/github/stars/atroche/rust-headless-chrome?style=flat) ![GitHub](https://img.shields.io/github/license/atroche/rust-headless-chrome)                     |
+| [Framework](#framework) / [自动化](#自动化) / [enigo](#enigo)                                                   | ![stars](https://img.shields.io/github/stars/enigo-rs/enigo?style=flat) ![GitHub](https://img.shields.io/github/license/enigo-rs/enigo)                                                 |
+| [Framework](#framework) / [自动化](#自动化) / [InputBot](#inputbot)                                             | ![stars](https://img.shields.io/github/stars/obv-mikhail/InputBot?style=flat) ![GitHub](https://img.shields.io/github/license/obv-mikhail/InputBot)                                     |
+| [Framework](#framework) / [系统相关](#系统相关) / [InputBot](#inputbot)                                         |                                                                                                                                                                                         |
+| [Framework](#framework) / [系统相关](#系统相关) / [screenshots](#screenshots)                                   | ![stars](https://img.shields.io/github/stars/nashaofu/screenshots-rs?style=flat) ![GitHub](https://img.shields.io/github/license/nashaofu/screenshots-rs)                               |
+| [Framework](#framework) / [系统相关](#系统相关) / [execute](#execute)                                           | ![stars](https://img.shields.io/github/stars/magiclen/execute?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/execute)                                             |
+| [Framework](#framework) / [机器学习](#机器学习) / [execute](#execute)                                           |                                                                                                                                                                                         |
+| [Framework](#framework) / [机器学习](#机器学习) / [neuronika](#neuronika)                                       | ![stars](https://img.shields.io/github/stars/neuronika/neuronika?style=flat) ![GitHub](https://img.shields.io/github/license/neuronika/neuronika)                                       |
+| [Framework](#framework) / [语言绑定 (FFI)](<#语言绑定-(ffi)>) / [neuronika](#neuronika)                         |                                                                                                                                                                                         |
+| [Framework](#framework) / [语言绑定 (FFI)](<#语言绑定-(ffi)>) / [cbindgen](#cbindgen)                           | ![stars](https://img.shields.io/github/stars/eqrion/cbindgen?style=flat) ![GitHub](https://img.shields.io/github/license/reqrion/cbindgen)                                              |
+| [Framework](#framework) / [语言绑定 (FFI)](<#语言绑定-(ffi)>) / [PyO3](#pyo3)                                   | ![stars](https://img.shields.io/github/stars/PyO3/PyO3?style=flat) ![GitHub](https://img.shields.io/github/license/PyO3/PyO3)                                                           |
+| [Framework](#framework) / [图形渲染](#图形渲染) / [PyO3](#pyo3)                                                 |                                                                                                                                                                                         |
+| [Framework](#framework) / [图形渲染](#图形渲染) / [Speedy2D](#speedy2d)                                         | ![stars](https://img.shields.io/github/stars/QuantumBadger/Speedy2D?style=flat) ![GitHub](https://img.shields.io/github/license/QuantumBadger/Speedy2D)                                 |
+| [Framework](#framework) / [图形渲染](#图形渲染) / [wgpu](#wgpu)                                                 | ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu?style=flat) ![GitHub](https://img.shields.io/github/license/gfx-rs/wgpu)                                                       |
+| [Framework](#framework) / [图形渲染](#图形渲染) / [glium](#glium)                                               | ![stars](https://img.shields.io/github/stars/glium/glium?style=flat) ![GitHub](https://img.shields.io/github/license/glium/glium)                                                       |
+| [Framework](#framework) / [图形渲染](#图形渲染) / [vulkano](#vulkano)                                           | ![stars](https://img.shields.io/github/stars/vulkano-rs/vulkano?style=flat) ![GitHub](https://img.shields.io/github/license/vulkano-rs/vulkano)                                         |
+| [Framework](#framework) / [图形渲染](#图形渲染) / [nannou](#nannou)                                             | ![stars](https://img.shields.io/github/stars/nannou-org/nannou?style=flat) ![GitHub](https://img.shields.io/github/license/nannou-org/nannou)                                           |
+| [Framework](#framework) / [图形渲染](#图形渲染) / [raqote](#raqote)                                             | ![stars](https://img.shields.io/github/stars/jrmuizel/raqote?style=flat) ![GitHub](https://img.shields.io/github/license/jrmuizel/raqote)                                               |
+| [Framework](#framework) / [日志库](#日志库) / [raqote](#raqote)                                                 |                                                                                                                                                                                         |
+| [Framework](#framework) / [日志库](#日志库) / [vector](#vector)                                                 | ![stars](https://img.shields.io/github/stars/vectordotdev/vector?style=flat) ![GitHub](https://img.shields.io/github/license/vectordotdev/vector)                                       |
+| [Framework](#framework) / [RPC 库](#rpc-库) / [vector](#vector)                                                 |                                                                                                                                                                                         |
+| [Framework](#framework) / [RPC 库](#rpc-库) / [Dubbo-rust](#dubbo-rust)                                         | ![stars](https://img.shields.io/github/stars/apache/dubbo-rust?style=flat) ![GitHub](https://img.shields.io/github/license/apache/dubbo-rust)                                           |
+| [Framework](#framework) / [RPC 库](#rpc-库) / [volo](#volo)                                                     | ![stars](https://img.shields.io/github/stars/cloudwego/volo?style=flat) ![GitHub](https://img.shields.io/github/license/cloudwego/volo)                                                 |
+| [Framework](#framework) / [SDL](#sdl) / [volo](#volo)                                                           |                                                                                                                                                                                         |
+| [Framework](#framework) / [SDL](#sdl) / [Rust-SDL2](#rust-sdl2)                                                 | ![stars](https://img.shields.io/github/stars/Rust-SDL2/rust-sdl2?style=flat) ![GitHub](https://img.shields.io/github/license/Rust-SDL2/rust-sdl2)                                       |
+| [Framework](#framework) / [辅助工具库](#辅助工具库) / [Rust-SDL2](#rust-sdl2)                                   |                                                                                                                                                                                         |
+| [Framework](#framework) / [辅助工具库](#辅助工具库) / [educe](#educe)                                           | ![stars](https://img.shields.io/github/stars/magiclen/educe?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/educe)                                                 |
+| [Framework](#framework) / [区块链](#区块链) / [educe](#educe)                                                   |                                                                                                                                                                                         |
+| [Framework](#framework) / [区块链](#区块链) / [📌 Solana](#📌-solana)                                           | ![stars](https://img.shields.io/github/stars/solana-labs/solana?style=flat) ![GitHub](https://img.shields.io/github/license/solana-labs/solana)                                         |
+| [Applications](#applications)                                                                                   |                                                                                                                                                                                         |
+| [Applications](#applications) / [编辑器](#编辑器)                                                               |                                                                                                                                                                                         |
+| [Applications](#applications) / [编辑器](#编辑器) / [Zed](#zed)                                                 | ![stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub](https://img.shields.io/github/license/zed-industries/zed)                                         |
+| [Applications](#applications) / [编辑器](#编辑器) / [AppFlowy](#appflowy)                                       | ![stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat) ![GitHub](https://img.shields.io/github/license/AppFlowy-IO/AppFlowy)                                     |
+| [Applications](#applications) / [编辑器](#编辑器) / [Lapce](#lapce)                                             | ![stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub](https://img.shields.io/github/license/lapce/lapce)                                                       |
+| [Applications](#applications) / [编辑器](#编辑器) / [Neovide](#neovide)                                         | ![stars](https://img.shields.io/github/stars/neovide/neovide?style=flat) ![GitHub](https://img.shields.io/github/license/neovide/neovide)                                               |
+| [Applications](#applications) / [编辑器](#编辑器) / [Helix](#helix)                                             | ![stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat) ![GitHub](https://img.shields.io/github/license/helix-editor/helix)                                         |
+| [Applications](#applications) / [终端](#终端) / [Helix](#helix)                                                 |                                                                                                                                                                                         |
+| [Applications](#applications) / [终端](#终端) / [Wezterm](#wezterm)                                             | ![stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub](https://img.shields.io/github/license/wez/wezterm)                                                       |
+| [Applications](#applications) / [远程控制](#远程控制) / [Wezterm](#wezterm)                                     |                                                                                                                                                                                         |
+| [Applications](#applications) / [远程控制](#远程控制) / [Rustdesk](#rustdesk)                                   | ![stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat) ![GitHub](https://img.shields.io/github/license/rustdesk/rustdesk)                                           |
+| [Applications](#applications) / [Git 工具](#git-工具) / [Rustdesk](#rustdesk)                                   |                                                                                                                                                                                         |
+| [Applications](#applications) / [Git 工具](#git-工具) / [GitUI](#gitui)                                         | ![stars](https://img.shields.io/github/stars/extrawurst/gitui?style=flat) ![GitHub](https://img.shields.io/github/license/extrawurst/gitui)                                             |
+| [Applications](#applications) / [内网穿透](#内网穿透) / [GitUI](#gitui)                                         |                                                                                                                                                                                         |
+| [Applications](#applications) / [内网穿透](#内网穿透) / [bore](#bore)                                           | ![stars](https://img.shields.io/github/stars/ekzhang/bore?style=flat) ![GitHub](https://img.shields.io/github/license/ekzhang/bore)                                                     |
+| [Applications](#applications) / [代码分析](#代码分析) / [bore](#bore)                                           |                                                                                                                                                                                         |
+| [Applications](#applications) / [代码分析](#代码分析) / [cloc-rs](#cloc-rs)                                     | ![stars](https://img.shields.io/github/stars/ltoddy/cloc-rs?style=flat) ![GitHub](https://img.shields.io/github/license/ltoddy/cloc-rs)                                                 |
+| [Applications](#applications) / [数据库](#数据库) / [cloc-rs](#cloc-rs)                                         |                                                                                                                                                                                         |
+| [Applications](#applications) / [数据库](#数据库) / [cnosdb](#cnosdb)                                           | ![stars](https://img.shields.io/github/stars/cnosdb/cnosdb?style=flat) ![GitHub](https://img.shields.io/github/license/cnosdb/cnosdb)                                                   |
+| [Applications](#applications) / [操作系统](#操作系统) / [cnosdb](#cnosdb)                                       |                                                                                                                                                                                         |
+| [Applications](#applications) / [操作系统](#操作系统) / [Bottlerocket OS](#bottlerocket-os)                     | ![stars](https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=flat) ![GitHub](https://img.shields.io/github/license/bottlerocket-os/bottlerocket)                     |
+| [Applications](#applications) / [编译器](#编译器) / [Bottlerocket OS](#bottlerocket-os)                         |                                                                                                                                                                                         |
+| [Applications](#applications) / [编译器](#编译器) / [Starlight](#starlight)                                     | ![stars](https://img.shields.io/github/stars/Starlight-JS/starlight?style=flat) ![GitHub](https://img.shields.io/github/license/Starlight-JS/starlight)                                 |
+| [Applications](#applications) / [搜索引擎](#搜索引擎) / [Starlight](#starlight)                                 |                                                                                                                                                                                         |
+| [Applications](#applications) / [搜索引擎](#搜索引擎) / [MeiliSearch](#meilisearch)                             | ![stars](https://img.shields.io/github/stars/meilisearch/MeiliSearch?style=flat) ![GitHub](https://img.shields.io/github/license/meilisearch/MeiliSearch)                               |
+| [Applications](#applications) / [搜索引擎](#搜索引擎) / [sonic](#sonic)                                         | ![stars](https://img.shields.io/github/stars/valeriansaliou/sonic?style=flat) ![GitHub](https://img.shields.io/github/license/valeriansaliou/sonic)                                     |
+| [Applications](#applications) / [系统工具](#系统工具) / [sonic](#sonic)                                         |                                                                                                                                                                                         |
+| [Applications](#applications) / [系统工具](#系统工具) / [RustScan](#rustscan)                                   | ![stars](https://img.shields.io/github/stars/RustScan/RustScan?style=flat) ![GitHub](https://img.shields.io/github/license/RustScan/RustScan)                                           |
+| [Applications](#applications) / [系统工具](#系统工具) / [sniffnet](#sniffnet)                                   | ![stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=flat) ![GitHub](https://img.shields.io/github/license/GyulyVGC/sniffnet)                                           |
+| [Applications](#applications) / [视频工具](#视频工具) / [sniffnet](#sniffnet)                                   |                                                                                                                                                                                         |
+| [Applications](#applications) / [视频工具](#视频工具) / [biliup-rs](#biliup-rs)                                 | ![stars](https://img.shields.io/github/stars/ForgQi/biliup-rs?style=flat) ![GitHub](https://img.shields.io/github/license/ForgQi/biliup-rs)                                             |
+| [Applications](#applications) / [翻译工具](#翻译工具) / [biliup-rs](#biliup-rs)                                 |                                                                                                                                                                                         |
+| [Applications](#applications) / [翻译工具](#翻译工具) / [Tran](#tran)                                           | ![stars](https://img.shields.io/github/stars/Borber/Tran?style=flat) ![GitHub](https://img.shields.io/github/license/Borber/Tran)                                                       |
+| [Community](#community)                                                                                         |                                                                                                                                                                                         |
+| [Incident](#incident)                                                                                           |                                                                                                                                                                                         |
+| [Note](#note)                                                                                                   |                                                                                                                                                                                         |
+| [License](#license)                                                                                             |                                                                                                                                                                                         |
+
+<!-- Catalogs-End -->
 
 ## Blasting
 

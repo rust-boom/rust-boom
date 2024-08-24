@@ -2070,8 +2070,9 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 | 导航                                              | 徽章                                                                                                                                                                                              |
 | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [ 封面图来自 ](https://rustacean.net/)            | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustacean.net%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustacean.net)             |
+| [ 头像来自 ](https://rustacean.net/)              | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustacean.net%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustacean.net)             |
 | [ 徽章来自 ](https://shields.io/category/license) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io%2Fcategory%2Flicense) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/shields.io) |
+| [ 插图来自 ](./photo/readme.md)                   |                                                                                                                                                                                                   |
 
 该组织的其他仓库均为 fork 的资源备份仓库，以防止主仓库出现意外，后面可能会使用 Github Action 进行定期拉取更新。
 

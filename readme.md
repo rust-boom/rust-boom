@@ -110,6 +110,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 | [Framework](#framework) / [序列化](#序列化) / [quick-xml](#quick-xml)                                           | ![stars](https://img.shields.io/github/stars/tafia/quick-xml?style=flat) ![GitHub](https://img.shields.io/github/license/tafia/quick-xml)                                               |
 | [Framework](#framework) / [序列化](#序列化) / [musli](#musli)                                                   | ![stars](https://img.shields.io/github/stars/udoprog/musli?style=flat) ![GitHub](https://img.shields.io/github/license/udoprog/musli)                                                   |
 | [Framework](#framework) / [消息队列](#消息队列)                                                                 |                                                                                                                                                                                         |
+| [Framework](#framework) / [消息队列](#消息队列) / [📌 rocketmq-rust](#📌-rocketmq-rust)                         | ![stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat) ![GitHub](https://img.shields.io/github/license/mxsm/rocketmq-rust)                                         |
 | [Framework](#framework) / [配置解析](#配置解析)                                                                 |                                                                                                                                                                                         |
 | [Framework](#framework) / [配置解析](#配置解析) / [config-rs](#config-rs)                                       | ![stars](https://img.shields.io/github/stars/mehcode/config-rs?style=flat) ![GitHub](https://img.shields.io/github/license/mehcode/config-rs)                                           |
 | [Framework](#framework) / [日期处理](#日期处理)                                                                 |                                                                                                                                                                                         |
@@ -178,7 +179,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 | [Framework](#framework) / [辅助工具库](#辅助工具库)                                                             |                                                                                                                                                                                         |
 | [Framework](#framework) / [辅助工具库](#辅助工具库) / [educe](#educe)                                           | ![stars](https://img.shields.io/github/stars/magiclen/educe?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/educe)                                                 |
 | [Framework](#framework) / [区块链](#区块链)                                                                     |                                                                                                                                                                                         |
-| [Framework](#framework) / [区块链](#区块链) / [📌 Solana](#📌-solana)                                           | ![stars](https://img.shields.io/github/stars/solana-labs/solana?style=flat) ![GitHub](https://img.shields.io/github/license/solana-labs/solana)                                         |
+| [Framework](#framework) / [区块链](#区块链) / [Solana](#solana)                                                 | ![stars](https://img.shields.io/github/stars/solana-labs/solana?style=flat) ![GitHub](https://img.shields.io/github/license/solana-labs/solana)                                         |
 | [Applications](#applications)                                                                                   |                                                                                                                                                                                         |
 | [Applications](#applications) / [编辑器](#编辑器)                                                               |                                                                                                                                                                                         |
 | [Applications](#applications) / [编辑器](#编辑器) / [Zed](#zed)                                                 | ![stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub](https://img.shields.io/github/license/zed-industries/zed)                                         |
@@ -1203,6 +1204,16 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ### 消息队列
 
+#### 📌 rocketmq-rust
+
+![stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat) ![GitHub](https://img.shields.io/github/license/mxsm/rocketmq-rust)
+
+> Rust 的 rocketmq 实现。
+
+| 导航                                                | 徽章                                                                                                                                                                                                |
+| :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ 代码仓库 ](https://github.com/mxsm/rocketmq-rust) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmxsm%2Frocketmq-rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
 ### 配置解析
 
 #### config-rs
@@ -1796,7 +1807,7 @@ Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难�
 
 ### 区块链
 
-#### 📌 Solana
+#### Solana
 
 ![stars](https://img.shields.io/github/stars/solana-labs/solana?style=flat) ![GitHub](https://img.shields.io/github/license/solana-labs/solana)
 

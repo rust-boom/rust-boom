@@ -1,0 +1,338 @@
+[
+  {
+    "id": "learning/articles",
+    "group": "学习资料",
+    "title": "文章与刊报",
+    "description": ""
+  },
+  {
+    "id": "learning/videos",
+    "group": "学习资料",
+    "title": "视频课程",
+    "description": ""
+  },
+  {
+    "id": "learning/books",
+    "group": "学习资料",
+    "title": "书籍与系统教程",
+    "description": ""
+  },
+  {
+    "id": "tools/ide",
+    "group": "开发工具",
+    "title": "编辑环境",
+    "description": ""
+  },
+  {
+    "id": "tools/cargo",
+    "group": "开发工具",
+    "title": "Cargo 扩展",
+    "description": ""
+  },
+  {
+    "id": "tools/frontend",
+    "group": "开发工具",
+    "title": "前端工具与运行时",
+    "description": ""
+  },
+  {
+    "id": "libraries/gui",
+    "group": "开发库与框架",
+    "title": "桌面与 GUI",
+    "description": ""
+  },
+  {
+    "id": "libraries/tui",
+    "group": "开发库与框架",
+    "title": "终端界面",
+    "description": ""
+  },
+  {
+    "id": "libraries/cli",
+    "group": "开发库与框架",
+    "title": "命令行开发",
+    "description": ""
+  },
+  {
+    "id": "libraries/game",
+    "group": "开发库与框架",
+    "title": "游戏开发",
+    "description": ""
+  },
+  {
+    "id": "libraries/async",
+    "group": "开发库与框架",
+    "title": "异步运行时",
+    "description": ""
+  },
+  {
+    "id": "libraries/frontend",
+    "group": "开发库与框架",
+    "title": "前端集成",
+    "description": ""
+  },
+  {
+    "id": "libraries/wasm",
+    "group": "开发库与框架",
+    "title": "WebAssembly",
+    "description": ""
+  },
+  {
+    "id": "libraries/network",
+    "group": "开发库与框架",
+    "title": "网络协议",
+    "description": ""
+  },
+  {
+    "id": "libraries/web",
+    "group": "开发库与框架",
+    "title": "Web 服务端",
+    "description": ""
+  },
+  {
+    "id": "libraries/serialization",
+    "group": "开发库与框架",
+    "title": "序列化",
+    "description": ""
+  },
+  {
+    "id": "libraries/messaging",
+    "group": "开发库与框架",
+    "title": "消息队列",
+    "description": ""
+  },
+  {
+    "id": "libraries/config",
+    "group": "开发库与框架",
+    "title": "配置解析",
+    "description": ""
+  },
+  {
+    "id": "libraries/datetime",
+    "group": "开发库与框架",
+    "title": "日期与时间",
+    "description": ""
+  },
+  {
+    "id": "libraries/encoding",
+    "group": "开发库与框架",
+    "title": "编码与字符集",
+    "description": ""
+  },
+  {
+    "id": "libraries/security",
+    "group": "开发库与框架",
+    "title": "密码与认证",
+    "description": ""
+  },
+  {
+    "id": "libraries/database",
+    "group": "开发库与框架",
+    "title": "数据库访问",
+    "description": ""
+  },
+  {
+    "id": "libraries/testing",
+    "group": "开发库与框架",
+    "title": "测试",
+    "description": ""
+  },
+  {
+    "id": "libraries/geometry",
+    "group": "开发库与框架",
+    "title": "几何计算",
+    "description": ""
+  },
+  {
+    "id": "libraries/image",
+    "group": "开发库与框架",
+    "title": "图像处理",
+    "description": ""
+  },
+  {
+    "id": "libraries/audio",
+    "group": "开发库与框架",
+    "title": "音频处理",
+    "description": ""
+  },
+  {
+    "id": "libraries/video",
+    "group": "开发库与框架",
+    "title": "视频处理",
+    "description": ""
+  },
+  {
+    "id": "libraries/documents",
+    "group": "开发库与框架",
+    "title": "文档处理",
+    "description": ""
+  },
+  {
+    "id": "libraries/data",
+    "group": "开发库与框架",
+    "title": "数据分析",
+    "description": ""
+  },
+  {
+    "id": "libraries/ast",
+    "group": "开发库与框架",
+    "title": "语法树",
+    "description": ""
+  },
+  {
+    "id": "libraries/automation",
+    "group": "开发库与框架",
+    "title": "自动化",
+    "description": ""
+  },
+  {
+    "id": "libraries/system",
+    "group": "开发库与框架",
+    "title": "系统接口",
+    "description": ""
+  },
+  {
+    "id": "libraries/ml",
+    "group": "开发库与框架",
+    "title": "机器学习",
+    "description": ""
+  },
+  {
+    "id": "libraries/ffi",
+    "group": "开发库与框架",
+    "title": "语言绑定与 FFI",
+    "description": ""
+  },
+  {
+    "id": "libraries/graphics",
+    "group": "开发库与框架",
+    "title": "图形渲染",
+    "description": ""
+  },
+  {
+    "id": "libraries/rpc",
+    "group": "开发库与框架",
+    "title": "RPC",
+    "description": ""
+  },
+  {
+    "id": "libraries/multimedia",
+    "group": "开发库与框架",
+    "title": "多媒体",
+    "description": "> [SDL（开放源代码的跨平台多媒体开发库）\\_百度百科 (baidu.com)](https://baike.baidu.com/item/SDL/224181)"
+  },
+  {
+    "id": "libraries/utilities",
+    "group": "开发库与框架",
+    "title": "辅助工具",
+    "description": ""
+  },
+  {
+    "id": "libraries/blockchain",
+    "group": "开发库与框架",
+    "title": "区块链",
+    "description": ""
+  },
+  {
+    "id": "applications/tunnels",
+    "group": "成品应用",
+    "title": "内网穿透",
+    "description": ""
+  },
+  {
+    "id": "applications/observability",
+    "group": "成品应用",
+    "title": "可观测性与日志处理",
+    "description": ""
+  },
+  {
+    "id": "applications/editors",
+    "group": "成品应用",
+    "title": "编辑器",
+    "description": ""
+  },
+  {
+    "id": "applications/productivity",
+    "group": "成品应用",
+    "title": "笔记与协作",
+    "description": ""
+  },
+  {
+    "id": "applications/terminal",
+    "group": "成品应用",
+    "title": "终端",
+    "description": ""
+  },
+  {
+    "id": "applications/remote",
+    "group": "成品应用",
+    "title": "远程控制",
+    "description": ""
+  },
+  {
+    "id": "applications/git",
+    "group": "成品应用",
+    "title": "Git 工具",
+    "description": ""
+  },
+  {
+    "id": "applications/analysis",
+    "group": "成品应用",
+    "title": "代码分析",
+    "description": ""
+  },
+  {
+    "id": "applications/database",
+    "group": "成品应用",
+    "title": "数据库服务",
+    "description": ""
+  },
+  {
+    "id": "applications/os",
+    "group": "成品应用",
+    "title": "操作系统",
+    "description": ""
+  },
+  {
+    "id": "applications/compiler",
+    "group": "成品应用",
+    "title": "语言引擎",
+    "description": ""
+  },
+  {
+    "id": "applications/search",
+    "group": "成品应用",
+    "title": "搜索引擎",
+    "description": ""
+  },
+  {
+    "id": "applications/system",
+    "group": "成品应用",
+    "title": "系统工具",
+    "description": ""
+  },
+  {
+    "id": "applications/video",
+    "group": "成品应用",
+    "title": "视频工具",
+    "description": ""
+  },
+  {
+    "id": "applications/translation",
+    "group": "成品应用",
+    "title": "翻译工具",
+    "description": ""
+  },
+  {
+    "id": "community/forums",
+    "group": "社区与动态",
+    "title": "社区论坛",
+    "description": ""
+  },
+  {
+    "id": "community/news",
+    "group": "社区与动态",
+    "title": "历史新闻与事件",
+    "description": ""
+  }
+]

@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "applications-analysis-001",
+    "title": "cloc-rs",
+    "category": "applications/analysis",
+    "url": "https://github.com/ltoddy/cloc-rs",
+    "status": "unknown",
+    "path": "resources/applications/analysis/applications-analysis-001.md"
+  },
+  {
+    "id": "applications-compiler-001",
+    "title": "Starlight",
+    "category": "applications/compiler",
+    "url": "https://github.com/Starlight-JS/starlight",
+    "status": "unknown",
+    "path": "resources/applications/compiler/applications-compiler-001.md"
+  },
+  {
+    "id": "applications-database-001",
+    "title": "cnosdb",
+    "category": "applications/database",
+    "url": "https://github.com/cnosdb/cnosdb/blob/main/README_CN.md",
+    "status": "unknown",
+    "path": "resources/applications/database/applications-database-001.md"
+  },
+  {
+    "id": "applications-editors-001",
+    "title": "Zed",
+    "category": "applications/editors",
+    "url": "https://github.com/zed-industries/zed",
+    "status": "unknown",
+    "path": "resources/applications/editors/applications-editors-001.md"
+  },
+  {
+    "id": "applications-editors-002",
+    "title": "Lapce",
+    "category": "applications/editors",
+    "url": "https://github.com/lapce/lapce",
+    "status": "unknown",
+    "path": "resources/applications/editors/applications-editors-002.md"
+  },
+  {
+    "id": "applications-editors-003",
+    "title": "Neovide",
+    "category": "applications/editors",
+    "url": "https://github.com/neovide/neovide",
+    "status": "unknown",
+    "path": "resources/applications/editors/applications-editors-003.md"
+  },
+  {
+    "id": "applications-editors-004",
+    "title": "Helix",
+    "category": "applications/editors",
+    "url": "https://github.com/helix-editor/helix",
+    "status": "unknown",
+    "path": "resources/applications/editors/applications-editors-004.md"
+  },
+  {
+    "id": "applications-git-001",
+    "title": "GitUI",
+    "category": "applications/git",
+    "url": "https://github.com/extrawurst/gitui",
+    "status": "unknown",
+    "path": "resources/applications/git/applications-git-001.md"
+  },
+  {
+    "id": "applications-observability-001",
+    "title": "vector",
+    "category": "applications/observability",
+    "url": "https://github.com/vectordotdev/vector",
+    "status": "unknown",
+    "path": "resources/applications/observability/applications-observability-001.md"
+  },
+  {
+    "id": "applications-os-001",
+    "title": "Bottlerocket OS",
+    "category": "applications/os",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "status": "unknown",
+    "path": "resources/applications/os/applications-os-001.md"
+  },
+  {
+    "id": "applications-productivity-001",
+    "title": "AppFlowy",
+    "category": "applications/productivity",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "status": "unknown",
+    "path": "resources/applications/productivity/applications-productivity-001.md"
+  },
+  {
+    "id": "applications-remote-001",
+    "title": "Rustdesk",
+    "category": "applications/remote",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "status": "unknown",
+    "path": "resources/applications/remote/applications-remote-001.md"
+  },
+  {
+    "id": "applications-search-001",
+    "title": "MeiliSearch",
+    "category": "applications/search",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "status": "unknown",
+    "path": "resources/applications/search/applications-search-001.md"
+  },
+  {
+    "id": "applications-search-002",
+    "title": "sonic",
+    "category": "applications/search",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "status": "unknown",
+    "path": "resources/applications/search/applications-search-002.md"
+  },
+  {
+    "id": "applications-system-001",
+    "title": "RustScan",
+    "category": "applications/system",
+    "url": "https://github.com/RustScan/RustScan",
+    "status": "unknown",
+    "path": "resources/applications/system/applications-system-001.md"
+  },
+  {
+    "id": "applications-system-002",
+    "title": "sniffnet",
+    "category": "applications/system",
+    "url": "https://github.com/GyulyVGC/sniffnet",
+    "status": "unknown",
+    "path": "resources/applications/system/applications-system-002.md"
+  },
+  {
+    "id": "applications-terminal-001",
+    "title": "Wezterm",
+    "category": "applications/terminal",
+    "url": "https://github.com/wez/wezterm",
+    "status": "unknown",
+    "path": "resources/applications/terminal/applications-terminal-001.md"
+  },
+  {
+    "id": "applications-translation-001",
+    "title": "Tran",
+    "category": "applications/translation",
+    "url": "https://github.com/Borber/Tran",
+    "status": "unknown",
+    "path": "resources/applications/translation/applications-translation-001.md"
+  },
+  {
+    "id": "applications-tunnels-001",
+    "title": "rathole",
+    "category": "applications/tunnels",
+    "url": "https://github.com/fatedier/frp",
+    "status": "unknown",
+    "path": "resources/applications/tunnels/applications-tunnels-001.md"
+  },
+  {
+    "id": "applications-tunnels-002",
+    "title": "bore",
+    "category": "applications/tunnels",
+    "url": "https://github.com/ekzhang/bore",
+    "status": "unknown",
+    "path": "resources/applications/tunnels/applications-tunnels-002.md"
+  },
+  {
+    "id": "applications-video-001",
+    "title": "biliup-rs",
+    "category": "applications/video",
+    "url": "https://github.com/ForgQi/biliup-rs",
+    "status": "unknown",
+    "path": "resources/applications/video/applications-video-001.md"
+  },
+  {
+    "id": "article-001",
+    "title": "安装 Rust - Rust 程序设计语言 (rust-lang.org)",
+    "category": "learning/articles",
+    "url": "https://www.rust-lang.org/zh-CN/tools/install",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-001.md"
+  },
+  {
+    "id": "article-002",
+    "title": "浅析 rust 的内存管理 - 知乎 (zhihu.com)",
+    "category": "learning/articles",
+    "url": "https://zhuanlan.zhihu.com/p/365766807",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-002.md"
+  },
+  {
+    "id": "article-003",
+    "title": "Rust: Lifetime 解惑， 生命周期还在 - 知乎 (zhihu.com)",
+    "category": "learning/articles",
+    "url": "https://zhuanlan.zhihu.com/p/384151733",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-003.md"
+  },
+  {
+    "id": "article-004",
+    "title": "Rust 中的 String,&str 和 str 都是什么？ - 知乎 (zhihu.com)",
+    "category": "learning/articles",
+    "url": "https://zhuanlan.zhihu.com/p/384496181",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-004.md"
+  },
+  {
+    "id": "article-005",
+    "title": "类型的大小 - 知乎 (zhihu.com)",
+    "category": "learning/articles",
+    "url": "https://zhuanlan.zhihu.com/p/21820917",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-005.md"
+  },
+  {
+    "id": "article-006",
+    "title": "如何深入浅出地理解 Rust 中的 Pin 和 Unpin? - 知乎 (zhihu.com)",
+    "category": "learning/articles",
+    "url": "https://www.zhihu.com/question/512654366/answer/2319171118",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-006.md"
+  },
+  {
+    "id": "article-007",
+    "title": "rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白|青蛙小白|关注程序开发、互联网技术、云原生 (frognew.com)",
+    "category": "learning/articles",
+    "url": "https://blog.frognew.com/2020/07/rust-ownership-move-and-copy.html",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-007.md"
+  },
+  {
+    "id": "article-008",
+    "title": "Top 23 Rust GUI Projects (Jul 2022) (libhunt.com)",
+    "category": "learning/articles",
+    "url": "https://www.libhunt.com/l/rust/topic/gui",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-008.md"
+  },
+  {
+    "id": "article-009",
+    "title": "你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)",
+    "category": "learning/articles",
+    "url": "https://www.zhihu.com/question/282113351/answer/2483371362",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-009.md"
+  },
+  {
+    "id": "article-010",
+    "title": "rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)",
+    "category": "learning/articles",
+    "url": "https://github.com/rustlang-cn/rust-weekly",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-010.md"
+  },
+  {
+    "id": "article-011",
+    "title": "【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)",
+    "category": "learning/articles",
+    "url": "https://rustcc.cn/article?id=2b1703cc-36f9-4dfc-a70a-09dd67a207ab",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-011.md"
+  },
+  {
+    "id": "article-012",
+    "title": "用 Rust 写一个容器|Writing a container in Rust | Blog of Litchi Pi",
+    "category": "learning/articles",
+    "url": "https://litchipi.github.io/series/container_in_rust",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-012.md"
+  },
+  {
+    "id": "article-013",
+    "title": "yunwei37/blockchain-rust: blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin) (github.com)",
+    "category": "learning/articles",
+    "url": "https://github.com/yunwei37/blockchain-rust",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-013.md"
+  },
+  {
+    "id": "article-014",
+    "title": "Rust 笔记 一文讲透 Rust 中的 PartialEq 和 Eq (qq.com)",
+    "category": "learning/articles",
+    "url": "https://mp.weixin.qq.com/s/hdW2QjAExPs1cE9rV1tn4Q",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-014.md"
+  },
+  {
+    "id": "article-015",
+    "title": "Rust 代码执行解析的可视化过程，初学者可以通过这个更深入的了解 Rust 的所有权等特性)",
+    "category": "learning/articles",
+    "url": "https://cognitive-engineering-lab.github.io/aquascope/",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-015.md"
+  },
+  {
+    "id": "article-016",
+    "title": "用 Rust 实现一个 GUI 框架",
+    "category": "learning/articles",
+    "url": "https://samsartor.com/guis-1/",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-016.md"
+  },
+  {
+    "id": "article-017",
+    "title": "运行 1 万个并发任务需要多少内存？ (pkolaczk.github.io)",
+    "category": "learning/articles",
+    "url": "https://pkolaczk.github.io/memory-consumption-of-async/",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-017.md"
+  },
+  {
+    "id": "article-018",
+    "title": "Rust 探索系统本原 | 网络 - Rust 精选 (rustmagazine.github.io)",
+    "category": "learning/articles",
+    "url": "https://rustmagazine.github.io/rust_magazine_2021/chapter_4/rust-to-system-essence-network.html",
+    "status": "unknown",
+    "path": "resources/learning/articles/article-018.md"
+  },
+  {
+    "id": "book-001",
+    "title": "Rust 语言圣经中文版",
+    "category": "learning/books",
+    "url": "https://github.com/sunface/rust-course",
+    "status": "unknown",
+    "path": "resources/learning/books/book-001.md"
+  },
+  {
+    "id": "book-002",
+    "title": "Rust 程序设计语言中文版",
+    "category": "learning/books",
+    "url": "https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言",
+    "status": "unknown",
+    "path": "resources/learning/books/book-002.md"
+  },
+  {
+    "id": "book-003",
+    "title": "Rust 语言备忘清单 (简体中文)",
+    "category": "learning/books",
+    "url": "https://github.com/kingfree/cheats.rs/",
+    "status": "unknown",
+    "path": "resources/learning/books/book-003.md"
+  },
+  {
+    "id": "book-004",
+    "title": "通过例子学 Rust 中文版",
+    "category": "learning/books",
+    "url": "https://github.com/rust-lang-cn/rust-by-example-cn",
+    "status": "unknown",
+    "path": "resources/learning/books/book-004.md"
+  },
+  {
+    "id": "book-005",
+    "title": "谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)",
+    "category": "learning/books",
+    "url": "https://github.com/google/comprehensive-rust",
+    "status": "unknown",
+    "path": "resources/learning/books/book-005.md"
+  },
+  {
+    "id": "book-006",
+    "title": "Rust 语言之旅",
+    "category": "learning/books",
+    "url": "https://tourofrust.com/00_zh-cn.html",
+    "status": "unknown",
+    "path": "resources/learning/books/book-006.md"
+  },
+  {
+    "id": "book-007",
+    "title": "RustPrimer",
+    "category": "learning/books",
+    "url": "https://github.com/rustcc/RustPrimer",
+    "status": "unknown",
+    "path": "resources/learning/books/book-007.md"
+  },
+  {
+    "id": "book-008",
+    "title": "Rust 秘典中文版",
+    "category": "learning/books",
+    "url": "https://github.com/rust-lang-cn/nomicon-zh-Hans",
+    "status": "unknown",
+    "path": "resources/learning/books/book-008.md"
+  },
+  {
+    "id": "book-009",
+    "title": "Rust 参考手册 中文版",
+    "category": "learning/books",
+    "url": "https://github.com/rust-lang-cn/reference-cn",
+    "status": "unknown",
+    "path": "resources/learning/books/book-009.md"
+  },
+  {
+    "id": "book-010",
+    "title": "Rust Cookbook 中文版",
+    "category": "learning/books",
+    "url": "https://github.com/rust-lang-cn/rust-cookbook-cn",
+    "status": "unknown",
+    "path": "resources/learning/books/book-010.md"
+  },
+  {
+    "id": "book-011",
+    "title": "Rusty Book( 锈书 )",
+    "category": "learning/books",
+    "url": "https://github.com/rust-boom/rusty-book",
+    "status": "unknown",
+    "path": "resources/learning/books/book-011.md"
+  },
+  {
+    "id": "book-012",
+    "title": "Rust 异步编程指南",
+    "category": "learning/books",
+    "url": "https://github.com/rustlang-cn/async-book",
+    "status": "unknown",
+    "path": "resources/learning/books/book-012.md"
+  },
+  {
+    "id": "book-013",
+    "title": "Rust 语言实战",
+    "category": "learning/books",
+    "url": "https://github.com/sunface/rust-by-practice",
+    "status": "unknown",
+    "path": "resources/learning/books/book-013.md"
+  },
+  {
+    "id": "book-014",
+    "title": "Rust 算法题解",
+    "category": "learning/books",
+    "url": "https://github.com/rustlang-cn/rust-algos",
+    "status": "unknown",
+    "path": "resources/learning/books/book-014.md"
+  },
+  {
+    "id": "book-015",
+    "title": "Rust 算法书（RustBook）",
+    "category": "learning/books",
+    "url": "https://github.com/QMHTMY/RustBook",
+    "status": "unknown",
+    "path": "resources/learning/books/book-015.md"
+  },
+  {
+    "id": "book-016",
+    "title": "Rust 设计模式 中文版",
+    "category": "learning/books",
+    "url": "https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh",
+    "status": "unknown",
+    "path": "resources/learning/books/book-016.md"
+  },
+  {
+    "id": "book-017",
+    "title": "Rust API 编写指南 中文版",
+    "category": "learning/books",
+    "url": "https://github.com/zjp-CN/api-guidelines",
+    "status": "unknown",
+    "path": "resources/learning/books/book-017.md"
+  },
+  {
+    "id": "book-018",
+    "title": "Rust 性能手册（The Rust Performance Book）",
+    "category": "learning/books",
+    "url": "https://github.com/Blues-star/perf-book-zh/",
+    "status": "unknown",
+    "path": "resources/learning/books/book-018.md"
+  },
+  {
+    "id": "book-019",
+    "title": "Rust 宏小册(tlborm)",
+    "category": "learning/books",
+    "url": "https://github.com/DaseinPhaos/tlborm-chinese",
+    "status": "unknown",
+    "path": "resources/learning/books/book-019.md"
+  },
+  {
+    "id": "book-020",
+    "title": "嵌入式 Rust 编程",
+    "category": "learning/books",
+    "url": "https://github.com/nkbai/book",
+    "status": "unknown",
+    "path": "resources/learning/books/book-020.md"
+  },
+  {
+    "id": "book-021",
+    "title": "TheAlgorithms(Rust 算法例子)",
+    "category": "learning/books",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "status": "unknown",
+    "path": "resources/learning/books/book-021.md"
+  },
+  {
+    "id": "book-022",
+    "title": "Rust RFC Book (提案书)",
+    "category": "learning/books",
+    "url": "https://github.com/rust-lang/rfcs",
+    "status": "unknown",
+    "path": "resources/learning/books/book-022.md"
+  },
+  {
+    "id": "book-023",
+    "title": "Rust Unstable Book (不稳定特性书)",
+    "category": "learning/books",
+    "url": "https://doc.rust-lang.org/nightly/unstable-book/index.html",
+    "status": "unknown",
+    "path": "resources/learning/books/book-023.md"
+  },
+  {
+    "id": "book-024",
+    "title": "Rust 版本指南",
+    "category": "learning/books",
+    "url": "https://github.com/rust-lang/edition-guide",
+    "status": "unknown",
+    "path": "resources/learning/books/book-024.md"
+  },
+  {
+    "id": "book-025",
+    "title": "Rust 标准库手册中文版",
+    "category": "learning/books",
+    "url": "https://crates.io/",
+    "status": "unknown",
+    "path": "resources/learning/books/book-025.md"
+  },
+  {
+    "id": "book-026",
+    "title": "inside-rust-std-library (标准库手册帮助文档)",
+    "category": "learning/books",
+    "url": "https://github.com/Warrenren/inside-rust-std-library",
+    "status": "unknown",
+    "path": "resources/learning/books/book-026.md"
+  },
+  {
+    "id": "book-027",
+    "title": "Cargo 中文文档",
+    "category": "learning/books",
+    "url": "https://github.com/rust-lang/mdBook",
+    "status": "unknown",
+    "path": "resources/learning/books/book-027.md"
+  },
+  {
+    "id": "book-028",
+    "title": "Rust 版 Vulkan 教程（图形）",
+    "category": "learning/books",
+    "url": "https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia",
+    "status": "unknown",
+    "path": "resources/learning/books/book-028.md"
+  },
+  {
+    "id": "community-001",
+    "title": "Rust 语言中文社区-首页 (rustcc.cn)",
+    "category": "community/forums",
+    "url": "https://rustcc.cn/",
+    "status": "unknown",
+    "path": "resources/community/forums/community-001.md"
+  },
+  {
+    "id": "community-002",
+    "title": "Rust 技术论坛 | Rust 语言技术论坛 - 优质的 Rust 开发者学习社区 (learnku.com)",
+    "category": "community/forums",
+    "url": "https://learnku.com/rust",
+    "status": "unknown",
+    "path": "resources/community/forums/community-002.md"
+  },
+  {
+    "id": "community-003",
+    "title": "The Rust Programming Language Forum (rust-lang.org)",
+    "category": "community/forums",
+    "url": "https://users.rust-lang.org/",
+    "status": "unknown",
+    "path": "resources/community/forums/community-003.md"
+  },
+  {
+    "id": "libraries-ast-001",
+    "title": "antlr-rust",
+    "category": "libraries/ast",
+    "url": "https://github.com/antlr/antlr4",
+    "status": "unknown",
+    "path": "resources/libraries/ast/libraries-ast-001.md"
+  },
+  {
+    "id": "libraries-ast-002",
+    "title": "pandoc_ast",
+    "category": "libraries/ast",
+    "url": "https://github.com/oli-obk/pandoc-ast",
+    "status": "unknown",
+    "path": "resources/libraries/ast/libraries-ast-002.md"
+  },
+  {
+    "id": "libraries-async-001",
+    "title": "Tokio",
+    "category": "libraries/async",
+    "url": "https://github.com/tokio-rs/tokio",
+    "status": "unknown",
+    "path": "resources/libraries/async/libraries-async-001.md"
+  },
+  {
+    "id": "libraries-audio-001",
+    "title": "Symphonia",
+    "category": "libraries/audio",
+    "url": "https://github.com/pdeljanov/Symphonia",
+    "status": "unknown",
+    "path": "resources/libraries/audio/libraries-audio-001.md"
+  },
+  {
+    "id": "libraries-automation-001",
+    "title": "headless_chrome",
+    "category": "libraries/automation",
+    "url": "https://github.com/atroche/rust-headless-chrome",
+    "status": "unknown",
+    "path": "resources/libraries/automation/libraries-automation-001.md"
+  },
+  {
+    "id": "libraries-automation-002",
+    "title": "enigo",
+    "category": "libraries/automation",
+    "url": "https://github.com/enigo-rs/enigo",
+    "status": "unknown",
+    "path": "resources/libraries/automation/libraries-automation-002.md"
+  },
+  {
+    "id": "libraries-automation-003",
+    "title": "InputBot",
+    "category": "libraries/automation",
+    "url": "https://github.com/obv-mikhail/InputBot",
+    "status": "unknown",
+    "path": "resources/libraries/automation/libraries-automation-003.md"
+  },
+  {
+    "id": "libraries-blockchain-001",
+    "title": "Solana",
+    "category": "libraries/blockchain",
+    "url": "https://github.com/solana-labs/solana",
+    "status": "unknown",
+    "path": "resources/libraries/blockchain/libraries-blockchain-001.md"
+  },
+  {
+    "id": "libraries-cli-001",
+    "title": "commander",
+    "category": "libraries/cli",
+    "url": "https://github.com/tickbh/Commander",
+    "status": "unknown",
+    "path": "resources/libraries/cli/libraries-cli-001.md"
+  },
+  {
+    "id": "libraries-config-001",
+    "title": "config-rs",
+    "category": "libraries/config",
+    "url": "https://github.com/mehcode/config-rs",
+    "status": "unknown",
+    "path": "resources/libraries/config/libraries-config-001.md"
+  },
+  {
+    "id": "libraries-data-001",
+    "title": "Polars",
+    "category": "libraries/data",
+    "url": "https://github.com/pola-rs/polars",
+    "status": "unknown",
+    "path": "resources/libraries/data/libraries-data-001.md"
+  },
+  {
+    "id": "libraries-database-001",
+    "title": "SeaORM",
+    "category": "libraries/database",
+    "url": "https://github.com/SeaQL/sea-orm",
+    "status": "unknown",
+    "path": "resources/libraries/database/libraries-database-001.md"
+  },
+  {
+    "id": "libraries-database-002",
+    "title": "rbatis",
+    "category": "libraries/database",
+    "url": "https://github.com/rbatis/abs_admin",
+    "status": "unknown",
+    "path": "resources/libraries/database/libraries-database-002.md"
+  },
+  {
+    "id": "libraries-database-003",
+    "title": "MongoDB Rust Driver",
+    "category": "libraries/database",
+    "url": "https://github.com/mongodb/mongo-rust-driver",
+    "status": "unknown",
+    "path": "resources/libraries/database/libraries-database-003.md"
+  },
+  {
+    "id": "libraries-database-004",
+    "title": "wither",
+    "category": "libraries/database",
+    "url": "https://github.com/thedodd/wither",
+    "status": "unknown",
+    "path": "resources/libraries/database/libraries-database-004.md"
+  },
+  {
+    "id": "libraries-database-005",
+    "title": "redis-rs",
+    "category": "libraries/database",
+    "url": "https://github.com/redis-rs/redis-rs",
+    "status": "unknown",
+    "path": "resources/libraries/database/libraries-database-005.md"
+  },
+  {
+    "id": "libraries-database-006",
+    "title": "r2d2",
+    "category": "libraries/database",
+    "url": "https://github.com/sfackler/r2d2",
+    "status": "unknown",
+    "path": "resources/libraries/database/libraries-database-006.md"
+  },
+  {
+    "id": "libraries-datetime-001",
+    "title": "time",
+    "category": "libraries/datetime",
+    "url": "https://github.com/time-rs/time",
+    "status": "unknown",
+    "path": "resources/libraries/datetime/libraries-datetime-001.md"
+  },
+  {
+    "id": "libraries-datetime-002",
+    "title": "chrono",
+    "category": "libraries/datetime",
+    "url": "https://github.com/chronotope/chrono",
+    "status": "unknown",
+    "path": "resources/libraries/datetime/libraries-datetime-002.md"
+  },
+  {
+    "id": "libraries-datetime-003",
+    "title": "httpdate",
+    "category": "libraries/datetime",
+    "url": "https://github.com/pyfisch/httpdate",
+    "status": "unknown",
+    "path": "resources/libraries/datetime/libraries-datetime-003.md"
+  },
+  {
+    "id": "libraries-documents-001",
+    "title": "lopdf",
+    "category": "libraries/documents",
+    "url": "https://github.com/J-F-Liu/lopdf",
+    "status": "unknown",
+    "path": "resources/libraries/documents/libraries-documents-001.md"
+  },
+  {
+    "id": "libraries-documents-002",
+    "title": "pdf-rs",
+    "category": "libraries/documents",
+    "url": "https://github.com/pdf-rs/pdf",
+    "status": "unknown",
+    "path": "resources/libraries/documents/libraries-documents-002.md"
+  },
+  {
+    "id": "libraries-documents-003",
+    "title": "calamine",
+    "category": "libraries/documents",
+    "url": "https://github.com/tafia/calamine",
+    "status": "unknown",
+    "path": "resources/libraries/documents/libraries-documents-003.md"
+  },
+  {
+    "id": "libraries-documents-004",
+    "title": "docx-rs",
+    "category": "libraries/documents",
+    "url": "https://github.com/bokuweb/docx-rs",
+    "status": "unknown",
+    "path": "resources/libraries/documents/libraries-documents-004.md"
+  },
+  {
+    "id": "libraries-encoding-001",
+    "title": "base64",
+    "category": "libraries/encoding",
+    "url": "https://github.com/marshallpierce/rust-base64",
+    "status": "unknown",
+    "path": "resources/libraries/encoding/libraries-encoding-001.md"
+  },
+  {
+    "id": "libraries-encoding-002",
+    "title": "utf8mb3",
+    "category": "libraries/encoding",
+    "url": "https://github.com/WumaCoder/utf8mb3",
+    "status": "unknown",
+    "path": "resources/libraries/encoding/libraries-encoding-002.md"
+  },
+  {
+    "id": "libraries-ffi-001",
+    "title": "cbindgen",
+    "category": "libraries/ffi",
+    "url": "https://github.com/eqrion/cbindgen",
+    "status": "unknown",
+    "path": "resources/libraries/ffi/libraries-ffi-001.md"
+  },
+  {
+    "id": "libraries-ffi-002",
+    "title": "PyO3",
+    "category": "libraries/ffi",
+    "url": "https://github.com/PyO3/PyO3",
+    "status": "unknown",
+    "path": "resources/libraries/ffi/libraries-ffi-002.md"
+  },
+  {
+    "id": "libraries-frontend-001",
+    "title": "Yew",
+    "category": "libraries/frontend",
+    "url": "https://github.com/yewstack/yew",
+    "status": "unknown",
+    "path": "resources/libraries/frontend/libraries-frontend-001.md"
+  },
+  {
+    "id": "libraries-frontend-002",
+    "title": "napi-rs",
+    "category": "libraries/frontend",
+    "url": "https://github.com/napi-rs/napi-rs",
+    "status": "unknown",
+    "path": "resources/libraries/frontend/libraries-frontend-002.md"
+  },
+  {
+    "id": "libraries-game-001",
+    "title": "Bevy",
+    "category": "libraries/game",
+    "url": "https://github.com/bevyengine/bevy",
+    "status": "unknown",
+    "path": "resources/libraries/game/libraries-game-001.md"
+  },
+  {
+    "id": "libraries-game-002",
+    "title": "tetra",
+    "category": "libraries/game",
+    "url": "https://github.com/17cupsofcoffee/tetra",
+    "status": "unknown",
+    "path": "resources/libraries/game/libraries-game-002.md"
+  },
+  {
+    "id": "libraries-game-003",
+    "title": "amethyst",
+    "category": "libraries/game",
+    "url": "https://github.com/amethyst/amethyst",
+    "status": "unknown",
+    "path": "resources/libraries/game/libraries-game-003.md"
+  },
+  {
+    "id": "libraries-geometry-001",
+    "title": "geo",
+    "category": "libraries/geometry",
+    "url": "https://github.com/georust/geo",
+    "status": "unknown",
+    "path": "resources/libraries/geometry/libraries-geometry-001.md"
+  },
+  {
+    "id": "libraries-graphics-001",
+    "title": "Speedy2D",
+    "category": "libraries/graphics",
+    "url": "https://github.com/QuantumBadger/Speedy2D",
+    "status": "unknown",
+    "path": "resources/libraries/graphics/libraries-graphics-001.md"
+  },
+  {
+    "id": "libraries-graphics-002",
+    "title": "wgpu",
+    "category": "libraries/graphics",
+    "url": "https://github.com/gfx-rs/wgpu",
+    "status": "unknown",
+    "path": "resources/libraries/graphics/libraries-graphics-002.md"
+  },
+  {
+    "id": "libraries-graphics-003",
+    "title": "glium",
+    "category": "libraries/graphics",
+    "url": "https://github.com/glium/glium",
+    "status": "unknown",
+    "path": "resources/libraries/graphics/libraries-graphics-003.md"
+  },
+  {
+    "id": "libraries-graphics-004",
+    "title": "vulkano",
+    "category": "libraries/graphics",
+    "url": "https://github.com/vulkano-rs/vulkano",
+    "status": "unknown",
+    "path": "resources/libraries/graphics/libraries-graphics-004.md"
+  },
+  {
+    "id": "libraries-graphics-005",
+    "title": "nannou",
+    "category": "libraries/graphics",
+    "url": "https://github.com/nannou-org/nannou",
+    "status": "unknown",
+    "path": "resources/libraries/graphics/libraries-graphics-005.md"
+  },
+  {
+    "id": "libraries-graphics-006",
+    "title": "raqote",
+    "category": "libraries/graphics",
+    "url": "https://github.com/jrmuizel/raqote",
+    "status": "unknown",
+    "path": "resources/libraries/graphics/libraries-graphics-006.md"
+  },
+  {
+    "id": "libraries-gui-001",
+    "title": "Tauri",
+    "category": "libraries/gui",
+    "url": "https://github.com/tauri-apps/tauri",
+    "status": "unknown",
+    "path": "resources/libraries/gui/libraries-gui-001.md"
+  },
+  {
+    "id": "libraries-gui-002",
+    "title": "egui",
+    "category": "libraries/gui",
+    "url": "https://github.com/emilk/egui",
+    "status": "unknown",
+    "path": "resources/libraries/gui/libraries-gui-002.md"
+  },
+  {
+    "id": "libraries-gui-003",
+    "title": "fltk-rs",
+    "category": "libraries/gui",
+    "url": "https://github.com/fltk-rs/fltk-rs",
+    "status": "unknown",
+    "path": "resources/libraries/gui/libraries-gui-003.md"
+  },
+  {
+    "id": "libraries-gui-004",
+    "title": "iced",
+    "category": "libraries/gui",
+    "url": "https://github.com/iced-rs/iced",
+    "status": "unknown",
+    "path": "resources/libraries/gui/libraries-gui-004.md"
+  },
+  {
+    "id": "libraries-gui-005",
+    "title": "xilem",
+    "category": "libraries/gui",
+    "url": "https://github.com/linebender/xilem",
+    "status": "unknown",
+    "path": "resources/libraries/gui/libraries-gui-005.md"
+  },
+  {
+    "id": "libraries-gui-006",
+    "title": "druid",
+    "category": "libraries/gui",
+    "url": "https://github.com/linebender/druid",
+    "status": "archived",
+    "path": "resources/libraries/gui/libraries-gui-006.md"
+  },
+  {
+    "id": "libraries-gui-007",
+    "title": "Dioxus",
+    "category": "libraries/gui",
+    "url": "https://github.com/dioxusLabs/rink",
+    "status": "unknown",
+    "path": "resources/libraries/gui/libraries-gui-007.md"
+  },
+  {
+    "id": "libraries-gui-008",
+    "title": "Vizia",
+    "category": "libraries/gui",
+    "url": "https://github.com/vizia/vizia",
+    "status": "unknown",
+    "path": "resources/libraries/gui/libraries-gui-008.md"
+  },
+  {
+    "id": "libraries-gui-009",
+    "title": "slint",
+    "category": "libraries/gui",
+    "url": "https://github.com/slint-ui/slint",
+    "status": "unknown",
+    "path": "resources/libraries/gui/libraries-gui-009.md"
+  },
+  {
+    "id": "libraries-image-001",
+    "title": "image-rs",
+    "category": "libraries/image",
+    "url": "https://github.com/image-rs/image",
+    "status": "unknown",
+    "path": "resources/libraries/image/libraries-image-001.md"
+  },
+  {
+    "id": "libraries-messaging-001",
+    "title": "rocketmq-rust",
+    "category": "libraries/messaging",
+    "url": "https://github.com/mxsm/rocketmq-rust",
+    "status": "unknown",
+    "path": "resources/libraries/messaging/libraries-messaging-001.md"
+  },
+  {
+    "id": "libraries-ml-001",
+    "title": "neuronika",
+    "category": "libraries/ml",
+    "url": "https://github.com/neuronika/neuronika",
+    "status": "unknown",
+    "path": "resources/libraries/ml/libraries-ml-001.md"
+  },
+  {
+    "id": "libraries-multimedia-001",
+    "title": "Rust-SDL2",
+    "category": "libraries/multimedia",
+    "url": "https://github.com/Rust-SDL2/rust-sdl2",
+    "status": "unknown",
+    "path": "resources/libraries/multimedia/libraries-multimedia-001.md"
+  },
+  {
+    "id": "libraries-network-001",
+    "title": "libp2p",
+    "category": "libraries/network",
+    "url": "https://github.com/libp2p/rust-libp2p",
+    "status": "unknown",
+    "path": "resources/libraries/network/libraries-network-001.md"
+  },
+  {
+    "id": "libraries-network-002",
+    "title": "Crust",
+    "category": "libraries/network",
+    "url": "https://github.com/maidsafe-archive/crust",
+    "status": "unknown",
+    "path": "resources/libraries/network/libraries-network-002.md"
+  },
+  {
+    "id": "libraries-rpc-001",
+    "title": "Dubbo-rust",
+    "category": "libraries/rpc",
+    "url": "https://github.com/apache/dubbo-rust",
+    "status": "unknown",
+    "path": "resources/libraries/rpc/libraries-rpc-001.md"
+  },
+  {
+    "id": "libraries-rpc-002",
+    "title": "volo",
+    "category": "libraries/rpc",
+    "url": "https://github.com/cloudwego/volo",
+    "status": "unknown",
+    "path": "resources/libraries/rpc/libraries-rpc-002.md"
+  },
+  {
+    "id": "libraries-security-001",
+    "title": "hmac",
+    "category": "libraries/security",
+    "url": "https://github.com/RustCrypto/MACs",
+    "status": "unknown",
+    "path": "resources/libraries/security/libraries-security-001.md"
+  },
+  {
+    "id": "libraries-security-002",
+    "title": "jwt",
+    "category": "libraries/security",
+    "url": "https://github.com/mikkyang/rust-jwt",
+    "status": "unknown",
+    "path": "resources/libraries/security/libraries-security-002.md"
+  },
+  {
+    "id": "libraries-security-003",
+    "title": "josekit",
+    "category": "libraries/security",
+    "url": "https://github.com/hidekatsu-izuno/josekit-rs",
+    "status": "unknown",
+    "path": "resources/libraries/security/libraries-security-003.md"
+  },
+  {
+    "id": "libraries-security-004",
+    "title": "sha",
+    "category": "libraries/security",
+    "url": "https://github.com/andydude/rust-sha/",
+    "status": "unknown",
+    "path": "resources/libraries/security/libraries-security-004.md"
+  },
+  {
+    "id": "libraries-serialization-001",
+    "title": "A-JSON",
+    "category": "libraries/serialization",
+    "url": "https://github.com/importcjj/rust-ajson",
+    "status": "unknown",
+    "path": "resources/libraries/serialization/libraries-serialization-001.md"
+  },
+  {
+    "id": "libraries-serialization-002",
+    "title": "json-rust",
+    "category": "libraries/serialization",
+    "url": "https://github.com/maciejhirsz/json-rust",
+    "status": "unknown",
+    "path": "resources/libraries/serialization/libraries-serialization-002.md"
+  },
+  {
+    "id": "libraries-serialization-003",
+    "title": "pikkr",
+    "category": "libraries/serialization",
+    "url": "https://github.com/pikkr/pikkr",
+    "status": "unknown",
+    "path": "resources/libraries/serialization/libraries-serialization-003.md"
+  },
+  {
+    "id": "libraries-serialization-004",
+    "title": "Serde",
+    "category": "libraries/serialization",
+    "url": "https://github.com/serde-rs/json",
+    "status": "unknown",
+    "path": "resources/libraries/serialization/libraries-serialization-004.md"
+  },
+  {
+    "id": "libraries-serialization-005",
+    "title": "quick-xml",
+    "category": "libraries/serialization",
+    "url": "https://github.com/tafia/quick-xml",
+    "status": "unknown",
+    "path": "resources/libraries/serialization/libraries-serialization-005.md"
+  },
+  {
+    "id": "libraries-serialization-006",
+    "title": "musli",
+    "category": "libraries/serialization",
+    "url": "https://github.com/udoprog/musli",
+    "status": "unknown",
+    "path": "resources/libraries/serialization/libraries-serialization-006.md"
+  },
+  {
+    "id": "libraries-system-001",
+    "title": "screenshots",
+    "category": "libraries/system",
+    "url": "https://github.com/nashaofu/screenshots-rs",
+    "status": "unknown",
+    "path": "resources/libraries/system/libraries-system-001.md"
+  },
+  {
+    "id": "libraries-system-002",
+    "title": "execute",
+    "category": "libraries/system",
+    "url": "https://github.com/magiclen/execute",
+    "status": "unknown",
+    "path": "resources/libraries/system/libraries-system-002.md"
+  },
+  {
+    "id": "libraries-testing-001",
+    "title": "mockall",
+    "category": "libraries/testing",
+    "url": "https://github.com/asomers/mockall",
+    "status": "unknown",
+    "path": "resources/libraries/testing/libraries-testing-001.md"
+  },
+  {
+    "id": "libraries-tui-001",
+    "title": "ratatui",
+    "category": "libraries/tui",
+    "url": "https://github.com/ratatui-org/ratatui",
+    "status": "unknown",
+    "path": "resources/libraries/tui/libraries-tui-001.md"
+  },
+  {
+    "id": "libraries-tui-002",
+    "title": "tui-rs",
+    "category": "libraries/tui",
+    "url": "https://github.com/fdehau/tui-rs",
+    "status": "archived",
+    "path": "resources/libraries/tui/libraries-tui-002.md"
+  },
+  {
+    "id": "libraries-utilities-001",
+    "title": "educe",
+    "category": "libraries/utilities",
+    "url": "https://github.com/magiclen/educe",
+    "status": "unknown",
+    "path": "resources/libraries/utilities/libraries-utilities-001.md"
+  },
+  {
+    "id": "libraries-video-001",
+    "title": "ffmpeg-sys-next",
+    "category": "libraries/video",
+    "url": "https://github.com/zmwangx/rust-ffmpeg-sys",
+    "status": "unknown",
+    "path": "resources/libraries/video/libraries-video-001.md"
+  },
+  {
+    "id": "libraries-wasm-001",
+    "title": "wasmtime",
+    "category": "libraries/wasm",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "status": "unknown",
+    "path": "resources/libraries/wasm/libraries-wasm-001.md"
+  },
+  {
+    "id": "libraries-wasm-002",
+    "title": "wasmer",
+    "category": "libraries/wasm",
+    "url": "https://github.com/wasmerio/wasmer",
+    "status": "unknown",
+    "path": "resources/libraries/wasm/libraries-wasm-002.md"
+  },
+  {
+    "id": "libraries-wasm-003",
+    "title": "WasmEdge",
+    "category": "libraries/wasm",
+    "url": "https://github.com/WasmEdge/WasmEdge",
+    "status": "unknown",
+    "path": "resources/libraries/wasm/libraries-wasm-003.md"
+  },
+  {
+    "id": "libraries-wasm-004",
+    "title": "WASI",
+    "category": "libraries/wasm",
+    "url": "https://github.com/WebAssembly/WASI",
+    "status": "unknown",
+    "path": "resources/libraries/wasm/libraries-wasm-004.md"
+  },
+  {
+    "id": "libraries-web-001",
+    "title": "Rocket",
+    "category": "libraries/web",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "status": "unknown",
+    "path": "resources/libraries/web/libraries-web-001.md"
+  },
+  {
+    "id": "libraries-web-002",
+    "title": "Actix Web",
+    "category": "libraries/web",
+    "url": "https://github.com/actix/actix-web",
+    "status": "unknown",
+    "path": "resources/libraries/web/libraries-web-002.md"
+  },
+  {
+    "id": "libraries-web-003",
+    "title": "warp",
+    "category": "libraries/web",
+    "url": "https://github.com/seanmonstar/warp",
+    "status": "unknown",
+    "path": "resources/libraries/web/libraries-web-003.md"
+  },
+  {
+    "id": "libraries-web-004",
+    "title": "poem",
+    "category": "libraries/web",
+    "url": "https://github.com/poem-web/poem",
+    "status": "unknown",
+    "path": "resources/libraries/web/libraries-web-004.md"
+  },
+  {
+    "id": "libraries-web-005",
+    "title": "axum",
+    "category": "libraries/web",
+    "url": "https://github.com/tokio-rs/axum",
+    "status": "unknown",
+    "path": "resources/libraries/web/libraries-web-005.md"
+  },
+  {
+    "id": "libraries-web-006",
+    "title": "Salvo",
+    "category": "libraries/web",
+    "url": "https://github.com/salvo-rs/salvo",
+    "status": "unknown",
+    "path": "resources/libraries/web/libraries-web-006.md"
+  },
+  {
+    "id": "news-001",
+    "title": "Linux 内核将引入 Rust，Linus：以防此事搞砸了我又发脾气，先给大家道个歉-51CTO.COM",
+    "category": "community/news",
+    "url": "https://os.51cto.com/article/713004.html",
+    "status": "unknown",
+    "path": "resources/community/news/news-001.md"
+  },
+  {
+    "id": "tools-cargo-001",
+    "title": "cargo-edit",
+    "category": "tools/cargo",
+    "url": "https://github.com/killercup/cargo-edit",
+    "status": "unknown",
+    "path": "resources/tools/cargo/tools-cargo-001.md"
+  },
+  {
+    "id": "tools-cargo-002",
+    "title": "cargo-watch",
+    "category": "tools/cargo",
+    "url": "https://github.com/watchexec/cargo-watch",
+    "status": "unknown",
+    "path": "resources/tools/cargo/tools-cargo-002.md"
+  },
+  {
+    "id": "tools-frontend-001",
+    "title": "Deno",
+    "category": "tools/frontend",
+    "url": "https://github.com/denoland/deno",
+    "status": "unknown",
+    "path": "resources/tools/frontend/tools-frontend-001.md"
+  },
+  {
+    "id": "tools-frontend-002",
+    "title": "SWC",
+    "category": "tools/frontend",
+    "url": "https://github.com/swc-project/swc",
+    "status": "unknown",
+    "path": "resources/tools/frontend/tools-frontend-002.md"
+  },
+  {
+    "id": "tools-frontend-003",
+    "title": "Parcel",
+    "category": "tools/frontend",
+    "url": "https://github.com/parcel-bundler/parcel",
+    "status": "unknown",
+    "path": "resources/tools/frontend/tools-frontend-003.md"
+  },
+  {
+    "id": "tools-frontend-004",
+    "title": "Rome",
+    "category": "tools/frontend",
+    "url": "https://github.com/rome/tools",
+    "status": "unknown",
+    "path": "resources/tools/frontend/tools-frontend-004.md"
+  },
+  {
+    "id": "tools-frontend-005",
+    "title": "Lightning CSS",
+    "category": "tools/frontend",
+    "url": "https://github.com/parcel-bundler/lightningcss",
+    "status": "unknown",
+    "path": "resources/tools/frontend/tools-frontend-005.md"
+  },
+  {
+    "id": "tools-ide-001",
+    "title": "VSCode（首推）",
+    "category": "tools/ide",
+    "url": "https://github.com/willcrichton/flowistry",
+    "status": "unknown",
+    "path": "resources/tools/ide/tools-ide-001.md"
+  },
+  {
+    "id": "video-001",
+    "title": "Rust 编程语言入门教程（Rust 语言/Rust 权威指南配套）【已完结】",
+    "category": "learning/videos",
+    "url": "https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+    "status": "unknown",
+    "path": "resources/learning/videos/video-001.md"
+  },
+  {
+    "id": "video-002",
+    "title": "Rust Async 异步编程（完结）",
+    "category": "learning/videos",
+    "url": "https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+    "status": "unknown",
+    "path": "resources/learning/videos/video-002.md"
+  },
+  {
+    "id": "video-003",
+    "title": "Rust Async 异步编程 简易教程",
+    "category": "learning/videos",
+    "url": "https://www.bilibili.com/video/BV16r4y187P4?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+    "status": "unknown",
+    "path": "resources/learning/videos/video-003.md"
+  },
+  {
+    "id": "video-004",
+    "title": "Rust Web 全栈开发教程【完结】",
+    "category": "learning/videos",
+    "url": "https://www.bilibili.com/video/BV1RP4y1G7KF?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+    "status": "unknown",
+    "path": "resources/learning/videos/video-004.md"
+  },
+  {
+    "id": "video-005",
+    "title": "使用 Async Rust 构建简单的 P2P 节点【完结】",
+    "category": "learning/videos",
+    "url": "https://www.bilibili.com/video/BV13a41197F1?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+    "status": "unknown",
+    "path": "resources/learning/videos/video-005.md"
+  },
+  {
+    "id": "video-006",
+    "title": "从零开始创建一个 WebAssembly 游戏",
+    "category": "learning/videos",
+    "url": "https://www.bilibili.com/video/BV19a41127Dq?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+    "status": "unknown",
+    "path": "resources/learning/videos/video-006.md"
+  },
+  {
+    "id": "video-007",
+    "title": "Rust 面试题",
+    "category": "learning/videos",
+    "url": "https://www.bilibili.com/video/BV1m94y1U7eZ?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+    "status": "unknown",
+    "path": "resources/learning/videos/video-007.md"
+  },
+  {
+    "id": "video-008",
+    "title": "可视化 Rust 各数据结构的内存布局(必看)",
+    "category": "learning/videos",
+    "url": "https://www.bilibili.com/video/BV1KT4y167f1?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+    "status": "unknown",
+    "path": "resources/learning/videos/video-008.md"
+  }
+]

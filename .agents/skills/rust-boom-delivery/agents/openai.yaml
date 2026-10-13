@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Boom 自动交付"
+  short_description: "校验任务改动，自动提交并推送任务分支，创建或更新 GitHub PR"
+  default_prompt: "使用 $rust-boom-delivery 按项目规范提交当前任务改动并 Push 和创建 PR。"

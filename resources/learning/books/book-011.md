@@ -8,7 +8,7 @@ status: "unknown"
 
 # Rusty Book( 锈书 )
 
-![stars](https://img.shields.io/github/stars/rustlang-cn/rusty-book?style=flat) ![GitHub](https://img.shields.io/github/license/rustlang-cn/rusty-book)
+![stars](https://img.shields.io/github/stars/rust-boom/rusty-book?style=flat) ![GitHub](https://img.shields.io/github/license/rust-boom/rusty-book)
 
 > 在 Rust 元宇宙，夸奖别人的最高境界就是 `rusty`: 今天你"锈"了吗? 你的 Rust 代码好锈啊！而本书，就是精选了各种开源库和代码片段，帮助大家打造优"锈"的 Rust 项目。
 >
@@ -24,3 +24,9 @@ status: "unknown"
 | 导航                                                  | 徽章                                                                                                                                                                                                  |
 | :---------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 文档仓库 ](https://github.com/rust-boom/rusty-book) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-boom%2Frusty-book) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
+## 本次资料核验
+
+- 核验日期：2026-10-13。
+- [当前仓库 README](https://github.com/rust-boom/rusty-book/blob/main/README.md)。
+- 本次处理：补齐/校正主仓库徽章。未逐项运行代码或验证性能，不据网页可访问将状态改为 active。

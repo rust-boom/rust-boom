@@ -10,9 +10,15 @@ status: "unknown"
 
 ![stars](https://img.shields.io/github/stars/google/comprehensive-rust?style=flat) ![GitHub](https://img.shields.io/github/license/google/comprehensive-rust)
 
-> 这个资源库有 Comprehensive Rust 的源代码，这是由 Android 团队开发的为期四天的 Rust 课程。该课程涵盖了 Rust 的所有方面，从基本语法到泛型和错误处理。它还包括最后一天的 Android 特定内容。
+> Comprehensive Rust 是 Google Android 团队使用的多日 Rust 课程，涵盖 Rust 基础，并提供 Android、Chromium、裸机和并发等专题。具体课程日程以当前版本为准。
 
 | 导航                                                       | 徽章                                                                                                                                                                                                             |
 | :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 在线文档 ](https://google.github.io/comprehensive-rust/) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgoogle.github.io%2Fcomprehensive-rust%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/google.github.io) |
 | [ 文档仓库 ](https://github.com/google/comprehensive-rust) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fgoogle%2Fcomprehensive-rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)       |
+
+## 本次资料核验
+
+- 核验日期：2026-10-13。
+- [当前仓库 README](https://github.com/google/comprehensive-rust/blob/main/README.md)。
+- 本次处理：根据当前一手资料修订过时介绍。未逐项运行代码或验证性能，不据网页可访问将状态改为 active。

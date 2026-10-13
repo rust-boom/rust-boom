@@ -63,7 +63,7 @@ export function loadResources(root = ROOT) {
     const body = match[2];
     if (!body.startsWith(`# ${data.title}\n`) || !body.slice(body.indexOf('\n') + 1).trim()) throw new Error(`正文必须以匹配标题的 H1 开头并包含介绍/链接: ${filename}`);
     if ([...body.matchAll(/^# /gm)].length !== 1) throw new Error(`正文只能有一个一级标题: ${filename}`);
-    badges.set(data.id, [...new Set([...body.matchAll(/!\[[^\]]*\]\(https:\/\/img\.shields\.io\/github\/(?:stars|license)\/[^\s)]+\)/g)].map(match => match[0]))]);
+    badges.set(data.id, [...new Set([...body.matchAll(/!\[[^\]]*\]\(https:\/\/img\.shields\.io\/(?:github\/(?:stars|license)\/|badge\/license-)[^\s)]+\)/g)].map(match => match[0]))]);
     resources.push({ ...data, path: slash(path.relative(root, filename)) });
   }
   if (!resources.length) throw new Error('资源目录不能为空');

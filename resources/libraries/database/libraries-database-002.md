@@ -2,7 +2,7 @@
 id: "libraries-database-002"
 title: "rbatis"
 category: "libraries/database"
-url: "https://github.com/rbatis/abs_admin"
+url: "https://github.com/rbatis/rbatis"
 status: "unknown"
 ---
 
@@ -31,3 +31,9 @@ status: "unknown"
 | 导航                                           | 徽章                                                                                                                                                                                           |
 | :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 代码仓库 ](https://github.com/rbatis/rbatis) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frbatis%2Frbatis) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
+## 本次资料核验
+
+- 核验日期：2026-10-13。
+- [当前仓库 README](https://github.com/rbatis/rbatis/blob/master/README.md)。
+- 本次处理：修正主仓库归属。未逐项运行代码或验证性能，不据网页可访问将状态改为 active。

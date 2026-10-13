@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v7
         with:
           node-version: '22'
@@ -20,3 +22,18 @@ jobs:
       - run: npm ci
       - run: npm run check
       - run: npm test
+      - name: Verify changed resources
+        if: github.event_name == 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node scripts/check/verify-resources.js --changed "$BASE_SHA" "$HEAD_SHA" --out /tmp/resource-verification/report.json
+      - name: Upload resource evidence
+        if: always() && github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v7
+        with:
+          name: resource-verification
+          path: /tmp/resource-verification/report.json
+          if-no-files-found: error
+          retention-days: 7

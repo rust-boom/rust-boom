@@ -71,3 +71,11 @@ test('navigation is expanded and preserves source star/license badges', t => {
   for (const content of [group, generated['resources/readme.md']]) assert.doesNotMatch(content, /<details>|<summary>/);
   assert.deepEqual(JSON.parse(generated['resources/index.json'])[0], { ...f.data, path: 'resources/libraries/async/sample.md' });
 });
+
+test('navigation retains a source-backed custom license badge', t => {
+  const f = fixture(t);
+  const license='![license](https://img.shields.io/badge/license-Apache--2.0-blue)';
+  f.write(f.data, `# Sample\n\n![stars](https://img.shields.io/github/stars/example/project) ${license}\n\n说明。\n\n[协议](https://github.com/example/project/blob/main/LICENSE-APACHE)\n`);
+  const {categories,resources,badges}=loadResources(f.root);
+  assert.ok(outputs(categories,resources,badges)['resources/libraries/readme.md'].includes(license));
+});

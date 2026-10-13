@@ -9,7 +9,7 @@
 1. 使用“给 Agent 一个链接，自动收录资源”表单，只需填写资源链接；操作偏好、已有 ID 和补充要求均可留空。
 2. 维护者将 Issue 分配给 Copilot，并选择 `resource-curator` Agent（如可用）。默认 Copilot 也会读取本仓库的收录指令。
 3. Agent 读取公开资料、检查已有资源、选择分类、生成中文介绍并提交 PR。默认自动判断新增或更新；明确要求 `add` 时发现重复会说明已有资源，明确要求 `update` 时找不到资源会请求澄清。
-4. 审核介绍和依据，批准所需检查运行；校验通过、审核合并后收录生效。
+4. 批准所需检查运行；独立 AI 评审无问题且 CI、合并检查通过后可自动合并。问题或证据不足时保留 PR，由维护者处理。
 
 链接提交本身不触发 Agent。需先将配置发布到默认分支并在 GitHub 开通相应能力，见[Agent 收录指南](maintenance/github-agent.md)。
 
@@ -18,7 +18,7 @@
 1. 搜索资源目录，确认没有相同项目或主链接。
 2. 选择“添加或更新 Rust 资源”表单，填写操作、稳定 ID、名称、分类、主链接、状态、完整介绍和依据。
 3. 更新时沿用原 ID，提交完整的新版本内容。分类变更也沿用 ID。
-4. 维护者审核后提交关联该 Issue 的 PR，校验通过并审核合并后生效。
+4. 维护者提交关联该 Issue 的 PR，校验与独立 AI 评审通过后按自动合并规则生效，或人工审核合并。
 
 完整字段的确定性写入工作流以及自动分派 Agent 的工作流尚未接入。GitHub 原生 Agent 可在分配 Issue 后自行生成 PR；两条路径的边界见[方案](maintenance/github-workflow.md)。
 
@@ -62,3 +62,5 @@ npm test
 PR 说明填写新增/更新原因。对已完整完成的 Issue，在 PR 正文填写 `Closes #123`；多个 Issue 每项各写一行，跨仓库使用 `Closes owner/repo#123`。PR 合并到仓库默认分支后由 GitHub 自动关闭对应 Issue；仓库 Settings → General → Issues 中的 “Auto-close issues with merged linked pull requests” 必须开启。仅引用或部分完成的请求使用 `Refs #123`，保持 Issue 打开。不要在提交 PR 时提前关闭 Issue。详细约定见[工作流方案](maintenance/github-workflow.md)。
 
 审核重点是分类是否恰当、介绍是否准确、链接与状态依据是否有效。校验脚本不向外网请求，也不判断项目质量。
+
+资源和普通文档的自动合并规则见 [AI 维护说明](maintenance/ai-maintenance.md#ai-评审与自动合并)。要保留人工合并，可保持草稿或添加 `no-auto-merge` 标签。脚本、依赖、工作流和 Agent 规则的 PR 必须人工合并。

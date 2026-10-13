@@ -2,11 +2,15 @@
   "name": "rust-boom",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "catalog": "node scripts/check/catalog.js",
     "check": "node scripts/check/catalog.js --check",
-    "test": "node --test scripts/check/catalog.test.js .agents/skills/rust-boom-delivery/scripts/deliver.test.js"
+    "test": "node --test scripts/check/catalog.test.js .agents/skills/rust-boom-delivery/scripts/deliver.test.js scripts/review/merge.test.js"
   },
-  "dependencies": { "yaml": "2.9.1" }
+  "dependencies": {
+    "yaml": "2.9.1"
+  }
 }

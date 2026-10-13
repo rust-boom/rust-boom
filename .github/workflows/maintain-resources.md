@@ -30,7 +30,7 @@ steps:
 safe-outputs:
   create-pull-request:
     title-prefix: "[AI 维护] "
-    draft: true
+    draft: false
     max: 1
     fallback-as-issue: false
     allowed-files:
@@ -64,7 +64,7 @@ timeout-minutes: 30
 出现无关生成变更或检查失败时先解决；无法解决则说明失败，不能交付未验证补丁。
 
 没有实质内容更新就安静结束，不为了记录巡检日期创建修改或 PR。
-有更新时使用 safe-outputs 创建一个草稿 PR，目标为仓库默认分支，描述每项更新、
-实际读取的证据 URL 与日期、验证结果；等待维护者审核合并。
+有更新时使用 safe-outputs 创建一个非草稿 PR，目标为仓库默认分支，描述每项更新、
+实际读取的证据 URL 与日期、验证结果；由独立 AI 评审工作流检查并按规则合并。
 仅对本 PR 完整解决的真实 Issue 在 PR 正文填写 Closes #编号；
 例行维护没有关联 Issue 时不要编造编号。不自行合并，不提前关闭 Issue。

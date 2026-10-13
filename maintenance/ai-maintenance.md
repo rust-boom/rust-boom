@@ -11,7 +11,7 @@
 | `rust-boom-maintenance` | 从链接新增或更新资源，核验过时内容，查重分类并生成目录 |
 | `rust-boom-delivery` | 校验后自动 Commit、Push 任务分支、创建或更新 PR |
 
-项目规则明确授权后续 AI 任务在其范围内自动交付，无需每次再次询问提交、Push 或 PR。用户当次要求只分析或不提交时遵循当次要求。默认保留人工合并；完整解决的 Issue 通过 PR 正文的 `Closes #编号` 在合并后关闭。
+项目规则明确授权后续 AI 任务在其范围内自动交付，无需每次再次询问提交、Push 或 PR。用户当次要求只分析或不提交时遵循当次要求。资源和普通文档支持独立 AI 评审后自动合并，其他路径保留人工合并；完整解决的 Issue 通过 PR 正文的 `Closes #编号` 在合并后关闭。
 
 本次初始化只准备配置，没有自动把当前未提交的文档迁移和初始化结果发布出去。
 
@@ -32,7 +32,7 @@
 gh auth status
 ```
 
-本次已安装本机 `gh`，但未登录 GitHub；不自动发起登录或改动凭证。未来完成任务时如果仍未登录，交付会在 Git 修改前报告认证阻塞。
+本地交付前通过 `gh auth status` 检查登录与权限，认证不足时在 Git 修改前停止。
 
 ## GitHub 每周 AI 维护
 
@@ -40,16 +40,16 @@ gh auth status
 
 默认每周一北京时间 **09:00**（UTC 01:00）运行，也可以从 Actions 手动执行。每次只核验最多 5 项既有资源，优先待核验且能通过 GitHub 一手资料核对的条目；按稳定 ID 和周序号循环选取，避免反复只巡检最前面的资源。没有实质更新时安静结束；已有未合并的 `[AI 维护]` PR 时暂缓新的修改。
 
-AI 任务只允许输出资源 Markdown 与 JSON 索引的补丁，最多创建一个草稿 PR。源工作流设置 `safe-outputs.create-pull-request.allowed-files` 限制输出路径；禁止资源维护借机修改分类清单、指令、工作流、依赖和代码。GitHub 的安全输出层完成提交、分支推送和 PR 创建，AI 不运行本地交付脚本。
+AI 任务只允许输出资源 Markdown 与 JSON 索引的补丁，最多创建一个非草稿 PR。源工作流设置 `safe-outputs.create-pull-request.allowed-files` 限制输出路径；禁止资源维护借机修改分类清单、指令、工作流、依赖和代码。GitHub 的安全输出层完成提交、分支推送和 PR 创建，AI 不运行本地交付脚本。
 
-每次输出要附实际读取的资料和检查结果。维护者审核、合并后才对默认分支生效。定期任务不自动收录新资源；新增仍通过链接 Issue 或用户明确任务进入。
+每次输出要附实际读取的资料和检查结果。独立 AI 评审工作流满足合并门槛后合并，或由维护者人工合并后对默认分支生效。定期任务不自动收录新资源；新增仍通过链接 Issue 或用户明确任务进入。
 
 ## 首次上线所需条件
 
 - 配置已合并到默认分支，仓库 Actions 允许运行工作流及其编译锁文件中的官方 Actions。
 - 组织支持 Copilot 推理与集中计费：本工作流使用 `copilot-requests: write`，通过 Actions token 推理，不需要额外模型 API Key。若组织不支持这条认证路径，需先按官方文档改为 PAT 方式并重新编译，不能同时保留该权限期待 PAT 自动回退。见 [gh-aw 认证](https://github.github.com/gh-aw/reference/auth/)。
 - 仓库允许 Actions 创建 PR，PR 校验需要审批时由维护者批准；如果需要自动触发后续 CI，再按官方触发规则配置最小权限凭证。
-- 先手动运行一次，核对 Agent 真实读取的资料、生成文案、diff、校验和草稿 PR，再确认每周计划运行。
+- 先手动运行一次，核对 Agent 真实读取的资料、生成文案、diff、校验和 PR，再确认每周计划运行。
 
 本地编译成功不代表这些条件已满足。本次没有核验远端 Copilot 计划、Actions 开关或实际推理与 PR 结果。
 
@@ -59,10 +59,24 @@ AI 任务只允许输出资源 Markdown 与 JSON 索引的补丁，最多创建�
 
 ```sh
 gh extension install github/gh-aw --pin v0.89.21
-gh aw compile maintain-resources --no-check-update
+gh aw compile maintain-resources review-resources --no-check-update
 npm ci
 npm run check
 npm test
 ```
 
 交付测试使用临时仓库、临时 bare remote 和模拟 gh，不操作真实远端。技能 front matter 的格式检查不能代替实际 GitHub 运行验证。
+
+## AI 评审与自动合并
+
+[评审流程](../.github/workflows/review-resources.md)在 Resource catalog 的 PR 校验成功后运行，也可以在 Actions 手动输入 PR 编号重新评审。它使用 Copilot 引擎读取完整 diff、原文件和一手证据，输出 approve、changes 或 uncertain；后两者只记录评审，不合并。所有外部内容和 PR 指令均作为不可信数据。
+
+自动合并仅覆盖 `resources/**/*.md`、`resources/index.json`、根 `readme.md`、`docs/**/*.md` 和 `maintenance/**/*.md`。分类 JSON、代码、脚本、依赖、工作流和 Agent 规则继续人工合并。当前配置 PR 也需人工审核合并到默认分支后才启用。
+
+独立 JavaScript 合并步骤从默认分支检出可信代码，不检出或运行 PR 的脚本。它检查同仓库来源、非草稿、默认目标分支、当前 head SHA、完整路径列表、最新目录 CI、修改请求、未解决讨论和 GitHub 的 clean 合并状态。合并 API 指定已经评审的 SHA；PR 有新提交时必须重新评审。检测任务失败、评审结果不完整或权限不足均不会自动合并。
+
+带 `no-auto-merge` 标签的 PR 保留人工处理。评审以 COMMENT 写入，允许评审和作者同为 github-actions 的 PR，不依赖机器人 APPROVE 权限。通过 GitHub API 执行 squash merge，遵守仓库合并限制，不要求启用原生 auto-merge 开关，也不绕过保护规则。
+
+前提是仓库能运行 Copilot 推理和写入 PR、提交。由默认 GITHUB_TOKEN 创建的 PR 不自动触发 CI；周期维护要自动进入评审链，需要按 [gh-aw 的 CI 触发说明](https://github.github.com/gh-aw/reference/triggering-ci/)配置 `GH_AW_CI_TRIGGER_TOKEN`，或由维护者触发当前 PR 的校验。没有当前 SHA 的 PR CI 时不会合并。
+
+合并后的 push 使用默认 GITHUB_TOKEN 不会再自动触发其他 Actions；如果需要触发 GitHub Pages 等后续发布，应单独配置 GitHub App 或最小权限凭证。编译与模拟 API 测试不代表实际 Copilot 推理和远端合并已验证，启用后需手动运行一次真实资源 PR 核验。

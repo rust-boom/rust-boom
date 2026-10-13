@@ -22,7 +22,7 @@
 | `.github/ISSUE_TEMPLATE/` | 完整字段表单与只需链接的 Agent 表单 | 脚本生成 |
 | `.github/agents/resource-curator.agent.md` | 资源收录专用 GitHub Agent | 人工维护，约定读取资料、文案、更新与交付规则 |
 | `.github/copilot-instructions.md` | 默认 Copilot 的仓库指令 | 人工维护，资源任务复用专用 Agent 的规则 |
-| `.github/workflows/` | PR 校验、Copilot 环境准备、每周 AI 资源维护 | 普通 YAML 人工维护；Agentic Markdown 通过 gh-aw 编译成 lock.yml |
+| `.github/workflows/` | PR 校验、Copilot 环境准备、每周 AI 资源维护与资源/文档评审自动合并 | 普通 YAML 人工维护；Agentic Markdown 通过 gh-aw 编译成 lock.yml |
 | `.github/pull_request_template.md` | PR 说明模板 | 人工维护 |
 
 资源导航最多使用“分类组 → 用途分类 → 资源”三层结构。首页的分类入口、全部资源页的分类组和各分类组页面的用途分类均直接展开，使用标题和表格导航。标题仅显示分类名称，各用途分类保留稳定锚点；资源数量保留在导航统计表中。资源导航表从源资源正文提取原有 Star 数和开源协议徽章，不编造当前数值或协议类型。介绍页的一级标题是资源名称，详细介绍按需要使用二级及以下标题。

@@ -79,4 +79,4 @@ npm test
 
 前提是仓库能运行 Copilot 推理和写入 PR、提交。由默认 GITHUB_TOKEN 创建的 PR 不自动触发 CI；周期维护要自动进入评审链，需要按 [gh-aw 的 CI 触发说明](https://github.github.com/gh-aw/reference/triggering-ci/)配置 `GH_AW_CI_TRIGGER_TOKEN`，或由维护者触发当前 PR 的校验。没有当前 SHA 的 PR CI 时不会合并。
 
-合并后的 push 使用默认 GITHUB_TOKEN 不会再自动触发其他 Actions；本项目当前没有依赖合并 push 的发布流水线，将来需要发布时应单独配置 GitHub App 或最小权限凭证。编译与模拟 API 测试不代表实际 Copilot 推理和远端合并已验证，启用后需手动运行一次真实资源 PR 核验。
+合并后的 push 使用默认 GITHUB_TOKEN 不会再自动触发其他 Actions；如果需要触发 GitHub Pages 等后续发布，应单独配置 GitHub App 或最小权限凭证。编译与模拟 API 测试不代表实际 Copilot 推理和远端合并已验证，启用后需手动运行一次真实资源 PR 核验。

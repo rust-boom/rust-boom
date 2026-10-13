@@ -2,207 +2,132 @@
 
 # 成品应用
 
-点击用途分类展开资源列表。
+按用途分类浏览资源；表格保留资源的 Star 数和开源协议徽章。
 
 [全部资源](../readme.md) · [贡献规范](../../CONTRIBUTING.md)
 
 <a id="tunnels"></a>
 
-<details>
-<summary><strong>内网穿透</strong>（2 项资源）</summary>
+## 内网穿透（2 项资源）
 
-## 内网穿透
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [rathole](tunnels/applications-tunnels-001.md) | `applications-tunnels-001` | 待核验 |
-| [bore](tunnels/applications-tunnels-002.md) | `applications-tunnels-002` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [rathole](tunnels/applications-tunnels-001.md) | `applications-tunnels-001` | 待核验 | ![stars](https://img.shields.io/github/stars/rapiz1/rathole?style=flat) ![GitHub](https://img.shields.io/github/license/rapiz1/rathole) |
+| [bore](tunnels/applications-tunnels-002.md) | `applications-tunnels-002` | 待核验 | ![stars](https://img.shields.io/github/stars/ekzhang/bore?style=flat) ![GitHub](https://img.shields.io/github/license/ekzhang/bore) |
 
 <a id="observability"></a>
 
-<details>
-<summary><strong>可观测性与日志处理</strong>（1 项资源）</summary>
+## 可观测性与日志处理（1 项资源）
 
-## 可观测性与日志处理
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [vector](observability/applications-observability-001.md) | `applications-observability-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [vector](observability/applications-observability-001.md) | `applications-observability-001` | 待核验 | ![stars](https://img.shields.io/github/stars/vectordotdev/vector?style=flat) ![GitHub](https://img.shields.io/github/license/vectordotdev/vector) |
 
 <a id="editors"></a>
 
-<details>
-<summary><strong>编辑器</strong>（4 项资源）</summary>
+## 编辑器（4 项资源）
 
-## 编辑器
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [Zed](editors/applications-editors-001.md) | `applications-editors-001` | 待核验 |
-| [Lapce](editors/applications-editors-002.md) | `applications-editors-002` | 待核验 |
-| [Neovide](editors/applications-editors-003.md) | `applications-editors-003` | 待核验 |
-| [Helix](editors/applications-editors-004.md) | `applications-editors-004` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [Zed](editors/applications-editors-001.md) | `applications-editors-001` | 待核验 | ![stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub](https://img.shields.io/github/license/zed-industries/zed) |
+| [Lapce](editors/applications-editors-002.md) | `applications-editors-002` | 待核验 | ![stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub](https://img.shields.io/github/license/lapce/lapce) |
+| [Neovide](editors/applications-editors-003.md) | `applications-editors-003` | 待核验 | ![stars](https://img.shields.io/github/stars/neovide/neovide?style=flat) ![GitHub](https://img.shields.io/github/license/neovide/neovide) |
+| [Helix](editors/applications-editors-004.md) | `applications-editors-004` | 待核验 | ![stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat) ![GitHub](https://img.shields.io/github/license/helix-editor/helix) |
 
 <a id="productivity"></a>
 
-<details>
-<summary><strong>笔记与协作</strong>（1 项资源）</summary>
+## 笔记与协作（1 项资源）
 
-## 笔记与协作
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [AppFlowy](productivity/applications-productivity-001.md) | `applications-productivity-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [AppFlowy](productivity/applications-productivity-001.md) | `applications-productivity-001` | 待核验 | ![stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat) ![GitHub](https://img.shields.io/github/license/AppFlowy-IO/AppFlowy) |
 
 <a id="terminal"></a>
 
-<details>
-<summary><strong>终端</strong>（1 项资源）</summary>
+## 终端（1 项资源）
 
-## 终端
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [Wezterm](terminal/applications-terminal-001.md) | `applications-terminal-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [Wezterm](terminal/applications-terminal-001.md) | `applications-terminal-001` | 待核验 | ![stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub](https://img.shields.io/github/license/wez/wezterm) |
 
 <a id="remote"></a>
 
-<details>
-<summary><strong>远程控制</strong>（1 项资源）</summary>
+## 远程控制（1 项资源）
 
-## 远程控制
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [Rustdesk](remote/applications-remote-001.md) | `applications-remote-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [Rustdesk](remote/applications-remote-001.md) | `applications-remote-001` | 待核验 | ![stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat) ![GitHub](https://img.shields.io/github/license/rustdesk/rustdesk) |
 
 <a id="git"></a>
 
-<details>
-<summary><strong>Git 工具</strong>（1 项资源）</summary>
+## Git 工具（1 项资源）
 
-## Git 工具
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [GitUI](git/applications-git-001.md) | `applications-git-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [GitUI](git/applications-git-001.md) | `applications-git-001` | 待核验 | ![stars](https://img.shields.io/github/stars/extrawurst/gitui?style=flat) ![GitHub](https://img.shields.io/github/license/extrawurst/gitui) |
 
 <a id="analysis"></a>
 
-<details>
-<summary><strong>代码分析</strong>（1 项资源）</summary>
+## 代码分析（1 项资源）
 
-## 代码分析
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [cloc-rs](analysis/applications-analysis-001.md) | `applications-analysis-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [cloc-rs](analysis/applications-analysis-001.md) | `applications-analysis-001` | 待核验 | ![stars](https://img.shields.io/github/stars/ltoddy/cloc-rs?style=flat) ![GitHub](https://img.shields.io/github/license/ltoddy/cloc-rs) |
 
 <a id="database"></a>
 
-<details>
-<summary><strong>数据库服务</strong>（1 项资源）</summary>
+## 数据库服务（1 项资源）
 
-## 数据库服务
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [cnosdb](database/applications-database-001.md) | `applications-database-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [cnosdb](database/applications-database-001.md) | `applications-database-001` | 待核验 | ![stars](https://img.shields.io/github/stars/cnosdb/cnosdb?style=flat) ![GitHub](https://img.shields.io/github/license/cnosdb/cnosdb) |
 
 <a id="os"></a>
 
-<details>
-<summary><strong>操作系统</strong>（1 项资源）</summary>
+## 操作系统（1 项资源）
 
-## 操作系统
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [Bottlerocket OS](os/applications-os-001.md) | `applications-os-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [Bottlerocket OS](os/applications-os-001.md) | `applications-os-001` | 待核验 | ![stars](https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=flat) ![GitHub](https://img.shields.io/github/license/bottlerocket-os/bottlerocket) |
 
 <a id="compiler"></a>
 
-<details>
-<summary><strong>语言引擎</strong>（1 项资源）</summary>
+## 语言引擎（1 项资源）
 
-## 语言引擎
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [Starlight](compiler/applications-compiler-001.md) | `applications-compiler-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [Starlight](compiler/applications-compiler-001.md) | `applications-compiler-001` | 待核验 | ![stars](https://img.shields.io/github/stars/Starlight-JS/starlight?style=flat) ![GitHub](https://img.shields.io/github/license/Starlight-JS/starlight) |
 
 <a id="search"></a>
 
-<details>
-<summary><strong>搜索引擎</strong>（2 项资源）</summary>
+## 搜索引擎（2 项资源）
 
-## 搜索引擎
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [MeiliSearch](search/applications-search-001.md) | `applications-search-001` | 待核验 |
-| [sonic](search/applications-search-002.md) | `applications-search-002` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [MeiliSearch](search/applications-search-001.md) | `applications-search-001` | 待核验 | ![stars](https://img.shields.io/github/stars/meilisearch/MeiliSearch?style=flat) ![GitHub](https://img.shields.io/github/license/meilisearch/MeiliSearch) |
+| [sonic](search/applications-search-002.md) | `applications-search-002` | 待核验 | ![stars](https://img.shields.io/github/stars/valeriansaliou/sonic?style=flat) ![GitHub](https://img.shields.io/github/license/valeriansaliou/sonic) |
 
 <a id="system"></a>
 
-<details>
-<summary><strong>系统工具</strong>（2 项资源）</summary>
+## 系统工具（2 项资源）
 
-## 系统工具
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [RustScan](system/applications-system-001.md) | `applications-system-001` | 待核验 |
-| [sniffnet](system/applications-system-002.md) | `applications-system-002` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [RustScan](system/applications-system-001.md) | `applications-system-001` | 待核验 | ![stars](https://img.shields.io/github/stars/RustScan/RustScan?style=flat) ![GitHub](https://img.shields.io/github/license/RustScan/RustScan) |
+| [sniffnet](system/applications-system-002.md) | `applications-system-002` | 待核验 | ![stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=flat) ![GitHub](https://img.shields.io/github/license/GyulyVGC/sniffnet) |
 
 <a id="video"></a>
 
-<details>
-<summary><strong>视频工具</strong>（1 项资源）</summary>
+## 视频工具（1 项资源）
 
-## 视频工具
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [biliup-rs](video/applications-video-001.md) | `applications-video-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [biliup-rs](video/applications-video-001.md) | `applications-video-001` | 待核验 | ![stars](https://img.shields.io/github/stars/ForgQi/biliup-rs?style=flat) ![GitHub](https://img.shields.io/github/license/ForgQi/biliup-rs) |
 
 <a id="translation"></a>
 
-<details>
-<summary><strong>翻译工具</strong>（1 项资源）</summary>
+## 翻译工具（1 项资源）
 
-## 翻译工具
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [Tran](translation/applications-translation-001.md) | `applications-translation-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [Tran](translation/applications-translation-001.md) | `applications-translation-001` | 待核验 | ![stars](https://img.shields.io/github/stars/Borber/Tran?style=flat) ![GitHub](https://img.shields.io/github/license/Borber/Tran) |

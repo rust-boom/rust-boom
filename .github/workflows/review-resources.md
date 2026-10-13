@@ -74,7 +74,6 @@ timeout-minutes: 30
 
 本次触发类型：${{ github.event_name }}
 手动指定 PR 编号：${{ github.event.inputs.pr_number }}
-上游运行关联 PR 编号：${{ github.event.workflow_run.pull_requests[0].number }}
 上游运行 head SHA：${{ github.event.workflow_run.head_sha }}
 以上字段由 Actions 注入；空字段表示该触发方式未提供对应值。
 

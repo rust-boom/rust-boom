@@ -21,7 +21,7 @@
 | [Dioxus](gui/libraries-gui-007.md) | `libraries-gui-007` | 待核验 | ![stars](https://img.shields.io/github/stars/DioxusLabs/dioxus?style=flat) ![GitHub](https://img.shields.io/github/license/DioxusLabs/dioxus) |
 | [Vizia](gui/libraries-gui-008.md) | `libraries-gui-008` | 待核验 | ![stars](https://img.shields.io/github/stars/vizia/vizia?style=flat) ![GitHub](https://img.shields.io/github/license/vizia/vizia) |
 | [slint](gui/libraries-gui-009.md) | `libraries-gui-009` | 待核验 | ![stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat) ![GitHub](https://img.shields.io/github/license/slint-ui/slint) |
-| [GPUI Kit](gui/libraries-gui-010.md) | `libraries-gui-010` | 待核验 |  |
+| [GPUI Kit](gui/libraries-gui-010.md) | `libraries-gui-010` | 待核验 | ![stars](https://img.shields.io/github/stars/longbridge/gpui-kit?style=flat) ![GitHub](https://img.shields.io/github/license/longbridge/gpui-kit) |
 
 <a id="tui"></a>
 

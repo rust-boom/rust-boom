@@ -8,6 +8,8 @@ status: "unknown"
 
 # GPUI Kit
 
+![stars](https://img.shields.io/github/stars/longbridge/gpui-kit?style=flat) ![GitHub](https://img.shields.io/github/license/longbridge/gpui-kit)
+
 GPUI Kit 是基于 GPUI 构建 Rust 桌面应用的开发框架，整合了 UI 组件、行为与基础设施，并提供可选的 JavaScript 扩展运行时。
 
 ## 功能与适用场景

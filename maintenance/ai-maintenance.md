@@ -47,7 +47,7 @@ AI 任务只允许输出资源 Markdown 与 JSON 索引的补丁，最多创建�
 ## 首次上线所需条件
 
 - 配置已合并到默认分支，仓库 Actions 允许运行工作流及其编译锁文件中的官方 Actions。
-- 组织支持 Copilot 推理与集中计费：本工作流使用 `copilot-requests: write`，通过 Actions token 推理，不需要额外模型 API Key。若组织不支持这条认证路径，需先按官方文档改为 PAT 方式并重新编译，不能同时保留该权限期待 PAT 自动回退。见 [gh-aw 认证](https://github.github.com/gh-aw/reference/auth/)。
+- 两个 Copilot 工作流使用个人认证：仓库 Actions Secret `COPILOT_GITHUB_TOKEN` 保存个人 Fine-grained PAT，Resource owner 为个人账号，Account permissions → Copilot Requests 为 Read，账号需具有有效 Copilot 访问权限。工作流不设置 `copilot-requests: write`；保留该权限会忽略个人 Token。有效期届满前更新 Secret，不使用 gh 登录的 OAuth Token。见 [gh-aw 认证](https://github.github.com/gh-aw/reference/auth/)。
 - 仓库允许 Actions 创建 PR，PR 校验需要审批时由维护者批准；如果需要自动触发后续 CI，再按官方触发规则配置最小权限凭证。
 - 先手动运行一次，核对 Agent 真实读取的资料、生成文案、diff、校验和 PR，再确认每周计划运行。
 

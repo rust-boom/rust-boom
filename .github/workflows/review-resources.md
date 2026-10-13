@@ -20,7 +20,6 @@ permissions:
   actions: read
   issues: read
   pull-requests: read
-  copilot-requests: write
 engine: copilot
 network:
   allowed: [defaults, github]
@@ -72,6 +71,11 @@ timeout-minutes: 30
 ---
 
 # Rust Boom 资源与文档评审
+
+本次触发类型：${{ github.event_name }}
+手动指定 PR 编号：${{ github.event.inputs.pr_number }}
+上游运行 head SHA：${{ github.event.workflow_run.head_sha }}
+以上字段由 Actions 注入；空字段表示该触发方式未提供对应值。
 
 先读取默认分支的 AGENTS.md、CONTRIBUTING.md、maintenance/structure.md。
 只做评审，不编辑文件，不提交、不 Push，不自行运行合并 API。

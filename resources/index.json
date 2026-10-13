@@ -952,6 +952,14 @@
     "path": "resources/libraries/gui/libraries-gui-009.md"
   },
   {
+    "id": "libraries-gui-010",
+    "title": "GPUI Kit",
+    "category": "libraries/gui",
+    "url": "https://github.com/longbridge/gpui-kit",
+    "status": "unknown",
+    "path": "resources/libraries/gui/libraries-gui-010.md"
+  },
+  {
     "id": "libraries-image-001",
     "title": "image-rs",
     "category": "libraries/image",

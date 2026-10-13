@@ -9,7 +9,7 @@
 <a id="gui"></a>
 
 <details>
-<summary><strong>桌面与 GUI</strong>（9 项资源）</summary>
+<summary><strong>桌面与 GUI</strong>（10 项资源）</summary>
 
 ## 桌面与 GUI
 
@@ -24,6 +24,7 @@
 | [Dioxus](gui/libraries-gui-007.md) | `libraries-gui-007` | 待核验 |
 | [Vizia](gui/libraries-gui-008.md) | `libraries-gui-008` | 待核验 |
 | [slint](gui/libraries-gui-009.md) | `libraries-gui-009` | 待核验 |
+| [GPUI Kit](gui/libraries-gui-010.md) | `libraries-gui-010` | 待核验 |
 
 </details>
 

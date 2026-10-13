@@ -20,7 +20,6 @@ permissions:
   actions: read
   issues: read
   pull-requests: read
-  copilot-requests: write
 engine: copilot
 network:
   allowed: [defaults, github]

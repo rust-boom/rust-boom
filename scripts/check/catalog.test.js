@@ -55,3 +55,19 @@ test('encoded local links and missing files', t => {
   const f = fixture(t), asset = `${f.root}/some image.png`; fs.writeFileSync(asset, ''); f.write(f.data, '# Sample\n\n![img](../../../some%20image.png)\n'); checkLocalLinks(f.root); fs.unlinkSync(asset); assert.throws(() => checkLocalLinks(f.root), /本地链接不存在/);
 });
 test('check detects stale generated output', t => { const f = fixture(t); main([], f.root); main(['--check'], f.root); fs.appendFileSync(`${f.root}/resources/readme.md`, 'stale'); assert.throws(() => main(['--check'], f.root), /导航需要重新生成/); });
+
+test('navigation is expanded and preserves source star/license badges', t => {
+  const f = fixture(t);
+  const stars = '![stars](https://img.shields.io/github/stars/example/project?style=flat)';
+  const license = '![GitHub](https://img.shields.io/github/license/example/project)';
+  f.write(f.data, `# Sample\n\n${stars} ${license}\n\n介绍。\n\n${stars}\n`);
+  const { categories, resources, badges } = loadResources(f.root);
+  const generated = outputs(categories, resources, badges);
+  const group = generated['resources/libraries/readme.md'];
+  assert.match(group, /Star 数 \/ 开源协议/);
+  assert.ok(group.includes(`${stars} ${license}`));
+  assert.equal(group.split(stars).length - 1, 1);
+  assert.match(group, /<a id="async"><\/a>/);
+  for (const content of [group, generated['resources/readme.md']]) assert.doesNotMatch(content, /<details>|<summary>/);
+  assert.deepEqual(JSON.parse(generated['resources/index.json'])[0], { ...f.data, path: 'resources/libraries/async/sample.md' });
+});

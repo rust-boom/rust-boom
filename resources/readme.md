@@ -2,12 +2,11 @@
 
 # 资源导航
 
-点击分类组展开目录；每项资源的介绍、链接和状态保存在独立文件中。
+按分类组浏览资源；每项资源的介绍、链接和状态保存在独立文件中。
 
 [返回首页](../readme.md) · [贡献规范](../CONTRIBUTING.md)
 
-<details>
-<summary><strong>学习资料</strong>（3 个分类 · 54 项资源）</summary>
+## 学习资料（3 个分类 · 54 项资源）
 
 [浏览学习资料](learning/readme.md)
 
@@ -17,10 +16,7 @@
 | [视频课程](learning/readme.md#videos) | 8 |
 | [书籍与系统教程](learning/readme.md#books) | 28 |
 
-</details>
-
-<details>
-<summary><strong>开发工具</strong>（3 个分类 · 8 项资源）</summary>
+## 开发工具（3 个分类 · 8 项资源）
 
 [浏览开发工具](tools/readme.md)
 
@@ -30,10 +26,7 @@
 | [Cargo 扩展](tools/readme.md#cargo) | 2 |
 | [前端工具与运行时](tools/readme.md#frontend) | 5 |
 
-</details>
-
-<details>
-<summary><strong>开发库与框架</strong>（33 个分类 · 84 项资源）</summary>
+## 开发库与框架（33 个分类 · 84 项资源）
 
 [浏览开发库与框架](libraries/readme.md)
 
@@ -73,10 +66,7 @@
 | [辅助工具](libraries/readme.md#utilities) | 1 |
 | [区块链](libraries/readme.md#blockchain) | 1 |
 
-</details>
-
-<details>
-<summary><strong>成品应用</strong>（15 个分类 · 21 项资源）</summary>
+## 成品应用（15 个分类 · 21 项资源）
 
 [浏览成品应用](applications/readme.md)
 
@@ -98,10 +88,7 @@
 | [视频工具](applications/readme.md#video) | 1 |
 | [翻译工具](applications/readme.md#translation) | 1 |
 
-</details>
-
-<details>
-<summary><strong>社区与动态</strong>（2 个分类 · 4 项资源）</summary>
+## 社区与动态（2 个分类 · 4 项资源）
 
 [浏览社区与动态](community/readme.md)
 
@@ -109,5 +96,3 @@
 | --- | --- |
 | [社区论坛](community/readme.md#forums) | 3 |
 | [历史新闻与事件](community/readme.md#news) | 1 |
-
-</details>

@@ -9,9 +9,6 @@
 
 ## 资源导航
 
-<details>
-<summary><strong>展开资源分类</strong></summary>
-
 | 分类 | 内容 |
 | --- | --- |
 | [学习资料](resources/learning/readme.md) | 文章与刊报、视频课程、书籍与系统教程 |
@@ -20,8 +17,6 @@
 | [成品应用](resources/applications/readme.md) | 编辑器、终端、数据库服务、搜索、系统工具等 |
 | [社区与动态](resources/community/readme.md) | 社区论坛、历史新闻与事件 |
 | [全部分类](resources/readme.md) | 分类清单与资源数量 |
-
-</details>
 
 每项资源都有稳定 ID 和独立介绍页。历史资源的维护状态默认“待核验”；原文明确标记停止更新的资源保留该标记。收录与迁移不代表已核验外部链接、项目现状或介绍中的时效性信息。
 

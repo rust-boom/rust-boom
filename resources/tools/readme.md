@@ -2,50 +2,35 @@
 
 # 开发工具
 
-点击用途分类展开资源列表。
+按用途分类浏览资源；表格保留资源的 Star 数和开源协议徽章。
 
 [全部资源](../readme.md) · [贡献规范](../../CONTRIBUTING.md)
 
 <a id="ide"></a>
 
-<details>
-<summary><strong>编辑环境</strong>（1 项资源）</summary>
+## 编辑环境（1 项资源）
 
-## 编辑环境
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [VSCode（首推）](ide/tools-ide-001.md) | `tools-ide-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [VSCode（首推）](ide/tools-ide-001.md) | `tools-ide-001` | 待核验 |  |
 
 <a id="cargo"></a>
 
-<details>
-<summary><strong>Cargo 扩展</strong>（2 项资源）</summary>
+## Cargo 扩展（2 项资源）
 
-## Cargo 扩展
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [cargo-edit](cargo/tools-cargo-001.md) | `tools-cargo-001` | 待核验 |
-| [cargo-watch](cargo/tools-cargo-002.md) | `tools-cargo-002` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [cargo-edit](cargo/tools-cargo-001.md) | `tools-cargo-001` | 待核验 | ![stars](https://img.shields.io/github/stars/killercup/cargo-edit?style=flat) ![GitHub](https://img.shields.io/github/license/killercup/cargo-edit) |
+| [cargo-watch](cargo/tools-cargo-002.md) | `tools-cargo-002` | 待核验 | ![stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub](https://img.shields.io/github/license/watchexec/cargo-watch) |
 
 <a id="frontend"></a>
 
-<details>
-<summary><strong>前端工具与运行时</strong>（5 项资源）</summary>
+## 前端工具与运行时（5 项资源）
 
-## 前端工具与运行时
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [Deno](frontend/tools-frontend-001.md) | `tools-frontend-001` | 待核验 |
-| [SWC](frontend/tools-frontend-002.md) | `tools-frontend-002` | 待核验 |
-| [Parcel](frontend/tools-frontend-003.md) | `tools-frontend-003` | 待核验 |
-| [Rome](frontend/tools-frontend-004.md) | `tools-frontend-004` | 待核验 |
-| [Lightning CSS](frontend/tools-frontend-005.md) | `tools-frontend-005` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [Deno](frontend/tools-frontend-001.md) | `tools-frontend-001` | 待核验 | ![stars](https://img.shields.io/github/stars/denoland/deno?style=flat) ![GitHub](https://img.shields.io/github/license/denoland/deno) |
+| [SWC](frontend/tools-frontend-002.md) | `tools-frontend-002` | 待核验 | ![stars](https://img.shields.io/github/stars/swc-project/swc?style=flat) ![GitHub](https://img.shields.io/github/license/swc-project/swc) |
+| [Parcel](frontend/tools-frontend-003.md) | `tools-frontend-003` | 待核验 | ![stars](https://img.shields.io/github/stars/parcel-bundler/parcel?style=flat) ![GitHub](https://img.shields.io/github/license/parcel-bundler/parcel) |
+| [Rome](frontend/tools-frontend-004.md) | `tools-frontend-004` | 待核验 | ![stars](https://img.shields.io/github/stars/rome/tools?style=flat) ![GitHub](https://img.shields.io/github/license/rome/tools) |
+| [Lightning CSS](frontend/tools-frontend-005.md) | `tools-frontend-005` | 待核验 | ![stars](https://img.shields.io/github/stars/parcel-bundler/lightningcss?style=flat) ![GitHub](https://img.shields.io/github/license/parcel-bundler/lightningcss) |

@@ -2,34 +2,24 @@
 
 # 社区与动态
 
-点击用途分类展开资源列表。
+按用途分类浏览资源；表格保留资源的 Star 数和开源协议徽章。
 
 [全部资源](../readme.md) · [贡献规范](../../CONTRIBUTING.md)
 
 <a id="forums"></a>
 
-<details>
-<summary><strong>社区论坛</strong>（3 项资源）</summary>
+## 社区论坛（3 项资源）
 
-## 社区论坛
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [Rust 语言中文社区-首页 (rustcc.cn)](forums/community-001.md) | `community-001` | 待核验 |
-| [Rust 技术论坛 \| Rust 语言技术论坛 - 优质的 Rust 开发者学习社区 (learnku.com)](forums/community-002.md) | `community-002` | 待核验 |
-| [The Rust Programming Language Forum (rust-lang.org)](forums/community-003.md) | `community-003` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [Rust 语言中文社区-首页 (rustcc.cn)](forums/community-001.md) | `community-001` | 待核验 |  |
+| [Rust 技术论坛 \| Rust 语言技术论坛 - 优质的 Rust 开发者学习社区 (learnku.com)](forums/community-002.md) | `community-002` | 待核验 |  |
+| [The Rust Programming Language Forum (rust-lang.org)](forums/community-003.md) | `community-003` | 待核验 |  |
 
 <a id="news"></a>
 
-<details>
-<summary><strong>历史新闻与事件</strong>（1 项资源）</summary>
+## 历史新闻与事件（1 项资源）
 
-## 历史新闻与事件
-
-| 资源 | ID | 状态 |
-| --- | --- | --- |
-| [Linux 内核将引入 Rust，Linus：以防此事搞砸了我又发脾气，先给大家道个歉-51CTO.COM](news/news-001.md) | `news-001` | 待核验 |
-
-</details>
+| 资源 | ID | 状态 | Star 数 / 开源协议 |
+| --- | --- | --- | --- |
+| [Linux 内核将引入 Rust，Linus：以防此事搞砸了我又发脾气，先给大家道个歉-51CTO.COM](news/news-001.md) | `news-001` | 待核验 |  |

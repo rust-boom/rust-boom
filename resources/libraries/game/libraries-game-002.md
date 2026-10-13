@@ -18,8 +18,12 @@ status: "active"
 
 ## 维护情况与资料核验
 
-官方 README 声明自 2022 年 1 月起进入被动维护：没有新功能计划，仍可能发布修复并接受维护负担较小的 PR。默认分支在 2026-07-22 仍有功能与变更日志提交，因此标记为 `active`，具体含义为有限维护，不表示积极扩展功能。
-
 - 核验日期：2026-10-13。
+
+已读取当前 README，核对资源用途，并确认 2026-07-22 仍有公开维护提交，标为 active。
+
+README 自 2022 年起声明被动维护，仍可能发布修复和接受负担较小的 PR。本状态表示有限维护，不能理解为持续扩展功能。
+
+- [主仓库状态](https://api.github.com/repos/17cupsofcoffee/tetra)。
 - [官方 README](https://github.com/17cupsofcoffee/tetra/blob/main/README.md)。
-- [默认分支提交记录](https://github.com/17cupsofcoffee/tetra/commit/b3ce706f8275609be4f91ddedfa484b657e2ae43)（2026-07-22，UTC）。
+- [维护提交（2026-07-22，UTC）](https://github.com/17cupsofcoffee/tetra/commit/b3ce706f8275609be4f91ddedfa484b657e2ae43)。

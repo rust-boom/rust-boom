@@ -10,7 +10,7 @@ status: "archived"
 
 ![stars](https://img.shields.io/github/stars/solana-labs/solana?style=flat) ![GitHub](https://img.shields.io/github/license/solana-labs/solana)
 
-> Solana 的高吞吐量、低延迟和低交易费用使其非常适合需要快速处理和大规模交易的应用场景，如 DeFi、NFT 市场和高性能游戏。它的开发工具和支持也使得开发者能够高效地构建复杂的去中心化应用程序。
+> Solana 的历史验证节点实现仓库。所链接的 solana-labs/solana 已归档，官方 README 指向 Anza 的 Agave 实现；本状态仅适用于该历史仓库。
 
 | 导航                                                      | 徽章                                                                                                                                                                                                            |
 | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,12 +19,15 @@ status: "archived"
 | [ 中文教程 ](https://www.solana-cn.com/)                  | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.solana-cn.com%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.solana-cn.com)                   |
 | [ 视频教程 ](https://www.bilibili.com/video/BV1NJ4m187og) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1NJ4m187og) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.bilibili.com) |
 
-## 仓库状态核验
-
-2026-10-13 核对 [GitHub 仓库](https://github.com/solana-labs/solana) 的归档标志，当前为 archived。此状态仅描述本条目所链接的仓库，不代表整个项目生态停止发展。
-
-## 本次资料核验
+## 维护情况与资料核验
 
 - 核验日期：2026-10-13。
-- [当前仓库 README](https://github.com/solana-labs/solana/blob/master/README.md)。
-- 本次处理：根据实际归档标志标记历史仓库。未逐项运行代码或验证性能，不据网页可访问将状态改为 active。
+
+主仓库的 GitHub 归档标志为 true，状态表示该入口对应的历史仓库已经归档。
+
+README 将该仓库标为历史归档，并推荐 Anza 的 Agave。已读取 Agave README，旧仓库归档不代表 Solana 生态停止发展。
+
+- [主仓库状态](https://api.github.com/repos/solana-labs/solana)。
+- [官方 README](https://github.com/solana-labs/solana/blob/master/README.md)。
+- [维护提交（2025-01-22，UTC）](https://github.com/solana-labs/solana/commit/7700cb3128c1f19820de67b81aa45d18f73d2ac0)。
+- [后继项目 README](https://github.com/anza-xyz/agave/blob/master/README.md)。

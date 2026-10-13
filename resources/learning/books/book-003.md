@@ -10,18 +10,18 @@ status: "archived"
 
 ![stars](https://img.shields.io/github/stars/kingfree/cheats.rs?style=flat) ![GitHub](https://img.shields.io/github/license/kingfree/cheats.rs)
 
-> 使用案例, 按优先顺序排列: **\*识别和查找指南** 用于代码中遇到的构造, **\*发现** 你可能不懂的语言部分, **\*了解 Rust** 如果你有编程经验.
+> Rust 语言备忘清单的简体中文翻译，按语言构造提供高信息密度的查阅内容。所链接的中文翻译仓库已归档，不能据此认定英文原版也停止维护。
 
 | 导航                                                 | 徽章                                                                                                                                                                                                   |
 | :--------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 文档仓库 ](https://github.com/kingfree/cheats.rs/) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fkingfree%2Fcheats.rs%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
-## 仓库状态核验
-
-2026-10-13 核对 [GitHub 仓库](https://github.com/kingfree/cheats.rs) 的归档标志，当前为 archived。此状态仅描述本条目所链接的仓库，不代表整个项目生态停止发展。
-
-## 本次资料核验
+## 维护情况与资料核验
 
 - 核验日期：2026-10-13。
-- [当前仓库 README](https://github.com/kingfree/cheats.rs/blob/master/README.md)。
-- 本次处理：补齐/校正主仓库徽章；根据实际归档标志标记历史仓库。未逐项运行代码或验证性能，不据网页可访问将状态改为 active。
+
+主仓库的 GitHub 归档标志为 true，状态表示该入口对应的历史仓库已经归档。
+
+- [主仓库状态](https://api.github.com/repos/kingfree/cheats.rs)。
+- [官方 README](https://github.com/kingfree/cheats.rs/blob/master/README.md)。
+- [维护提交（2022-03-11，UTC）](https://github.com/kingfree/cheats.rs/commit/62bcc7cebc8656f709f4258dd60b2e16f012abda)。

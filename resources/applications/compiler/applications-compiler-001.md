@@ -18,8 +18,12 @@ status: "unknown"
 
 ## 维护情况与资料核验
 
-官方 README 提醒默认 `dev` 分支无法正常构建或运行，并给出了历史可用提交。核验时默认分支最近一次公开提交为 2021-10-31，未取得足以确认当前仍在维护或已经停止维护的证据，因此保留 `unknown`；README 中关于本地开发的旧说明不作为当前活跃维护依据。
-
 - 核验日期：2026-10-13。
+
+已读取当前 README并核对主题；默认分支最近公开提交为 2021-10-31。本次未取得足够的当前维护证据，保留 unknown；提交较少不能证明已经停止维护。
+
+README 提醒默认 dev 分支无法正常构建或运行，并列出历史可用提交。其关于作者本地开发的旧说明不能证明当前仍在维护。
+
+- [主仓库状态](https://api.github.com/repos/Starlight-JS/starlight)。
 - [官方 README](https://github.com/Starlight-JS/starlight/blob/dev/README.md)。
-- [默认分支提交记录](https://github.com/Starlight-JS/starlight/commit/503e789b9ef53594aee30c45a621018e855dcc17)（2021-10-31，UTC）。
+- [维护提交（2021-10-31，UTC）](https://github.com/Starlight-JS/starlight/commit/503e789b9ef53594aee30c45a621018e855dcc17)。

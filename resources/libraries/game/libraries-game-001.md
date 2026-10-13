@@ -16,11 +16,16 @@ status: "active"
 | :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 代码仓库 ](https://github.com/bevyengine/bevy) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fbevyengine%2Fbevy) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
+## 补充资料
+
+- [v0.20.0 发布记录](https://github.com/bevyengine/bevy/releases/tag/v0.20.0)。
+
 ## 维护情况与资料核验
 
-官方发布记录显示 v0.20.0 于 2026-10-08 发布，默认分支也持续有代码提交，因此标记为 `active`。官方 README 提醒项目仍在发展中，版本升级可能包含破坏性 API 变更；选择版本和学习示例时应核对对应发布版本。
-
 - 核验日期：2026-10-13。
+
+已读取当前 README，核对资源用途，并确认 2026-10-12 仍有公开维护提交，标为 active。
+
+- [主仓库状态](https://api.github.com/repos/bevyengine/bevy)。
 - [官方 README](https://github.com/bevyengine/bevy/blob/main/README.md)。
-- [默认分支提交记录](https://github.com/bevyengine/bevy/commit/12a94e0cd6b18df7a0dc2e5a202a55156d80e9a6)（2026-10-12，UTC）。
-- [v0.20.0 发布记录](https://github.com/bevyengine/bevy/releases/tag/v0.20.0)。
+- [维护提交（2026-10-12，UTC）](https://github.com/bevyengine/bevy/commit/12a94e0cd6b18df7a0dc2e5a202a55156d80e9a6)。

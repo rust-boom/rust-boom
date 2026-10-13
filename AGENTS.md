@@ -17,7 +17,7 @@
 - 本地 Agent 使用 `codex/<任务名称>` 分支。GitHub Agent 和 Agentic Workflow 可使用平台管理的任务分支。
 - 禁止自动直接 Push `master`、`main`、`develop` 或仓库默认分支；直接 Push 这些分支必须由用户明确点名授权。
 - PR 目标使用仓库实际默认分支，不假定其名称。没有实质变更不创建空提交或空 PR。
-- 不自动合并 PR，不提前关闭 Issue。完整解决的 Issue 在 PR 正文各写一行 `Closes #编号`，合并到默认分支后自动关闭；背景引用使用 `Refs #编号`。
+- 本地 Agent 不直接合并 PR；资源和普通文档可由 `.github/workflows/review-resources.md` 在 AI 评审无问题、当前提交 CI 通过且合并门槛满足时自动合并。工作流、脚本、依赖和 Agent 规则需人工审核合并。不提前关闭 Issue。完整解决的 Issue 在 PR 正文各写一行 `Closes #编号`，合并到默认分支后自动关闭；背景引用使用 `Refs #编号`。
 - 不自动 force push、重写历史、重置/清理用户改动、修改凭证或扩大 token 权限。认证或权限不足时保留本地结果并报告具体阻塞。
 
 ## 工作区与验证

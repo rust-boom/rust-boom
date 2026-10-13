@@ -804,7 +804,7 @@
     "title": "Bevy",
     "category": "libraries/game",
     "url": "https://github.com/bevyengine/bevy",
-    "status": "unknown",
+    "status": "active",
     "path": "resources/libraries/game/libraries-game-001.md"
   },
   {
@@ -812,7 +812,7 @@
     "title": "tetra",
     "category": "libraries/game",
     "url": "https://github.com/17cupsofcoffee/tetra",
-    "status": "unknown",
+    "status": "active",
     "path": "resources/libraries/game/libraries-game-002.md"
   },
   {
@@ -852,7 +852,7 @@
     "title": "glium",
     "category": "libraries/graphics",
     "url": "https://github.com/glium/glium",
-    "status": "unknown",
+    "status": "active",
     "path": "resources/libraries/graphics/libraries-graphics-003.md"
   },
   {
@@ -1228,7 +1228,7 @@
     "title": "axum",
     "category": "libraries/web",
     "url": "https://github.com/tokio-rs/axum",
-    "status": "unknown",
+    "status": "active",
     "path": "resources/libraries/web/libraries-web-005.md"
   },
   {

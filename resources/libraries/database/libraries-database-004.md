@@ -10,12 +10,18 @@ status: "unknown"
 
 ![stars](https://img.shields.io/github/stars/thedodd/wither?style=flat) ![GitHub](https://img.shields.io/github/license/thedodd/wither)
 
-> 该项目的主要目标是基于数据模型为 MongoDB 提供一个简单、健全且可预测的接口。如果在任何时候该系统可能会妨碍您，您可以直接访问底层驱动程序。该项目针对 MongoDB 3.6、4.0、4.2 和 4.4 进行了测试。
-> 好消息！ Wither 现在基于官方的 MongoDB Rust 驱动程序。由于驱动程序的进步，Wither 现在是完全异步的。简单地镜像底层 MongoDB 驱动程序的功能，Wither 支持以下运行时：
-> tokio-runtime（默认）激活 tokio 运行时。
-> async-std-runtime 激活 async-std 运行时。
-> 由于底层驱动程序的更新，Model trait 以及 Model 派生宏有相当多的重大变化。详细信息可以在更改日志和文档中找到。此外，现在默认情况下一切都是异步的，并且同步接口已从 repo 中完全删除。
+> Wither 是基于官方 MongoDB Rust 驱动的 ODM，通过数据模型提供访问和索引管理等接口。README 中的运行时和数据库兼容说明属于该仓库版本，不代表支持当前所有版本。
 
 | 导航                                            | 徽章                                                                                                                                                                                            |
 | :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 代码仓库 ](https://github.com/thedodd/wither) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fthedodd%2Fwither) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
+## 维护情况与资料核验
+
+- 核验日期：2026-10-13。
+
+已读取当前 README并核对主题；默认分支最近公开提交为 2021-11-28。本次未取得足够的当前维护证据，保留 unknown；提交较少不能证明已经停止维护。
+
+- [主仓库状态](https://api.github.com/repos/thedodd/wither)。
+- [官方 README](https://github.com/thedodd/wither/blob/master/README.md)。
+- [维护提交（2021-11-28，UTC）](https://github.com/thedodd/wither/commit/52fd5037d5aa0dc358def3760cea8ef13a8766e8)。

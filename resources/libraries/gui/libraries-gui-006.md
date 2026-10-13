@@ -16,6 +16,14 @@ status: "archived"
 | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [ 代码仓库 ](https://github.com/linebender/druid) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flinebender%2Fdruid) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
-## 当前资料核验
+## 维护情况与资料核验
 
-2026-10-13 对照 [当前 README](https://github.com/linebender/druid) 修订以上介绍。具体版本与兼容性以项目文档为准。
+- 核验日期：2026-10-13。
+
+官方 README 明确声明项目停止维护，保留 archived。
+
+README 明确标为 UNMAINTAINED / discontinued，新开发转到 Xilem。即使有依赖或构建修订，也不据此恢复 active。
+
+- [主仓库状态](https://api.github.com/repos/linebender/druid)。
+- [官方 README](https://github.com/linebender/druid/blob/master/README.md)。
+- [维护提交（2025-12-14，UTC）](https://github.com/linebender/druid/commit/b27ea6a618c32f9ea0e8a56822f9487d23401c0d)。

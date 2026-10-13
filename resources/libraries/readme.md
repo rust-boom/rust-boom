@@ -12,16 +12,16 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Tauri](gui/libraries-gui-001.md) | `libraries-gui-001` | 待核验 | ![stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat) ![GitHub](https://img.shields.io/github/license/tauri-apps/tauri) |
-| [egui](gui/libraries-gui-002.md) | `libraries-gui-002` | 待核验 | ![stars](https://img.shields.io/github/stars/emilk/egui?style=flat) ![GitHub](https://img.shields.io/github/license/emilk/egui) |
-| [fltk-rs](gui/libraries-gui-003.md) | `libraries-gui-003` | 待核验 | ![stars](https://img.shields.io/github/stars/fltk-rs/fltk-rs?style=flat) ![GitHub](https://img.shields.io/github/license/fltk-rs/fltk-rs) |
-| [iced](gui/libraries-gui-004.md) | `libraries-gui-004` | 待核验 | ![stars](https://img.shields.io/github/stars/iced-rs/iced?style=flat) ![GitHub](https://img.shields.io/github/license/iced-rs/iced) |
-| [xilem](gui/libraries-gui-005.md) | `libraries-gui-005` | 待核验 | ![stars](https://img.shields.io/github/stars/linebender/xilem?style=flat) ![GitHub](https://img.shields.io/github/license/linebender/xilem) |
+| [Tauri](gui/libraries-gui-001.md) | `libraries-gui-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat) ![GitHub](https://img.shields.io/github/license/tauri-apps/tauri) |
+| [egui](gui/libraries-gui-002.md) | `libraries-gui-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/emilk/egui?style=flat) ![GitHub](https://img.shields.io/github/license/emilk/egui) |
+| [fltk-rs](gui/libraries-gui-003.md) | `libraries-gui-003` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/fltk-rs/fltk-rs?style=flat) ![GitHub](https://img.shields.io/github/license/fltk-rs/fltk-rs) |
+| [iced](gui/libraries-gui-004.md) | `libraries-gui-004` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/iced-rs/iced?style=flat) ![GitHub](https://img.shields.io/github/license/iced-rs/iced) |
+| [xilem](gui/libraries-gui-005.md) | `libraries-gui-005` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/linebender/xilem?style=flat) ![GitHub](https://img.shields.io/github/license/linebender/xilem) |
 | [druid](gui/libraries-gui-006.md) | `libraries-gui-006` | 停止更新 | ![stars](https://img.shields.io/github/stars/linebender/druid?style=flat) ![GitHub](https://img.shields.io/github/license/linebender/druid) |
-| [Dioxus](gui/libraries-gui-007.md) | `libraries-gui-007` | 待核验 | ![stars](https://img.shields.io/github/stars/DioxusLabs/dioxus?style=flat) ![GitHub](https://img.shields.io/github/license/DioxusLabs/dioxus) |
-| [Vizia](gui/libraries-gui-008.md) | `libraries-gui-008` | 待核验 | ![stars](https://img.shields.io/github/stars/vizia/vizia?style=flat) ![GitHub](https://img.shields.io/github/license/vizia/vizia) |
-| [slint](gui/libraries-gui-009.md) | `libraries-gui-009` | 待核验 | ![stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat) ![GitHub](https://img.shields.io/github/license/slint-ui/slint) |
-| [GPUI Kit](gui/libraries-gui-010.md) | `libraries-gui-010` | 待核验 | ![stars](https://img.shields.io/github/stars/longbridge/gpui-kit?style=flat) ![license](https://img.shields.io/badge/license-Apache--2.0-blue) |
+| [Dioxus](gui/libraries-gui-007.md) | `libraries-gui-007` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/DioxusLabs/dioxus?style=flat) ![GitHub](https://img.shields.io/github/license/DioxusLabs/dioxus) |
+| [Vizia](gui/libraries-gui-008.md) | `libraries-gui-008` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/vizia/vizia?style=flat) ![GitHub](https://img.shields.io/github/license/vizia/vizia) |
+| [slint](gui/libraries-gui-009.md) | `libraries-gui-009` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat) ![GitHub](https://img.shields.io/github/license/slint-ui/slint) |
+| [GPUI Kit](gui/libraries-gui-010.md) | `libraries-gui-010` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/longbridge/gpui-kit?style=flat) ![license](https://img.shields.io/badge/license-Apache--2.0-blue) |
 
 <a id="tui"></a>
 
@@ -29,7 +29,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [ratatui](tui/libraries-tui-001.md) | `libraries-tui-001` | 待核验 | ![stars](https://img.shields.io/github/stars/ratatui/ratatui?style=flat) ![GitHub](https://img.shields.io/github/license/ratatui/ratatui) |
+| [ratatui](tui/libraries-tui-001.md) | `libraries-tui-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/ratatui/ratatui?style=flat) ![GitHub](https://img.shields.io/github/license/ratatui/ratatui) |
 | [tui-rs](tui/libraries-tui-002.md) | `libraries-tui-002` | 停止更新 | ![stars](https://img.shields.io/github/stars/fdehau/tui-rs?style=flat) ![GitHub](https://img.shields.io/github/license/fdehau/tui-rs) |
 
 <a id="cli"></a>
@@ -56,7 +56,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Tokio](async/libraries-async-001.md) | `libraries-async-001` | 待核验 | ![stars](https://img.shields.io/github/stars/tokio-rs/tokio?style=flat) ![GitHub](https://img.shields.io/github/license/tokio-rs/tokio) |
+| [Tokio](async/libraries-async-001.md) | `libraries-async-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/tokio-rs/tokio?style=flat) ![GitHub](https://img.shields.io/github/license/tokio-rs/tokio) |
 
 <a id="frontend"></a>
 
@@ -64,8 +64,8 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Yew](frontend/libraries-frontend-001.md) | `libraries-frontend-001` | 待核验 | ![stars](https://img.shields.io/github/stars/yewstack/yew?style=flat) ![GitHub](https://img.shields.io/github/license/yewstack/yew) |
-| [napi-rs](frontend/libraries-frontend-002.md) | `libraries-frontend-002` | 待核验 | ![stars](https://img.shields.io/github/stars/napi-rs/napi-rs?style=flat) ![GitHub](https://img.shields.io/github/license/napi-rs/napi-rs) |
+| [Yew](frontend/libraries-frontend-001.md) | `libraries-frontend-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/yewstack/yew?style=flat) ![GitHub](https://img.shields.io/github/license/yewstack/yew) |
+| [napi-rs](frontend/libraries-frontend-002.md) | `libraries-frontend-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/napi-rs/napi-rs?style=flat) ![GitHub](https://img.shields.io/github/license/napi-rs/napi-rs) |
 
 <a id="wasm"></a>
 
@@ -73,10 +73,10 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [wasmtime](wasm/libraries-wasm-001.md) | `libraries-wasm-001` | 待核验 | ![stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=flat) ![GitHub](https://img.shields.io/github/license/bytecodealliance/wasmtime) |
-| [wasmer](wasm/libraries-wasm-002.md) | `libraries-wasm-002` | 待核验 | ![stars](https://img.shields.io/github/stars/wasmerio/wasmer?style=flat) ![GitHub](https://img.shields.io/github/license/wasmerio/wasmer) |
-| [WasmEdge](wasm/libraries-wasm-003.md) | `libraries-wasm-003` | 待核验 | ![stars](https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=flat) ![GitHub](https://img.shields.io/github/license/WasmEdge/WasmEdge) |
-| [WASI](wasm/libraries-wasm-004.md) | `libraries-wasm-004` | 待核验 | ![stars](https://img.shields.io/github/stars/WebAssembly/WASI?style=flat) ![GitHub](https://img.shields.io/github/license/WebAssembly/WASI) |
+| [wasmtime](wasm/libraries-wasm-001.md) | `libraries-wasm-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=flat) ![GitHub](https://img.shields.io/github/license/bytecodealliance/wasmtime) |
+| [wasmer](wasm/libraries-wasm-002.md) | `libraries-wasm-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/wasmerio/wasmer?style=flat) ![GitHub](https://img.shields.io/github/license/wasmerio/wasmer) |
+| [WasmEdge](wasm/libraries-wasm-003.md) | `libraries-wasm-003` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=flat) ![GitHub](https://img.shields.io/github/license/WasmEdge/WasmEdge) |
+| [WASI](wasm/libraries-wasm-004.md) | `libraries-wasm-004` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/WebAssembly/WASI?style=flat) ![GitHub](https://img.shields.io/github/license/WebAssembly/WASI) |
 
 <a id="network"></a>
 
@@ -84,7 +84,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [libp2p](network/libraries-network-001.md) | `libraries-network-001` | 待核验 | ![stars](https://img.shields.io/github/stars/libp2p/rust-libp2p?style=flat) ![GitHub](https://img.shields.io/github/license/libp2p/rust-libp2p) |
+| [libp2p](network/libraries-network-001.md) | `libraries-network-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/libp2p/rust-libp2p?style=flat) ![GitHub](https://img.shields.io/github/license/libp2p/rust-libp2p) |
 | [Crust](network/libraries-network-002.md) | `libraries-network-002` | 停止更新 | ![stars](https://img.shields.io/github/stars/maidsafe-archive/crust?style=flat) ![GitHub](https://img.shields.io/github/license/maidsafe-archive/crust) |
 
 <a id="web"></a>
@@ -93,12 +93,12 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Rocket](web/libraries-web-001.md) | `libraries-web-001` | 待核验 | ![stars](https://img.shields.io/github/stars/rwf2/Rocket?style=flat) ![GitHub](https://img.shields.io/github/license/rwf2/Rocket) |
-| [Actix Web](web/libraries-web-002.md) | `libraries-web-002` | 待核验 | ![stars](https://img.shields.io/github/stars/actix/actix-web?style=flat) ![GitHub](https://img.shields.io/github/license/actix/actix-web) |
-| [warp](web/libraries-web-003.md) | `libraries-web-003` | 待核验 | ![stars](https://img.shields.io/github/stars/seanmonstar/warp?style=flat) ![GitHub](https://img.shields.io/github/license/seanmonstar/warp) |
-| [poem](web/libraries-web-004.md) | `libraries-web-004` | 待核验 | ![stars](https://img.shields.io/github/stars/poem-web/poem?style=flat) ![GitHub](https://img.shields.io/github/license/poem-web/poem) |
+| [Rocket](web/libraries-web-001.md) | `libraries-web-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/rwf2/Rocket?style=flat) ![GitHub](https://img.shields.io/github/license/rwf2/Rocket) |
+| [Actix Web](web/libraries-web-002.md) | `libraries-web-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/actix/actix-web?style=flat) ![GitHub](https://img.shields.io/github/license/actix/actix-web) |
+| [warp](web/libraries-web-003.md) | `libraries-web-003` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/seanmonstar/warp?style=flat) ![GitHub](https://img.shields.io/github/license/seanmonstar/warp) |
+| [poem](web/libraries-web-004.md) | `libraries-web-004` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/poem-web/poem?style=flat) ![GitHub](https://img.shields.io/github/license/poem-web/poem) |
 | [axum](web/libraries-web-005.md) | `libraries-web-005` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat) ![GitHub](https://img.shields.io/github/license/tokio-rs/axum) |
-| [Salvo](web/libraries-web-006.md) | `libraries-web-006` | 待核验 | ![stars](https://img.shields.io/github/stars/salvo-rs/salvo?style=flat) ![GitHub](https://img.shields.io/github/license/salvo-rs/salvo) |
+| [Salvo](web/libraries-web-006.md) | `libraries-web-006` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/salvo-rs/salvo?style=flat) ![GitHub](https://img.shields.io/github/license/salvo-rs/salvo) |
 
 <a id="serialization"></a>
 
@@ -109,9 +109,9 @@
 | [A-JSON](serialization/libraries-serialization-001.md) | `libraries-serialization-001` | 待核验 | ![stars](https://img.shields.io/github/stars/importcjj/rust-ajson?style=flat) ![GitHub](https://img.shields.io/github/license/importcjj/rust-ajson) |
 | [json-rust](serialization/libraries-serialization-002.md) | `libraries-serialization-002` | 待核验 | ![stars](https://img.shields.io/github/stars/maciejhirsz/json-rust?style=flat) ![GitHub](https://img.shields.io/github/license/maciejhirsz/json-rust) |
 | [pikkr](serialization/libraries-serialization-003.md) | `libraries-serialization-003` | 待核验 | ![stars](https://img.shields.io/github/stars/pikkr/pikkr?style=flat) ![GitHub](https://img.shields.io/github/license/pikkr/pikkr) |
-| [Serde](serialization/libraries-serialization-004.md) | `libraries-serialization-004` | 待核验 | ![stars](https://img.shields.io/github/stars/serde-rs/serde?style=flat) ![GitHub](https://img.shields.io/github/license/serde-rs/serde) |
-| [quick-xml](serialization/libraries-serialization-005.md) | `libraries-serialization-005` | 待核验 | ![stars](https://img.shields.io/github/stars/tafia/quick-xml?style=flat) ![GitHub](https://img.shields.io/github/license/tafia/quick-xml) |
-| [musli](serialization/libraries-serialization-006.md) | `libraries-serialization-006` | 待核验 | ![stars](https://img.shields.io/github/stars/udoprog/musli?style=flat) ![GitHub](https://img.shields.io/github/license/udoprog/musli) |
+| [Serde](serialization/libraries-serialization-004.md) | `libraries-serialization-004` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/serde-rs/serde?style=flat) ![GitHub](https://img.shields.io/github/license/serde-rs/serde) |
+| [quick-xml](serialization/libraries-serialization-005.md) | `libraries-serialization-005` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/tafia/quick-xml?style=flat) ![GitHub](https://img.shields.io/github/license/tafia/quick-xml) |
+| [musli](serialization/libraries-serialization-006.md) | `libraries-serialization-006` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/udoprog/musli?style=flat) ![GitHub](https://img.shields.io/github/license/udoprog/musli) |
 
 <a id="messaging"></a>
 
@@ -119,7 +119,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [rocketmq-rust](messaging/libraries-messaging-001.md) | `libraries-messaging-001` | 待核验 | ![stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat) ![GitHub](https://img.shields.io/github/license/mxsm/rocketmq-rust) |
+| [rocketmq-rust](messaging/libraries-messaging-001.md) | `libraries-messaging-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat) ![GitHub](https://img.shields.io/github/license/mxsm/rocketmq-rust) |
 
 <a id="config"></a>
 
@@ -127,7 +127,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [config-rs](config/libraries-config-001.md) | `libraries-config-001` | 待核验 | ![stars](https://img.shields.io/github/stars/rust-cli/config-rs?style=flat) ![GitHub](https://img.shields.io/github/license/rust-cli/config-rs) |
+| [config-rs](config/libraries-config-001.md) | `libraries-config-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/rust-cli/config-rs?style=flat) ![GitHub](https://img.shields.io/github/license/rust-cli/config-rs) |
 
 <a id="datetime"></a>
 
@@ -135,9 +135,9 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [time](datetime/libraries-datetime-001.md) | `libraries-datetime-001` | 待核验 | ![stars](https://img.shields.io/github/stars/time-rs/time?style=flat) ![GitHub](https://img.shields.io/github/license/time-rs/time) |
-| [chrono](datetime/libraries-datetime-002.md) | `libraries-datetime-002` | 待核验 | ![stars](https://img.shields.io/github/stars/chronotope/chrono?style=flat) ![GitHub](https://img.shields.io/github/license/chronotope/chrono) |
-| [httpdate](datetime/libraries-datetime-003.md) | `libraries-datetime-003` | 待核验 | ![stars](https://img.shields.io/github/stars/pyfisch/httpdate?style=flat) ![GitHub](https://img.shields.io/github/license/pyfisch/httpdate) |
+| [time](datetime/libraries-datetime-001.md) | `libraries-datetime-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/time-rs/time?style=flat) ![GitHub](https://img.shields.io/github/license/time-rs/time) |
+| [chrono](datetime/libraries-datetime-002.md) | `libraries-datetime-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/chronotope/chrono?style=flat) ![GitHub](https://img.shields.io/github/license/chronotope/chrono) |
+| [httpdate](datetime/libraries-datetime-003.md) | `libraries-datetime-003` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/pyfisch/httpdate?style=flat) ![GitHub](https://img.shields.io/github/license/pyfisch/httpdate) |
 
 <a id="encoding"></a>
 
@@ -145,7 +145,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [base64](encoding/libraries-encoding-001.md) | `libraries-encoding-001` | 待核验 | ![stars](https://img.shields.io/github/stars/marshallpierce/rust-base64?style=flat) ![GitHub](https://img.shields.io/github/license/marshallpierce/rust-base64) |
+| [base64](encoding/libraries-encoding-001.md) | `libraries-encoding-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/marshallpierce/rust-base64?style=flat) ![GitHub](https://img.shields.io/github/license/marshallpierce/rust-base64) |
 | [utf8mb3](encoding/libraries-encoding-002.md) | `libraries-encoding-002` | 待核验 | ![stars](https://img.shields.io/github/stars/Lydanne/utf8mb3?style=flat) ![GitHub](https://img.shields.io/github/license/Lydanne/utf8mb3) |
 
 <a id="security"></a>
@@ -154,7 +154,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [hmac](security/libraries-security-001.md) | `libraries-security-001` | 待核验 | ![stars](https://img.shields.io/github/stars/RustCrypto/MACs?style=flat) ![GitHub](https://img.shields.io/github/license/RustCrypto/MACs) |
+| [hmac](security/libraries-security-001.md) | `libraries-security-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/RustCrypto/MACs?style=flat) ![GitHub](https://img.shields.io/github/license/RustCrypto/MACs) |
 | [jwt](security/libraries-security-002.md) | `libraries-security-002` | 待核验 | ![stars](https://img.shields.io/github/stars/mikkyang/rust-jwt?style=flat) ![GitHub](https://img.shields.io/github/license/mikkyang/rust-jwt) |
 | [josekit](security/libraries-security-003.md) | `libraries-security-003` | 待核验 | ![stars](https://img.shields.io/github/stars/hidekatsu-izuno/josekit-rs?style=flat) ![GitHub](https://img.shields.io/github/license/hidekatsu-izuno/josekit-rs) |
 | [sha](security/libraries-security-004.md) | `libraries-security-004` | 待核验 | ![stars](https://img.shields.io/github/stars/andydude/rust-sha?style=flat) ![GitHub](https://img.shields.io/github/license/andydude/rust-sha) |
@@ -165,11 +165,11 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [SeaORM](database/libraries-database-001.md) | `libraries-database-001` | 待核验 | ![stars](https://img.shields.io/github/stars/SeaQL/sea-orm?style=flat) ![GitHub](https://img.shields.io/github/license/SeaQL/sea-orm) |
-| [rbatis](database/libraries-database-002.md) | `libraries-database-002` | 待核验 | ![stars](https://img.shields.io/github/stars/rbatis/rbatis?style=flat) ![GitHub](https://img.shields.io/github/license/rbatis/rbatis) |
-| [MongoDB Rust Driver](database/libraries-database-003.md) | `libraries-database-003` | 待核验 | ![stars](https://img.shields.io/github/stars/mongodb/mongo-rust-driver?style=flat) ![GitHub](https://img.shields.io/github/license/mongodb/mongo-rust-driver) |
+| [SeaORM](database/libraries-database-001.md) | `libraries-database-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/SeaQL/sea-orm?style=flat) ![GitHub](https://img.shields.io/github/license/SeaQL/sea-orm) |
+| [rbatis](database/libraries-database-002.md) | `libraries-database-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/rbatis/rbatis?style=flat) ![GitHub](https://img.shields.io/github/license/rbatis/rbatis) |
+| [MongoDB Rust Driver](database/libraries-database-003.md) | `libraries-database-003` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/mongodb/mongo-rust-driver?style=flat) ![GitHub](https://img.shields.io/github/license/mongodb/mongo-rust-driver) |
 | [wither](database/libraries-database-004.md) | `libraries-database-004` | 待核验 | ![stars](https://img.shields.io/github/stars/thedodd/wither?style=flat) ![GitHub](https://img.shields.io/github/license/thedodd/wither) |
-| [redis-rs](database/libraries-database-005.md) | `libraries-database-005` | 待核验 | ![stars](https://img.shields.io/github/stars/redis-rs/redis-rs?style=flat) ![GitHub](https://img.shields.io/github/license/redis-rs/redis-rs) |
+| [redis-rs](database/libraries-database-005.md) | `libraries-database-005` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/redis-rs/redis-rs?style=flat) ![GitHub](https://img.shields.io/github/license/redis-rs/redis-rs) |
 | [r2d2](database/libraries-database-006.md) | `libraries-database-006` | 待核验 | ![stars](https://img.shields.io/github/stars/sfackler/r2d2?style=flat) ![GitHub](https://img.shields.io/github/license/sfackler/r2d2) |
 
 <a id="testing"></a>
@@ -178,7 +178,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [mockall](testing/libraries-testing-001.md) | `libraries-testing-001` | 待核验 | ![stars](https://img.shields.io/github/stars/asomers/mockall?style=flat) ![GitHub](https://img.shields.io/github/license/asomers/mockall) |
+| [mockall](testing/libraries-testing-001.md) | `libraries-testing-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/asomers/mockall?style=flat) ![GitHub](https://img.shields.io/github/license/asomers/mockall) |
 
 <a id="geometry"></a>
 
@@ -186,7 +186,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [geo](geometry/libraries-geometry-001.md) | `libraries-geometry-001` | 待核验 | ![stars](https://img.shields.io/github/stars/georust/geo?style=flat) ![GitHub](https://img.shields.io/github/license/georust/geo) |
+| [geo](geometry/libraries-geometry-001.md) | `libraries-geometry-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/georust/geo?style=flat) ![GitHub](https://img.shields.io/github/license/georust/geo) |
 
 <a id="image"></a>
 
@@ -194,7 +194,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [image-rs](image/libraries-image-001.md) | `libraries-image-001` | 待核验 | ![stars](https://img.shields.io/github/stars/image-rs/image?style=flat) ![GitHub](https://img.shields.io/github/license/image-rs/image) |
+| [image-rs](image/libraries-image-001.md) | `libraries-image-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/image-rs/image?style=flat) ![GitHub](https://img.shields.io/github/license/image-rs/image) |
 
 <a id="audio"></a>
 
@@ -202,7 +202,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Symphonia](audio/libraries-audio-001.md) | `libraries-audio-001` | 待核验 | ![stars](https://img.shields.io/github/stars/pdeljanov/Symphonia?style=flat) ![GitHub](https://img.shields.io/github/license/pdeljanov/Symphonia) |
+| [Symphonia](audio/libraries-audio-001.md) | `libraries-audio-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/pdeljanov/Symphonia?style=flat) ![GitHub](https://img.shields.io/github/license/pdeljanov/Symphonia) |
 
 <a id="video"></a>
 
@@ -210,7 +210,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [ffmpeg-sys-next](video/libraries-video-001.md) | `libraries-video-001` | 待核验 | ![stars](https://img.shields.io/github/stars/zmwangx/rust-ffmpeg-sys?style=flat) ![GitHub](https://img.shields.io/github/license/zmwangx/rust-ffmpeg-sys) |
+| [ffmpeg-sys-next](video/libraries-video-001.md) | `libraries-video-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/zmwangx/rust-ffmpeg-sys?style=flat) ![GitHub](https://img.shields.io/github/license/zmwangx/rust-ffmpeg-sys) |
 
 <a id="documents"></a>
 
@@ -218,10 +218,10 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [lopdf](documents/libraries-documents-001.md) | `libraries-documents-001` | 待核验 | ![stars](https://img.shields.io/github/stars/J-F-Liu/lopdf?style=flat) ![GitHub](https://img.shields.io/github/license/J-F-Liu/lopdf) |
-| [pdf-rs](documents/libraries-documents-002.md) | `libraries-documents-002` | 待核验 | ![stars](https://img.shields.io/github/stars/pdf-rs/pdf?style=flat) ![GitHub](https://img.shields.io/github/license/pdf-rs/pdf) |
-| [calamine](documents/libraries-documents-003.md) | `libraries-documents-003` | 待核验 | ![stars](https://img.shields.io/github/stars/tafia/calamine?style=flat) ![GitHub](https://img.shields.io/github/license/tafia/calamine) |
-| [docx-rs](documents/libraries-documents-004.md) | `libraries-documents-004` | 待核验 | ![stars](https://img.shields.io/github/stars/bokuweb/docx-rs?style=flat) ![GitHub](https://img.shields.io/github/license/bokuweb/docx-rs) |
+| [lopdf](documents/libraries-documents-001.md) | `libraries-documents-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/J-F-Liu/lopdf?style=flat) ![GitHub](https://img.shields.io/github/license/J-F-Liu/lopdf) |
+| [pdf-rs](documents/libraries-documents-002.md) | `libraries-documents-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/pdf-rs/pdf?style=flat) ![GitHub](https://img.shields.io/github/license/pdf-rs/pdf) |
+| [calamine](documents/libraries-documents-003.md) | `libraries-documents-003` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/tafia/calamine?style=flat) ![GitHub](https://img.shields.io/github/license/tafia/calamine) |
+| [docx-rs](documents/libraries-documents-004.md) | `libraries-documents-004` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/bokuweb/docx-rs?style=flat) ![GitHub](https://img.shields.io/github/license/bokuweb/docx-rs) |
 
 <a id="data"></a>
 
@@ -229,7 +229,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Polars](data/libraries-data-001.md) | `libraries-data-001` | 待核验 | ![stars](https://img.shields.io/github/stars/pola-rs/polars?style=flat) ![GitHub](https://img.shields.io/github/license/pola-rs/polars) |
+| [Polars](data/libraries-data-001.md) | `libraries-data-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/pola-rs/polars?style=flat) ![GitHub](https://img.shields.io/github/license/pola-rs/polars) |
 
 <a id="ast"></a>
 
@@ -247,7 +247,7 @@
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
 | [headless_chrome](automation/libraries-automation-001.md) | `libraries-automation-001` | 待核验 | ![stars](https://img.shields.io/github/stars/atroche/rust-headless-chrome?style=flat) ![GitHub](https://img.shields.io/github/license/atroche/rust-headless-chrome) |
-| [enigo](automation/libraries-automation-002.md) | `libraries-automation-002` | 待核验 | ![stars](https://img.shields.io/github/stars/enigo-rs/enigo?style=flat) ![GitHub](https://img.shields.io/github/license/enigo-rs/enigo) |
+| [enigo](automation/libraries-automation-002.md) | `libraries-automation-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/enigo-rs/enigo?style=flat) ![GitHub](https://img.shields.io/github/license/enigo-rs/enigo) |
 | [InputBot](automation/libraries-automation-003.md) | `libraries-automation-003` | 待核验 | ![stars](https://img.shields.io/github/stars/obv-mikhail/InputBot?style=flat) ![GitHub](https://img.shields.io/github/license/obv-mikhail/InputBot) |
 
 <a id="system"></a>
@@ -256,8 +256,8 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [XCap（原 screenshots）](system/libraries-system-001.md) | `libraries-system-001` | 待核验 | ![stars](https://img.shields.io/github/stars/nashaofu/xcap?style=flat) ![GitHub](https://img.shields.io/github/license/nashaofu/xcap) |
-| [execute](system/libraries-system-002.md) | `libraries-system-002` | 待核验 | ![stars](https://img.shields.io/github/stars/magiclen/execute?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/execute) |
+| [XCap（原 screenshots）](system/libraries-system-001.md) | `libraries-system-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/nashaofu/xcap?style=flat) ![GitHub](https://img.shields.io/github/license/nashaofu/xcap) |
+| [execute](system/libraries-system-002.md) | `libraries-system-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/magiclen/execute?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/execute) |
 
 <a id="ml"></a>
 
@@ -273,8 +273,8 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [cbindgen](ffi/libraries-ffi-001.md) | `libraries-ffi-001` | 待核验 | ![stars](https://img.shields.io/github/stars/mozilla/cbindgen?style=flat) ![GitHub](https://img.shields.io/github/license/mozilla/cbindgen) |
-| [PyO3](ffi/libraries-ffi-002.md) | `libraries-ffi-002` | 待核验 | ![stars](https://img.shields.io/github/stars/PyO3/PyO3?style=flat) ![GitHub](https://img.shields.io/github/license/PyO3/PyO3) |
+| [cbindgen](ffi/libraries-ffi-001.md) | `libraries-ffi-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/mozilla/cbindgen?style=flat) ![GitHub](https://img.shields.io/github/license/mozilla/cbindgen) |
+| [PyO3](ffi/libraries-ffi-002.md) | `libraries-ffi-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/PyO3/PyO3?style=flat) ![GitHub](https://img.shields.io/github/license/PyO3/PyO3) |
 
 <a id="graphics"></a>
 
@@ -282,11 +282,11 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Speedy2D](graphics/libraries-graphics-001.md) | `libraries-graphics-001` | 待核验 | ![stars](https://img.shields.io/github/stars/QuantumBadger/Speedy2D?style=flat) ![GitHub](https://img.shields.io/github/license/QuantumBadger/Speedy2D) |
-| [wgpu](graphics/libraries-graphics-002.md) | `libraries-graphics-002` | 待核验 | ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu?style=flat) ![GitHub](https://img.shields.io/github/license/gfx-rs/wgpu) |
+| [Speedy2D](graphics/libraries-graphics-001.md) | `libraries-graphics-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/QuantumBadger/Speedy2D?style=flat) ![GitHub](https://img.shields.io/github/license/QuantumBadger/Speedy2D) |
+| [wgpu](graphics/libraries-graphics-002.md) | `libraries-graphics-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu?style=flat) ![GitHub](https://img.shields.io/github/license/gfx-rs/wgpu) |
 | [glium](graphics/libraries-graphics-003.md) | `libraries-graphics-003` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/glium/glium?style=flat) ![GitHub](https://img.shields.io/github/license/glium/glium) |
-| [vulkano](graphics/libraries-graphics-004.md) | `libraries-graphics-004` | 待核验 | ![stars](https://img.shields.io/github/stars/vulkano-rs/vulkano?style=flat) ![GitHub](https://img.shields.io/github/license/vulkano-rs/vulkano) |
-| [nannou](graphics/libraries-graphics-005.md) | `libraries-graphics-005` | 待核验 | ![stars](https://img.shields.io/github/stars/nannou-org/nannou?style=flat) ![GitHub](https://img.shields.io/github/license/nannou-org/nannou) |
+| [vulkano](graphics/libraries-graphics-004.md) | `libraries-graphics-004` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/vulkano-rs/vulkano?style=flat) ![GitHub](https://img.shields.io/github/license/vulkano-rs/vulkano) |
+| [nannou](graphics/libraries-graphics-005.md) | `libraries-graphics-005` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/nannou-org/nannou?style=flat) ![GitHub](https://img.shields.io/github/license/nannou-org/nannou) |
 | [raqote](graphics/libraries-graphics-006.md) | `libraries-graphics-006` | 待核验 | ![stars](https://img.shields.io/github/stars/jrmuizel/raqote?style=flat) ![GitHub](https://img.shields.io/github/license/jrmuizel/raqote) |
 
 <a id="rpc"></a>
@@ -296,7 +296,7 @@
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
 | [Dubbo-rust](rpc/libraries-rpc-001.md) | `libraries-rpc-001` | 待核验 | ![stars](https://img.shields.io/github/stars/apache/dubbo-rust?style=flat) ![GitHub](https://img.shields.io/github/license/apache/dubbo-rust) |
-| [volo](rpc/libraries-rpc-002.md) | `libraries-rpc-002` | 待核验 | ![stars](https://img.shields.io/github/stars/cloudwego/volo?style=flat) ![GitHub](https://img.shields.io/github/license/cloudwego/volo) |
+| [volo](rpc/libraries-rpc-002.md) | `libraries-rpc-002` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/cloudwego/volo?style=flat) ![GitHub](https://img.shields.io/github/license/cloudwego/volo) |
 
 <a id="multimedia"></a>
 
@@ -306,7 +306,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Rust-SDL2](multimedia/libraries-multimedia-001.md) | `libraries-multimedia-001` | 待核验 | ![stars](https://img.shields.io/github/stars/Rust-SDL2/rust-sdl2?style=flat) ![GitHub](https://img.shields.io/github/license/Rust-SDL2/rust-sdl2) |
+| [Rust-SDL2](multimedia/libraries-multimedia-001.md) | `libraries-multimedia-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/Rust-SDL2/rust-sdl2?style=flat) ![GitHub](https://img.shields.io/github/license/Rust-SDL2/rust-sdl2) |
 
 <a id="utilities"></a>
 
@@ -314,7 +314,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [educe](utilities/libraries-utilities-001.md) | `libraries-utilities-001` | 待核验 | ![stars](https://img.shields.io/github/stars/magiclen/educe?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/educe) |
+| [educe](utilities/libraries-utilities-001.md) | `libraries-utilities-001` | 已核验维护中 | ![stars](https://img.shields.io/github/stars/magiclen/educe?style=flat) ![GitHub](https://img.shields.io/github/license/magiclen/educe) |
 
 <a id="blockchain"></a>
 

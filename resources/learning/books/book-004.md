@@ -18,3 +18,15 @@ status: "unknown"
 | :--------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 在线文档 ](https://rustwiki.org/zh-CN/rust-by-example/)        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Frustwiki.org%2Fzh-CN%2Frust-by-example%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/rustwiki.org)    |
 | [ 文档仓库 ](https://github.com/rust-lang-cn/rust-by-example-cn) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frust-lang-cn%2Frust-by-example-cn) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
+## 维护情况与资料核验
+
+- 核验日期：2026-10-13。
+
+已读取当前 README并核对主题；默认分支最近公开提交为 2024-09-26。本次未取得足够的当前维护证据，保留 unknown；提交较少不能证明已经停止维护。
+
+本状态描述中文翻译仓库，不代表英文原版停止更新。使用示例时需对照当前 Rust 文档。
+
+- [主仓库状态](https://api.github.com/repos/rust-lang-cn/rust-by-example-cn)。
+- [官方 README](https://github.com/rust-lang-cn/rust-by-example-cn/blob/master/README.md)。
+- [维护提交（2024-09-26，UTC）](https://github.com/rust-lang-cn/rust-by-example-cn/commit/94ef6ea187d7de79e569ce59e8250090e8be2289)。

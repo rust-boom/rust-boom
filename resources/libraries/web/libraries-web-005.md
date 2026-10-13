@@ -18,8 +18,10 @@ status: "active"
 
 ## 维护情况与资料核验
 
-默认分支在 2026-10-11 仍有 HTTP CONNECT 响应处理修复，标记为 `active`。核验时官方 README 提醒 `main` 正在开发 0.9，包含破坏性变更；使用已发布 0.8 系列时应参考 `v0.8.x` 分支及相应版本文档。
-
 - 核验日期：2026-10-13。
+
+已读取当前 README，核对资源用途，并确认 2026-10-11 仍有公开维护提交，标为 active。
+
+- [主仓库状态](https://api.github.com/repos/tokio-rs/axum)。
 - [官方 README](https://github.com/tokio-rs/axum/blob/main/README.md)。
-- [默认分支提交记录](https://github.com/tokio-rs/axum/commit/e57b547eb95de74b73b34719dd5926254a085634)（2026-10-11，UTC）。
+- [维护提交（2026-10-11，UTC）](https://github.com/tokio-rs/axum/commit/e57b547eb95de74b73b34719dd5926254a085634)。

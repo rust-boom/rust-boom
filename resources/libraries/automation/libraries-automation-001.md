@@ -27,3 +27,13 @@ status: "unknown"
 | 导航                                                          | 徽章                                                                                                                                                                                                          |
 | :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [ 代码仓库 ](https://github.com/atroche/rust-headless-chrome) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fatroche%2Frust-headless-chrome) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
+## 维护情况与资料核验
+
+- 核验日期：2026-10-13。
+
+已读取当前 README并核对主题；默认分支最近公开提交为 2024-02-26。本次未取得足够的当前维护证据，保留 unknown；提交较少不能证明已经停止维护。
+
+- [主仓库状态](https://api.github.com/repos/atroche/rust-headless-chrome)。
+- [官方 README](https://github.com/atroche/rust-headless-chrome/blob/main/README.md)。
+- [维护提交（2024-02-26，UTC）](https://github.com/atroche/rust-headless-chrome/commit/d53405bf799c3d2f74ecd8c4daa656b194397d2e)。

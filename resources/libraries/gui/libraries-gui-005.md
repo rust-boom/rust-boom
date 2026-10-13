@@ -3,15 +3,25 @@ id: "libraries-gui-005"
 title: "xilem"
 category: "libraries/gui"
 url: "https://github.com/linebender/xilem"
-status: "unknown"
+status: "active"
 ---
 
 # xilem
 
 ![stars](https://img.shields.io/github/stars/linebender/xilem?style=flat) ![GitHub](https://img.shields.io/github/license/linebender/xilem)
 
-> 此软件仓库包含一个实验性架构，通过玩具用户界面实现。在高层次上，它结合了 Flutter、SwiftUI 和 Elm 的理念。与所有这些架构一样，它使用轻量级视图对象，通过对它们进行差异化处理，从而为保留的 UI 提供最少的更新。与 SwiftUI 一样，它也是强类型的。
+> Xilem 是实验性的 Rust 响应式 UI 框架，提供 Web 和 Masonry 后端；Masonry 管理原生 GUI 的保留式组件树，Xilem 通过视图树变化更新界面。
 
 | 导航                                              | 徽章                                                                                                                                                                                              |
 | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [ 代码仓库 ](https://github.com/linebender/xilem) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Flinebender%2Fxilem) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
+## 维护情况与资料核验
+
+- 核验日期：2026-10-13。
+
+已读取当前 README，核对资源用途，并确认 2026-09-14 仍有公开维护提交，标为 active。
+
+- [主仓库状态](https://api.github.com/repos/linebender/xilem)。
+- [官方 README](https://github.com/linebender/xilem/blob/main/README.md)。
+- [维护提交（2026-09-14，UTC）](https://github.com/linebender/xilem/commit/271a27a6d4a930f7878d404f9014e3c50a3a9b88)。

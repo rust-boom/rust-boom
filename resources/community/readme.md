@@ -12,9 +12,9 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Rust 语言中文社区-首页 (rustcc.cn)](forums/community-001.md) | `community-001` | 已核验维护中 |  |
-| [Rust 技术论坛 \| Rust 语言技术论坛 - 优质的 Rust 开发者学习社区 (learnku.com)](forums/community-002.md) | `community-002` | 已核验维护中 |  |
-| [The Rust Programming Language Forum (rust-lang.org)](forums/community-003.md) | `community-003` | 已核验维护中 |  |
+| [Rust 语言中文社区-首页 (rustcc.cn)](forums/community-001.md) | `community-001` | 维护中 |  |
+| [Rust 技术论坛 \| Rust 语言技术论坛 - 优质的 Rust 开发者学习社区 (learnku.com)](forums/community-002.md) | `community-002` | 维护中 |  |
+| [The Rust Programming Language Forum (rust-lang.org)](forums/community-003.md) | `community-003` | 维护中 |  |
 
 <a id="news"></a>
 
@@ -22,4 +22,4 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Linux 内核将引入 Rust，Linus：以防此事搞砸了我又发脾气，先给大家道个歉-51CTO.COM](news/news-001.md) | `news-001` | 待核验 |  |
+| [Linux 内核将引入 Rust，Linus：以防此事搞砸了我又发脾气，先给大家道个歉-51CTO.COM](news/news-001.md) | `news-001` | 待确认 |  |

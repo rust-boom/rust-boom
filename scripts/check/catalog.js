@@ -89,7 +89,7 @@ export function outputs(categories, sourceResources, badges = new Map()) {
     page.push('| 资源 | ID | 状态 | Star 数 / 开源协议 |', '| --- | --- | --- | --- |');
     for (const r of resources.filter(r => r.category === c.id)) {
       const title = r.title.replaceAll('|', '\\|').replaceAll('[', '\\[').replaceAll(']', '\\]');
-      const status = { unknown: '待核验', active: '已核验维护中', archived: '停止更新' }[r.status];
+      const status = { unknown: '待确认', active: '维护中', archived: '已停止' }[r.status];
       page.push(`| [${title}](${sub}/${r.id}.md) | \`${r.id}\` | ${status} | ${(badges.get(r.id) ?? []).join(' ')} |`);
     }
     page.push('');

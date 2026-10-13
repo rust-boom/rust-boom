@@ -33,13 +33,13 @@
 </details>
 
 <details>
-<summary><strong>开发库与框架</strong>（33 个分类 · 84 项资源）</summary>
+<summary><strong>开发库与框架</strong>（33 个分类 · 85 项资源）</summary>
 
 [浏览开发库与框架](libraries/readme.md)
 
 | 分类 | 资源数 |
 | --- | --- |
-| [桌面与 GUI](libraries/readme.md#gui) | 9 |
+| [桌面与 GUI](libraries/readme.md#gui) | 10 |
 | [终端界面](libraries/readme.md#tui) | 2 |
 | [命令行开发](libraries/readme.md#cli) | 1 |
 | [游戏开发](libraries/readme.md#game) | 3 |

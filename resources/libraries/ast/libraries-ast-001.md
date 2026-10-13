@@ -2,7 +2,7 @@
 id: "libraries-ast-001"
 title: "antlr-rust"
 category: "libraries/ast"
-url: "https://github.com/antlr/antlr4"
+url: "https://github.com/rrevenantt/antlr4rust"
 status: "unknown"
 ---
 
@@ -17,3 +17,9 @@ status: "unknown"
 | 导航                                                   | 徽章                                                                                                                                                                                                   |
 | :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 代码仓库 ](https://github.com/rrevenantt/antlr4rust) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Frrevenantt%2Fantlr4rust) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
+## 本次资料核验
+
+- 核验日期：2026-10-13。
+- [当前仓库 README](https://github.com/rrevenantt/antlr4rust/blob/master/README.md)。
+- 本次处理：修正主仓库归属。未逐项运行代码或验证性能，不据网页可访问将状态改为 active。

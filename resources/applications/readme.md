@@ -12,7 +12,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [rathole](tunnels/applications-tunnels-001.md) | `applications-tunnels-001` | 待核验 | ![stars](https://img.shields.io/github/stars/rapiz1/rathole?style=flat) ![GitHub](https://img.shields.io/github/license/rapiz1/rathole) |
+| [rathole](tunnels/applications-tunnels-001.md) | `applications-tunnels-001` | 待核验 | ![stars](https://img.shields.io/github/stars/rathole-org/rathole?style=flat) ![GitHub](https://img.shields.io/github/license/rathole-org/rathole) |
 | [bore](tunnels/applications-tunnels-002.md) | `applications-tunnels-002` | 待核验 | ![stars](https://img.shields.io/github/stars/ekzhang/bore?style=flat) ![GitHub](https://img.shields.io/github/license/ekzhang/bore) |
 
 <a id="observability"></a>
@@ -48,7 +48,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Wezterm](terminal/applications-terminal-001.md) | `applications-terminal-001` | 待核验 | ![stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub](https://img.shields.io/github/license/wez/wezterm) |
+| [Wezterm](terminal/applications-terminal-001.md) | `applications-terminal-001` | 待核验 | ![stars](https://img.shields.io/github/stars/wezterm/wezterm?style=flat) ![GitHub](https://img.shields.io/github/license/wezterm/wezterm) |
 
 <a id="remote"></a>
 
@@ -64,7 +64,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [GitUI](git/applications-git-001.md) | `applications-git-001` | 待核验 | ![stars](https://img.shields.io/github/stars/extrawurst/gitui?style=flat) ![GitHub](https://img.shields.io/github/license/extrawurst/gitui) |
+| [GitUI](git/applications-git-001.md) | `applications-git-001` | 待核验 | ![stars](https://img.shields.io/github/stars/gitui-org/gitui?style=flat) ![GitHub](https://img.shields.io/github/license/gitui-org/gitui) |
 
 <a id="analysis"></a>
 
@@ -113,7 +113,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [RustScan](system/applications-system-001.md) | `applications-system-001` | 待核验 | ![stars](https://img.shields.io/github/stars/RustScan/RustScan?style=flat) ![GitHub](https://img.shields.io/github/license/RustScan/RustScan) |
+| [RustScan](system/applications-system-001.md) | `applications-system-001` | 待核验 | ![stars](https://img.shields.io/github/stars/bee-san/RustScan?style=flat) ![GitHub](https://img.shields.io/github/license/bee-san/RustScan) |
 | [sniffnet](system/applications-system-002.md) | `applications-system-002` | 待核验 | ![stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=flat) ![GitHub](https://img.shields.io/github/license/GyulyVGC/sniffnet) |
 
 <a id="video"></a>
@@ -122,7 +122,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [biliup-rs](video/applications-video-001.md) | `applications-video-001` | 待核验 | ![stars](https://img.shields.io/github/stars/ForgQi/biliup-rs?style=flat) ![GitHub](https://img.shields.io/github/license/ForgQi/biliup-rs) |
+| [biliup-rs](video/applications-video-001.md) | `applications-video-001` | 停止更新 | ![stars](https://img.shields.io/github/stars/biliup/biliup-rs?style=flat) ![GitHub](https://img.shields.io/github/license/biliup/biliup-rs) |
 
 <a id="translation"></a>
 

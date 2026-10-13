@@ -2,7 +2,7 @@
 id: "book-025"
 title: "Rust 标准库手册中文版"
 category: "learning/books"
-url: "https://crates.io/"
+url: "https://rustwiki.org/zh-CN/std/"
 status: "unknown"
 ---
 

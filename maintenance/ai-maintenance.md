@@ -80,3 +80,15 @@ npm test
 前提是仓库能运行 Copilot 推理和写入 PR、提交。由默认 GITHUB_TOKEN 创建的 PR 不自动触发 CI；周期维护要自动进入评审链，需要按 [gh-aw 的 CI 触发说明](https://github.github.com/gh-aw/reference/triggering-ci/)配置 `GH_AW_CI_TRIGGER_TOKEN`，或由维护者触发当前 PR 的校验。没有当前 SHA 的 PR CI 时不会合并。
 
 合并后的 push 使用默认 GITHUB_TOKEN 不会再自动触发其他 Actions；如果需要触发 GitHub Pages 等后续发布，应单独配置 GitHub App 或最小权限凭证。编译与模拟 API 测试不代表实际 Copilot 推理和远端合并已验证，启用后需手动运行一次真实资源 PR 核验。
+
+## PR 资源逐项核验
+
+[首次 172 项资源核验报告](audits/2026-10-13.md)记录逐项证据、修订和未解决项。
+
+`Resource catalog` 对 PR 中新增/更新的源资源运行 `scripts/check/verify-resources.js`，从 GitHub API 获取主仓库的规范名称、协议识别结果、归档标志和 Star 快照，检查徽章仓库是否一致。只有本次变更的资源会发起请求；生成导航、索引和普通文档不重复访问全部资源。报告通过 `resource-verification` artifact 交给独立 AI 评审逐项阅读，不运行报告中的内容。
+
+徽章缺失/不对应会令核验失败；API 超时、限流或拒绝访问也会阻塞核验，不输出“资源失效”结论。未知协议、非 GitHub 资源、GitHub 子路径等记录为待人工/AI 核查，只有实际读取资料后才能解决不确定性。仓库信息检查不能替代功能介绍、项目维护状态或法律意义的协议核验。已有 PR 在接入后需要重新运行目录 CI 以生成证据报告。
+
+本地可使用 `npm run verify -- --all --out /tmp/resource-verification.json` 全量检查，或 `npm run verify -- --changed BASE_SHA HEAD_SHA --out /tmp/resource-verification.json` 只检查改动。基线使用完整提交 SHA；凭证只从 GITHUB_TOKEN/GH_TOKEN 环境变量读取，不写入报告。
+
+2026-10-13 的真实 AI 评审运行曾因模型目录返回 HTTP 403 而未启动推理；见 [运行记录](https://github.com/rust-boom/rust-boom/actions/runs/38352652794)。这属于 Copilot 推理权限/服务边界，不能把工作流编译通过视为实际 AI 核验或合并已成功。资源元数据核验独立使用 GitHub API，AI 失败时不会自动合并。

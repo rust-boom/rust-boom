@@ -12,7 +12,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [VSCode（首推）](ide/tools-ide-001.md) | `tools-ide-001` | 待核验 |  |
+| [VSCode（首推）](ide/tools-ide-001.md) | `tools-ide-001` | 待核验 | ![stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat) ![GitHub](https://img.shields.io/github/license/microsoft/vscode) |
 
 <a id="cargo"></a>
 
@@ -21,7 +21,7 @@
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
 | [cargo-edit](cargo/tools-cargo-001.md) | `tools-cargo-001` | 待核验 | ![stars](https://img.shields.io/github/stars/killercup/cargo-edit?style=flat) ![GitHub](https://img.shields.io/github/license/killercup/cargo-edit) |
-| [cargo-watch](cargo/tools-cargo-002.md) | `tools-cargo-002` | 待核验 | ![stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub](https://img.shields.io/github/license/watchexec/cargo-watch) |
+| [cargo-watch](cargo/tools-cargo-002.md) | `tools-cargo-002` | 停止更新 | ![stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub](https://img.shields.io/github/license/watchexec/cargo-watch) |
 
 <a id="frontend"></a>
 
@@ -32,5 +32,5 @@
 | [Deno](frontend/tools-frontend-001.md) | `tools-frontend-001` | 待核验 | ![stars](https://img.shields.io/github/stars/denoland/deno?style=flat) ![GitHub](https://img.shields.io/github/license/denoland/deno) |
 | [SWC](frontend/tools-frontend-002.md) | `tools-frontend-002` | 待核验 | ![stars](https://img.shields.io/github/stars/swc-project/swc?style=flat) ![GitHub](https://img.shields.io/github/license/swc-project/swc) |
 | [Parcel](frontend/tools-frontend-003.md) | `tools-frontend-003` | 待核验 | ![stars](https://img.shields.io/github/stars/parcel-bundler/parcel?style=flat) ![GitHub](https://img.shields.io/github/license/parcel-bundler/parcel) |
-| [Rome](frontend/tools-frontend-004.md) | `tools-frontend-004` | 待核验 | ![stars](https://img.shields.io/github/stars/rome/tools?style=flat) ![GitHub](https://img.shields.io/github/license/rome/tools) |
+| [Rome](frontend/tools-frontend-004.md) | `tools-frontend-004` | 停止更新 | ![stars](https://img.shields.io/github/stars/rome/tools?style=flat) ![GitHub](https://img.shields.io/github/license/rome/tools) |
 | [Lightning CSS](frontend/tools-frontend-005.md) | `tools-frontend-005` | 待核验 | ![stars](https://img.shields.io/github/stars/parcel-bundler/lightningcss?style=flat) ![GitHub](https://img.shields.io/github/license/parcel-bundler/lightningcss) |

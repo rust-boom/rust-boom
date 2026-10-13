@@ -2,7 +2,7 @@
 id: "libraries-gui-007"
 title: "Dioxus"
 category: "libraries/gui"
-url: "https://github.com/dioxusLabs/rink"
+url: "https://github.com/DioxusLabs/dioxus"
 status: "unknown"
 ---
 
@@ -28,3 +28,9 @@ status: "unknown"
 | :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 代码仓库 ](https://github.com/DioxusLabs/dioxus)                                   | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDioxusLabs%2Fdioxus) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com)                                             |
 | [ 中文文档 ](https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDioxusLabs%2Fdioxus%2Fblob%2Fmaster%2Fnotes%2FREADME%2FZH_CN.md) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
+## 本次资料核验
+
+- 核验日期：2026-10-13。
+- [当前仓库 README](https://github.com/DioxusLabs/dioxus/blob/main/README.md)。
+- 本次处理：修正主仓库归属。未逐项运行代码或验证性能，不据网页可访问将状态改为 active。

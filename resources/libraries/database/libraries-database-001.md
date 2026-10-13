@@ -10,9 +10,9 @@ status: "unknown"
 
 ![stars](https://img.shields.io/github/stars/SeaQL/sea-orm?style=flat) ![GitHub](https://img.shields.io/github/license/SeaQL/sea-orm)
 
-> SeaORM 是一种关系 ORM，可帮助您使用熟悉的动态语言在 Rust 中构建 Web 服务。
+> SeaORM 是面向 Rust 的关系 ORM，可帮助 Rust 应用与关系数据库交互。
 >
-> 目前支持:
+> 这里列出的常见后端包括：
 >
 > - `sqlx-mysql`- SQLx MySQL
 > - `sqlx-postgres`- SQLx PostgreSQL

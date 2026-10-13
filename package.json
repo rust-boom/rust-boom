@@ -8,7 +8,8 @@
   "scripts": {
     "catalog": "node scripts/check/catalog.js",
     "check": "node scripts/check/catalog.js --check",
-    "test": "node --test scripts/check/catalog.test.js .agents/skills/rust-boom-delivery/scripts/deliver.test.js scripts/review/merge.test.js"
+    "test": "node --test scripts/check/catalog.test.js .agents/skills/rust-boom-delivery/scripts/deliver.test.js scripts/review/merge.test.js scripts/check/verify-resources.test.js",
+    "verify": "node scripts/check/verify-resources.js"
   },
   "dependencies": {
     "yaml": "2.9.1"

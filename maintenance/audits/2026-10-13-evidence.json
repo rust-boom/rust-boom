@@ -1,0 +1,5595 @@
+{
+  "scope": "172 项逐项尝试；仓库/徽章一致性不等于所有事实、协议范围、兼容性或性能已验证",
+  "resources": [
+    {
+      "id": "applications-analysis-001",
+      "title": "cloc-rs",
+      "category": "applications/analysis",
+      "url": "https://github.com/ltoddy/cloc-rs",
+      "status": "unknown",
+      "path": "resources/applications/analysis/applications-analysis-001.md",
+      "checked_at": "2026-10-13T05:59:21.206Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "ltoddy/cloc-rs",
+        "url": "https://github.com/ltoddy/cloc-rs",
+        "description": "Count, or compute differences of, lines of source code and comments fastly.",
+        "homepage": "",
+        "archived": false,
+        "stars": 32,
+        "pushed_at": "2025-02-10T03:34:05Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/ltoddy/cloc-rs/blob/master/README.md",
+        "sha": "8af3d61a1027432550701a6baf5de75616c1d5fa"
+      },
+      "license_document": {
+        "url": "https://github.com/ltoddy/cloc-rs/blob/master/LICENSE",
+        "sha": "71af5e2a9480f06faa6669b6b920f7287965f68e"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-compiler-001",
+      "title": "Starlight",
+      "category": "applications/compiler",
+      "url": "https://github.com/Starlight-JS/starlight",
+      "status": "unknown",
+      "path": "resources/applications/compiler/applications-compiler-001.md",
+      "checked_at": "2026-10-13T05:59:22.446Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "Starlight-JS/starlight",
+        "url": "https://github.com/Starlight-JS/starlight",
+        "description": "JS engine in Rust",
+        "homepage": "https://teletype.in/@starlight-js",
+        "archived": false,
+        "stars": 529,
+        "pushed_at": "2021-10-31T17:28:45Z",
+        "license": "MPL-2.0",
+        "default_branch": "dev"
+      },
+      "readme": {
+        "url": "https://github.com/Starlight-JS/starlight/blob/dev/README.md",
+        "sha": "23a85ba0d7ba3d0d92aa2a8469bb98ec42360846"
+      },
+      "license_document": {
+        "url": "https://github.com/Starlight-JS/starlight/blob/dev/LICENSE",
+        "sha": "a612ad9813b006ce81d1ee438dd784da99a54007"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-database-001",
+      "title": "cnosdb",
+      "category": "applications/database",
+      "url": "https://github.com/cnosdb/cnosdb/blob/main/README_CN.md",
+      "status": "unknown",
+      "path": "resources/applications/database/applications-database-001.md",
+      "checked_at": "2026-10-13T05:59:23.021Z",
+      "result": "manual",
+      "facts": {
+        "repository": "cnosdb/cnosdb",
+        "url": "https://github.com/cnosdb/cnosdb",
+        "description": "A cloud-native open source distributed time series database with high performance, high compression ratio and high availability.",
+        "homepage": "https://www.cnosdb.com",
+        "archived": false,
+        "stars": 1758,
+        "pushed_at": "2025-09-26T07:27:53Z",
+        "license": "AGPL-3.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/cnosdb/cnosdb/blob/main/README.md",
+        "sha": "301acaeec0811c3cd48ba36df9e2d3f7ae2783cd"
+      },
+      "license_document": {
+        "url": "https://github.com/cnosdb/cnosdb/blob/main/LICENSE.md",
+        "sha": "0ad25db4bd1d86c452db3f9602ccdbe172438f52"
+      },
+      "notes": [
+        "已确认所属仓库，GitHub 子路径仍需实际读取核验",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-editors-001",
+      "title": "Zed",
+      "category": "applications/editors",
+      "url": "https://github.com/zed-industries/zed",
+      "status": "unknown",
+      "path": "resources/applications/editors/applications-editors-001.md",
+      "checked_at": "2026-10-13T05:59:23.602Z",
+      "result": "manual",
+      "facts": {
+        "repository": "zed-industries/zed",
+        "url": "https://github.com/zed-industries/zed",
+        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "homepage": "https://zed.dev",
+        "archived": false,
+        "stars": 91651,
+        "pushed_at": "2026-10-13T05:37:29Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/zed-industries/zed/blob/main/README.md",
+        "sha": "9f641fb3841909e9e1f6dbfb947f953c0a0c5ebf"
+      },
+      "license_document": {
+        "url": "https://github.com/zed-industries/zed/blob/main/LICENSE-APACHE",
+        "sha": "461a0fe5ba20a096c281a2686da08fef79f534a3"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-editors-002",
+      "title": "Lapce",
+      "category": "applications/editors",
+      "url": "https://github.com/lapce/lapce",
+      "status": "unknown",
+      "path": "resources/applications/editors/applications-editors-002.md",
+      "checked_at": "2026-10-13T05:59:24.247Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "lapce/lapce",
+        "url": "https://github.com/lapce/lapce",
+        "description": "Lightning-fast and Powerful Code Editor written in Rust",
+        "homepage": "https://lap.dev/lapce/",
+        "archived": false,
+        "stars": 38917,
+        "pushed_at": "2026-10-09T00:41:19Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/lapce/lapce/blob/master/README.md",
+        "sha": "755b8f85a0e2cfc26841de4080b8de84f650e831"
+      },
+      "license_document": {
+        "url": "https://github.com/lapce/lapce/blob/master/LICENSE",
+        "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "根据当前一手资料修订过时介绍",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-editors-003",
+      "title": "Neovide",
+      "category": "applications/editors",
+      "url": "https://github.com/neovide/neovide",
+      "status": "unknown",
+      "path": "resources/applications/editors/applications-editors-003.md",
+      "checked_at": "2026-10-13T05:59:24.821Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "neovide/neovide",
+        "url": "https://github.com/neovide/neovide",
+        "description": "No Nonsense Neovim Client in Rust",
+        "homepage": "https://neovide.dev",
+        "archived": false,
+        "stars": 15269,
+        "pushed_at": "2026-10-13T05:27:47Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/neovide/neovide/blob/main/README.md",
+        "sha": "de7c5a14afcefb25e1c72164779e9113f4f7b9a1"
+      },
+      "license_document": {
+        "url": "https://github.com/neovide/neovide/blob/main/LICENSE",
+        "sha": "c2c2a1e80113bbe1ae16c3fab8f092478a6c4685"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-editors-004",
+      "title": "Helix",
+      "category": "applications/editors",
+      "url": "https://github.com/helix-editor/helix",
+      "status": "unknown",
+      "path": "resources/applications/editors/applications-editors-004.md",
+      "checked_at": "2026-10-13T05:59:25.403Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "helix-editor/helix",
+        "url": "https://github.com/helix-editor/helix",
+        "description": "A post-modern modal text editor.",
+        "homepage": "https://helix-editor.com",
+        "archived": false,
+        "stars": 46565,
+        "pushed_at": "2026-09-29T02:36:33Z",
+        "license": "MPL-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/helix-editor/helix/blob/master/README.md",
+        "sha": "c1beb780a8b7515c791aceac992b391a039fa4a7"
+      },
+      "license_document": {
+        "url": "https://github.com/helix-editor/helix/blob/master/LICENSE",
+        "sha": "a612ad9813b006ce81d1ee438dd784da99a54007"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-git-001",
+      "title": "GitUI",
+      "category": "applications/git",
+      "url": "https://github.com/gitui-org/gitui",
+      "status": "unknown",
+      "path": "resources/applications/git/applications-git-001.md",
+      "checked_at": "2026-10-13T05:59:26.099Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "gitui-org/gitui",
+        "url": "https://github.com/gitui-org/gitui",
+        "description": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+        "homepage": "",
+        "archived": false,
+        "stars": 22562,
+        "pushed_at": "2026-10-06T07:08:04Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/gitui-org/gitui/blob/master/README.md",
+        "sha": "c4c9cd439f6991677c3e2dd5f76e08ba3e342758"
+      },
+      "license_document": {
+        "url": "https://github.com/gitui-org/gitui/blob/master/LICENSE.md",
+        "sha": "13af0c082810d77bb1560bb82aa02067b2af0781"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-observability-001",
+      "title": "vector",
+      "category": "applications/observability",
+      "url": "https://github.com/vectordotdev/vector",
+      "status": "unknown",
+      "path": "resources/applications/observability/applications-observability-001.md",
+      "checked_at": "2026-10-13T05:59:26.687Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "vectordotdev/vector",
+        "url": "https://github.com/vectordotdev/vector",
+        "description": "A high-performance observability data pipeline.",
+        "homepage": "https://vector.dev",
+        "archived": false,
+        "stars": 22692,
+        "pushed_at": "2026-10-12T15:01:48Z",
+        "license": "MPL-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/vectordotdev/vector/blob/master/README.md",
+        "sha": "ec92ce96be8179e1f56e6cc1ef2db582062cc437"
+      },
+      "license_document": {
+        "url": "https://github.com/vectordotdev/vector/blob/master/LICENSE",
+        "sha": "e87a115e462e1f5fee7905ea914c72e24d2eee42"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-os-001",
+      "title": "Bottlerocket OS",
+      "category": "applications/os",
+      "url": "https://github.com/bottlerocket-os/bottlerocket",
+      "status": "unknown",
+      "path": "resources/applications/os/applications-os-001.md",
+      "checked_at": "2026-10-13T05:59:27.318Z",
+      "result": "manual",
+      "facts": {
+        "repository": "bottlerocket-os/bottlerocket",
+        "url": "https://github.com/bottlerocket-os/bottlerocket",
+        "description": "An operating system designed for hosting containers",
+        "homepage": "https://bottlerocket.dev",
+        "archived": false,
+        "stars": 9676,
+        "pushed_at": "2026-10-08T17:12:14Z",
+        "license": "NOASSERTION",
+        "default_branch": "develop"
+      },
+      "readme": {
+        "url": "https://github.com/bottlerocket-os/bottlerocket/blob/develop/README.md",
+        "sha": "de13b0d2effa4ae09693d9872bea2339916f62f3"
+      },
+      "license_document": {
+        "url": "https://github.com/bottlerocket-os/bottlerocket/blob/develop/LICENSE-APACHE",
+        "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-productivity-001",
+      "title": "AppFlowy",
+      "category": "applications/productivity",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy",
+      "status": "unknown",
+      "path": "resources/applications/productivity/applications-productivity-001.md",
+      "checked_at": "2026-10-13T05:59:27.926Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "AppFlowy-IO/AppFlowy",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy",
+        "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+        "homepage": "https://appflowy.com",
+        "archived": false,
+        "stars": 77278,
+        "pushed_at": "2026-10-08T11:00:14Z",
+        "license": "AGPL-3.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/blob/main/README.md",
+        "sha": "e5d68967564db60b843ecea535b70e57a4f5d969"
+      },
+      "license_document": {
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/blob/main/LICENSE",
+        "sha": "0ad25db4bd1d86c452db3f9602ccdbe172438f52"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-remote-001",
+      "title": "Rustdesk",
+      "category": "applications/remote",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "status": "unknown",
+      "path": "resources/applications/remote/applications-remote-001.md",
+      "checked_at": "2026-10-13T05:59:28.485Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rustdesk/rustdesk",
+        "url": "https://github.com/rustdesk/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "homepage": "https://rustdesk.com",
+        "archived": false,
+        "stars": 125658,
+        "pushed_at": "2026-10-13T04:06:16Z",
+        "license": "AGPL-3.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rustdesk/rustdesk/blob/master/README.md",
+        "sha": "7508ce31093ec0f411ef8a7bb673699b591308b9"
+      },
+      "license_document": {
+        "url": "https://github.com/rustdesk/rustdesk/blob/master/LICENCE",
+        "sha": "0ad25db4bd1d86c452db3f9602ccdbe172438f52"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-search-001",
+      "title": "MeiliSearch",
+      "category": "applications/search",
+      "url": "https://github.com/meilisearch/MeiliSearch",
+      "status": "unknown",
+      "path": "resources/applications/search/applications-search-001.md",
+      "checked_at": "2026-10-13T05:59:28.991Z",
+      "result": "manual",
+      "facts": {
+        "repository": "meilisearch/meilisearch",
+        "url": "https://github.com/meilisearch/meilisearch",
+        "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+        "homepage": "https://www.meilisearch.com",
+        "archived": false,
+        "stars": 59556,
+        "pushed_at": "2026-10-12T16:09:22Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/meilisearch/meilisearch/blob/main/README.md",
+        "sha": "6a2bbb8452680e72045d1b419976a8a971ae8315"
+      },
+      "license_document": {
+        "url": "https://github.com/meilisearch/meilisearch/blob/main/LICENSE",
+        "sha": "edcaeebc4e866b1ebefc330c103560e41639601b"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-search-002",
+      "title": "sonic",
+      "category": "applications/search",
+      "url": "https://github.com/valeriansaliou/sonic",
+      "status": "unknown",
+      "path": "resources/applications/search/applications-search-002.md",
+      "checked_at": "2026-10-13T05:59:29.550Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "valeriansaliou/sonic",
+        "url": "https://github.com/valeriansaliou/sonic",
+        "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+        "homepage": "https://crates.io/crates/sonic-server",
+        "archived": false,
+        "stars": 21358,
+        "pushed_at": "2026-10-12T18:53:03Z",
+        "license": "MPL-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/valeriansaliou/sonic/blob/master/README.md",
+        "sha": "5f127884a09b213adcc974a79865865cbd320eaf"
+      },
+      "license_document": {
+        "url": "https://github.com/valeriansaliou/sonic/blob/master/LICENSE.md",
+        "sha": "8d80a21064fce4a6f76702740d69567439828dd1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-system-001",
+      "title": "RustScan",
+      "category": "applications/system",
+      "url": "https://github.com/bee-san/RustScan",
+      "status": "unknown",
+      "path": "resources/applications/system/applications-system-001.md",
+      "checked_at": "2026-10-13T05:59:30.048Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "bee-san/RustScan",
+        "url": "https://github.com/bee-san/RustScan",
+        "description": "🤖 The Modern Port Scanner 🤖",
+        "homepage": "",
+        "archived": false,
+        "stars": 20558,
+        "pushed_at": "2026-10-13T01:42:14Z",
+        "license": "GPL-3.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/bee-san/RustScan/blob/master/README.md",
+        "sha": "865fa2638514aea1520fb4b77433993b54ebefb0"
+      },
+      "license_document": {
+        "url": "https://github.com/bee-san/RustScan/blob/master/LICENSE",
+        "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-system-002",
+      "title": "sniffnet",
+      "category": "applications/system",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "status": "unknown",
+      "path": "resources/applications/system/applications-system-002.md",
+      "checked_at": "2026-10-13T05:59:30.563Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "GyulyVGC/sniffnet",
+        "url": "https://github.com/GyulyVGC/sniffnet",
+        "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+        "homepage": "https://sniffnet.app",
+        "archived": false,
+        "stars": 41476,
+        "pushed_at": "2026-10-12T19:44:33Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/GyulyVGC/sniffnet/blob/main/README.md",
+        "sha": "0b1eac2bde3b12edd773dbd9928066a016d6c51e"
+      },
+      "license_document": {
+        "url": "https://github.com/GyulyVGC/sniffnet/blob/main/LICENSE-APACHE",
+        "sha": "1b5ec8b78e237b5c3b3d812a7c0a6589d0f7161d"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-terminal-001",
+      "title": "Wezterm",
+      "category": "applications/terminal",
+      "url": "https://github.com/wezterm/wezterm",
+      "status": "unknown",
+      "path": "resources/applications/terminal/applications-terminal-001.md",
+      "checked_at": "2026-10-13T05:59:31.079Z",
+      "result": "manual",
+      "facts": {
+        "repository": "wezterm/wezterm",
+        "url": "https://github.com/wezterm/wezterm",
+        "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+        "homepage": "https://wezterm.org/",
+        "archived": false,
+        "stars": 29207,
+        "pushed_at": "2026-10-12T05:23:43Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/wezterm/wezterm/blob/main/README.md",
+        "sha": "c9857d663783bbdcfafed7416d55a588c2d0efa4"
+      },
+      "license_document": {
+        "url": "https://github.com/wezterm/wezterm/blob/main/LICENSE.md",
+        "sha": "cf22ae0b4062eb94de58d05012bd8ef3ebfc8f15"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-translation-001",
+      "title": "Tran",
+      "category": "applications/translation",
+      "url": "https://github.com/Borber/Tran",
+      "status": "unknown",
+      "path": "resources/applications/translation/applications-translation-001.md",
+      "checked_at": "2026-10-13T05:59:32.033Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "Borber/Tran",
+        "url": "https://github.com/Borber/Tran",
+        "description": "简洁, 快速, 划词翻译",
+        "homepage": "https://tran.borber.top",
+        "archived": false,
+        "stars": 598,
+        "pushed_at": "2025-11-21T07:09:48Z",
+        "license": "GPL-3.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/Borber/Tran/blob/master/README.md",
+        "sha": "98212407d0dcc865609ead8e7a2fb13d6a06ddd6"
+      },
+      "license_document": {
+        "url": "https://github.com/Borber/Tran/blob/master/LICENSE",
+        "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-tunnels-001",
+      "title": "rathole",
+      "category": "applications/tunnels",
+      "url": "https://github.com/rathole-org/rathole",
+      "status": "unknown",
+      "path": "resources/applications/tunnels/applications-tunnels-001.md",
+      "checked_at": "2026-10-13T05:59:32.597Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rathole-org/rathole",
+        "url": "https://github.com/rathole-org/rathole",
+        "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+        "homepage": "",
+        "archived": false,
+        "stars": 14328,
+        "pushed_at": "2026-08-23T15:38:44Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/rathole-org/rathole/blob/main/README.md",
+        "sha": "25cf97f11e9051d41c2480db87d5a44f33c638eb"
+      },
+      "license_document": {
+        "url": "https://github.com/rathole-org/rathole/blob/main/LICENSE",
+        "sha": "d9a10c0d8e868ebf8da0b3dc95bb0be634c34bfe"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "修正主仓库归属",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-tunnels-002",
+      "title": "bore",
+      "category": "applications/tunnels",
+      "url": "https://github.com/ekzhang/bore",
+      "status": "unknown",
+      "path": "resources/applications/tunnels/applications-tunnels-002.md",
+      "checked_at": "2026-10-13T05:59:33.184Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "ekzhang/bore",
+        "url": "https://github.com/ekzhang/bore",
+        "description": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+        "homepage": "http://bore.pub",
+        "archived": false,
+        "stars": 11529,
+        "pushed_at": "2026-02-04T18:00:26Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/ekzhang/bore/blob/main/README.md",
+        "sha": "1e4e3d641e9c0d8989eabbf5e5b7b562fcf27eb7"
+      },
+      "license_document": {
+        "url": "https://github.com/ekzhang/bore/blob/main/LICENSE",
+        "sha": "29ca7620bc2f4757f56f1a4ae10b3c13e4e7bc8f"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "applications-video-001",
+      "title": "biliup-rs",
+      "category": "applications/video",
+      "url": "https://github.com/biliup/biliup-rs",
+      "status": "archived",
+      "path": "resources/applications/video/applications-video-001.md",
+      "checked_at": "2026-10-13T05:59:33.714Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "biliup/biliup-rs",
+        "url": "https://github.com/biliup/biliup-rs",
+        "description": "命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。",
+        "homepage": "https://biliup.github.io/biliup-rs",
+        "archived": true,
+        "stars": 1073,
+        "pushed_at": "2025-11-30T18:52:01Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/biliup/biliup-rs/blob/master/README.md",
+        "sha": "ec2e1d41e953fc1279345b72f97a304e65f88d58"
+      },
+      "license_document": {
+        "url": "https://github.com/biliup/biliup-rs/blob/master/LICENSE",
+        "sha": "6b7972e3fd58553e6f08978aca0eb5ce98686010"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "根据实际归档标志标记历史仓库",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "community-001",
+      "title": "Rust 语言中文社区-首页 (rustcc.cn)",
+      "category": "community/forums",
+      "url": "https://rustcc.cn/",
+      "status": "unknown",
+      "path": "resources/community/forums/community-001.md",
+      "checked_at": "2026-10-13T05:59:34.309Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Rust语言中文社区-首页"
+      }
+    },
+    {
+      "id": "community-002",
+      "title": "Rust 技术论坛 | Rust 语言技术论坛 - 优质的 Rust 开发者学习社区 (learnku.com)",
+      "category": "community/forums",
+      "url": "https://learnku.com/rust",
+      "status": "unknown",
+      "path": "resources/community/forums/community-002.md",
+      "checked_at": "2026-10-13T05:59:34.309Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Rust 技术论坛 | Rust 语言技术论坛 - 优质的 Rust 开发者学习社区"
+      }
+    },
+    {
+      "id": "community-003",
+      "title": "The Rust Programming Language Forum (rust-lang.org)",
+      "category": "community/forums",
+      "url": "https://users.rust-lang.org/",
+      "status": "unknown",
+      "path": "resources/community/forums/community-003.md",
+      "checked_at": "2026-10-13T05:59:34.310Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "The Rust Programming Language Forum"
+      }
+    },
+    {
+      "id": "news-001",
+      "title": "Linux 内核将引入 Rust，Linus：以防此事搞砸了我又发脾气，先给大家道个歉-51CTO.COM",
+      "category": "community/news",
+      "url": "https://os.51cto.com/article/713004.html",
+      "status": "unknown",
+      "path": "resources/community/news/news-001.md",
+      "checked_at": "2026-10-13T05:59:34.310Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200
+      }
+    },
+    {
+      "id": "article-001",
+      "title": "安装 Rust - Rust 程序设计语言 (rust-lang.org)",
+      "category": "learning/articles",
+      "url": "https://www.rust-lang.org/zh-CN/tools/install",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-001.md",
+      "checked_at": "2026-10-13T05:59:34.310Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "安装 Rust - Rust 程序设计语言"
+      }
+    },
+    {
+      "id": "article-002",
+      "title": "浅析 rust 的内存管理 - 知乎 (zhihu.com)",
+      "category": "learning/articles",
+      "url": "https://zhuanlan.zhihu.com/p/365766807",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-002.md",
+      "checked_at": "2026-10-13T05:59:34.310Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 403
+      }
+    },
+    {
+      "id": "article-003",
+      "title": "Rust: Lifetime 解惑， 生命周期还在 - 知乎 (zhihu.com)",
+      "category": "learning/articles",
+      "url": "https://zhuanlan.zhihu.com/p/384151733",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-003.md",
+      "checked_at": "2026-10-13T05:59:34.311Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 403
+      }
+    },
+    {
+      "id": "article-004",
+      "title": "Rust 中的 String,&str 和 str 都是什么？ - 知乎 (zhihu.com)",
+      "category": "learning/articles",
+      "url": "https://zhuanlan.zhihu.com/p/384496181",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-004.md",
+      "checked_at": "2026-10-13T05:59:34.311Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 403
+      }
+    },
+    {
+      "id": "article-005",
+      "title": "类型的大小 - 知乎 (zhihu.com)",
+      "category": "learning/articles",
+      "url": "https://zhuanlan.zhihu.com/p/21820917",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-005.md",
+      "checked_at": "2026-10-13T05:59:34.311Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 403
+      }
+    },
+    {
+      "id": "article-006",
+      "title": "如何深入浅出地理解 Rust 中的 Pin 和 Unpin? - 知乎 (zhihu.com)",
+      "category": "learning/articles",
+      "url": "https://www.zhihu.com/question/512654366/answer/2319171118",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-006.md",
+      "checked_at": "2026-10-13T05:59:34.311Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 403
+      }
+    },
+    {
+      "id": "article-007",
+      "title": "rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白|青蛙小白|关注程序开发、互联网技术、云原生 (frognew.com)",
+      "category": "learning/articles",
+      "url": "https://blog.frognew.com/2020/07/rust-ownership-move-and-copy.html",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-007.md",
+      "checked_at": "2026-10-13T05:59:34.311Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "rust语言基础学习: rust所有权之Move和Copy语义 · 青蛙小白"
+      }
+    },
+    {
+      "id": "article-008",
+      "title": "Top 23 Rust GUI Projects（动态资源列表）",
+      "category": "learning/articles",
+      "url": "https://www.libhunt.com/l/rust/topic/gui",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-008.md",
+      "checked_at": "2026-10-13T05:59:34.311Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [
+        "按实际页面标题/合集内容校正说明"
+      ],
+      "web_evidence": {
+        "status": 200,
+        "title": "Top 23 Rust GUI Projects | LibHunt"
+      }
+    },
+    {
+      "id": "article-009",
+      "title": "你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)",
+      "category": "learning/articles",
+      "url": "https://www.zhihu.com/question/282113351/answer/2483371362",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-009.md",
+      "checked_at": "2026-10-13T05:59:34.311Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 403
+      }
+    },
+    {
+      "id": "article-010",
+      "title": "rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)",
+      "category": "learning/articles",
+      "url": "https://github.com/rustcn-org/rust-weekly",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-010.md",
+      "checked_at": "2026-10-13T05:59:34.312Z",
+      "result": "manual",
+      "facts": {
+        "repository": "rustcn-org/rust-weekly",
+        "url": "https://github.com/rustcn-org/rust-weekly",
+        "description": "Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态",
+        "homepage": "https://weekly.rs",
+        "archived": false,
+        "stars": 809,
+        "pushed_at": "2022-07-15T08:22:55Z",
+        "license": null,
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/rustcn-org/rust-weekly/blob/main/README.md",
+        "sha": "436c9fc9a50af734bcbc9f5bf5c73129e50eca69"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "article-011",
+      "title": "【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)",
+      "category": "learning/articles",
+      "url": "https://rustcc.cn/article?id=2b1703cc-36f9-4dfc-a70a-09dd67a207ab",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-011.md",
+      "checked_at": "2026-10-13T05:59:35.012Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "【每周一知】Rust中的三种设计模式 - Rust语言中文社区"
+      }
+    },
+    {
+      "id": "article-012",
+      "title": "用 Rust 写一个容器|Writing a container in Rust | Blog of Litchi Pi",
+      "category": "learning/articles",
+      "url": "https://litchipi.github.io/series/container_in_rust",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-012.md",
+      "checked_at": "2026-10-13T05:59:35.012Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Writing a container in Rust | Blog of Litchi Pi"
+      }
+    },
+    {
+      "id": "article-013",
+      "title": "yunwei37/blockchain-rust: blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin) (github.com)",
+      "category": "learning/articles",
+      "url": "https://github.com/yunwei37/blockchain-rust",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-013.md",
+      "checked_at": "2026-10-13T05:59:35.013Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "yunwei37/blockchain-rust",
+        "url": "https://github.com/yunwei37/blockchain-rust",
+        "description": "blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin)",
+        "homepage": "",
+        "archived": false,
+        "stars": 169,
+        "pushed_at": "2022-06-20T12:48:59Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/yunwei37/blockchain-rust/blob/master/README.md",
+        "sha": "502f7eff991a72b1269c764f2eb3571bfbaacd87"
+      },
+      "license_document": {
+        "url": "https://github.com/yunwei37/blockchain-rust/blob/master/LICENSE",
+        "sha": "a4b016116b0bdc17833af29a1f85b952596827d1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "article-014",
+      "title": "Rust 笔记 一文讲透 Rust 中的 PartialEq 和 Eq (qq.com)",
+      "category": "learning/articles",
+      "url": "https://mp.weixin.qq.com/s/hdW2QjAExPs1cE9rV1tn4Q",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-014.md",
+      "checked_at": "2026-10-13T05:59:35.538Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": ""
+      }
+    },
+    {
+      "id": "article-015",
+      "title": "Rust 代码执行解析的可视化过程，初学者可以通过这个更深入的了解 Rust 的所有权等特性)",
+      "category": "learning/articles",
+      "url": "https://cognitive-engineering-lab.github.io/aquascope/",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-015.md",
+      "checked_at": "2026-10-13T05:59:35.538Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Aquascope: Look Beneath the Surface of Rust"
+      }
+    },
+    {
+      "id": "article-016",
+      "title": "用 Rust 实现一个 GUI 框架",
+      "category": "learning/articles",
+      "url": "https://samsartor.com/guis-1/",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-016.md",
+      "checked_at": "2026-10-13T05:59:35.538Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Sam Sartor - Statefulness in GUIs"
+      }
+    },
+    {
+      "id": "article-017",
+      "title": "运行 100 万个并发任务需要多少内存？",
+      "category": "learning/articles",
+      "url": "https://pkolaczk.github.io/memory-consumption-of-async/",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-017.md",
+      "checked_at": "2026-10-13T05:59:35.539Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [
+        "按实际页面标题/合集内容校正说明"
+      ],
+      "web_evidence": {
+        "status": 200,
+        "title": "How Much Memory Do You Need to Run 1 Million Concurrent Tasks? | Piotr Kołaczkowski"
+      }
+    },
+    {
+      "id": "article-018",
+      "title": "Rust 探索系统本原 | 网络 - Rust 精选 (rustmagazine.github.io)",
+      "category": "learning/articles",
+      "url": "https://rustmagazine.github.io/rust_magazine_2021/chapter_4/rust-to-system-essence-network.html",
+      "status": "unknown",
+      "path": "resources/learning/articles/article-018.md",
+      "checked_at": "2026-10-13T05:59:35.539Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Rust 探索系统本原 | 网络 - Rust精选"
+      }
+    },
+    {
+      "id": "book-001",
+      "title": "Rust 语言圣经中文版",
+      "category": "learning/books",
+      "url": "https://github.com/sunface/rust-course",
+      "status": "unknown",
+      "path": "resources/learning/books/book-001.md",
+      "checked_at": "2026-10-13T05:59:35.539Z",
+      "result": "manual",
+      "facts": {
+        "repository": "sunface/rust-course",
+        "url": "https://github.com/sunface/rust-course",
+        "description": "什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book ",
+        "homepage": "https://course.rs",
+        "archived": false,
+        "stars": 31014,
+        "pushed_at": "2026-08-24T07:34:23Z",
+        "license": null,
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/sunface/rust-course/blob/main/README.md",
+        "sha": "9f2412e4febea77b3a147ba5449bbbb0ea2cfbf4"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "根据当前一手资料修订过时介绍",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "book-002",
+      "title": "Rust 程序设计语言中文版",
+      "category": "learning/books",
+      "url": "https://kaisery.github.io/trpl-zh-cn/#rust-程序设计语言",
+      "status": "unknown",
+      "path": "resources/learning/books/book-002.md",
+      "checked_at": "2026-10-13T05:59:36.070Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Rust 程序设计语言 - Rust 程序设计语言 简体中文版"
+      }
+    },
+    {
+      "id": "book-003",
+      "title": "Rust 语言备忘清单 (简体中文)",
+      "category": "learning/books",
+      "url": "https://github.com/kingfree/cheats.rs/",
+      "status": "archived",
+      "path": "resources/learning/books/book-003.md",
+      "checked_at": "2026-10-13T05:59:36.071Z",
+      "result": "manual",
+      "facts": {
+        "repository": "kingfree/cheats.rs",
+        "url": "https://github.com/kingfree/cheats.rs",
+        "description": "Rust 语言备忘清单 (简体中文)",
+        "homepage": "https://cheats.rs.kingfree.moe/",
+        "archived": true,
+        "stars": 91,
+        "pushed_at": "2022-03-11T10:55:12Z",
+        "license": null,
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/kingfree/cheats.rs/blob/master/README.md",
+        "sha": "5274188d248b1c3dafa6b08c9e2b65def9e99dd0"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "补齐/校正主仓库徽章",
+        "根据实际归档标志标记历史仓库",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "book-004",
+      "title": "通过例子学 Rust 中文版",
+      "category": "learning/books",
+      "url": "https://github.com/rust-lang-cn/rust-by-example-cn",
+      "status": "unknown",
+      "path": "resources/learning/books/book-004.md",
+      "checked_at": "2026-10-13T05:59:36.630Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rust-lang-cn/rust-by-example-cn",
+        "url": "https://github.com/rust-lang-cn/rust-by-example-cn",
+        "description": "Rust By Example 中文版(包含在线代码编辑器)",
+        "homepage": "http://rustwiki.org/zh-CN/rust-by-example",
+        "archived": false,
+        "stars": 1979,
+        "pushed_at": "2024-09-26T06:13:01Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rust-lang-cn/rust-by-example-cn/blob/master/README.md",
+        "sha": "b5b179121a2726fd4f8533d32257672d73e65aea"
+      },
+      "license_document": {
+        "url": "https://github.com/rust-lang-cn/rust-by-example-cn/blob/master/LICENSE-APACHE",
+        "sha": "16fe87b06e802f094b3fbb0894b137bca2b16ef1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-005",
+      "title": "谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)",
+      "category": "learning/books",
+      "url": "https://github.com/google/comprehensive-rust",
+      "status": "unknown",
+      "path": "resources/learning/books/book-005.md",
+      "checked_at": "2026-10-13T05:59:37.632Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "google/comprehensive-rust",
+        "url": "https://github.com/google/comprehensive-rust",
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+        "homepage": "https://google.github.io/comprehensive-rust/",
+        "archived": false,
+        "stars": 33424,
+        "pushed_at": "2026-10-06T23:32:22Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/google/comprehensive-rust/blob/main/README.md",
+        "sha": "cc4b760db424d5c5c8bc8ba39fc4a244e571d679"
+      },
+      "license_document": {
+        "url": "https://github.com/google/comprehensive-rust/blob/main/LICENSE",
+        "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "根据当前一手资料修订过时介绍",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "book-006",
+      "title": "Rust 语言之旅",
+      "category": "learning/books",
+      "url": "https://tourofrust.com/00_zh-cn.html",
+      "status": "unknown",
+      "path": "resources/learning/books/book-006.md",
+      "checked_at": "2026-10-13T05:59:38.248Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Rust 语言之旅 - Let's go on an adventure!"
+      }
+    },
+    {
+      "id": "book-007",
+      "title": "RustPrimer",
+      "category": "learning/books",
+      "url": "https://github.com/rustcc/RustPrimer",
+      "status": "unknown",
+      "path": "resources/learning/books/book-007.md",
+      "checked_at": "2026-10-13T05:59:38.248Z",
+      "result": "manual",
+      "facts": {
+        "repository": "rustcc/RustPrimer",
+        "url": "https://github.com/rustcc/RustPrimer",
+        "description": "The Rust primer for beginners. We need native English speaker help us modify the translation.",
+        "homepage": "",
+        "archived": false,
+        "stars": 1787,
+        "pushed_at": "2024-03-08T15:28:48Z",
+        "license": null,
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rustcc/RustPrimer/blob/master/README.md",
+        "sha": "e4c8a9535c0fc1c2ded8c3407d4b4817f25fa677"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-008",
+      "title": "Rust 秘典中文版",
+      "category": "learning/books",
+      "url": "https://github.com/rust-lang-cn/nomicon-zh-Hans",
+      "status": "unknown",
+      "path": "resources/learning/books/book-008.md",
+      "checked_at": "2026-10-13T05:59:39.238Z",
+      "result": "manual",
+      "facts": {
+        "repository": "rust-lang-cn/nomicon-zh-Hans",
+        "url": "https://github.com/rust-lang-cn/nomicon-zh-Hans",
+        "description": "Rust 死灵书简体中文翻译",
+        "homepage": "https://nomicon.purewhite.io/",
+        "archived": false,
+        "stars": 706,
+        "pushed_at": "2026-10-05T03:27:00Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/rust-lang-cn/nomicon-zh-Hans/blob/main/README.md",
+        "sha": "fd72e4db2eee2dae7710ace6ef0e0d1eb702ff6e"
+      },
+      "license_document": {
+        "url": "https://github.com/rust-lang-cn/nomicon-zh-Hans/blob/main/LICENSE-APACHE",
+        "sha": "16fe87b06e802f094b3fbb0894b137bca2b16ef1"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-009",
+      "title": "Rust 参考手册 中文版",
+      "category": "learning/books",
+      "url": "https://github.com/rust-lang-cn/reference-cn",
+      "status": "unknown",
+      "path": "resources/learning/books/book-009.md",
+      "checked_at": "2026-10-13T05:59:39.813Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rust-lang-cn/reference-cn",
+        "url": "https://github.com/rust-lang-cn/reference-cn",
+        "description": "Rust 参考手册——Chinese translation of The Rust Reference",
+        "homepage": "https://rustwiki.org/zh-CN/reference",
+        "archived": false,
+        "stars": 67,
+        "pushed_at": "2023-08-01T13:41:50Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rust-lang-cn/reference-cn/blob/master/README.md",
+        "sha": "02e44355051394fe38c884b0858319d95c401da1"
+      },
+      "license_document": {
+        "url": "https://github.com/rust-lang-cn/reference-cn/blob/master/LICENSE-APACHE",
+        "sha": "16fe87b06e802f094b3fbb0894b137bca2b16ef1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-010",
+      "title": "Rust Cookbook 中文版",
+      "category": "learning/books",
+      "url": "https://github.com/rust-lang-cn/rust-cookbook-cn",
+      "status": "unknown",
+      "path": "resources/learning/books/book-010.md",
+      "checked_at": "2026-10-13T05:59:40.438Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rust-lang-cn/rust-cookbook-cn",
+        "url": "https://github.com/rust-lang-cn/rust-cookbook-cn",
+        "description": "Rust Cookbook 中文版——Chinese translation of The Rust Cookbook",
+        "homepage": "",
+        "archived": false,
+        "stars": 40,
+        "pushed_at": "2025-11-08T15:05:16Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rust-lang-cn/rust-cookbook-cn/blob/master/README.md",
+        "sha": "0830fd197ce73342066403cc51e01dfd262ee72a"
+      },
+      "license_document": {
+        "url": "https://github.com/rust-lang-cn/rust-cookbook-cn/blob/master/LICENSE-APACHE",
+        "sha": "16fe87b06e802f094b3fbb0894b137bca2b16ef1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-011",
+      "title": "Rusty Book( 锈书 )",
+      "category": "learning/books",
+      "url": "https://github.com/rust-boom/rusty-book",
+      "status": "unknown",
+      "path": "resources/learning/books/book-011.md",
+      "checked_at": "2026-10-13T05:59:41.460Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rust-boom/rusty-book",
+        "url": "https://github.com/rust-boom/rusty-book",
+        "description": "A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！",
+        "homepage": "https://rusty.rs",
+        "archived": false,
+        "stars": 1,
+        "pushed_at": "2022-08-03T08:03:08Z",
+        "license": "CC-BY-4.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/rust-boom/rusty-book/blob/main/README.md",
+        "sha": "81cf9ba117831c0ff8afb70da68cb7defa45998c"
+      },
+      "license_document": {
+        "url": "https://github.com/rust-boom/rusty-book/blob/main/LICENSE",
+        "sha": "c15d1da1455d9100859ff704bbc8d2f128615e0e"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "book-012",
+      "title": "Rust 异步编程指南",
+      "category": "learning/books",
+      "url": "https://github.com/rustcn-org/async-book",
+      "status": "unknown",
+      "path": "resources/learning/books/book-012.md",
+      "checked_at": "2026-10-13T05:59:42.091Z",
+      "result": "manual",
+      "facts": {
+        "repository": "rustcn-org/async-book",
+        "url": "https://github.com/rustcn-org/async-book",
+        "description": "该书是中文 Rust 教程 <<Rust语言圣经>> 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序",
+        "homepage": null,
+        "archived": false,
+        "stars": 196,
+        "pushed_at": "2022-04-05T04:27:06Z",
+        "license": null,
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rustcn-org/async-book/blob/master/README.md",
+        "sha": "acb3316f2f223ca953d116d7e0387b522d8edda9"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "book-013",
+      "title": "Rust 语言实战",
+      "category": "learning/books",
+      "url": "https://github.com/origin-brain/rust-by-practice",
+      "status": "unknown",
+      "path": "resources/learning/books/book-013.md",
+      "checked_at": "2026-10-13T05:59:42.698Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "origin-brain/rust-by-practice",
+        "url": "https://github.com/origin-brain/rust-by-practice",
+        "description": "Rust By Practice will evolve into Origin.",
+        "homepage": "https://practice.course.rs",
+        "archived": false,
+        "stars": 14787,
+        "pushed_at": "2026-08-24T07:35:46Z",
+        "license": "CC-BY-4.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/origin-brain/rust-by-practice/blob/master/Readme.md",
+        "sha": "5e457b04f93be78e99c2a777a981c161ef1049ff"
+      },
+      "license_document": {
+        "url": "https://github.com/origin-brain/rust-by-practice/blob/master/LICENSE",
+        "sha": "aae4510a920aa31e6b6c764effc8e043f4110b8f"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "book-014",
+      "title": "Rust 算法题解",
+      "category": "learning/books",
+      "url": "https://github.com/rustcn-org/rust-algos",
+      "status": "unknown",
+      "path": "resources/learning/books/book-014.md",
+      "checked_at": "2026-10-13T05:59:43.403Z",
+      "result": "manual",
+      "facts": {
+        "repository": "rustcn-org/rust-algos",
+        "url": "https://github.com/rustcn-org/rust-algos",
+        "description": "<<Rust算法题解>>，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team",
+        "homepage": "https://algo.course.rs",
+        "archived": false,
+        "stars": 821,
+        "pushed_at": "2024-02-09T16:43:21Z",
+        "license": null,
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/rustcn-org/rust-algos/blob/main/README.md",
+        "sha": "ab67221c65d18294974700401e3b334036e9a095"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "book-015",
+      "title": "Rust 算法书（RustBook）",
+      "category": "learning/books",
+      "url": "https://github.com/QMHTMY/RustBook",
+      "status": "unknown",
+      "path": "resources/learning/books/book-015.md",
+      "checked_at": "2026-10-13T05:59:43.930Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "QMHTMY/RustBook",
+        "url": "https://github.com/QMHTMY/RustBook",
+        "description": "A book about Rust Data Structures and Algorithms.",
+        "homepage": "",
+        "archived": false,
+        "stars": 2995,
+        "pushed_at": "2024-07-21T06:13:34Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/QMHTMY/RustBook/blob/main/README.md",
+        "sha": "b524e2d8b74aa5302cfacdf55268c172995790e9"
+      },
+      "license_document": {
+        "url": "https://github.com/QMHTMY/RustBook/blob/main/LICENSE",
+        "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-016",
+      "title": "Rust 设计模式 中文版",
+      "category": "learning/books",
+      "url": "https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh",
+      "status": "unknown",
+      "path": "resources/learning/books/book-016.md",
+      "checked_at": "2026-10-13T05:59:44.971Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "chuxiuhong/chuxiuhong-rust-patterns-zh",
+        "url": "https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh",
+        "description": "Rust设计模式中文翻译",
+        "homepage": "http://chuxiuhong.com/chuxiuhong-rust-patterns-zh/",
+        "archived": false,
+        "stars": 111,
+        "pushed_at": "2026-02-16T18:10:23Z",
+        "license": "MPL-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh/blob/master/README.md",
+        "sha": "5291bfe4baead0821c3caf38db4c9ffbdd17a3ff"
+      },
+      "license_document": {
+        "url": "https://github.com/chuxiuhong/chuxiuhong-rust-patterns-zh/blob/master/LICENSE",
+        "sha": "398385c9fb9b5241b4649d92d92070671c137675"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-017",
+      "title": "Rust API 编写指南 中文版",
+      "category": "learning/books",
+      "url": "https://github.com/Rust-Chinese-Translation/api-guidelines",
+      "status": "unknown",
+      "path": "resources/learning/books/book-017.md",
+      "checked_at": "2026-10-13T05:59:45.520Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "Rust-Chinese-Translation/api-guidelines",
+        "url": "https://github.com/Rust-Chinese-Translation/api-guidelines",
+        "description": "Rust API Guidelines 中文翻译版",
+        "homepage": "https://rust-chinese-translation.github.io/api-guidelines/",
+        "archived": false,
+        "stars": 87,
+        "pushed_at": "2021-07-16T02:22:23Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/Rust-Chinese-Translation/api-guidelines/blob/master/README.md",
+        "sha": "98b05f99f75c4ec34221e1380d05b5f6fd32b2a1"
+      },
+      "license_document": {
+        "url": "https://github.com/Rust-Chinese-Translation/api-guidelines/blob/master/LICENSE-APACHE",
+        "sha": "16fe87b06e802f094b3fbb0894b137bca2b16ef1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "book-018",
+      "title": "Rust 性能手册（The Rust Performance Book）",
+      "category": "learning/books",
+      "url": "https://github.com/Blues-star/perf-book-zh/",
+      "status": "unknown",
+      "path": "resources/learning/books/book-018.md",
+      "checked_at": "2026-10-13T05:59:46.137Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "Blues-star/perf-book-zh",
+        "url": "https://github.com/Blues-star/perf-book-zh",
+        "description": "The Rust Performance Book",
+        "homepage": null,
+        "archived": false,
+        "stars": 36,
+        "pushed_at": "2025-09-15T02:51:32Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/Blues-star/perf-book-zh/blob/master/README.md",
+        "sha": "6ada5b055628827cd85e650dbe7e082108ae53da"
+      },
+      "license_document": {
+        "url": "https://github.com/Blues-star/perf-book-zh/blob/master/LICENSE-APACHE",
+        "sha": "1b5ec8b78e237b5c3b3d812a7c0a6589d0f7161d"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-019",
+      "title": "Rust 宏小册(tlborm)",
+      "category": "learning/books",
+      "url": "https://github.com/DaseinPhaos/tlborm-chinese",
+      "status": "unknown",
+      "path": "resources/learning/books/book-019.md",
+      "checked_at": "2026-10-13T05:59:46.711Z",
+      "result": "manual",
+      "facts": {
+        "repository": "DaseinPhaos/tlborm-chinese",
+        "url": "https://github.com/DaseinPhaos/tlborm-chinese",
+        "description": "Rust宏小册, the Chinese translation of tlborm.",
+        "homepage": "",
+        "archived": false,
+        "stars": 97,
+        "pushed_at": "2017-02-11T17:57:30Z",
+        "license": null,
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/DaseinPhaos/tlborm-chinese/blob/master/README.md",
+        "sha": "11dd87d671ac1103f62e3421ed4674a2f612d6ec"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-020",
+      "title": "嵌入式 Rust 编程",
+      "category": "learning/books",
+      "url": "https://github.com/nkbai/book",
+      "status": "unknown",
+      "path": "resources/learning/books/book-020.md",
+      "checked_at": "2026-10-13T05:59:47.277Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "nkbai/book",
+        "url": "https://github.com/nkbai/book",
+        "description": "rust 嵌入式编程书籍的翻译，原书地址 https://rust-embedded.github.io/book/",
+        "homepage": "https://stevenbai.top/rustbook/book",
+        "archived": false,
+        "stars": 29,
+        "pushed_at": "2020-05-28T03:16:45Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/nkbai/book/blob/master/README.md",
+        "sha": "caa6e3150872123a015efa0ef4e3ae650044f23a"
+      },
+      "license_document": {
+        "url": "https://github.com/nkbai/book/blob/master/LICENSE-APACHE",
+        "sha": "11069edd79019f7dafbe3138841cf289209270dd"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-021",
+      "title": "TheAlgorithms(Rust 算法例子)",
+      "category": "learning/books",
+      "url": "https://github.com/TheAlgorithms/Rust",
+      "status": "unknown",
+      "path": "resources/learning/books/book-021.md",
+      "checked_at": "2026-10-13T05:59:47.859Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "TheAlgorithms/Rust",
+        "url": "https://github.com/TheAlgorithms/Rust",
+        "description": " All Algorithms implemented in Rust ",
+        "homepage": "",
+        "archived": false,
+        "stars": 26083,
+        "pushed_at": "2026-10-12T00:19:10Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/TheAlgorithms/Rust/blob/master/README.md",
+        "sha": "fcab70096ebc093ef21cab999356966eccd84883"
+      },
+      "license_document": {
+        "url": "https://github.com/TheAlgorithms/Rust/blob/master/LICENSE",
+        "sha": "a20869d9630087ddccd228f92199c35ee45632c9"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-022",
+      "title": "Rust RFC Book (提案书)",
+      "category": "learning/books",
+      "url": "https://github.com/rust-lang/rfcs",
+      "status": "unknown",
+      "path": "resources/learning/books/book-022.md",
+      "checked_at": "2026-10-13T05:59:48.456Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rust-lang/rfcs",
+        "url": "https://github.com/rust-lang/rfcs",
+        "description": "RFCs for changes to Rust",
+        "homepage": "https://rust-lang.github.io/rfcs/",
+        "archived": false,
+        "stars": 6611,
+        "pushed_at": "2026-10-05T10:04:13Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/rust-lang/rfcs/blob/main/README.md",
+        "sha": "21bfe826eb9bda283106694c96705b8923675ba8"
+      },
+      "license_document": {
+        "url": "https://github.com/rust-lang/rfcs/blob/main/LICENSE-APACHE",
+        "sha": "16fe87b06e802f094b3fbb0894b137bca2b16ef1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-023",
+      "title": "Rust Unstable Book (不稳定特性书)",
+      "category": "learning/books",
+      "url": "https://doc.rust-lang.org/nightly/unstable-book/index.html",
+      "status": "unknown",
+      "path": "resources/learning/books/book-023.md",
+      "checked_at": "2026-10-13T05:59:49.174Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "The Unstable Book - The Rust Unstable Book"
+      }
+    },
+    {
+      "id": "book-024",
+      "title": "Rust 版本指南",
+      "category": "learning/books",
+      "url": "https://github.com/rust-lang/edition-guide",
+      "status": "unknown",
+      "path": "resources/learning/books/book-024.md",
+      "checked_at": "2026-10-13T05:59:49.174Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rust-lang/edition-guide",
+        "url": "https://github.com/rust-lang/edition-guide",
+        "description": "A guide to changes between various editions of Rust",
+        "homepage": "https://doc.rust-lang.org/nightly/edition-guide/",
+        "archived": false,
+        "stars": 326,
+        "pushed_at": "2026-08-25T19:52:45Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rust-lang/edition-guide/blob/master/README.md",
+        "sha": "48d60f06ee65e32368e8745f7c7125b150a072f6"
+      },
+      "license_document": {
+        "url": "https://github.com/rust-lang/edition-guide/blob/master/LICENSE-APACHE",
+        "sha": "f8e5e5ea03400291957779488f5e542e6964c39d"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-025",
+      "title": "Rust 标准库手册中文版",
+      "category": "learning/books",
+      "url": "https://rustwiki.org/zh-CN/std/",
+      "status": "unknown",
+      "path": "resources/learning/books/book-025.md",
+      "checked_at": "2026-10-13T05:59:49.834Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [
+        "主链接从 crates.io 修正为标准库中文文档"
+      ],
+      "web_evidence": {
+        "status": 200,
+        "title": "std - Rust",
+        "source": "https://rustwiki.org/zh-CN/std/"
+      }
+    },
+    {
+      "id": "book-026",
+      "title": "inside-rust-std-library (标准库手册帮助文档)",
+      "category": "learning/books",
+      "url": "https://github.com/Warrenren/inside-rust-std-library",
+      "status": "unknown",
+      "path": "resources/learning/books/book-026.md",
+      "checked_at": "2026-10-13T05:59:49.834Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "Warrenren/inside-rust-std-library",
+        "url": "https://github.com/Warrenren/inside-rust-std-library",
+        "description": "本书已经正式出版，目前正预售，可在京东搜索《深入RUST标准库》即可。本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code. ",
+        "homepage": "",
+        "archived": false,
+        "stars": 1506,
+        "pushed_at": "2024-12-28T09:19:51Z",
+        "license": "GPL-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/Warrenren/inside-rust-std-library/blob/main/README.md",
+        "sha": "ec2b0e59f76629efd5ae627889c1978fdd177d63"
+      },
+      "license_document": {
+        "url": "https://github.com/Warrenren/inside-rust-std-library/blob/main/LICENSE",
+        "sha": "d159169d1050894d3ea3b98e1c965c4058208fe1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "book-027",
+      "title": "Cargo 中文文档",
+      "category": "learning/books",
+      "url": "https://github.com/rust-lang-cn/cargo-cn",
+      "status": "unknown",
+      "path": "resources/learning/books/book-027.md",
+      "checked_at": "2026-10-13T05:59:50.325Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rust-lang-cn/cargo-cn",
+        "url": "https://github.com/rust-lang-cn/cargo-cn",
+        "description": "Cargo 手册——Chinese translation of The Cargo Documentation",
+        "homepage": "https://rustwiki.org/zh-CN/cargo",
+        "archived": false,
+        "stars": 48,
+        "pushed_at": "2025-11-11T10:14:20Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rust-lang-cn/cargo-cn/blob/master/README.md",
+        "sha": "ff649b308d93327413082bda528df2ccaa72f00a"
+      },
+      "license_document": {
+        "url": "https://github.com/rust-lang-cn/cargo-cn/blob/master/LICENSE-APACHE",
+        "sha": "c98d27d4f32d56e56f13de73a08ab44b2947ccf5"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "修正主仓库归属",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "book-028",
+      "title": "Rust 版 Vulkan 教程（图形）",
+      "category": "learning/books",
+      "url": "https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia",
+      "status": "unknown",
+      "path": "resources/learning/books/book-028.md",
+      "checked_at": "2026-10-13T05:59:50.912Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "chuigda/Vulkan-Tutorial-Rust-CN",
+        "url": "https://github.com/chuigda/Vulkan-Tutorial-Rust-CN",
+        "description": "Rust 版 Vulkan 教程的中文翻译，基于 vulkanalia",
+        "homepage": "https://vk.7dg.tech/",
+        "archived": false,
+        "stars": 144,
+        "pushed_at": "2025-12-31T05:33:38Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/chuigda/Vulkan-Tutorial-Rust-CN/blob/master/README.adoc",
+        "sha": "9b86d89abc7d76704912d000df6b347bcbc78a2b"
+      },
+      "license_document": {
+        "url": "https://github.com/chuigda/Vulkan-Tutorial-Rust-CN/blob/master/LICENSE",
+        "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "video-001",
+      "title": "Rust 编程语言入门教程（Rust 语言/Rust 权威指南配套）【已完结】",
+      "category": "learning/videos",
+      "url": "https://www.bilibili.com/video/BV1hp4y1k7SV?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+      "status": "unknown",
+      "path": "resources/learning/videos/video-001.md",
+      "checked_at": "2026-10-13T05:59:51.431Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Rust编程语言入门教程（Rust语言/Rust权威指南配套）【已完结】_哔哩哔哩_bilibili"
+      }
+    },
+    {
+      "id": "video-002",
+      "title": "Rust Async 异步编程（完结）",
+      "category": "learning/videos",
+      "url": "https://www.bilibili.com/video/BV1Ki4y1C7gj?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+      "status": "unknown",
+      "path": "resources/learning/videos/video-002.md",
+      "checked_at": "2026-10-13T05:59:51.431Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Rust Async 异步编程（完结）_哔哩哔哩_bilibili"
+      }
+    },
+    {
+      "id": "video-003",
+      "title": "Rust Async 异步编程 简易教程",
+      "category": "learning/videos",
+      "url": "https://www.bilibili.com/video/BV16r4y187P4?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+      "status": "unknown",
+      "path": "resources/learning/videos/video-003.md",
+      "checked_at": "2026-10-13T05:59:51.431Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Rust Async 异步编程 简易教程_哔哩哔哩_bilibili"
+      }
+    },
+    {
+      "id": "video-004",
+      "title": "Rust Web 全栈开发教程【完结】",
+      "category": "learning/videos",
+      "url": "https://www.bilibili.com/video/BV1RP4y1G7KF?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+      "status": "unknown",
+      "path": "resources/learning/videos/video-004.md",
+      "checked_at": "2026-10-13T05:59:51.431Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "Rust Web 全栈开发教程【完结】_哔哩哔哩_bilibili"
+      }
+    },
+    {
+      "id": "video-005",
+      "title": "使用 Async Rust 构建简单的 P2P 节点【完结】",
+      "category": "learning/videos",
+      "url": "https://www.bilibili.com/video/BV13a41197F1?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+      "status": "unknown",
+      "path": "resources/learning/videos/video-005.md",
+      "checked_at": "2026-10-13T05:59:51.432Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "使用 Async Rust 构建简单的 P2P 节点【完结】_哔哩哔哩_bilibili"
+      }
+    },
+    {
+      "id": "video-006",
+      "title": "从零开始创建一个 WebAssembly 游戏",
+      "category": "learning/videos",
+      "url": "https://www.bilibili.com/video/BV19a41127Dq?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+      "status": "unknown",
+      "path": "resources/learning/videos/video-006.md",
+      "checked_at": "2026-10-13T05:59:51.432Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "从零开始创建一个WebAssembly游戏_哔哩哔哩_bilibili"
+      }
+    },
+    {
+      "id": "video-007",
+      "title": "Rust 面试题合集（首集：Rust IDE 配置）",
+      "category": "learning/videos",
+      "url": "https://www.bilibili.com/video/BV1m94y1U7eZ?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+      "status": "unknown",
+      "path": "resources/learning/videos/video-007.md",
+      "checked_at": "2026-10-13T05:59:51.432Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [
+        "按实际页面标题/合集内容校正说明"
+      ],
+      "web_evidence": {
+        "status": 200,
+        "title": "我的Rust IDE 配置_哔哩哔哩_bilibili"
+      }
+    },
+    {
+      "id": "video-008",
+      "title": "可视化 Rust 各数据结构的内存布局(必看)",
+      "category": "learning/videos",
+      "url": "https://www.bilibili.com/video/BV1KT4y167f1?share_source=copy_web&vd_source=48cb37f6a16cf0feaf678d7beba9e00d",
+      "status": "unknown",
+      "path": "resources/learning/videos/video-008.md",
+      "checked_at": "2026-10-13T05:59:51.433Z",
+      "result": "manual",
+      "facts": null,
+      "readme": null,
+      "license_document": null,
+      "notes": [
+        "非 GitHub 主链接：需人工或 AI 实际读取官网资料核验；不自动生成仓库归属或协议结论"
+      ],
+      "changes": [],
+      "web_evidence": {
+        "status": 200,
+        "title": "可视化 Rust 各数据结构的内存布局_哔哩哔哩_bilibili"
+      }
+    },
+    {
+      "id": "libraries-ast-001",
+      "title": "antlr-rust",
+      "category": "libraries/ast",
+      "url": "https://github.com/rrevenantt/antlr4rust",
+      "status": "unknown",
+      "path": "resources/libraries/ast/libraries-ast-001.md",
+      "checked_at": "2026-10-13T05:59:51.434Z",
+      "result": "manual",
+      "facts": {
+        "repository": "rrevenantt/antlr4rust",
+        "url": "https://github.com/rrevenantt/antlr4rust",
+        "description": "ANTLR4 parser generator runtime for Rust programming laguage ",
+        "homepage": "",
+        "archived": false,
+        "stars": 462,
+        "pushed_at": "2023-02-14T07:25:34Z",
+        "license": "NOASSERTION",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rrevenantt/antlr4rust/blob/master/README.md",
+        "sha": "e9c264ae5dca5390d9d51aa7eb2e3801cb135ccc"
+      },
+      "license_document": {
+        "url": "https://github.com/rrevenantt/antlr4rust/blob/master/LICENSE.txt",
+        "sha": "1f11de272df3b149eb29afa05289eddf46c59429"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "修正主仓库归属",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-ast-002",
+      "title": "pandoc_ast",
+      "category": "libraries/ast",
+      "url": "https://github.com/oli-obk/pandoc-ast",
+      "status": "unknown",
+      "path": "resources/libraries/ast/libraries-ast-002.md",
+      "checked_at": "2026-10-13T05:59:51.942Z",
+      "result": "manual",
+      "facts": {
+        "repository": "oli-obk/pandoc-ast",
+        "url": "https://github.com/oli-obk/pandoc-ast",
+        "description": null,
+        "homepage": null,
+        "archived": false,
+        "stars": 38,
+        "pushed_at": "2024-02-23T09:59:36Z",
+        "license": null,
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/oli-obk/pandoc-ast/blob/main/README.md",
+        "sha": "8894975ee5c56a83531368cf448c68866bd55a0b"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-async-001",
+      "title": "Tokio",
+      "category": "libraries/async",
+      "url": "https://github.com/tokio-rs/tokio",
+      "status": "unknown",
+      "path": "resources/libraries/async/libraries-async-001.md",
+      "checked_at": "2026-10-13T05:59:52.478Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "tokio-rs/tokio",
+        "url": "https://github.com/tokio-rs/tokio",
+        "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+        "homepage": "https://tokio.rs",
+        "archived": false,
+        "stars": 33427,
+        "pushed_at": "2026-10-12T18:30:39Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/tokio-rs/tokio/blob/master/README.md",
+        "sha": "76f09d8921bae4018ae944492bdc27616961f7ab"
+      },
+      "license_document": {
+        "url": "https://github.com/tokio-rs/tokio/blob/master/LICENSE",
+        "sha": "f0dbcf4b45d6acca6f7f5d88dc86683c6f360d76"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-audio-001",
+      "title": "Symphonia",
+      "category": "libraries/audio",
+      "url": "https://github.com/pdeljanov/Symphonia",
+      "status": "unknown",
+      "path": "resources/libraries/audio/libraries-audio-001.md",
+      "checked_at": "2026-10-13T05:59:53.056Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "pdeljanov/Symphonia",
+        "url": "https://github.com/pdeljanov/Symphonia",
+        "description": "Pure Rust multimedia format demuxing, tag reading, and audio decoding library",
+        "homepage": "",
+        "archived": false,
+        "stars": 3433,
+        "pushed_at": "2026-08-13T03:19:51Z",
+        "license": "MPL-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/pdeljanov/Symphonia/blob/main/README.md",
+        "sha": "aeda461a13e8d4909e846374324694fcbae05c0d"
+      },
+      "license_document": {
+        "url": "https://github.com/pdeljanov/Symphonia/blob/main/LICENSE",
+        "sha": "f4bbcd200ad42bbb2fe2faf67e87e8619fafc17a"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-automation-001",
+      "title": "headless_chrome",
+      "category": "libraries/automation",
+      "url": "https://github.com/atroche/rust-headless-chrome",
+      "status": "unknown",
+      "path": "resources/libraries/automation/libraries-automation-001.md",
+      "checked_at": "2026-10-13T05:59:53.569Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "atroche/rust-headless-chrome",
+        "url": "https://github.com/atroche/rust-headless-chrome",
+        "description": "A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.",
+        "homepage": "",
+        "archived": false,
+        "stars": 27,
+        "pushed_at": "2024-03-08T17:15:13Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/atroche/rust-headless-chrome/blob/main/README.md",
+        "sha": "ed9831c761a358f75b1d1a65b0d415ee0479813a"
+      },
+      "license_document": {
+        "url": "https://github.com/atroche/rust-headless-chrome/blob/main/LICENSE.md",
+        "sha": "683e42934a94b52e6df7168b250f502a55f851f8"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-automation-002",
+      "title": "enigo",
+      "category": "libraries/automation",
+      "url": "https://github.com/enigo-rs/enigo",
+      "status": "unknown",
+      "path": "resources/libraries/automation/libraries-automation-002.md",
+      "checked_at": "2026-10-13T05:59:54.159Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "enigo-rs/enigo",
+        "url": "https://github.com/enigo-rs/enigo",
+        "description": "Cross platform input simulation in Rust",
+        "homepage": null,
+        "archived": false,
+        "stars": 1796,
+        "pushed_at": "2026-10-09T09:22:49Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/enigo-rs/enigo/blob/main/README.md",
+        "sha": "c3ce06e5052cee063bc62ff9d478b81a618e1b45"
+      },
+      "license_document": {
+        "url": "https://github.com/enigo-rs/enigo/blob/main/LICENSE",
+        "sha": "d781ea443933d0a55b6b43b9777cbbd7f2d29e87"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-automation-003",
+      "title": "InputBot",
+      "category": "libraries/automation",
+      "url": "https://github.com/obv-mikhail/InputBot",
+      "status": "unknown",
+      "path": "resources/libraries/automation/libraries-automation-003.md",
+      "checked_at": "2026-10-13T05:59:54.947Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "obv-mikhail/InputBot",
+        "url": "https://github.com/obv-mikhail/InputBot",
+        "description": "Rust library for creating global hotkeys, and simulating inputs",
+        "homepage": "",
+        "archived": false,
+        "stars": 461,
+        "pushed_at": "2025-08-01T18:26:50Z",
+        "license": "MIT",
+        "default_branch": "develop"
+      },
+      "readme": {
+        "url": "https://github.com/obv-mikhail/InputBot/blob/develop/README.md",
+        "sha": "ea285f2c9f05a0da9deed09da3a4f9cbdc873db4"
+      },
+      "license_document": {
+        "url": "https://github.com/obv-mikhail/InputBot/blob/develop/LICENSE-MIT",
+        "sha": "31aa79387f27e730e33d871925e152e35e428031"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-blockchain-001",
+      "title": "Solana",
+      "category": "libraries/blockchain",
+      "url": "https://github.com/solana-labs/solana",
+      "status": "archived",
+      "path": "resources/libraries/blockchain/libraries-blockchain-001.md",
+      "checked_at": "2026-10-13T05:59:55.485Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "solana-labs/solana",
+        "url": "https://github.com/solana-labs/solana",
+        "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+        "homepage": "https://solanalabs.com",
+        "archived": true,
+        "stars": 14948,
+        "pushed_at": "2025-01-22T19:41:54Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/solana-labs/solana/blob/master/README.md",
+        "sha": "b273ad8f085850597fac8bb39b296462f615d162"
+      },
+      "license_document": {
+        "url": "https://github.com/solana-labs/solana/blob/master/LICENSE",
+        "sha": "e83dc12de83cb606f2a9ee980b05f8ca763eec6f"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "根据实际归档标志标记历史仓库",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-cli-001",
+      "title": "commander",
+      "category": "libraries/cli",
+      "url": "https://github.com/tickbh/Commander",
+      "status": "unknown",
+      "path": "resources/libraries/cli/libraries-cli-001.md",
+      "checked_at": "2026-10-13T05:59:56.044Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "tickbh/Commander",
+        "url": "https://github.com/tickbh/Commander",
+        "description": "Provide Rust Commander Convert From Env",
+        "homepage": null,
+        "archived": false,
+        "stars": 12,
+        "pushed_at": "2022-03-31T09:59:38Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/tickbh/Commander/blob/master/README.md",
+        "sha": "02d74bd91eddb608336f5324793943aa529c9b4e"
+      },
+      "license_document": {
+        "url": "https://github.com/tickbh/Commander/blob/master/LICENSE",
+        "sha": "7cb244a16b37a06b3f1897c621dd50bd5665df16"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-config-001",
+      "title": "config-rs",
+      "category": "libraries/config",
+      "url": "https://github.com/rust-cli/config-rs",
+      "status": "unknown",
+      "path": "resources/libraries/config/libraries-config-001.md",
+      "checked_at": "2026-10-13T05:59:56.554Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rust-cli/config-rs",
+        "url": "https://github.com/rust-cli/config-rs",
+        "description": "⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). ",
+        "homepage": "https://docs.rs/config/latest/config/",
+        "archived": false,
+        "stars": 3215,
+        "pushed_at": "2026-10-06T17:35:38Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/rust-cli/config-rs/blob/main/README.md",
+        "sha": "27d4acc90c88950b755b49147e3b13e20dd566b2"
+      },
+      "license_document": {
+        "url": "https://github.com/rust-cli/config-rs/blob/main/LICENSE-APACHE",
+        "sha": "6aa81fe0175d388df89cf5c127af4b0f44ea55cb"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-data-001",
+      "title": "Polars",
+      "category": "libraries/data",
+      "url": "https://github.com/pola-rs/polars",
+      "status": "unknown",
+      "path": "resources/libraries/data/libraries-data-001.md",
+      "checked_at": "2026-10-13T05:59:57.143Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "pola-rs/polars",
+        "url": "https://github.com/pola-rs/polars",
+        "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+        "homepage": "https://docs.pola.rs",
+        "archived": false,
+        "stars": 40110,
+        "pushed_at": "2026-10-13T05:40:33Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/pola-rs/polars/blob/main/README.md",
+        "sha": "081f4554d80229dc46d2b4a17c6ec738a75be11d"
+      },
+      "license_document": {
+        "url": "https://github.com/pola-rs/polars/blob/main/LICENSE",
+        "sha": "33b09bbb6c5bd43c5e985e2affed64c5ed093616"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-database-001",
+      "title": "SeaORM",
+      "category": "libraries/database",
+      "url": "https://github.com/SeaQL/sea-orm",
+      "status": "unknown",
+      "path": "resources/libraries/database/libraries-database-001.md",
+      "checked_at": "2026-10-13T05:59:57.716Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "SeaQL/sea-orm",
+        "url": "https://github.com/SeaQL/sea-orm",
+        "description": "🐚 A powerful relational ORM for Rust",
+        "homepage": "https://www.sea-ql.org/SeaORM/",
+        "archived": false,
+        "stars": 9923,
+        "pushed_at": "2026-10-12T16:40:14Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/SeaQL/sea-orm/blob/master/README.md",
+        "sha": "de473b49be0b4f51a16b1237be199df56caf4ffb"
+      },
+      "license_document": {
+        "url": "https://github.com/SeaQL/sea-orm/blob/master/LICENSE-APACHE",
+        "sha": "f8e5e5ea03400291957779488f5e542e6964c39d"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "修正动态语言表述与数据库列表范围"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-database-002",
+      "title": "rbatis",
+      "category": "libraries/database",
+      "url": "https://github.com/rbatis/rbatis",
+      "status": "unknown",
+      "path": "resources/libraries/database/libraries-database-002.md",
+      "checked_at": "2026-10-13T05:59:58.283Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rbatis/rbatis",
+        "url": "https://github.com/rbatis/rbatis",
+        "description": "Compile Time Async Dynamic SQL ORM",
+        "homepage": "https://rbatis.github.io/rbatis.io",
+        "archived": false,
+        "stars": 2488,
+        "pushed_at": "2026-10-04T16:19:16Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rbatis/rbatis/blob/master/README.md",
+        "sha": "73a72119fdde6c3bc5e35900d00de921b1933dbc"
+      },
+      "license_document": {
+        "url": "https://github.com/rbatis/rbatis/blob/master/LICENSE",
+        "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "修正主仓库归属",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-database-003",
+      "title": "MongoDB Rust Driver",
+      "category": "libraries/database",
+      "url": "https://github.com/mongodb/mongo-rust-driver",
+      "status": "unknown",
+      "path": "resources/libraries/database/libraries-database-003.md",
+      "checked_at": "2026-10-13T05:59:58.873Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "mongodb/mongo-rust-driver",
+        "url": "https://github.com/mongodb/mongo-rust-driver",
+        "description": "The official MongoDB Rust Driver",
+        "homepage": "https://www.mongodb.com/docs/drivers/rust/current/",
+        "archived": false,
+        "stars": 1519,
+        "pushed_at": "2026-10-13T00:33:38Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/mongodb/mongo-rust-driver/blob/main/README.md",
+        "sha": "242df8057f6cad407d232e45f0c0adb0504fe9cd"
+      },
+      "license_document": {
+        "url": "https://github.com/mongodb/mongo-rust-driver/blob/main/LICENSE",
+        "sha": "e2b362134201335dcd5b336fc486069c4cd1cbc5"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "按当前 README 改为 Tokio 异步接口，不沿用 async-std 旧说明"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-database-004",
+      "title": "wither",
+      "category": "libraries/database",
+      "url": "https://github.com/thedodd/wither",
+      "status": "unknown",
+      "path": "resources/libraries/database/libraries-database-004.md",
+      "checked_at": "2026-10-13T05:59:59.660Z",
+      "result": "manual",
+      "facts": {
+        "repository": "thedodd/wither",
+        "url": "https://github.com/thedodd/wither",
+        "description": "An ODM for MongoDB built on the official MongoDB Rust driver.",
+        "homepage": "https://docs.rs/wither",
+        "archived": false,
+        "stars": 349,
+        "pushed_at": "2023-01-20T23:29:21Z",
+        "license": "NOASSERTION",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/thedodd/wither/blob/master/README.md",
+        "sha": "c4664367279425cab10f1e4e111c21ee657fa5e6"
+      },
+      "license_document": {
+        "url": "https://github.com/thedodd/wither/blob/master/LICENSE",
+        "sha": "eb2f91a840f7fef9a4e77d18d027fbbfebd333db"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-database-005",
+      "title": "redis-rs",
+      "category": "libraries/database",
+      "url": "https://github.com/redis-rs/redis-rs",
+      "status": "unknown",
+      "path": "resources/libraries/database/libraries-database-005.md",
+      "checked_at": "2026-10-13T06:00:00.195Z",
+      "result": "manual",
+      "facts": {
+        "repository": "redis-rs/redis-rs",
+        "url": "https://github.com/redis-rs/redis-rs",
+        "description": "Redis library for rust",
+        "homepage": "https://docs.rs/redis",
+        "archived": false,
+        "stars": 4265,
+        "pushed_at": "2026-10-11T10:38:39Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/redis-rs/redis-rs/blob/main/README.md",
+        "sha": "dd634a2a47bf46ca3347dd2b7e412c5766726f59"
+      },
+      "license_document": {
+        "url": "https://github.com/redis-rs/redis-rs/blob/main/LICENSE",
+        "sha": "533ac4e5a2d89fa1d47efdcc426d0a4a823e7029"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-database-006",
+      "title": "r2d2",
+      "category": "libraries/database",
+      "url": "https://github.com/sfackler/r2d2",
+      "status": "unknown",
+      "path": "resources/libraries/database/libraries-database-006.md",
+      "checked_at": "2026-10-13T06:00:01.225Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "sfackler/r2d2",
+        "url": "https://github.com/sfackler/r2d2",
+        "description": "A generic connection pool for Rust",
+        "homepage": "",
+        "archived": false,
+        "stars": 1653,
+        "pushed_at": "2024-10-10T01:01:52Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/sfackler/r2d2/blob/master/README.md",
+        "sha": "64d6de3db1004dec741dcd50dc131309bdd76be7"
+      },
+      "license_document": {
+        "url": "https://github.com/sfackler/r2d2/blob/master/LICENSE-APACHE",
+        "sha": "8f71f43fee3f78649d238238cbde51e6d7055c82"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-datetime-001",
+      "title": "time",
+      "category": "libraries/datetime",
+      "url": "https://github.com/time-rs/time",
+      "status": "unknown",
+      "path": "resources/libraries/datetime/libraries-datetime-001.md",
+      "checked_at": "2026-10-13T06:00:01.799Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "time-rs/time",
+        "url": "https://github.com/time-rs/time",
+        "description": "Date and time handling in Rust.",
+        "homepage": "https://time-rs.github.io",
+        "archived": false,
+        "stars": 1342,
+        "pushed_at": "2026-10-04T21:55:15Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/time-rs/time/blob/main/README.md",
+        "sha": "987b8d1e1f95542c6cbe5503a73496352d0a3628"
+      },
+      "license_document": {
+        "url": "https://github.com/time-rs/time/blob/main/LICENSE-Apache",
+        "sha": "f433b1a53f5b830a205fd2df78e2b34974656c7b"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-datetime-002",
+      "title": "chrono",
+      "category": "libraries/datetime",
+      "url": "https://github.com/chronotope/chrono",
+      "status": "unknown",
+      "path": "resources/libraries/datetime/libraries-datetime-002.md",
+      "checked_at": "2026-10-13T06:00:02.418Z",
+      "result": "manual",
+      "facts": {
+        "repository": "chronotope/chrono",
+        "url": "https://github.com/chronotope/chrono",
+        "description": "Date and time library for Rust",
+        "homepage": "",
+        "archived": false,
+        "stars": 3922,
+        "pushed_at": "2026-09-07T07:19:09Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/chronotope/chrono/blob/main/README.md",
+        "sha": "58e16f3c7f76b81404a5c76491403bbed03bfb1f"
+      },
+      "license_document": {
+        "url": "https://github.com/chronotope/chrono/blob/main/LICENSE.txt",
+        "sha": "480fdf7e47e0ea82eb5363bb52ef3b76ba41ba67"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-datetime-003",
+      "title": "httpdate",
+      "category": "libraries/datetime",
+      "url": "https://github.com/pyfisch/httpdate",
+      "status": "unknown",
+      "path": "resources/libraries/datetime/libraries-datetime-003.md",
+      "checked_at": "2026-10-13T06:00:03.060Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "pyfisch/httpdate",
+        "url": "https://github.com/pyfisch/httpdate",
+        "description": "HTTP date parsing and formatting",
+        "homepage": null,
+        "archived": false,
+        "stars": 59,
+        "pushed_at": "2024-12-22T13:34:22Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/pyfisch/httpdate/blob/main/README.md",
+        "sha": "dd436e86e0f97d0dd5b00b36ccdb0acccb5c8380"
+      },
+      "license_document": {
+        "url": "https://github.com/pyfisch/httpdate/blob/main/LICENSE-APACHE",
+        "sha": "cd482d89761c2eb60d1fc8c72c1708b7f47b8c82"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-documents-001",
+      "title": "lopdf",
+      "category": "libraries/documents",
+      "url": "https://github.com/J-F-Liu/lopdf",
+      "status": "unknown",
+      "path": "resources/libraries/documents/libraries-documents-001.md",
+      "checked_at": "2026-10-13T06:00:03.629Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "J-F-Liu/lopdf",
+        "url": "https://github.com/J-F-Liu/lopdf",
+        "description": "A Rust library for PDF document manipulation.",
+        "homepage": null,
+        "archived": false,
+        "stars": 2270,
+        "pushed_at": "2026-10-13T01:42:24Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/J-F-Liu/lopdf/blob/main/README.md",
+        "sha": "bc754f2111b433d4c6b9a498aedb2c34f9fc4c20"
+      },
+      "license_document": {
+        "url": "https://github.com/J-F-Liu/lopdf/blob/main/LICENSE",
+        "sha": "c15fe13e280aa581797d9c32c060f87915450df8"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-documents-002",
+      "title": "pdf-rs",
+      "category": "libraries/documents",
+      "url": "https://github.com/pdf-rs/pdf",
+      "status": "unknown",
+      "path": "resources/libraries/documents/libraries-documents-002.md",
+      "checked_at": "2026-10-13T06:00:04.177Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "pdf-rs/pdf",
+        "url": "https://github.com/pdf-rs/pdf",
+        "description": "Rust library to read, manipulate and write PDF files.",
+        "homepage": "",
+        "archived": false,
+        "stars": 1710,
+        "pushed_at": "2026-07-18T18:07:54Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/pdf-rs/pdf/blob/master/README.md",
+        "sha": "8a919368bf22424bd7dd7efb9c365e649cd46087"
+      },
+      "license_document": {
+        "url": "https://github.com/pdf-rs/pdf/blob/master/LICENSE",
+        "sha": "19c67c2f2d233406540f1d0efa7113df762caa74"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-documents-003",
+      "title": "calamine",
+      "category": "libraries/documents",
+      "url": "https://github.com/tafia/calamine",
+      "status": "unknown",
+      "path": "resources/libraries/documents/libraries-documents-003.md",
+      "checked_at": "2026-10-13T06:00:04.897Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "tafia/calamine",
+        "url": "https://github.com/tafia/calamine",
+        "description": "A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets",
+        "homepage": "",
+        "archived": false,
+        "stars": 2447,
+        "pushed_at": "2026-09-02T19:40:02Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/tafia/calamine/blob/master/README.md",
+        "sha": "306691d0b33afa0df9a6190bad02b22f7941a3e0"
+      },
+      "license_document": {
+        "url": "https://github.com/tafia/calamine/blob/master/LICENSE-MIT.md",
+        "sha": "16a30bcb7493efb21c2cf5a80df1c0208a5307d9"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-documents-004",
+      "title": "docx-rs",
+      "category": "libraries/documents",
+      "url": "https://github.com/bokuweb/docx-rs",
+      "status": "unknown",
+      "path": "resources/libraries/documents/libraries-documents-004.md",
+      "checked_at": "2026-10-13T06:00:05.437Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "bokuweb/docx-rs",
+        "url": "https://github.com/bokuweb/docx-rs",
+        "description": ":memo:  A .docx file writer with Rust/WebAssembly.",
+        "homepage": "https://bokuweb.github.io/docx-rs/",
+        "archived": false,
+        "stars": 558,
+        "pushed_at": "2026-10-05T03:49:45Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/bokuweb/docx-rs/blob/main/README.md",
+        "sha": "2d89a80a0075469accee0c4a19c9f85cad09cd81"
+      },
+      "license_document": {
+        "url": "https://github.com/bokuweb/docx-rs/blob/main/LICENSE",
+        "sha": "bb2ae316cb1d1b43c6f7c7f2658ade9ede020e21"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-encoding-001",
+      "title": "base64",
+      "category": "libraries/encoding",
+      "url": "https://github.com/marshallpierce/rust-base64",
+      "status": "unknown",
+      "path": "resources/libraries/encoding/libraries-encoding-001.md",
+      "checked_at": "2026-10-13T06:00:05.951Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "marshallpierce/rust-base64",
+        "url": "https://github.com/marshallpierce/rust-base64",
+        "description": "base64, in rust",
+        "homepage": null,
+        "archived": false,
+        "stars": 740,
+        "pushed_at": "2026-08-18T23:08:58Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/marshallpierce/rust-base64/blob/master/README.md",
+        "sha": "e872f5705635ab8af49ee5dca8689b19001ce83a"
+      },
+      "license_document": {
+        "url": "https://github.com/marshallpierce/rust-base64/blob/master/LICENSE-APACHE",
+        "sha": "16fe87b06e802f094b3fbb0894b137bca2b16ef1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-encoding-002",
+      "title": "utf8mb3",
+      "category": "libraries/encoding",
+      "url": "https://github.com/Lydanne/utf8mb3",
+      "status": "unknown",
+      "path": "resources/libraries/encoding/libraries-encoding-002.md",
+      "checked_at": "2026-10-13T06:00:06.474Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "Lydanne/utf8mb3",
+        "url": "https://github.com/Lydanne/utf8mb3",
+        "description": "Let mysql's utf8 encoding store four-byte characters such as emoji(让 mysql 的 utf8 编码存储表情符号这类的四字节字符).",
+        "homepage": "",
+        "archived": false,
+        "stars": 3,
+        "pushed_at": "2023-04-03T07:38:14Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/Lydanne/utf8mb3/blob/main/readme.md",
+        "sha": "ca5ba4217061dd3675283517cfaafcf8c1a59739"
+      },
+      "license_document": {
+        "url": "https://github.com/Lydanne/utf8mb3/blob/main/LICENSE",
+        "sha": "70413717b3db5dfc5f50cebc760efcdb79d3d9c1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-ffi-001",
+      "title": "cbindgen",
+      "category": "libraries/ffi",
+      "url": "https://github.com/mozilla/cbindgen",
+      "status": "unknown",
+      "path": "resources/libraries/ffi/libraries-ffi-001.md",
+      "checked_at": "2026-10-13T06:00:07.022Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "mozilla/cbindgen",
+        "url": "https://github.com/mozilla/cbindgen",
+        "description": "A project for generating C bindings from Rust code",
+        "homepage": "",
+        "archived": false,
+        "stars": 2958,
+        "pushed_at": "2026-08-22T18:46:24Z",
+        "license": "MPL-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/mozilla/cbindgen/blob/main/README.md",
+        "sha": "d6d7673d6ad80356c518cae5d3b4e6c6d15bdfcc"
+      },
+      "license_document": {
+        "url": "https://github.com/mozilla/cbindgen/blob/main/LICENSE",
+        "sha": "a612ad9813b006ce81d1ee438dd784da99a54007"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-ffi-002",
+      "title": "PyO3",
+      "category": "libraries/ffi",
+      "url": "https://github.com/PyO3/PyO3",
+      "status": "unknown",
+      "path": "resources/libraries/ffi/libraries-ffi-002.md",
+      "checked_at": "2026-10-13T06:00:07.675Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "PyO3/pyo3",
+        "url": "https://github.com/PyO3/pyo3",
+        "description": "Rust bindings for the Python interpreter",
+        "homepage": "https://pyo3.rs",
+        "archived": false,
+        "stars": 16223,
+        "pushed_at": "2026-10-12T18:57:07Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/PyO3/pyo3/blob/main/README.md",
+        "sha": "27e2b960fb435efc2e2ee9f15befdb5dda0674dd"
+      },
+      "license_document": {
+        "url": "https://github.com/PyO3/pyo3/blob/main/LICENSE-APACHE",
+        "sha": "72207b851d32c92fa0e4a3693dfad7c34685278d"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-frontend-001",
+      "title": "Yew",
+      "category": "libraries/frontend",
+      "url": "https://github.com/yewstack/yew",
+      "status": "unknown",
+      "path": "resources/libraries/frontend/libraries-frontend-001.md",
+      "checked_at": "2026-10-13T06:00:08.225Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "yewstack/yew",
+        "url": "https://github.com/yewstack/yew",
+        "description": "Rust / Wasm framework for creating reliable and efficient web applications",
+        "homepage": "https://yew.rs",
+        "archived": false,
+        "stars": 32822,
+        "pushed_at": "2026-10-09T03:20:23Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/yewstack/yew/blob/master/README.md",
+        "sha": "dc382e8ba3dea55e9f4bd73087825644fce62470"
+      },
+      "license_document": {
+        "url": "https://github.com/yewstack/yew/blob/master/LICENSE-APACHE",
+        "sha": "e34422a15125838dea3495fd5ce97fe41969b0cf"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-frontend-002",
+      "title": "napi-rs",
+      "category": "libraries/frontend",
+      "url": "https://github.com/napi-rs/napi-rs",
+      "status": "unknown",
+      "path": "resources/libraries/frontend/libraries-frontend-002.md",
+      "checked_at": "2026-10-13T06:00:08.908Z",
+      "result": "manual",
+      "facts": {
+        "repository": "napi-rs/napi-rs",
+        "url": "https://github.com/napi-rs/napi-rs",
+        "description": "A framework for building compiled Node.js add-ons in Rust via Node-API",
+        "homepage": "https://napi.rs",
+        "archived": false,
+        "stars": 7970,
+        "pushed_at": "2026-10-13T03:48:10Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/napi-rs/napi-rs/blob/main/README.md",
+        "sha": "28188283f49f63514591e44767c1e7aff64c5884"
+      },
+      "license_document": {
+        "url": "https://github.com/napi-rs/napi-rs/blob/main/LICENSE",
+        "sha": "7fe7e35eff46457f65a4e30a717fada632de9e03"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-game-001",
+      "title": "Bevy",
+      "category": "libraries/game",
+      "url": "https://github.com/bevyengine/bevy",
+      "status": "unknown",
+      "path": "resources/libraries/game/libraries-game-001.md",
+      "checked_at": "2026-10-13T06:00:09.662Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "bevyengine/bevy",
+        "url": "https://github.com/bevyengine/bevy",
+        "description": "A refreshingly simple data-driven game engine built in Rust",
+        "homepage": "https://bevy.org",
+        "archived": false,
+        "stars": 48949,
+        "pushed_at": "2026-10-12T18:20:09Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/bevyengine/bevy/blob/main/README.md",
+        "sha": "f7642983953bc5028424231fb75f182637bcd4ee"
+      },
+      "license_document": {
+        "url": "https://github.com/bevyengine/bevy/blob/main/LICENSE-APACHE",
+        "sha": "d9a10c0d8e868ebf8da0b3dc95bb0be634c34bfe"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-game-002",
+      "title": "tetra",
+      "category": "libraries/game",
+      "url": "https://github.com/17cupsofcoffee/tetra",
+      "status": "unknown",
+      "path": "resources/libraries/game/libraries-game-002.md",
+      "checked_at": "2026-10-13T06:00:10.448Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "17cupsofcoffee/tetra",
+        "url": "https://github.com/17cupsofcoffee/tetra",
+        "description": "🎮 A simple 2D game framework written in Rust",
+        "homepage": "",
+        "archived": false,
+        "stars": 1010,
+        "pushed_at": "2026-07-22T10:15:09Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/17cupsofcoffee/tetra/blob/main/README.md",
+        "sha": "7fa09ec128888ab5fea94379f184ad0e0ee1564f"
+      },
+      "license_document": {
+        "url": "https://github.com/17cupsofcoffee/tetra/blob/main/LICENSE",
+        "sha": "6414de7f4222a11f08b769bcf13ebe65041748af"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-game-003",
+      "title": "amethyst",
+      "category": "libraries/game",
+      "url": "https://github.com/amethyst/amethyst",
+      "status": "archived",
+      "path": "resources/libraries/game/libraries-game-003.md",
+      "checked_at": "2026-10-13T06:00:10.987Z",
+      "result": "manual",
+      "facts": {
+        "repository": "amethyst/amethyst",
+        "url": "https://github.com/amethyst/amethyst",
+        "description": "Data-oriented and data-driven game engine written in Rust",
+        "homepage": "https://amethyst.rs/",
+        "archived": true,
+        "stars": 8033,
+        "pushed_at": "2021-12-06T18:23:49Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/amethyst/amethyst/blob/main/README.md",
+        "sha": "42a00fae38bafdc564f95bf2927b3a4aecd1508a"
+      },
+      "license_document": {
+        "url": "https://github.com/amethyst/amethyst/blob/main/COPYING",
+        "sha": "0c8e2a86c7c135313a7462ebf313a55bec4532b9"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "根据实际归档标志标记历史仓库",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-geometry-001",
+      "title": "geo",
+      "category": "libraries/geometry",
+      "url": "https://github.com/georust/geo",
+      "status": "unknown",
+      "path": "resources/libraries/geometry/libraries-geometry-001.md",
+      "checked_at": "2026-10-13T06:00:11.720Z",
+      "result": "manual",
+      "facts": {
+        "repository": "georust/geo",
+        "url": "https://github.com/georust/geo",
+        "description": "Rust geospatial primitives & algorithms",
+        "homepage": "https://crates.io/crates/geo",
+        "archived": false,
+        "stars": 1944,
+        "pushed_at": "2026-10-11T20:48:11Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/georust/geo/blob/main/README.md",
+        "sha": "7b1e6aee3db5e8cd547b15638ec227dd6bae09bf"
+      },
+      "license_document": {
+        "url": "https://github.com/georust/geo/blob/main/LICENSE-APACHE",
+        "sha": "16fe87b06e802f094b3fbb0894b137bca2b16ef1"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-graphics-001",
+      "title": "Speedy2D",
+      "category": "libraries/graphics",
+      "url": "https://github.com/QuantumBadger/Speedy2D",
+      "status": "unknown",
+      "path": "resources/libraries/graphics/libraries-graphics-001.md",
+      "checked_at": "2026-10-13T06:00:12.324Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "QuantumBadger/Speedy2D",
+        "url": "https://github.com/QuantumBadger/Speedy2D",
+        "description": "Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API.",
+        "homepage": "",
+        "archived": false,
+        "stars": 415,
+        "pushed_at": "2026-06-13T11:47:10Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/QuantumBadger/Speedy2D/blob/master/README.md",
+        "sha": "a6b9ef2cc210ab4aea36c7ec9adb7d1f4222af74"
+      },
+      "license_document": {
+        "url": "https://github.com/QuantumBadger/Speedy2D/blob/master/LICENSE",
+        "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-graphics-002",
+      "title": "wgpu",
+      "category": "libraries/graphics",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "status": "unknown",
+      "path": "resources/libraries/graphics/libraries-graphics-002.md",
+      "checked_at": "2026-10-13T06:00:13.049Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "gfx-rs/wgpu",
+        "url": "https://github.com/gfx-rs/wgpu",
+        "description": "A cross-platform, safe, pure-Rust graphics API.",
+        "homepage": "https://wgpu.rs",
+        "archived": false,
+        "stars": 18267,
+        "pushed_at": "2026-10-13T03:12:25Z",
+        "license": "Apache-2.0",
+        "default_branch": "trunk"
+      },
+      "readme": {
+        "url": "https://github.com/gfx-rs/wgpu/blob/trunk/README.md",
+        "sha": "f8f25ce287a6e1ca3b53725d6ae6ab095fcf29c8"
+      },
+      "license_document": {
+        "url": "https://github.com/gfx-rs/wgpu/blob/trunk/LICENSE.APACHE",
+        "sha": "d9a10c0d8e868ebf8da0b3dc95bb0be634c34bfe"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-graphics-003",
+      "title": "glium",
+      "category": "libraries/graphics",
+      "url": "https://github.com/glium/glium",
+      "status": "unknown",
+      "path": "resources/libraries/graphics/libraries-graphics-003.md",
+      "checked_at": "2026-10-13T06:00:13.808Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "glium/glium",
+        "url": "https://github.com/glium/glium",
+        "description": "Safe OpenGL wrapper for the Rust language.",
+        "homepage": "",
+        "archived": false,
+        "stars": 3613,
+        "pushed_at": "2025-08-19T12:13:24Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/glium/glium/blob/master/README.md",
+        "sha": "ce1de9dc58423b82af10fbc90e0d0a6aeb3b60e7"
+      },
+      "license_document": {
+        "url": "https://github.com/glium/glium/blob/master/LICENSE",
+        "sha": "abd540fd6942248915c74dcc8e1b0da0257e55b5"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-graphics-004",
+      "title": "vulkano",
+      "category": "libraries/graphics",
+      "url": "https://github.com/vulkano-rs/vulkano",
+      "status": "unknown",
+      "path": "resources/libraries/graphics/libraries-graphics-004.md",
+      "checked_at": "2026-10-13T06:00:14.431Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "vulkano-rs/vulkano",
+        "url": "https://github.com/vulkano-rs/vulkano",
+        "description": "Safe and rich Rust wrapper around the Vulkan API",
+        "homepage": "",
+        "archived": false,
+        "stars": 5167,
+        "pushed_at": "2026-09-28T17:20:38Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/vulkano-rs/vulkano/blob/master/README.md",
+        "sha": "b72eed2f9dedcfc8458de8779589ba652d45c60c"
+      },
+      "license_document": {
+        "url": "https://github.com/vulkano-rs/vulkano/blob/master/LICENSE-APACHE",
+        "sha": "11069edd79019f7dafbe3138841cf289209270dd"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "根据当前一手资料修订过时介绍",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-graphics-005",
+      "title": "nannou",
+      "category": "libraries/graphics",
+      "url": "https://github.com/nannou-org/nannou",
+      "status": "unknown",
+      "path": "resources/libraries/graphics/libraries-graphics-005.md",
+      "checked_at": "2026-10-13T06:00:15.024Z",
+      "result": "manual",
+      "facts": {
+        "repository": "nannou-org/nannou",
+        "url": "https://github.com/nannou-org/nannou",
+        "description": "A Creative Coding Framework for Rust.",
+        "homepage": "https://nannou.cc/",
+        "archived": false,
+        "stars": 6765,
+        "pushed_at": "2026-07-15T15:02:25Z",
+        "license": null,
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/nannou-org/nannou/blob/master/README.md",
+        "sha": "ebd7cf928c428b0d1d9fdcb55db4bfaea7444593"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-graphics-006",
+      "title": "raqote",
+      "category": "libraries/graphics",
+      "url": "https://github.com/jrmuizel/raqote",
+      "status": "unknown",
+      "path": "resources/libraries/graphics/libraries-graphics-006.md",
+      "checked_at": "2026-10-13T06:00:15.614Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "jrmuizel/raqote",
+        "url": "https://github.com/jrmuizel/raqote",
+        "description": "Rust 2D graphics library",
+        "homepage": "",
+        "archived": false,
+        "stars": 1180,
+        "pushed_at": "2025-02-11T17:49:11Z",
+        "license": "BSD-3-Clause",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/jrmuizel/raqote/blob/master/README.md",
+        "sha": "fdf406f4eb568135d39cacbf7af2c868b785368d"
+      },
+      "license_document": {
+        "url": "https://github.com/jrmuizel/raqote/blob/master/LICENSE.md",
+        "sha": "2b2d9bf22d5f41bf16f63cec1ffce80268d5aa8e"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-001",
+      "title": "Tauri",
+      "category": "libraries/gui",
+      "url": "https://github.com/tauri-apps/tauri",
+      "status": "unknown",
+      "path": "resources/libraries/gui/libraries-gui-001.md",
+      "checked_at": "2026-10-13T06:00:16.155Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "tauri-apps/tauri",
+        "url": "https://github.com/tauri-apps/tauri",
+        "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+        "homepage": "https://tauri.app",
+        "archived": false,
+        "stars": 111824,
+        "pushed_at": "2026-10-13T02:46:57Z",
+        "license": "Apache-2.0",
+        "default_branch": "dev"
+      },
+      "readme": {
+        "url": "https://github.com/tauri-apps/tauri/blob/dev/README.md",
+        "sha": "80556b42f74ede3cd1a246f339c4d22e8d4be6ef"
+      },
+      "license_document": {
+        "url": "https://github.com/tauri-apps/tauri/blob/dev/LICENSE-APACHE-2.0",
+        "sha": "f433b1a53f5b830a205fd2df78e2b34974656c7b"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-002",
+      "title": "egui",
+      "category": "libraries/gui",
+      "url": "https://github.com/emilk/egui",
+      "status": "unknown",
+      "path": "resources/libraries/gui/libraries-gui-002.md",
+      "checked_at": "2026-10-13T06:00:16.767Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "emilk/egui",
+        "url": "https://github.com/emilk/egui",
+        "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+        "homepage": "https://www.egui.rs/",
+        "archived": false,
+        "stars": 31343,
+        "pushed_at": "2026-10-12T15:43:58Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/emilk/egui/blob/main/README.md",
+        "sha": "bea77ce6688d21a2a4bf02d75aa5cff7c376227d"
+      },
+      "license_document": {
+        "url": "https://github.com/emilk/egui/blob/main/LICENSE-APACHE",
+        "sha": "11069edd79019f7dafbe3138841cf289209270dd"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "去掉已过时的计划性标注",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-003",
+      "title": "fltk-rs",
+      "category": "libraries/gui",
+      "url": "https://github.com/fltk-rs/fltk-rs",
+      "status": "unknown",
+      "path": "resources/libraries/gui/libraries-gui-003.md",
+      "checked_at": "2026-10-13T06:00:17.268Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "fltk-rs/fltk-rs",
+        "url": "https://github.com/fltk-rs/fltk-rs",
+        "description": "Rust bindings for the FLTK GUI library.",
+        "homepage": "",
+        "archived": false,
+        "stars": 1861,
+        "pushed_at": "2026-05-19T23:09:40Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/fltk-rs/fltk-rs/blob/master/README.md",
+        "sha": "f0d5d0815eff219df1949b1b75eeae2374c1a5d9"
+      },
+      "license_document": {
+        "url": "https://github.com/fltk-rs/fltk-rs/blob/master/LICENSE",
+        "sha": "15ed49748cea57bcffc1e496a129de7caa83e32e"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-004",
+      "title": "iced",
+      "category": "libraries/gui",
+      "url": "https://github.com/iced-rs/iced",
+      "status": "unknown",
+      "path": "resources/libraries/gui/libraries-gui-004.md",
+      "checked_at": "2026-10-13T06:00:18.015Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "iced-rs/iced",
+        "url": "https://github.com/iced-rs/iced",
+        "description": "A cross-platform GUI library for Rust, inspired by Elm",
+        "homepage": "https://iced.rs",
+        "archived": false,
+        "stars": 31738,
+        "pushed_at": "2026-10-07T17:15:02Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/iced-rs/iced/blob/master/README.md",
+        "sha": "160176e8877c030253b948e5cc728e00ce9da4b8"
+      },
+      "license_document": {
+        "url": "https://github.com/iced-rs/iced/blob/master/LICENSE",
+        "sha": "f1148e26eac8202a1c2a170b41aa766d7dbb0c8d"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-005",
+      "title": "xilem",
+      "category": "libraries/gui",
+      "url": "https://github.com/linebender/xilem",
+      "status": "unknown",
+      "path": "resources/libraries/gui/libraries-gui-005.md",
+      "checked_at": "2026-10-13T06:00:18.597Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "linebender/xilem",
+        "url": "https://github.com/linebender/xilem",
+        "description": "An experimental Rust native UI framework",
+        "homepage": "",
+        "archived": false,
+        "stars": 5568,
+        "pushed_at": "2026-09-14T12:18:40Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/linebender/xilem/blob/main/README.md",
+        "sha": "41ca242ddd0dc8ee6071e5c3296d316cf2927805"
+      },
+      "license_document": {
+        "url": "https://github.com/linebender/xilem/blob/main/LICENSE",
+        "sha": "d9a10c0d8e868ebf8da0b3dc95bb0be634c34bfe"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-006",
+      "title": "druid",
+      "category": "libraries/gui",
+      "url": "https://github.com/linebender/druid",
+      "status": "archived",
+      "path": "resources/libraries/gui/libraries-gui-006.md",
+      "checked_at": "2026-10-13T06:00:19.205Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "linebender/druid",
+        "url": "https://github.com/linebender/druid",
+        "description": "A data-first Rust-native UI design toolkit. ",
+        "homepage": "https://linebender.org/druid/",
+        "archived": false,
+        "stars": 9701,
+        "pushed_at": "2026-04-23T08:34:38Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/linebender/druid/blob/master/README.md",
+        "sha": "f17c2a2f436d0aaaaa7552c52d58aa009ecf1581"
+      },
+      "license_document": {
+        "url": "https://github.com/linebender/druid/blob/master/LICENSE",
+        "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "README 明确停止维护，修订旧的积极开发介绍"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-007",
+      "title": "Dioxus",
+      "category": "libraries/gui",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "status": "unknown",
+      "path": "resources/libraries/gui/libraries-gui-007.md",
+      "checked_at": "2026-10-13T06:00:20.196Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "DioxusLabs/dioxus",
+        "url": "https://github.com/DioxusLabs/dioxus",
+        "description": "Fullstack app framework for web, desktop, and mobile.",
+        "homepage": "https://dioxuslabs.com",
+        "archived": false,
+        "stars": 39380,
+        "pushed_at": "2026-10-12T23:03:48Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/DioxusLabs/dioxus/blob/main/README.md",
+        "sha": "a0a4244d93ab2e9d4f877007977accfda28a38b3"
+      },
+      "license_document": {
+        "url": "https://github.com/DioxusLabs/dioxus/blob/main/LICENSE-APACHE",
+        "sha": "1b5ec8b78e237b5c3b3d812a7c0a6589d0f7161d"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "修正主仓库归属",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-008",
+      "title": "Vizia",
+      "category": "libraries/gui",
+      "url": "https://github.com/vizia/vizia",
+      "status": "unknown",
+      "path": "resources/libraries/gui/libraries-gui-008.md",
+      "checked_at": "2026-10-13T06:00:20.753Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "vizia/vizia",
+        "url": "https://github.com/vizia/vizia",
+        "description": "A declarative GUI library written in Rust",
+        "homepage": "https://docs.vizia.dev",
+        "archived": false,
+        "stars": 2327,
+        "pushed_at": "2026-08-21T19:39:29Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/vizia/vizia/blob/main/README.md",
+        "sha": "1cf2cda2559bc270bfb6a9a0eda6dc1aaad53ed1"
+      },
+      "license_document": {
+        "url": "https://github.com/vizia/vizia/blob/main/LICENSE",
+        "sha": "a2a54cc3b3d49b9d04a82978675bc8d5508aa212"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-009",
+      "title": "slint",
+      "category": "libraries/gui",
+      "url": "https://github.com/slint-ui/slint",
+      "status": "unknown",
+      "path": "resources/libraries/gui/libraries-gui-009.md",
+      "checked_at": "2026-10-13T06:00:21.353Z",
+      "result": "manual",
+      "facts": {
+        "repository": "slint-ui/slint",
+        "url": "https://github.com/slint-ui/slint",
+        "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+        "homepage": "https://slint.dev",
+        "archived": false,
+        "stars": 24162,
+        "pushed_at": "2026-10-13T05:55:23Z",
+        "license": "NOASSERTION",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/slint-ui/slint/blob/master/README.md",
+        "sha": "c60e23016ba6b4d65dfa1e56a92f1fe16e3cff8d"
+      },
+      "license_document": {
+        "url": "https://github.com/slint-ui/slint/blob/master/LICENSE.md",
+        "sha": "ae09ae81c223c8eb1a5f90fe7254a1e8fd10442a"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-gui-010",
+      "title": "GPUI Kit",
+      "category": "libraries/gui",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "status": "unknown",
+      "path": "resources/libraries/gui/libraries-gui-010.md",
+      "checked_at": "2026-10-13T06:00:22.002Z",
+      "result": "manual",
+      "facts": {
+        "repository": "longbridge/gpui-kit",
+        "url": "https://github.com/longbridge/gpui-kit",
+        "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+        "homepage": "http://gpui-kit.com",
+        "archived": false,
+        "stars": 17016,
+        "pushed_at": "2026-10-13T05:41:28Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/longbridge/gpui-kit/blob/main/README.md",
+        "sha": "268b4a260381b7c1542c83b30f7825abd140d176"
+      },
+      "license_document": {
+        "url": "https://github.com/longbridge/gpui-kit/blob/main/LICENSE-APACHE",
+        "sha": "1e9e81e7dc6d9c0a7490c9c5debd67697284ee25"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "补齐/校正主仓库徽章",
+        "依据实际协议文件区分源码 Apache-2.0 与文档 CC BY 4.0"
+      ],
+      "web_evidence": null,
+      "custom_license_sources": [
+        {
+          "name": "LICENSE-APACHE",
+          "url": "https://github.com/longbridge/gpui-kit/blob/main/LICENSE-APACHE",
+          "http_status": 200,
+          "checked_on": "2026-10-13"
+        },
+        {
+          "name": "LICENSE-DOCS.md",
+          "url": "https://github.com/longbridge/gpui-kit/blob/main/LICENSE-DOCS.md",
+          "http_status": 200,
+          "checked_on": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "libraries-image-001",
+      "title": "image-rs",
+      "category": "libraries/image",
+      "url": "https://github.com/image-rs/image",
+      "status": "unknown",
+      "path": "resources/libraries/image/libraries-image-001.md",
+      "checked_at": "2026-10-13T06:00:22.726Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "image-rs/image",
+        "url": "https://github.com/image-rs/image",
+        "description": "Encoding and decoding images in Rust",
+        "homepage": "",
+        "archived": false,
+        "stars": 5888,
+        "pushed_at": "2026-09-15T18:09:16Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/image-rs/image/blob/main/README.md",
+        "sha": "15697e0f7b34f2fa009aa2775ce42f2f5902dd77"
+      },
+      "license_document": {
+        "url": "https://github.com/image-rs/image/blob/main/LICENSE-APACHE",
+        "sha": "f433b1a53f5b830a205fd2df78e2b34974656c7b"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-messaging-001",
+      "title": "rocketmq-rust",
+      "category": "libraries/messaging",
+      "url": "https://github.com/mxsm/rocketmq-rust",
+      "status": "unknown",
+      "path": "resources/libraries/messaging/libraries-messaging-001.md",
+      "checked_at": "2026-10-13T06:00:23.332Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "mxsm/rocketmq-rust",
+        "url": "https://github.com/mxsm/rocketmq-rust",
+        "description": "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities.",
+        "homepage": "https://rocketmqrust.com",
+        "archived": false,
+        "stars": 1525,
+        "pushed_at": "2026-10-13T04:49:08Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/mxsm/rocketmq-rust/blob/main/README.md",
+        "sha": "f9ea60755840db00ad57c37050d5e6d279a85100"
+      },
+      "license_document": {
+        "url": "https://github.com/mxsm/rocketmq-rust/blob/main/LICENSE-APACHE",
+        "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-ml-001",
+      "title": "neuronika",
+      "category": "libraries/ml",
+      "url": "https://github.com/neuronika/neuronika",
+      "status": "unknown",
+      "path": "resources/libraries/ml/libraries-ml-001.md",
+      "checked_at": "2026-10-13T06:00:23.907Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "neuronika/neuronika",
+        "url": "https://github.com/neuronika/neuronika",
+        "description": "Tensors and dynamic neural networks in pure Rust.",
+        "homepage": "https://docs.rs/neuronika",
+        "archived": false,
+        "stars": 1081,
+        "pushed_at": "2022-10-10T07:02:35Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/neuronika/neuronika/blob/main/README.md",
+        "sha": "5895b57393e95f4f9de4d157b308383ca64d81ec"
+      },
+      "license_document": {
+        "url": "https://github.com/neuronika/neuronika/blob/main/LICENSE-APACHE",
+        "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-multimedia-001",
+      "title": "Rust-SDL2",
+      "category": "libraries/multimedia",
+      "url": "https://github.com/Rust-SDL2/rust-sdl2",
+      "status": "unknown",
+      "path": "resources/libraries/multimedia/libraries-multimedia-001.md",
+      "checked_at": "2026-10-13T06:00:24.496Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "Rust-SDL2/rust-sdl2",
+        "url": "https://github.com/Rust-SDL2/rust-sdl2",
+        "description": "SDL2 bindings for Rust",
+        "homepage": null,
+        "archived": false,
+        "stars": 2952,
+        "pushed_at": "2026-03-22T12:28:05Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/Rust-SDL2/rust-sdl2/blob/master/README.md",
+        "sha": "30eff716825da9c1efdf26f616ffb0827499fc60"
+      },
+      "license_document": {
+        "url": "https://github.com/Rust-SDL2/rust-sdl2/blob/master/LICENSE",
+        "sha": "5e611b20f101785805f5478a1522663095657ea4"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-network-001",
+      "title": "libp2p",
+      "category": "libraries/network",
+      "url": "https://github.com/libp2p/rust-libp2p",
+      "status": "unknown",
+      "path": "resources/libraries/network/libraries-network-001.md",
+      "checked_at": "2026-10-13T06:00:25.087Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "libp2p/rust-libp2p",
+        "url": "https://github.com/libp2p/rust-libp2p",
+        "description": "The Rust Implementation of the libp2p networking stack. ",
+        "homepage": "https://libp2p.io",
+        "archived": false,
+        "stars": 5616,
+        "pushed_at": "2026-10-13T01:53:26Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/libp2p/rust-libp2p/blob/master/README.md",
+        "sha": "5ef30a2f77142ff8a39addf6bb22a11a5a04abc3"
+      },
+      "license_document": {
+        "url": "https://github.com/libp2p/rust-libp2p/blob/master/LICENSE",
+        "sha": "da84696303f414f0898d89477013509f1a0a16c6"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-network-002",
+      "title": "Crust",
+      "category": "libraries/network",
+      "url": "https://github.com/maidsafe-archive/crust",
+      "status": "archived",
+      "path": "resources/libraries/network/libraries-network-002.md",
+      "checked_at": "2026-10-13T06:00:25.681Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "maidsafe-archive/crust",
+        "url": "https://github.com/maidsafe-archive/crust",
+        "description": "Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects",
+        "homepage": null,
+        "archived": true,
+        "stars": 945,
+        "pushed_at": "2019-06-04T14:33:57Z",
+        "license": "BSD-3-Clause",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/maidsafe-archive/crust/blob/master/README.md",
+        "sha": "4a0f9cc31500c284f92ff4f465998a7452dce184"
+      },
+      "license_document": {
+        "url": "https://github.com/maidsafe-archive/crust/blob/master/LICENSE-BSD",
+        "sha": "9109b84d2d101c4708fd0559af985048def8c9dc"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "根据实际归档标志标记历史仓库",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-rpc-001",
+      "title": "Dubbo-rust",
+      "category": "libraries/rpc",
+      "url": "https://github.com/apache/dubbo-rust",
+      "status": "unknown",
+      "path": "resources/libraries/rpc/libraries-rpc-001.md",
+      "checked_at": "2026-10-13T06:00:26.393Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "apache/dubbo-rust",
+        "url": "https://github.com/apache/dubbo-rust",
+        "description": "Apache Dubbo Rust implementation",
+        "homepage": "https://dubbo.apache.org/",
+        "archived": false,
+        "stars": 296,
+        "pushed_at": "2024-07-15T10:20:21Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/apache/dubbo-rust/blob/main/README.md",
+        "sha": "28d7a9d50211601bd3bde1783b285bf5b7fbeab7"
+      },
+      "license_document": {
+        "url": "https://github.com/apache/dubbo-rust/blob/main/LICENSE",
+        "sha": "75b52484ea471f882c29e02693b4f02dba175b5e"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-rpc-002",
+      "title": "volo",
+      "category": "libraries/rpc",
+      "url": "https://github.com/cloudwego/volo",
+      "status": "unknown",
+      "path": "resources/libraries/rpc/libraries-rpc-002.md",
+      "checked_at": "2026-10-13T06:00:27.468Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "cloudwego/volo",
+        "url": "https://github.com/cloudwego/volo",
+        "description": "Rust RPC framework with high-performance and strong-extensibility for building micro-services.",
+        "homepage": "https://crates.io/crates/volo",
+        "archived": false,
+        "stars": 2630,
+        "pushed_at": "2026-10-13T04:28:07Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/cloudwego/volo/blob/main/README.md",
+        "sha": "3a0cfc7cebc02b310ceb4419ab4cfb8bd104b196"
+      },
+      "license_document": {
+        "url": "https://github.com/cloudwego/volo/blob/main/LICENSE-APACHE",
+        "sha": "038d25d682e171e237a3e86d3f43d52caf2834ab"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-security-001",
+      "title": "hmac",
+      "category": "libraries/security",
+      "url": "https://github.com/RustCrypto/MACs",
+      "status": "unknown",
+      "path": "resources/libraries/security/libraries-security-001.md",
+      "checked_at": "2026-10-13T06:00:28.071Z",
+      "result": "manual",
+      "facts": {
+        "repository": "RustCrypto/MACs",
+        "url": "https://github.com/RustCrypto/MACs",
+        "description": "Message authentication code algorithms written in pure Rust",
+        "homepage": null,
+        "archived": false,
+        "stars": 375,
+        "pushed_at": "2026-09-21T17:52:52Z",
+        "license": null,
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/RustCrypto/MACs/blob/master/README.md",
+        "sha": "7a86a016c580b0294e78143d34de4409a1dfa8f8"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-security-002",
+      "title": "jwt",
+      "category": "libraries/security",
+      "url": "https://github.com/mikkyang/rust-jwt",
+      "status": "unknown",
+      "path": "resources/libraries/security/libraries-security-002.md",
+      "checked_at": "2026-10-13T06:00:28.635Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "mikkyang/rust-jwt",
+        "url": "https://github.com/mikkyang/rust-jwt",
+        "description": "JSON Web Token library for Rust",
+        "homepage": "",
+        "archived": false,
+        "stars": 188,
+        "pushed_at": "2024-06-16T15:46:31Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/mikkyang/rust-jwt/blob/master/README.md",
+        "sha": "8f544d5eea582a60cb4e89e5b66ad3b2ecfea0c5"
+      },
+      "license_document": {
+        "url": "https://github.com/mikkyang/rust-jwt/blob/master/LICENSE",
+        "sha": "064671d4af93f9fc89165af7653a285cb25830dd"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-security-003",
+      "title": "josekit",
+      "category": "libraries/security",
+      "url": "https://github.com/hidekatsu-izuno/josekit-rs",
+      "status": "unknown",
+      "path": "resources/libraries/security/libraries-security-003.md",
+      "checked_at": "2026-10-13T06:00:29.159Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "hidekatsu-izuno/josekit-rs",
+        "url": "https://github.com/hidekatsu-izuno/josekit-rs",
+        "description": "JOSE (Javascript Object Signing and Encryption) library for Rust (based on OpenSSL).",
+        "homepage": "",
+        "archived": false,
+        "stars": 93,
+        "pushed_at": "2025-05-20T21:39:31Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/hidekatsu-izuno/josekit-rs/blob/master/README.md",
+        "sha": "9338e2ea1c24b9e4927e7e3d1cacc8dcdeaea0f5"
+      },
+      "license_document": {
+        "url": "https://github.com/hidekatsu-izuno/josekit-rs/blob/master/LICENSE-APACHE",
+        "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-security-004",
+      "title": "sha",
+      "category": "libraries/security",
+      "url": "https://github.com/andydude/rust-sha/",
+      "status": "unknown",
+      "path": "resources/libraries/security/libraries-security-004.md",
+      "checked_at": "2026-10-13T06:00:29.684Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "andydude/rust-sha",
+        "url": "https://github.com/andydude/rust-sha",
+        "description": "Rust Cryptography Intrinsics",
+        "homepage": null,
+        "archived": false,
+        "stars": 12,
+        "pushed_at": "2019-05-09T01:46:16Z",
+        "license": "LGPL-3.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/andydude/rust-sha/blob/master/README.md",
+        "sha": "e230876e5e0d9e29487a83f59f630f25463a38ec"
+      },
+      "license_document": {
+        "url": "https://github.com/andydude/rust-sha/blob/master/LICENSE",
+        "sha": "fb6d90b9fb43957e7ee3ab734c5393eb96f06e24"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-serialization-001",
+      "title": "A-JSON",
+      "category": "libraries/serialization",
+      "url": "https://github.com/importcjj/rust-ajson",
+      "status": "unknown",
+      "path": "resources/libraries/serialization/libraries-serialization-001.md",
+      "checked_at": "2026-10-13T06:00:30.215Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "importcjj/rust-ajson",
+        "url": "https://github.com/importcjj/rust-ajson",
+        "description": "Rust port of gjson，get JSON value by dotpath syntax",
+        "homepage": "https://importcjj.github.io/rust-ajson-playground/",
+        "archived": false,
+        "stars": 109,
+        "pushed_at": "2022-08-31T03:51:16Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/importcjj/rust-ajson/blob/master/README.md",
+        "sha": "8e18a2a981a2050f097503cfe2970e9dd338b4e0"
+      },
+      "license_document": {
+        "url": "https://github.com/importcjj/rust-ajson/blob/master/LICENSE",
+        "sha": "b1bc41a96f0db3696265320d540a075ce17bcfee"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-serialization-002",
+      "title": "json-rust",
+      "category": "libraries/serialization",
+      "url": "https://github.com/maciejhirsz/json-rust",
+      "status": "unknown",
+      "path": "resources/libraries/serialization/libraries-serialization-002.md",
+      "checked_at": "2026-10-13T06:00:30.739Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "maciejhirsz/json-rust",
+        "url": "https://github.com/maciejhirsz/json-rust",
+        "description": "JSON implementation in Rust",
+        "homepage": null,
+        "archived": false,
+        "stars": 595,
+        "pushed_at": "2024-04-14T07:19:58Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/maciejhirsz/json-rust/blob/master/README.md",
+        "sha": "0fac5153a0e4266cbdb772a38319e761441ee22d"
+      },
+      "license_document": {
+        "url": "https://github.com/maciejhirsz/json-rust/blob/master/LICENSE-APACHE",
+        "sha": "698a266dc0f582ad3cd8572033947bc995cae6b4"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-serialization-003",
+      "title": "pikkr",
+      "category": "libraries/serialization",
+      "url": "https://github.com/pikkr/pikkr",
+      "status": "unknown",
+      "path": "resources/libraries/serialization/libraries-serialization-003.md",
+      "checked_at": "2026-10-13T06:00:31.271Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "pikkr/pikkr",
+        "url": "https://github.com/pikkr/pikkr",
+        "description": "JSON parser which picks up values directly without performing tokenization in Rust",
+        "homepage": "https://crates.io/crates/pikkr",
+        "archived": false,
+        "stars": 642,
+        "pushed_at": "2017-09-21T14:14:55Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/pikkr/pikkr/blob/master/README.md",
+        "sha": "01decc35ea5aa218ccc6444be69236b2191c482c"
+      },
+      "license_document": {
+        "url": "https://github.com/pikkr/pikkr/blob/master/LICENSE",
+        "sha": "34f81d70fba9f1019b9c07ed1a8debeb8ff00fed"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-serialization-004",
+      "title": "Serde",
+      "category": "libraries/serialization",
+      "url": "https://github.com/serde-rs/serde",
+      "status": "unknown",
+      "path": "resources/libraries/serialization/libraries-serialization-004.md",
+      "checked_at": "2026-10-13T06:00:31.883Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "serde-rs/serde",
+        "url": "https://github.com/serde-rs/serde",
+        "description": "Serialization framework for Rust",
+        "homepage": "https://serde.rs/",
+        "archived": false,
+        "stars": 10887,
+        "pushed_at": "2026-09-22T03:42:04Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/serde-rs/serde/blob/master/README.md",
+        "sha": "681b874a6308ab4e2095caadfdaba8df98c1acfd"
+      },
+      "license_document": {
+        "url": "https://github.com/serde-rs/serde/blob/master/LICENSE-APACHE",
+        "sha": "1b5ec8b78e237b5c3b3d812a7c0a6589d0f7161d"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "修正主仓库归属",
+        "补齐/校正主仓库徽章",
+        "区分 Serde 框架与 serde_json 子库",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-serialization-005",
+      "title": "quick-xml",
+      "category": "libraries/serialization",
+      "url": "https://github.com/tafia/quick-xml",
+      "status": "unknown",
+      "path": "resources/libraries/serialization/libraries-serialization-005.md",
+      "checked_at": "2026-10-13T06:00:32.484Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "tafia/quick-xml",
+        "url": "https://github.com/tafia/quick-xml",
+        "description": "Rust high performance xml reader and writer",
+        "homepage": "",
+        "archived": false,
+        "stars": 1572,
+        "pushed_at": "2026-09-02T19:01:02Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/tafia/quick-xml/blob/master/README.md",
+        "sha": "ba36df56f5965d6d3a330d5d893cd0b0f2066983"
+      },
+      "license_document": {
+        "url": "https://github.com/tafia/quick-xml/blob/master/LICENSE-MIT.md",
+        "sha": "16a30bcb7493efb21c2cf5a80df1c0208a5307d9"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-serialization-006",
+      "title": "musli",
+      "category": "libraries/serialization",
+      "url": "https://github.com/udoprog/musli",
+      "status": "unknown",
+      "path": "resources/libraries/serialization/libraries-serialization-006.md",
+      "checked_at": "2026-10-13T06:00:32.991Z",
+      "result": "manual",
+      "facts": {
+        "repository": "udoprog/musli",
+        "url": "https://github.com/udoprog/musli",
+        "description": "Müsli is a flexible and efficient serialization framework",
+        "homepage": "",
+        "archived": false,
+        "stars": 467,
+        "pushed_at": "2026-10-07T13:09:58Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/udoprog/musli/blob/main/README.md",
+        "sha": "8d3d12bf1f0212900583a3ce0b4dd5bd492465b6"
+      },
+      "license_document": {
+        "url": "https://github.com/udoprog/musli/blob/main/LICENSE-APACHE",
+        "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-system-001",
+      "title": "XCap（原 screenshots）",
+      "category": "libraries/system",
+      "url": "https://github.com/nashaofu/xcap",
+      "status": "unknown",
+      "path": "resources/libraries/system/libraries-system-001.md",
+      "checked_at": "2026-10-13T06:00:33.734Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "nashaofu/xcap",
+        "url": "https://github.com/nashaofu/xcap",
+        "description": "XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (WIP).",
+        "homepage": "https://docs.rs/xcap",
+        "archived": false,
+        "stars": 1022,
+        "pushed_at": "2026-08-25T01:48:27Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/nashaofu/xcap/blob/master/README.md",
+        "sha": "aa024da2a3bedd555d7fc37583736d6a245c3c4d"
+      },
+      "license_document": {
+        "url": "https://github.com/nashaofu/xcap/blob/master/LICENSE",
+        "sha": "636434222622d92a5b83d4da8d86498fcc8b0c12"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "按当前仓库名称保留旧名称说明",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-system-002",
+      "title": "execute",
+      "category": "libraries/system",
+      "url": "https://github.com/magiclen/execute",
+      "status": "unknown",
+      "path": "resources/libraries/system/libraries-system-002.md",
+      "checked_at": "2026-10-13T06:00:34.275Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "magiclen/execute",
+        "url": "https://github.com/magiclen/execute",
+        "description": "A library for extending `Command` in order to execute programs more easily.",
+        "homepage": "",
+        "archived": false,
+        "stars": 20,
+        "pushed_at": "2026-08-01T03:16:55Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/magiclen/execute/blob/master/README.md",
+        "sha": "61c1707fabc4ce09934918fb5ce4087f3ae1f751"
+      },
+      "license_document": {
+        "url": "https://github.com/magiclen/execute/blob/master/LICENSE",
+        "sha": "621a3bddbc8431b8df76c40fb6197d8806fe4528"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-testing-001",
+      "title": "mockall",
+      "category": "libraries/testing",
+      "url": "https://github.com/asomers/mockall",
+      "status": "unknown",
+      "path": "resources/libraries/testing/libraries-testing-001.md",
+      "checked_at": "2026-10-13T06:00:34.810Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "asomers/mockall",
+        "url": "https://github.com/asomers/mockall",
+        "description": "A powerful mock object library for Rust",
+        "homepage": null,
+        "archived": false,
+        "stars": 1849,
+        "pushed_at": "2026-10-08T14:54:10Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/asomers/mockall/blob/master/README.md",
+        "sha": "7c454d55325ebc5e4e9b2719cf33f8ede33d85c0"
+      },
+      "license_document": {
+        "url": "https://github.com/asomers/mockall/blob/master/LICENSE-APACHE",
+        "sha": "16fe87b06e802f094b3fbb0894b137bca2b16ef1"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-tui-001",
+      "title": "ratatui",
+      "category": "libraries/tui",
+      "url": "https://github.com/ratatui/ratatui",
+      "status": "unknown",
+      "path": "resources/libraries/tui/libraries-tui-001.md",
+      "checked_at": "2026-10-13T06:00:35.347Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "ratatui/ratatui",
+        "url": "https://github.com/ratatui/ratatui",
+        "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+        "homepage": "https://ratatui.rs",
+        "archived": false,
+        "stars": 22955,
+        "pushed_at": "2026-10-10T22:35:09Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/ratatui/ratatui/blob/main/README.md",
+        "sha": "0b8918b85c64d0ffecadfa9be0a42701e99d468c"
+      },
+      "license_document": {
+        "url": "https://github.com/ratatui/ratatui/blob/main/LICENSE",
+        "sha": "776bf200770e7bb9b264f3cf41ad09e2a83a1509"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-tui-002",
+      "title": "tui-rs",
+      "category": "libraries/tui",
+      "url": "https://github.com/fdehau/tui-rs",
+      "status": "archived",
+      "path": "resources/libraries/tui/libraries-tui-002.md",
+      "checked_at": "2026-10-13T06:00:36.353Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "fdehau/tui-rs",
+        "url": "https://github.com/fdehau/tui-rs",
+        "description": "Build terminal user interfaces and dashboards using Rust",
+        "homepage": "",
+        "archived": true,
+        "stars": 10860,
+        "pushed_at": "2023-08-06T07:35:02Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/fdehau/tui-rs/blob/master/README.md",
+        "sha": "bad7aba6c41447350a3f885d5e4ab2a51cceca7b"
+      },
+      "license_document": {
+        "url": "https://github.com/fdehau/tui-rs/blob/master/LICENSE",
+        "sha": "7a0657cb963ee5d5262866a9667359ebb91cbff0"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-utilities-001",
+      "title": "educe",
+      "category": "libraries/utilities",
+      "url": "https://github.com/magiclen/educe",
+      "status": "unknown",
+      "path": "resources/libraries/utilities/libraries-utilities-001.md",
+      "checked_at": "2026-10-13T06:00:36.876Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "magiclen/educe",
+        "url": "https://github.com/magiclen/educe",
+        "description": "This crate offers procedural macros designed to facilitate the swift implementation of Rust's built-in traits.",
+        "homepage": "",
+        "archived": false,
+        "stars": 165,
+        "pushed_at": "2026-09-14T16:52:40Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/magiclen/educe/blob/master/README.md",
+        "sha": "e5eb7c1b1df3a0b397c121d2c37def0b54168237"
+      },
+      "license_document": {
+        "url": "https://github.com/magiclen/educe/blob/master/LICENSE",
+        "sha": "ba1efc6cc7baead3e0063e0e4fb0b87e15cf5be5"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-video-001",
+      "title": "ffmpeg-sys-next",
+      "category": "libraries/video",
+      "url": "https://github.com/zmwangx/rust-ffmpeg-sys",
+      "status": "unknown",
+      "path": "resources/libraries/video/libraries-video-001.md",
+      "checked_at": "2026-10-13T06:00:37.410Z",
+      "result": "manual",
+      "facts": {
+        "repository": "zmwangx/rust-ffmpeg-sys",
+        "url": "https://github.com/zmwangx/rust-ffmpeg-sys",
+        "description": "FFmpeg bindings for Rust.",
+        "homepage": null,
+        "archived": false,
+        "stars": 214,
+        "pushed_at": "2026-10-09T18:38:58Z",
+        "license": null,
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/zmwangx/rust-ffmpeg-sys/blob/master/README.md",
+        "sha": "b8f00c7a1976004ef70571e736a745d5bb00887a"
+      },
+      "license_document": null,
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "修正 FFmpeg 名称",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-wasm-001",
+      "title": "wasmtime",
+      "category": "libraries/wasm",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "status": "unknown",
+      "path": "resources/libraries/wasm/libraries-wasm-001.md",
+      "checked_at": "2026-10-13T06:00:37.931Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "bytecodealliance/wasmtime",
+        "url": "https://github.com/bytecodealliance/wasmtime",
+        "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+        "homepage": "https://wasmtime.dev/",
+        "archived": false,
+        "stars": 18714,
+        "pushed_at": "2026-10-13T03:51:40Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/bytecodealliance/wasmtime/blob/main/README.md",
+        "sha": "8d54b8ee056b9ed02b179b0676e66ce5bb1b64b5"
+      },
+      "license_document": {
+        "url": "https://github.com/bytecodealliance/wasmtime/blob/main/LICENSE",
+        "sha": "f9d81955f4bcb8f96a025e2ecc46f39ec536d465"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-wasm-002",
+      "title": "wasmer",
+      "category": "libraries/wasm",
+      "url": "https://github.com/wasmerio/wasmer",
+      "status": "unknown",
+      "path": "resources/libraries/wasm/libraries-wasm-002.md",
+      "checked_at": "2026-10-13T06:00:38.586Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "wasmerio/wasmer",
+        "url": "https://github.com/wasmerio/wasmer",
+        "description": "🚀 Fast and lightweight sandboxes for your apps and AI agents",
+        "homepage": "https://wasmer.io",
+        "archived": false,
+        "stars": 21152,
+        "pushed_at": "2026-10-12T14:30:23Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/wasmerio/wasmer/blob/main/README.md",
+        "sha": "39c1ea077d9cd2a1d51c37210f49d8f766289ac6"
+      },
+      "license_document": {
+        "url": "https://github.com/wasmerio/wasmer/blob/main/LICENSE",
+        "sha": "62bb543eb9ea43d2294973cd82e41640a31981cb"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-wasm-003",
+      "title": "WasmEdge",
+      "category": "libraries/wasm",
+      "url": "https://github.com/WasmEdge/WasmEdge",
+      "status": "unknown",
+      "path": "resources/libraries/wasm/libraries-wasm-003.md",
+      "checked_at": "2026-10-13T06:00:39.161Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "WasmEdge/WasmEdge",
+        "url": "https://github.com/WasmEdge/WasmEdge",
+        "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+        "homepage": "https://WasmEdge.org",
+        "archived": false,
+        "stars": 10828,
+        "pushed_at": "2026-10-12T12:28:38Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/WasmEdge/WasmEdge/blob/master/README.md",
+        "sha": "e792aad50c270a65d0ca255d9d793d2aaf2ac5fb"
+      },
+      "license_document": {
+        "url": "https://github.com/WasmEdge/WasmEdge/blob/master/LICENSE",
+        "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-wasm-004",
+      "title": "WASI",
+      "category": "libraries/wasm",
+      "url": "https://github.com/WebAssembly/WASI",
+      "status": "unknown",
+      "path": "resources/libraries/wasm/libraries-wasm-004.md",
+      "checked_at": "2026-10-13T06:00:39.743Z",
+      "result": "manual",
+      "facts": {
+        "repository": "WebAssembly/WASI",
+        "url": "https://github.com/WebAssembly/WASI",
+        "description": "WebAssembly System Interface",
+        "homepage": "",
+        "archived": false,
+        "stars": 5822,
+        "pushed_at": "2026-10-01T16:23:00Z",
+        "license": "NOASSERTION",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/WebAssembly/WASI/blob/main/README.md",
+        "sha": "cbe2f6dd87e4b3c487f8e6300d0a48432521d314"
+      },
+      "license_document": {
+        "url": "https://github.com/WebAssembly/WASI/blob/main/LICENSE.md",
+        "sha": "4753095777f94d01cd54e6797f29a5d62e1728fa"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-web-001",
+      "title": "Rocket",
+      "category": "libraries/web",
+      "url": "https://github.com/rwf2/Rocket",
+      "status": "unknown",
+      "path": "resources/libraries/web/libraries-web-001.md",
+      "checked_at": "2026-10-13T06:00:40.706Z",
+      "result": "manual",
+      "facts": {
+        "repository": "rwf2/Rocket",
+        "url": "https://github.com/rwf2/Rocket",
+        "description": "A web framework for Rust.",
+        "homepage": "https://rocket.rs",
+        "archived": false,
+        "stars": 25779,
+        "pushed_at": "2025-12-28T18:27:39Z",
+        "license": "NOASSERTION",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/rwf2/Rocket/blob/master/README.md",
+        "sha": "b2372a761a9e3a98fb592e18ef2f50422eb894c7"
+      },
+      "license_document": {
+        "url": "https://github.com/rwf2/Rocket/blob/master/LICENSE-APACHE",
+        "sha": "35963c60632f7662dd2bc6198243b434427a1c50"
+      },
+      "notes": [
+        "GitHub 未识别标准协议，必须读取 LICENSE/各组件协议；不得宣称 MIT/Apache 等",
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "同步已确认的仓库迁移",
+        "补齐/校正主仓库徽章",
+        "根据当前一手资料修订过时介绍",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-web-002",
+      "title": "Actix Web",
+      "category": "libraries/web",
+      "url": "https://github.com/actix/actix-web",
+      "status": "unknown",
+      "path": "resources/libraries/web/libraries-web-002.md",
+      "checked_at": "2026-10-13T06:00:41.280Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "actix/actix-web",
+        "url": "https://github.com/actix/actix-web",
+        "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+        "homepage": "https://actix.rs",
+        "archived": false,
+        "stars": 24857,
+        "pushed_at": "2026-10-12T19:53:49Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/actix/actix-web/blob/main/README.md",
+        "sha": "7c421733e09af0f116062df16829c8eb197b3056"
+      },
+      "license_document": {
+        "url": "https://github.com/actix/actix-web/blob/main/LICENSE-APACHE",
+        "sha": "8f5ba39b8897e67aa798bdbe0369335b45aa7871"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-web-003",
+      "title": "warp",
+      "category": "libraries/web",
+      "url": "https://github.com/seanmonstar/warp",
+      "status": "unknown",
+      "path": "resources/libraries/web/libraries-web-003.md",
+      "checked_at": "2026-10-13T06:00:41.876Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "seanmonstar/warp",
+        "url": "https://github.com/seanmonstar/warp",
+        "description": "A super-easy, composable, web server framework for warp speeds.",
+        "homepage": "https://seanmonstar.com/blog/warp/",
+        "archived": false,
+        "stars": 10378,
+        "pushed_at": "2026-07-28T15:25:12Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/seanmonstar/warp/blob/master/README.md",
+        "sha": "983fcc317e78cb1139883bbcd0f9ea6747dfe5c1"
+      },
+      "license_document": {
+        "url": "https://github.com/seanmonstar/warp/blob/master/LICENSE",
+        "sha": "a29454dcab709553a05d263c86d9918dbeed19aa"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-web-004",
+      "title": "poem",
+      "category": "libraries/web",
+      "url": "https://github.com/poem-web/poem",
+      "status": "unknown",
+      "path": "resources/libraries/web/libraries-web-004.md",
+      "checked_at": "2026-10-13T06:00:42.448Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "poem-web/poem",
+        "url": "https://github.com/poem-web/poem",
+        "description": "A full-featured and easy-to-use web framework with the Rust programming language.",
+        "homepage": "",
+        "archived": false,
+        "stars": 4446,
+        "pushed_at": "2026-10-09T12:28:27Z",
+        "license": "Apache-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/poem-web/poem/blob/master/README.md",
+        "sha": "5c2041aa83fb8f704a691c1021f920652cbcfcde"
+      },
+      "license_document": {
+        "url": "https://github.com/poem-web/poem/blob/master/LICENSE-APACHE",
+        "sha": "f8e5e5ea03400291957779488f5e542e6964c39d"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-web-005",
+      "title": "axum",
+      "category": "libraries/web",
+      "url": "https://github.com/tokio-rs/axum",
+      "status": "unknown",
+      "path": "resources/libraries/web/libraries-web-005.md",
+      "checked_at": "2026-10-13T06:00:43.174Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "tokio-rs/axum",
+        "url": "https://github.com/tokio-rs/axum",
+        "description": "HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity",
+        "homepage": "",
+        "archived": false,
+        "stars": 27456,
+        "pushed_at": "2026-10-11T11:57:08Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/tokio-rs/axum/blob/main/README.md",
+        "sha": "98bc134c2e741b35ee801668b5b6413d5747b09c"
+      },
+      "license_document": {
+        "url": "https://github.com/tokio-rs/axum/blob/main/LICENSE",
+        "sha": "9debbe9c5bcf5c2e9da11e83f4caa296567fa305"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "libraries-web-006",
+      "title": "Salvo",
+      "category": "libraries/web",
+      "url": "https://github.com/salvo-rs/salvo",
+      "status": "unknown",
+      "path": "resources/libraries/web/libraries-web-006.md",
+      "checked_at": "2026-10-13T06:00:43.731Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "salvo-rs/salvo",
+        "url": "https://github.com/salvo-rs/salvo",
+        "description": "A powerful web framework built with a simplified design.",
+        "homepage": "https://salvo.rs",
+        "archived": false,
+        "stars": 4444,
+        "pushed_at": "2026-10-11T01:19:59Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/salvo-rs/salvo/blob/main/README.md",
+        "sha": "3c5e4d3526ef1ecc579195a6201f642d072db5f4"
+      },
+      "license_document": {
+        "url": "https://github.com/salvo-rs/salvo/blob/main/LICENSE",
+        "sha": "aac89718a687dc98652f98e39790065c8f91b6e2"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "tools-cargo-001",
+      "title": "cargo-edit",
+      "category": "tools/cargo",
+      "url": "https://github.com/killercup/cargo-edit",
+      "status": "unknown",
+      "path": "resources/tools/cargo/tools-cargo-001.md",
+      "checked_at": "2026-10-13T06:00:44.297Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "killercup/cargo-edit",
+        "url": "https://github.com/killercup/cargo-edit",
+        "description": "A utility for managing cargo dependencies from the command line.",
+        "homepage": "http://killercup.github.io/cargo-edit/",
+        "archived": false,
+        "stars": 3459,
+        "pushed_at": "2026-07-15T18:05:24Z",
+        "license": "MIT",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/killercup/cargo-edit/blob/master/README.md",
+        "sha": "aad42aa25b208a98c651b9b45ae88f02e05d9e52"
+      },
+      "license_document": {
+        "url": "https://github.com/killercup/cargo-edit/blob/master/LICENSE",
+        "sha": "aa7fdf131d7987f9168baf3020e8a9a613b9ffd3"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "tools-cargo-002",
+      "title": "cargo-watch",
+      "category": "tools/cargo",
+      "url": "https://github.com/watchexec/cargo-watch",
+      "status": "archived",
+      "path": "resources/tools/cargo/tools-cargo-002.md",
+      "checked_at": "2026-10-13T06:00:44.828Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "watchexec/cargo-watch",
+        "url": "https://github.com/watchexec/cargo-watch",
+        "description": "Watches over your Cargo project's source.",
+        "homepage": "",
+        "archived": true,
+        "stars": 2856,
+        "pushed_at": "2025-01-14T14:57:47Z",
+        "license": "CC0-1.0",
+        "default_branch": "8.x"
+      },
+      "readme": {
+        "url": "https://github.com/watchexec/cargo-watch/blob/8.x/README.md",
+        "sha": "bd1f14b44ff778f7bbe4fa73d2405c407a091eff"
+      },
+      "license_document": {
+        "url": "https://github.com/watchexec/cargo-watch/blob/8.x/LICENSE",
+        "sha": "664deff40616bdb86d2a5c32fb7365c201a4386e"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "根据实际归档标志标记历史仓库",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "tools-frontend-001",
+      "title": "Deno",
+      "category": "tools/frontend",
+      "url": "https://github.com/denoland/deno",
+      "status": "unknown",
+      "path": "resources/tools/frontend/tools-frontend-001.md",
+      "checked_at": "2026-10-13T06:00:45.390Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "denoland/deno",
+        "url": "https://github.com/denoland/deno",
+        "description": "A modern runtime for JavaScript and TypeScript.",
+        "homepage": "https://deno.com",
+        "archived": false,
+        "stars": 108773,
+        "pushed_at": "2026-10-07T13:56:06Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/denoland/deno/blob/main/README.md",
+        "sha": "8173eb951062916cc112a8fb7c0e120b1c945975"
+      },
+      "license_document": {
+        "url": "https://github.com/denoland/deno/blob/main/LICENSE.md",
+        "sha": "b641c75c0b04ccfddcb1145d2554ab49b6ca9411"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "tools-frontend-002",
+      "title": "SWC",
+      "category": "tools/frontend",
+      "url": "https://github.com/swc-project/swc",
+      "status": "unknown",
+      "path": "resources/tools/frontend/tools-frontend-002.md",
+      "checked_at": "2026-10-13T06:00:45.983Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "swc-project/swc",
+        "url": "https://github.com/swc-project/swc",
+        "description": "Rust-based platform for the Web",
+        "homepage": "https://swc.rs",
+        "archived": false,
+        "stars": 34202,
+        "pushed_at": "2026-10-13T03:24:09Z",
+        "license": "Apache-2.0",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/swc-project/swc/blob/main/README.md",
+        "sha": "6109dfe6be959af4b2508a5d93c6e33bec1b54c2"
+      },
+      "license_document": {
+        "url": "https://github.com/swc-project/swc/blob/main/LICENSE",
+        "sha": "6a08504909fe063aedf79b9113c240dec13858d5"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "tools-frontend-003",
+      "title": "Parcel",
+      "category": "tools/frontend",
+      "url": "https://github.com/parcel-bundler/parcel",
+      "status": "unknown",
+      "path": "resources/tools/frontend/tools-frontend-003.md",
+      "checked_at": "2026-10-13T06:00:47.113Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "parcel-bundler/parcel",
+        "url": "https://github.com/parcel-bundler/parcel",
+        "description": "The zero configuration build tool for the web. 📦🚀",
+        "homepage": "https://parceljs.org",
+        "archived": false,
+        "stars": 44010,
+        "pushed_at": "2026-10-13T02:52:43Z",
+        "license": "MIT",
+        "default_branch": "v2"
+      },
+      "readme": {
+        "url": "https://github.com/parcel-bundler/parcel/blob/v2/README.md",
+        "sha": "208ad0dab5f4ea7e6b5db9ff25e88667a6f2680e"
+      },
+      "license_document": {
+        "url": "https://github.com/parcel-bundler/parcel/blob/v2/LICENSE",
+        "sha": "7fb9bc953e90740cb60a6401b25dc36d5a19cdfd"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "tools-frontend-004",
+      "title": "Rome",
+      "category": "tools/frontend",
+      "url": "https://github.com/rome/tools",
+      "status": "archived",
+      "path": "resources/tools/frontend/tools-frontend-004.md",
+      "checked_at": "2026-10-13T06:00:47.680Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "rome/tools",
+        "url": "https://github.com/rome/tools",
+        "description": "Unified developer tools for JavaScript, TypeScript, and the web",
+        "homepage": "https://docs.rome.tools/",
+        "archived": true,
+        "stars": 23367,
+        "pushed_at": "2023-09-04T08:42:49Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/rome/tools/blob/main/README.md",
+        "sha": "0be7399920a4b01211ffd6cca9da3ec2236c89f7"
+      },
+      "license_document": {
+        "url": "https://github.com/rome/tools/blob/main/LICENSE",
+        "sha": "0c74aa6a873826c014bca9cf2761c22b5faf7df2"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "根据实际归档标志标记历史仓库",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    },
+    {
+      "id": "tools-frontend-005",
+      "title": "Lightning CSS",
+      "category": "tools/frontend",
+      "url": "https://github.com/parcel-bundler/lightningcss",
+      "status": "unknown",
+      "path": "resources/tools/frontend/tools-frontend-005.md",
+      "checked_at": "2026-10-13T06:00:48.238Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "parcel-bundler/lightningcss",
+        "url": "https://github.com/parcel-bundler/lightningcss",
+        "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
+        "homepage": "https://lightningcss.dev",
+        "archived": false,
+        "stars": 7704,
+        "pushed_at": "2026-10-08T06:03:58Z",
+        "license": "MPL-2.0",
+        "default_branch": "master"
+      },
+      "readme": {
+        "url": "https://github.com/parcel-bundler/lightningcss/blob/master/README.md",
+        "sha": "f44d7b3cdc7f59e2cf8a8326cb2b05de5305d9a3"
+      },
+      "license_document": {
+        "url": "https://github.com/parcel-bundler/lightningcss/blob/master/LICENSE",
+        "sha": "89fe5b2004873b5f5237874446f65df5c02f9dc2"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [],
+      "web_evidence": null
+    },
+    {
+      "id": "tools-ide-001",
+      "title": "VSCode（首推）",
+      "category": "tools/ide",
+      "url": "https://github.com/microsoft/vscode",
+      "status": "unknown",
+      "path": "resources/tools/ide/tools-ide-001.md",
+      "checked_at": "2026-10-13T06:00:48.773Z",
+      "result": "metadata-checked",
+      "facts": {
+        "repository": "microsoft/vscode",
+        "url": "https://github.com/microsoft/vscode",
+        "description": "Visual Studio Code",
+        "homepage": "https://code.visualstudio.com",
+        "archived": false,
+        "stars": 193645,
+        "pushed_at": "2026-10-13T06:00:38Z",
+        "license": "MIT",
+        "default_branch": "main"
+      },
+      "readme": {
+        "url": "https://github.com/microsoft/vscode/blob/main/README.md",
+        "sha": "b7770cecdd10433d6e7f072a3e2adf2f41bbedc2"
+      },
+      "license_document": {
+        "url": "https://github.com/microsoft/vscode/blob/main/LICENSE.txt",
+        "sha": "0ac28ee234d232ac0691f39cebf95bf6b2a763a5"
+      },
+      "notes": [
+        "仓库信息和徽章核验不等于介绍/维护状态的事实核验"
+      ],
+      "changes": [
+        "修正主仓库归属",
+        "补齐/校正主仓库徽章",
+        "记录本次证据"
+      ],
+      "web_evidence": null
+    }
+  ]
+}

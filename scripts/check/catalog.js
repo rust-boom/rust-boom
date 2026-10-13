@@ -84,7 +84,7 @@ export function outputs(categories, sourceResources, badges = new Map()) {
     }
     indexGroups.get(group).push(`| [${c.title}](${group}/readme.md#${sub}) | ${count} |`);
     const page = pages.get(group);
-    page.push(`<a id="${sub}"></a>\n`, `## ${c.title}（${count} 项资源）\n`);
+    page.push(`<a id="${sub}"></a>\n`, `## ${c.title}\n`);
     if (c.description) page.push(`${c.description}\n`);
     page.push('| 资源 | ID | 状态 | Star 数 / 开源协议 |', '| --- | --- | --- | --- |');
     for (const r of resources.filter(r => r.category === c.id)) {
@@ -96,8 +96,8 @@ export function outputs(categories, sourceResources, badges = new Map()) {
   }
   for (const [group, rows] of indexGroups) {
     const members = categories.filter(c => c.id.split('/')[0] === group);
-    const title = members[0].group, total = members.reduce((sum, c) => sum + (counts.get(c.id) ?? 0), 0);
-    index.push(`## ${title}（${rows.length} 个分类 · ${total} 项资源）\n`, `[浏览${title}](${group}/readme.md)\n`, '| 分类 | 资源数 |', '| --- | --- |', ...rows, '');
+    const title = members[0].group;
+    index.push(`## ${title}\n`, `[浏览${title}](${group}/readme.md)\n`, '| 分类 | 资源数 |', '| --- | --- |', ...rows, '');
   }
   const result = { 'resources/readme.md': `${index.join('\n').trimEnd()}\n` };
   for (const [group, page] of pages) result[`resources/${group}/readme.md`] = `${page.join('\n').trimEnd()}\n`;

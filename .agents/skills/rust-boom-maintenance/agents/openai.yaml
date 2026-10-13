@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Boom 资源维护"
+  short_description: "核验链接与资料，自动新增更新 Rust 资源并生成可审核 PR"
+  default_prompt: "使用 $rust-boom-maintenance 核验并维护当前项目的 Rust 资源目录。"

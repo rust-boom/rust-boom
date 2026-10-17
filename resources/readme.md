@@ -22,7 +22,7 @@
 
 | 分类 | 资源数 |
 | --- | --- |
-| [编辑环境](tools/readme.md#ide) | 1 |
+| [编辑环境](tools/readme.md#ide) | 2 |
 | [Cargo 扩展](tools/readme.md#cargo) | 2 |
 | [前端工具与运行时](tools/readme.md#frontend) | 5 |
 

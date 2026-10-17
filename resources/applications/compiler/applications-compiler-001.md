@@ -10,8 +10,20 @@ status: "unknown"
 
 ![stars](https://img.shields.io/github/stars/Starlight-JS/starlight?style=flat) ![GitHub](https://img.shields.io/github/license/Starlight-JS/starlight)
 
-> Rust 中的 JS 引擎
+> Starlight 是用 Rust 编写的实验性 JavaScript 引擎，提供字节码解释器、垃圾回收、内联缓存和启动快照。适合研究 JS 运行时实现。
 
 | 导航                                                    | 徽章                                                                                                                                                                                                    |
 | :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [ 代码仓库 ](https://github.com/Starlight-JS/starlight) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FStarlight-JS%2Fstarlight) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
+
+## 维护情况与资料核验
+
+- 核验日期：2026-10-13。
+
+已读取当前 README并核对主题；默认分支最近公开提交为 2021-10-31。本次未取得足够的当前维护证据，保留 unknown；提交较少不能证明已经停止维护。
+
+README 提醒默认 dev 分支无法正常构建或运行，并列出历史可用提交。其关于作者本地开发的旧说明不能证明当前仍在维护。
+
+- [主仓库状态](https://api.github.com/repos/Starlight-JS/starlight)。
+- [官方 README](https://github.com/Starlight-JS/starlight/blob/dev/README.md)。
+- [维护提交（2021-10-31，UTC）](https://github.com/Starlight-JS/starlight/commit/503e789b9ef53594aee30c45a621018e855dcc17)。

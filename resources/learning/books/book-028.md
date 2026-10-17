@@ -3,7 +3,7 @@ id: "book-028"
 title: "Rust 版 Vulkan 教程（图形）"
 category: "learning/books"
 url: "https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia"
-status: "unknown"
+status: "active"
 ---
 
 # Rust 版 Vulkan 教程（图形）
@@ -18,3 +18,13 @@ status: "unknown"
 | :------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 文档仓库 ](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN?tab=readme-ov-file#rust-版-vulkan-教程的中文翻译基于-vulkanalia) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fchuigda%2FVulkan-Tutorial-Rust-CN%3Ftab%3Dreadme-ov-file%23rust-%E7%89%88-vulkan-%E6%95%99%E7%A8%8B%E7%9A%84%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E5%9F%BA%E4%BA%8E-vulkanalia) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 | [ 在线文档 ](https://vk.7dg.tech/)                                                                                               | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fvk.7dg.tech%2F) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/vk.7dg.tech)                                                                                                                                                                            |
+
+## 维护情况与资料核验
+
+- 核验日期：2026-10-13。
+
+已读取当前 README，核对资源用途，并确认 2025-12-31 仍有公开维护提交，标为 active。
+
+- [主仓库状态](https://api.github.com/repos/chuigda/Vulkan-Tutorial-Rust-CN)。
+- [官方 README](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN/blob/master/README.adoc)。
+- [维护提交（2025-12-31，UTC）](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN/commit/a145c49c77fb111b36141cf14ab848c5f41c7986)。

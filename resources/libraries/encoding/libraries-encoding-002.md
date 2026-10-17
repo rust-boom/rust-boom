@@ -16,8 +16,12 @@ status: "unknown"
 | :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 代码仓库 ](https://github.com/Lydanne/utf8mb3) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FLydanne%2Futf8mb3) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
-## 本次资料核验
+## 维护情况与资料核验
 
 - 核验日期：2026-10-13。
-- [当前仓库 README](https://github.com/Lydanne/utf8mb3/blob/main/readme.md)。
-- 本次处理：同步已确认的仓库迁移；补齐/校正主仓库徽章。未逐项运行代码或验证性能，不据网页可访问将状态改为 active。
+
+已读取当前 README并核对主题；默认分支最近公开提交为 2023-04-03。本次未取得足够的当前维护证据，保留 unknown；提交较少不能证明已经停止维护。
+
+- [主仓库状态](https://api.github.com/repos/Lydanne/utf8mb3)。
+- [官方 README](https://github.com/Lydanne/utf8mb3/blob/main/readme.md)。
+- [维护提交（2023-04-03，UTC）](https://github.com/Lydanne/utf8mb3/commit/27b0d5a123f9d96fa8b783bdbfa70eb8c19389de)。

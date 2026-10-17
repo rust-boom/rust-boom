@@ -12,24 +12,24 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [安装 Rust - Rust 程序设计语言 (rust-lang.org)](articles/article-001.md) | `article-001` | 待核验 |  |
-| [浅析 rust 的内存管理 - 知乎 (zhihu.com)](articles/article-002.md) | `article-002` | 待核验 |  |
-| [Rust: Lifetime 解惑， 生命周期还在 - 知乎 (zhihu.com)](articles/article-003.md) | `article-003` | 待核验 |  |
-| [Rust 中的 String,&str 和 str 都是什么？ - 知乎 (zhihu.com)](articles/article-004.md) | `article-004` | 待核验 |  |
-| [类型的大小 - 知乎 (zhihu.com)](articles/article-005.md) | `article-005` | 待核验 |  |
-| [如何深入浅出地理解 Rust 中的 Pin 和 Unpin? - 知乎 (zhihu.com)](articles/article-006.md) | `article-006` | 待核验 |  |
-| [rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白\|青蛙小白\|关注程序开发、互联网技术、云原生 (frognew.com)](articles/article-007.md) | `article-007` | 待核验 |  |
-| [Top 23 Rust GUI Projects（动态资源列表）](articles/article-008.md) | `article-008` | 待核验 |  |
-| [你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)](articles/article-009.md) | `article-009` | 待核验 |  |
-| [rustlang-cn/rust-weekly: Rust 语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 (github.com)](articles/article-010.md) | `article-010` | 待核验 | ![stars](https://img.shields.io/github/stars/rustcn-org/rust-weekly?style=flat) ![GitHub](https://img.shields.io/github/license/rustcn-org/rust-weekly) |
-| [【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)](articles/article-011.md) | `article-011` | 待核验 |  |
-| [用 Rust 写一个容器\|Writing a container in Rust \| Blog of Litchi Pi](articles/article-012.md) | `article-012` | 待核验 |  |
-| [yunwei37/blockchain-rust: blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin) (github.com)](articles/article-013.md) | `article-013` | 待核验 | ![stars](https://img.shields.io/github/stars/yunwei37/blockchain-rust?style=flat) ![GitHub](https://img.shields.io/github/license/yunwei37/blockchain-rust) |
-| [Rust 笔记 一文讲透 Rust 中的 PartialEq 和 Eq (qq.com)](articles/article-014.md) | `article-014` | 待核验 |  |
-| [Rust 代码执行解析的可视化过程，初学者可以通过这个更深入的了解 Rust 的所有权等特性)](articles/article-015.md) | `article-015` | 待核验 |  |
-| [用 Rust 实现一个 GUI 框架](articles/article-016.md) | `article-016` | 待核验 |  |
-| [运行 100 万个并发任务需要多少内存？](articles/article-017.md) | `article-017` | 待核验 |  |
-| [Rust 探索系统本原 \| 网络 - Rust 精选 (rustmagazine.github.io)](articles/article-018.md) | `article-018` | 待核验 |  |
+| [安装 Rust - Rust 程序设计语言 (rust-lang.org)](articles/article-001.md) | `article-001` | 维护中 |  |
+| [浅析 rust 的内存管理 - 知乎 (zhihu.com)](articles/article-002.md) | `article-002` | 待确认 |  |
+| [Rust: Lifetime 解惑， 生命周期还在 - 知乎 (zhihu.com)](articles/article-003.md) | `article-003` | 待确认 |  |
+| [Rust 中的 String,&str 和 str 都是什么？ - 知乎 (zhihu.com)](articles/article-004.md) | `article-004` | 待确认 |  |
+| [类型的大小 - 知乎 (zhihu.com)](articles/article-005.md) | `article-005` | 待确认 |  |
+| [如何深入浅出地理解 Rust 中的 Pin 和 Unpin? - 知乎 (zhihu.com)](articles/article-006.md) | `article-006` | 待确认 |  |
+| [rust 语言基础学习: rust 所有权之 Move 和 Copy 语义 - 架构小白\|青蛙小白\|关注程序开发、互联网技术、云原生 (frognew.com)](articles/article-007.md) | `article-007` | 待确认 |  |
+| [Rust GUI 项目动态资源列表](articles/article-008.md) | `article-008` | 待确认 |  |
+| [你见过哪些让你瞠目结舌的 Rust 代码技巧？ - 知乎 (zhihu.com)](articles/article-009.md) | `article-009` | 待确认 |  |
+| [Rust 语言周刊（历史仓库）](articles/article-010.md) | `article-010` | 待确认 | ![stars](https://img.shields.io/github/stars/rustcn-org/rust-weekly?style=flat) ![GitHub](https://img.shields.io/github/license/rustcn-org/rust-weekly) |
+| [【每周一知】Rust 中的三种设计模式 - Rust 语言中文社区 (rustcc.cn)](articles/article-011.md) | `article-011` | 待确认 |  |
+| [用 Rust 写一个容器\|Writing a container in Rust \| Blog of Litchi Pi](articles/article-012.md) | `article-012` | 待确认 |  |
+| [yunwei37/blockchain-rust: blockchain_go in rust: A simplified blockchain implementation in rust for leaning / 用 rust 从零开始构建区块链(Bitcoin) (github.com)](articles/article-013.md) | `article-013` | 待确认 | ![stars](https://img.shields.io/github/stars/yunwei37/blockchain-rust?style=flat) ![GitHub](https://img.shields.io/github/license/yunwei37/blockchain-rust) |
+| [Rust 笔记 一文讲透 Rust 中的 PartialEq 和 Eq (qq.com)](articles/article-014.md) | `article-014` | 待确认 |  |
+| [Aquascope：Rust 程序行为可视化](articles/article-015.md) | `article-015` | 维护中 |  |
+| [用 Rust 实现一个 GUI 框架](articles/article-016.md) | `article-016` | 待确认 |  |
+| [运行 100 万个并发任务需要多少内存？](articles/article-017.md) | `article-017` | 待确认 |  |
+| [Rust 探索系统本原 \| 网络 - Rust 精选 (rustmagazine.github.io)](articles/article-018.md) | `article-018` | 待确认 |  |
 
 <a id="videos"></a>
 
@@ -37,14 +37,14 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Rust 编程语言入门教程（Rust 语言/Rust 权威指南配套）【已完结】](videos/video-001.md) | `video-001` | 待核验 |  |
-| [Rust Async 异步编程（完结）](videos/video-002.md) | `video-002` | 待核验 |  |
-| [Rust Async 异步编程 简易教程](videos/video-003.md) | `video-003` | 待核验 |  |
-| [Rust Web 全栈开发教程【完结】](videos/video-004.md) | `video-004` | 待核验 |  |
-| [使用 Async Rust 构建简单的 P2P 节点【完结】](videos/video-005.md) | `video-005` | 待核验 |  |
-| [从零开始创建一个 WebAssembly 游戏](videos/video-006.md) | `video-006` | 待核验 |  |
-| [Rust 面试题合集（首集：Rust IDE 配置）](videos/video-007.md) | `video-007` | 待核验 |  |
-| [可视化 Rust 各数据结构的内存布局(必看)](videos/video-008.md) | `video-008` | 待核验 |  |
+| [Rust 编程语言入门教程（Rust 语言/Rust 权威指南配套）【已完结】](videos/video-001.md) | `video-001` | 待确认 |  |
+| [Rust Async 异步编程（完结）](videos/video-002.md) | `video-002` | 待确认 |  |
+| [Rust Async 异步编程 简易教程](videos/video-003.md) | `video-003` | 待确认 |  |
+| [Rust Web 全栈开发教程【完结】](videos/video-004.md) | `video-004` | 待确认 |  |
+| [使用 Async Rust 构建简单的 P2P 节点【完结】](videos/video-005.md) | `video-005` | 待确认 |  |
+| [从零开始创建一个 WebAssembly 游戏](videos/video-006.md) | `video-006` | 待确认 |  |
+| [Rust 面试题合集（首集：Rust IDE 配置）](videos/video-007.md) | `video-007` | 待确认 |  |
+| [可视化 Rust 各数据结构的内存布局](videos/video-008.md) | `video-008` | 待确认 |  |
 
 <a id="books"></a>
 
@@ -52,31 +52,31 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
-| [Rust 语言圣经中文版](books/book-001.md) | `book-001` | 待核验 | ![stars](https://img.shields.io/github/stars/sunface/rust-course?style=flat) ![GitHub](https://img.shields.io/github/license/sunface/rust-course) |
-| [Rust 程序设计语言中文版](books/book-002.md) | `book-002` | 待核验 |  |
-| [Rust 语言备忘清单 (简体中文)](books/book-003.md) | `book-003` | 停止更新 | ![stars](https://img.shields.io/github/stars/kingfree/cheats.rs?style=flat) ![GitHub](https://img.shields.io/github/license/kingfree/cheats.rs) |
-| [通过例子学 Rust 中文版](books/book-004.md) | `book-004` | 待核验 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/rust-by-example-cn) |
-| [谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)](books/book-005.md) | `book-005` | 待核验 | ![stars](https://img.shields.io/github/stars/google/comprehensive-rust?style=flat) ![GitHub](https://img.shields.io/github/license/google/comprehensive-rust) |
-| [Rust 语言之旅](books/book-006.md) | `book-006` | 待核验 |  |
-| [RustPrimer](books/book-007.md) | `book-007` | 待核验 | ![stars](https://img.shields.io/github/stars/rustcc/RustPrimer?style=flat) ![GitHub](https://img.shields.io/github/license/rustcc/RustPrimer) |
-| [Rust 秘典中文版](books/book-008.md) | `book-008` | 待核验 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/nomicon-zh-Hans) |
-| [Rust 参考手册 中文版](books/book-009.md) | `book-009` | 待核验 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/reference-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/reference-cn) |
-| [Rust Cookbook 中文版](books/book-010.md) | `book-010` | 待核验 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/rust-cookbook-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/rust-cookbook-cn) |
-| [Rusty Book( 锈书 )](books/book-011.md) | `book-011` | 待核验 | ![stars](https://img.shields.io/github/stars/rust-boom/rusty-book?style=flat) ![GitHub](https://img.shields.io/github/license/rust-boom/rusty-book) |
-| [Rust 异步编程指南](books/book-012.md) | `book-012` | 待核验 | ![stars](https://img.shields.io/github/stars/rustcn-org/async-book?style=flat) ![GitHub](https://img.shields.io/github/license/rustcn-org/async-book) |
-| [Rust 语言实战](books/book-013.md) | `book-013` | 待核验 | ![stars](https://img.shields.io/github/stars/origin-brain/rust-by-practice?style=flat) ![GitHub](https://img.shields.io/github/license/origin-brain/rust-by-practice) |
-| [Rust 算法题解](books/book-014.md) | `book-014` | 待核验 | ![stars](https://img.shields.io/github/stars/rustcn-org/rust-algos?style=flat) ![GitHub](https://img.shields.io/github/license/rustcn-org/rust-algos) |
-| [Rust 算法书（RustBook）](books/book-015.md) | `book-015` | 待核验 | ![stars](https://img.shields.io/github/stars/QMHTMY/RustBook?style=flat) ![GitHub](https://img.shields.io/github/license/QMHTMY/RustBook) |
-| [Rust 设计模式 中文版](books/book-016.md) | `book-016` | 待核验 | ![stars](https://img.shields.io/github/stars/chuxiuhong/chuxiuhong-rust-patterns-zh?style=flat) ![GitHub](https://img.shields.io/github/license/chuxiuhong/chuxiuhong-rust-patterns-zh) |
-| [Rust API 编写指南 中文版](books/book-017.md) | `book-017` | 待核验 | ![stars](https://img.shields.io/github/stars/Rust-Chinese-Translation/api-guidelines?style=flat) ![GitHub](https://img.shields.io/github/license/Rust-Chinese-Translation/api-guidelines) |
-| [Rust 性能手册（The Rust Performance Book）](books/book-018.md) | `book-018` | 待核验 | ![stars](https://img.shields.io/github/stars/Blues-star/perf-book-zh?style=flat) ![GitHub](https://img.shields.io/github/license/Blues-star/perf-book-zh) |
-| [Rust 宏小册(tlborm)](books/book-019.md) | `book-019` | 待核验 | ![stars](https://img.shields.io/github/stars/DaseinPhaos/tlborm-chinese?style=flat) ![GitHub](https://img.shields.io/github/license/DaseinPhaos/tlborm-chinese) |
-| [嵌入式 Rust 编程](books/book-020.md) | `book-020` | 待核验 | ![stars](https://img.shields.io/github/stars/nkbai/book?style=flat) ![GitHub](https://img.shields.io/github/license/nkbai/book) |
-| [TheAlgorithms(Rust 算法例子)](books/book-021.md) | `book-021` | 待核验 | ![stars](https://img.shields.io/github/stars/TheAlgorithms/Rust?style=flat) ![GitHub](https://img.shields.io/github/license/TheAlgorithms/Rust) |
-| [Rust RFC Book (提案书)](books/book-022.md) | `book-022` | 待核验 | ![stars](https://img.shields.io/github/stars/rust-lang/rfcs?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/rfcs) |
-| [Rust Unstable Book (不稳定特性书)](books/book-023.md) | `book-023` | 待核验 |  |
-| [Rust 版本指南](books/book-024.md) | `book-024` | 待核验 | ![stars](https://img.shields.io/github/stars/rust-lang/edition-guide?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/edition-guide) |
-| [Rust 标准库手册中文版](books/book-025.md) | `book-025` | 待核验 |  |
-| [inside-rust-std-library (标准库手册帮助文档)](books/book-026.md) | `book-026` | 待核验 | ![stars](https://img.shields.io/github/stars/Warrenren/inside-rust-std-library?style=flat) ![GitHub](https://img.shields.io/github/license/Warrenren/inside-rust-std-library) |
-| [Cargo 中文文档](books/book-027.md) | `book-027` | 待核验 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/cargo-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/cargo-cn) |
-| [Rust 版 Vulkan 教程（图形）](books/book-028.md) | `book-028` | 待核验 | ![stars](https://img.shields.io/github/stars/chuigda/Vulkan-Tutorial-Rust-CN?style=flat) ![GitHub](https://img.shields.io/github/license/chuigda/Vulkan-Tutorial-Rust-CN) |
+| [Rust 语言圣经中文版](books/book-001.md) | `book-001` | 维护中 | ![stars](https://img.shields.io/github/stars/sunface/rust-course?style=flat) ![GitHub](https://img.shields.io/github/license/sunface/rust-course) |
+| [Rust 程序设计语言中文版](books/book-002.md) | `book-002` | 维护中 |  |
+| [Rust 语言备忘清单 (简体中文)](books/book-003.md) | `book-003` | 已停止 | ![stars](https://img.shields.io/github/stars/kingfree/cheats.rs?style=flat) ![GitHub](https://img.shields.io/github/license/kingfree/cheats.rs) |
+| [通过例子学 Rust 中文版](books/book-004.md) | `book-004` | 待确认 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/rust-by-example-cn) |
+| [谷歌开源的 Rust 教程 (Comprehensive Rust 🦀)](books/book-005.md) | `book-005` | 维护中 | ![stars](https://img.shields.io/github/stars/google/comprehensive-rust?style=flat) ![GitHub](https://img.shields.io/github/license/google/comprehensive-rust) |
+| [Rust 语言之旅](books/book-006.md) | `book-006` | 待确认 |  |
+| [RustPrimer](books/book-007.md) | `book-007` | 待确认 | ![stars](https://img.shields.io/github/stars/rustcc/RustPrimer?style=flat) ![GitHub](https://img.shields.io/github/license/rustcc/RustPrimer) |
+| [Rust 秘典中文版](books/book-008.md) | `book-008` | 维护中 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/nomicon-zh-Hans) |
+| [Rust 参考手册 中文版](books/book-009.md) | `book-009` | 待确认 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/reference-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/reference-cn) |
+| [Rust Cookbook 中文版](books/book-010.md) | `book-010` | 维护中 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/rust-cookbook-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/rust-cookbook-cn) |
+| [Rusty Book( 锈书 )](books/book-011.md) | `book-011` | 待确认 | ![stars](https://img.shields.io/github/stars/rust-boom/rusty-book?style=flat) ![GitHub](https://img.shields.io/github/license/rust-boom/rusty-book) |
+| [Rust 异步编程指南](books/book-012.md) | `book-012` | 待确认 | ![stars](https://img.shields.io/github/stars/rustcn-org/async-book?style=flat) ![GitHub](https://img.shields.io/github/license/rustcn-org/async-book) |
+| [Rust 语言实战](books/book-013.md) | `book-013` | 维护中 | ![stars](https://img.shields.io/github/stars/origin-brain/rust-by-practice?style=flat) ![GitHub](https://img.shields.io/github/license/origin-brain/rust-by-practice) |
+| [Rust 算法题解](books/book-014.md) | `book-014` | 待确认 | ![stars](https://img.shields.io/github/stars/rustcn-org/rust-algos?style=flat) ![GitHub](https://img.shields.io/github/license/rustcn-org/rust-algos) |
+| [Rust 算法书（RustBook）](books/book-015.md) | `book-015` | 待确认 | ![stars](https://img.shields.io/github/stars/QMHTMY/RustBook?style=flat) ![GitHub](https://img.shields.io/github/license/QMHTMY/RustBook) |
+| [Rust 设计模式 中文版](books/book-016.md) | `book-016` | 待确认 | ![stars](https://img.shields.io/github/stars/chuxiuhong/chuxiuhong-rust-patterns-zh?style=flat) ![GitHub](https://img.shields.io/github/license/chuxiuhong/chuxiuhong-rust-patterns-zh) |
+| [Rust API 编写指南 中文版](books/book-017.md) | `book-017` | 待确认 | ![stars](https://img.shields.io/github/stars/Rust-Chinese-Translation/api-guidelines?style=flat) ![GitHub](https://img.shields.io/github/license/Rust-Chinese-Translation/api-guidelines) |
+| [Rust 性能手册（The Rust Performance Book）](books/book-018.md) | `book-018` | 待确认 | ![stars](https://img.shields.io/github/stars/Blues-star/perf-book-zh?style=flat) ![GitHub](https://img.shields.io/github/license/Blues-star/perf-book-zh) |
+| [Rust 宏小册(tlborm)](books/book-019.md) | `book-019` | 待确认 | ![stars](https://img.shields.io/github/stars/DaseinPhaos/tlborm-chinese?style=flat) ![GitHub](https://img.shields.io/github/license/DaseinPhaos/tlborm-chinese) |
+| [嵌入式 Rust 编程](books/book-020.md) | `book-020` | 待确认 | ![stars](https://img.shields.io/github/stars/nkbai/book?style=flat) ![GitHub](https://img.shields.io/github/license/nkbai/book) |
+| [TheAlgorithms(Rust 算法例子)](books/book-021.md) | `book-021` | 维护中 | ![stars](https://img.shields.io/github/stars/TheAlgorithms/Rust?style=flat) ![GitHub](https://img.shields.io/github/license/TheAlgorithms/Rust) |
+| [Rust RFC Book (提案书)](books/book-022.md) | `book-022` | 维护中 | ![stars](https://img.shields.io/github/stars/rust-lang/rfcs?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/rfcs) |
+| [Rust Unstable Book (不稳定特性书)](books/book-023.md) | `book-023` | 维护中 |  |
+| [Rust 版本指南](books/book-024.md) | `book-024` | 维护中 | ![stars](https://img.shields.io/github/stars/rust-lang/edition-guide?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang/edition-guide) |
+| [Rust 标准库手册中文版](books/book-025.md) | `book-025` | 待确认 |  |
+| [inside-rust-std-library (标准库手册帮助文档)](books/book-026.md) | `book-026` | 待确认 | ![stars](https://img.shields.io/github/stars/Warrenren/inside-rust-std-library?style=flat) ![GitHub](https://img.shields.io/github/license/Warrenren/inside-rust-std-library) |
+| [Cargo 中文文档](books/book-027.md) | `book-027` | 维护中 | ![stars](https://img.shields.io/github/stars/rust-lang-cn/cargo-cn?style=flat) ![GitHub](https://img.shields.io/github/license/rust-lang-cn/cargo-cn) |
+| [Rust 版 Vulkan 教程（图形）](books/book-028.md) | `book-028` | 维护中 | ![stars](https://img.shields.io/github/stars/chuigda/Vulkan-Tutorial-Rust-CN?style=flat) ![GitHub](https://img.shields.io/github/license/chuigda/Vulkan-Tutorial-Rust-CN) |

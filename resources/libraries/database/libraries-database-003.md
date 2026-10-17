@@ -3,7 +3,7 @@ id: "libraries-database-003"
 title: "MongoDB Rust Driver"
 category: "libraries/database"
 url: "https://github.com/mongodb/mongo-rust-driver"
-status: "unknown"
+status: "active"
 ---
 
 # MongoDB Rust Driver
@@ -16,6 +16,12 @@ status: "unknown"
 | :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ 代码仓库 ](https://github.com/mongodb/mongo-rust-driver) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmongodb%2Fmongo-rust-driver) ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/github.com) |
 
-## 当前资料核验
+## 维护情况与资料核验
 
-2026-10-13 对照 [当前 README](https://github.com/mongodb/mongo-rust-driver) 修订以上介绍。具体版本与兼容性以项目文档为准。
+- 核验日期：2026-10-13。
+
+已读取当前 README，核对资源用途，并确认 2026-10-12 仍有公开维护提交，标为 active。
+
+- [主仓库状态](https://api.github.com/repos/mongodb/mongo-rust-driver)。
+- [官方 README](https://github.com/mongodb/mongo-rust-driver/blob/main/README.md)。
+- [维护提交（2026-10-12，UTC）](https://github.com/mongodb/mongo-rust-driver/commit/28b6df4ad9e08bdf2e90691edb44655638dce6a0)。

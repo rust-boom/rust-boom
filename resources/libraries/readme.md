@@ -249,6 +249,7 @@
 | [headless_chrome](automation/libraries-automation-001.md) | `libraries-automation-001` | 待确认 | ![stars](https://img.shields.io/github/stars/atroche/rust-headless-chrome?style=flat) ![GitHub](https://img.shields.io/github/license/atroche/rust-headless-chrome) |
 | [enigo](automation/libraries-automation-002.md) | `libraries-automation-002` | 维护中 | ![stars](https://img.shields.io/github/stars/enigo-rs/enigo?style=flat) ![GitHub](https://img.shields.io/github/license/enigo-rs/enigo) |
 | [InputBot](automation/libraries-automation-003.md) | `libraries-automation-003` | 待确认 | ![stars](https://img.shields.io/github/stars/obv-mikhail/InputBot?style=flat) ![GitHub](https://img.shields.io/github/license/obv-mikhail/InputBot) |
+| [rpi](automation/rpi.md) | `rpi` | 维护中 | ![stars](https://img.shields.io/github/stars/bigfish1913/pi-rust?style=flat) ![GitHub](https://img.shields.io/github/license/bigfish1913/pi-rust) |
 
 <a id="system"></a>
 

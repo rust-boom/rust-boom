@@ -56,7 +56,7 @@
 | [文档处理](libraries/readme.md#documents) | 4 |
 | [数据分析](libraries/readme.md#data) | 1 |
 | [语法树](libraries/readme.md#ast) | 2 |
-| [自动化](libraries/readme.md#automation) | 3 |
+| [自动化](libraries/readme.md#automation) | 4 |
 | [系统接口](libraries/readme.md#system) | 2 |
 | [机器学习](libraries/readme.md#ml) | 1 |
 | [语言绑定与 FFI](libraries/readme.md#ffi) | 2 |

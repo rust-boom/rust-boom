@@ -1248,6 +1248,14 @@
     "path": "resources/community/news/news-001.md"
   },
   {
+    "id": "rpi",
+    "title": "rpi",
+    "category": "libraries/automation",
+    "url": "https://github.com/bigfish1913/pi-rust",
+    "status": "active",
+    "path": "resources/libraries/automation/rpi.md"
+  },
+  {
     "id": "tools-cargo-001",
     "title": "cargo-edit",
     "category": "tools/cargo",

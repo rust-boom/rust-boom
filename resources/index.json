@@ -560,6 +560,14 @@
     "path": "resources/community/forums/community-003.md"
   },
   {
+    "id": "koru",
+    "title": "Koru",
+    "category": "applications/productivity",
+    "url": "https://github.com/koruworks/mono",
+    "status": "active",
+    "path": "resources/applications/productivity/koru.md"
+  },
+  {
     "id": "libraries-ast-001",
     "title": "antlr-rust",
     "category": "libraries/ast",

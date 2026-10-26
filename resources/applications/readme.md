@@ -41,6 +41,7 @@
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
 | [AppFlowy](productivity/applications-productivity-001.md) | `applications-productivity-001` | 维护中 | ![stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat) ![GitHub](https://img.shields.io/github/license/AppFlowy-IO/AppFlowy) |
+| [Koru](productivity/koru.md) | `koru` | 维护中 | ![stars](https://img.shields.io/github/stars/koruworks/mono?style=flat) ![GitHub](https://img.shields.io/github/license/koruworks/mono) |
 
 <a id="terminal"></a>
 

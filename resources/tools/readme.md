@@ -12,6 +12,7 @@
 
 | 资源 | ID | 状态 | Star 数 / 开源协议 |
 | --- | --- | --- | --- |
+| [pi_agent_rust](ide/pi-agent-rust.md) | `pi-agent-rust` | 待确认 | ![stars](https://img.shields.io/github/stars/Dicklesworthstone/pi_agent_rust?style=flat) ![license](https://img.shields.io/badge/license-MIT%20%2B%20Rider-blue) |
 | [Visual Studio Code](ide/tools-ide-001.md) | `tools-ide-001` | 维护中 | ![stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat) ![GitHub](https://img.shields.io/github/license/microsoft/vscode) |
 
 <a id="cargo"></a>

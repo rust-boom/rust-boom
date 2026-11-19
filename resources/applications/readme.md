@@ -33,6 +33,7 @@
 | [Lapce](editors/applications-editors-002.md) | `applications-editors-002` | 维护中 | ![stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub](https://img.shields.io/github/license/lapce/lapce) |
 | [Neovide](editors/applications-editors-003.md) | `applications-editors-003` | 维护中 | ![stars](https://img.shields.io/github/stars/neovide/neovide?style=flat) ![GitHub](https://img.shields.io/github/license/neovide/neovide) |
 | [Helix](editors/applications-editors-004.md) | `applications-editors-004` | 维护中 | ![stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat) ![GitHub](https://img.shields.io/github/license/helix-editor/helix) |
+| [IDE TEA](editors/idetea.md) | `idetea` | 维护中 | ![stars](https://img.shields.io/github/stars/fabiocmazzo/idetea?style=flat) ![GitHub](https://img.shields.io/github/license/fabiocmazzo/idetea) |
 
 <a id="productivity"></a>
 

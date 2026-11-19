@@ -560,6 +560,14 @@
     "path": "resources/community/forums/community-003.md"
   },
   {
+    "id": "idetea",
+    "title": "IDE TEA",
+    "category": "applications/editors",
+    "url": "https://github.com/fabiocmazzo/idetea",
+    "status": "active",
+    "path": "resources/applications/editors/idetea.md"
+  },
+  {
     "id": "libraries-ast-001",
     "title": "antlr-rust",
     "category": "libraries/ast",

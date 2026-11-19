@@ -74,7 +74,7 @@
 | --- | --- |
 | [内网穿透](applications/readme.md#tunnels) | 2 |
 | [可观测性与日志处理](applications/readme.md#observability) | 1 |
-| [编辑器](applications/readme.md#editors) | 4 |
+| [编辑器](applications/readme.md#editors) | 5 |
 | [笔记与协作](applications/readme.md#productivity) | 1 |
 | [终端](applications/readme.md#terminal) | 1 |
 | [远程控制](applications/readme.md#remote) | 1 |
